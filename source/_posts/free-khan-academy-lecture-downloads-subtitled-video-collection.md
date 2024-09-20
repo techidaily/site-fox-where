@@ -1,7 +1,7 @@
 ---
 title: "Free Khan Academy Lecture Downloads: Subtitled Video Collection"
-date: 2024-09-17 10:23:29
-updated: 2024-09-20 10:50:13
+date: 2024-09-18T05:58:09.308Z
+updated: 2024-09-19T22:21:19.381Z
 tags:
   - product
 categories:
@@ -34,6 +34,19 @@ We all know that Khan Academy do not provide any download option for users to do
 
 The downloading Khan Academy video with your needed subtitles step by step guide is attached as follows.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Make Preparation: Free download Khan Academy Downloader
 
 Free download the professional Khan Academy Downloader - Allavsoft ([for Windows](https://tools.techidaily.com/allavsoft/products/) , [for Mac](https://tools.techidaily.com/allavsoft/products/)) , install and then launch it, the following interface will pop up.
@@ -42,11 +55,31 @@ Free download the professional Khan Academy Downloader - Allavsoft ([for Windows
 
 ![Khan Academy Downloader](https://www.allavsoft.com/how-to/../images/allavsoft/screen-shot-600.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1 Add Khan Academy Video URL
 
 Open Khan Academy website. Browse the whole page to find the corresponding Khan Academy video that you need to download. And then copy video URL of this video. Go to Allavsoft and then paste this URL in Allavsoft.
 
 ![Download Khan Academy Video to MP4](https://www.allavsoft.com/how-to/../images/how-to/download-rtmp-video/download-rtmp-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2 Specify final output format (Optional)
 
@@ -65,8 +98,6 @@ Khan Academy is a non-profit educational organization where users can learn what
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

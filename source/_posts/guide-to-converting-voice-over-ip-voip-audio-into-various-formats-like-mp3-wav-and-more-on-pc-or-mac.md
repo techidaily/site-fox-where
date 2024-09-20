@@ -1,7 +1,7 @@
 ---
 title: Guide to Converting Voice Over IP (VoIP) Audio Into Various Formats Like MP3, WAV, and More on PC or Mac
-date: 2024-09-19 14:59:56
-updated: 2024-09-20 11:10:43
+date: 2024-09-14T01:35:05.984Z
+updated: 2024-09-19T21:54:31.987Z
 tags:
   - product
 categories:
@@ -53,9 +53,23 @@ Click "Add File" button to import VOC files which you want to convert. Or simply
 
 ![Convert VOC to MP3](https://www.allavsoft.com/how-to/../images/convert-audio-format/avdshare-audio-converter-guide.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2 Define output audio format
 
 Click the "Profile" drop-down button to select output audio format from the "General Audio" category. People usually choose MP3 or WAV as the target format.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3 Complete VOC converting
 
@@ -72,15 +86,11 @@ Apart from converting VOC files, this powerful VOC converter can also edit VOC r
 
 VOC was created by Creative Labs (famous in audio field)--which is the first one to bring audio card to PC. VOC, composed by two parts: header block and data block was applied by sound blaster as the audio format. It originally spread widely with the common use of DOS system, even once became the standard audio format. However, with the born and development of Windows system, which provides a new format-- WAV as its standard audio format and doesn't apply VOC directly, VOC gradually became inferior. Excluded by Windows system brings disaster for VOC as well as users. This terrible phenomenon results in the fact that VOC can't be opened in most audio player like Windows Media Player.
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
