@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to a Custom-Made Next.js/Tailwind CSS Project Showcase, Created by Creative Tim
-date: 2024-09-18T22:00:02.099Z
-updated: 2024-09-25T22:41:43.349Z
+date: 2024-09-25T07:45:22.783Z
+updated: 2024-09-30T03:22:55.984Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,20 +54,17 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-capturing-professional-quality-in-zoom-podcasts/"><u>[New] 2024 Approved The Ultimate Guide to Capturing Professional Quality in Zoom Podcasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ipad-guide-creating-time-lapse-videos-for-2024/"><u>[New] IPad Guide Creating Time-Lapse Videos for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-10-best-camcorder-ultimate-review/"><u>[Updated] 2024 Approved 10 Best Camcorder [Ultimate Review]</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-exploring-entertainment-youtubes-integration-with-fb-for-2024/"><u>[Updated] Exploring Entertainment YouTube's Integration with FB for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-reinstallation-steps-to-restore-photo-viewer-in-windows-10-for-2024/"><u>[Updated] Reinstallation Steps to Restore Photo Viewer in Windows 10 for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-craft-individual-humor-masterpieces-online/"><u>2024 Approved Craft Individual Humor Masterpieces Online</u></a></li>
-<li><a href="https://fox-where.techidaily.com/best-platforms-and-sites-to-showcase-your-flipbooks-discover-options-on-flipbuildercom/"><u>Best Platforms and Sites to Showcase Your Flipbooks: Discover Options on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-where.techidaily.com/burning-e-books-as-cds-with-flipbuilder-step-by-step-instructions/"><u>Burning E-Books as CDs with FlipBuilder - Step by Step Instructions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/can-we-preserve-the-flip-initiative-for-later-use-discover-how-at-flipbuildercom/"><u>Can We Preserve The Flip Initiative For Later Use? Discover How At flipbuilder.com</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-guide-emailing-your-custom-designed-flipbooks-via-mail-learn-with-flipbuilder/"><u>Complete Guide: Emailing Your Custom-Designed FlipBooks via Mail - Learn with FlipBuilder</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-bulk-pdf-files-into-engaging-flash-ebooks-at-no-cost/"><u>Convert Bulk PDF Files Into Engaging Flash Ebooks at No Cost</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-your-documents-with-our-free-pdf-to-flash-flipbook-creator/"><u>Convert Your Documents with Our Free PDF-to-Flash Flipbook Creator</u></a></li>
-<li><a href="https://fox-where.techidaily.com/converting-bulleted-lists-into-animated-flip-books-with-flipbuilder-technology/"><u>Converting Bulleted Lists Into Animated Flip Books with FlipBuilder Technology</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/gentle-audio-dimming-methods-in-os-xwindows/"><u>Gentle Audio Dimming Methods in OS X/Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-itel-p55-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Itel P55 Location | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-add-a-pop-of-japanese-style-with-snapchats-anime-filter/"><u>[New] How to Add a Pop of Japanese Style with Snapchat's Anime Filter</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-maximizing-engagement-choosing-your-fb-video-direction-for-2024/"><u>[New] Maximizing Engagement - Choosing Your FB Video Direction for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mastering-yt-creator-hub-the-ultimate-playbook/"><u>[Updated] In 2024, Mastering YT Creator Hub The Ultimate Playbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-restore-lost-details-4-premiere-pro-methods-for-iphone-hdr-footage/"><u>2024 Approved Restore Lost Details 4 Premiere Pro Methods for iPhone HDR Footage</u></a></li>
+<li><a href="https://fox-where.techidaily.com/changing-one-aspect-of-an-object-while-keeping-others-constant-involves-proportional-reasoning-to-avoid-disproportionate-distortions/"><u>Changing One Aspect of an Object While Keeping Others Constant Involves Proportional Reasoning to Avoid Disproportionate Distortions.</u></a></li>
+<li><a href="https://fox-where.techidaily.com/complimentary-paper-themed-bootstrap-admin-layout-with-angular-integration-by-creative-tim/"><u>Complimentary Paper-Themed Bootstrap Admin Layout with Angular Integration by Creative Tim</u></a></li>
+<li><a href="https://fox-where.techidaily.com/creative-tims-bootstrap-magic-build-stunning-web-forms-free/"><u>Creative Tim's Bootstrap Magic: Build Stunning Web Forms FREE!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/creative-tims-notus-tailwind-access-premium-tailwind-css-ui-components-for-free-with-administrator-panel/"><u>Creative Tim's Notus Tailwind: Access Premium Tailwind CSS UI Components for Free with Administrator Panel</u></a></li>
+<li><a href="https://fox-where.techidaily.com/creative-tims-premium-vue-material-kit-v2-exclusive-vuejs-3-plus-bootstrap-5-bundle-now-free/"><u>Creative Tim's Premium Vue Material Kit v2: Exclusive VueJS 3 + Bootstrap 5 Bundle - Now Free!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-screen-recorder-picks-for-digital-educators-for-2024/"><u>Ideal Screen Recorder Picks for Digital Educators for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-enhancing-your-videos-with-manycams-virtual-camera-technology/"><u>Live Streaming Mastery: Enhancing Your Videos with ManyCam's Virtual Camera Technology</u></a></li>
 </ul></div>
 
