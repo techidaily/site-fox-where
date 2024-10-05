@@ -1,7 +1,7 @@
 ---
 title: Understanding Essential Features of User Profiles
-date: 2024-09-24T05:43:09.428Z
-updated: 2024-09-30T07:05:26.442Z
+date: 2024-10-01T18:17:04.856Z
+updated: 2024-10-05T19:28:18.432Z
 tags:
   - user-guide
 categories:
@@ -84,20 +84,14 @@ In this page you can view and set the user account properties.
 
 Remarks associated with the user account.
 
-## Password
-
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Password
 
 ### Password
 
@@ -105,23 +99,16 @@ User account password.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This password is ignored if you set a password property.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Confirm Password
 
 Confirm user account password.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Property
 
@@ -129,11 +116,25 @@ Property used if you want that password to be set at install time by the user.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you set password property you must also create a new dialog where the user will enter the password. You can do that using the [Dialog Editor](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Attributes
 
 ### User cannot change password
 
 The user cannot change the password.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Password never expires
 
@@ -143,18 +144,18 @@ The password should never expire on the account.
 
 The user's account is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Delete user profile folder when user account is deleted
 
 The user profile folder will be deleted along with the (interactive) user account.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The user profile folder gets created at first user logon and is located under under C:\\Document and Settings\\<username> on XP or underC:\\Users\\<username> on Vista or above.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Member Of
 
@@ -164,22 +165,15 @@ You can make user member of a group.
 
 Use the \[Add \] button, the “Add” list context menu item or press the Insert key while the list control is focused to select a group using the [Group Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/). 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Remove user from a group
 
 Use the \[Remove \] button, the “Remove” list context menu item or press theDelete key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Error Policy
@@ -189,10 +183,10 @@ Use the \[Remove \] button, the “Remove” list context menu item or press the
 The installation process is terminated if the defined user already exists on the target machine.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skip user creation if the user already exists
@@ -241,22 +235,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-leaders-in-likeability-the-best-app-list-on-androidiphone/"><u>[Updated] Leaders in Likeability The Best App List on Android/iPhone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-optimized-motion-the-creme-de-la-liste-of-srt-upgrades-for-pc-and-mac-for-2024/"><u>[Updated] Optimized Motion The Crème De La Liste of SRT Upgrades for PC and Mac for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/elevate-your-web-projects-with-over-36plus-premium-tailwind-css-templates-and-themes-from-creative-tim/"><u>Elevate Your Web Projects with Over 36+ Premium Tailwind CSS Templates and Themes From Creative Tim</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/elevate-your-websites-performance-using-the-latest-cookiebot-solutions/"><u>Elevate Your Website's Performance Using the Latest Cookiebot Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/experience-easy-web-design-with-nuxt-black-a-free-nuxtbootstrap-4-dashboard-by-creative-tim/"><u>Experience Easy Web Design with Nuxt Black, a FREE Nuxt/Bootstrap 4 Dashboard by Creative Tim</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-privilege-access-denial-error-error-0x80070522-on-modern-windows-pcs/"><u>Fixing Privilege Access Denial Error (Error 0X80070522) on Modern Windows PCs</u></a></li>
-<li><a href="https://fox-where.techidaily.com/free-blackdashboard-react-and-genezio-admin-template-by-creative-tim-no-costs/"><u>Free BlackDashboard React & Genezio Admin Template by Creative Tim - No Costs!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/get-your-project-on-track-with-a-complimentary-pre-designed-white-dashboard-in-laravel-from-creative-tims-toolkit/"><u>Get Your Project on Track with a Complimentary Pre-Designed White Dashboard in Laravel From Creative Tim's Toolkit</u></a></li>
-<li><a href="https://fox-where.techidaily.com/harnessing-the-power-of-bootstrap-with-blk-design-system-by-creative-tim-the-ultimate-free-resource/"><u>Harnessing the Power of Bootstrap with BLK Design System by Creative Tim - The Ultimate Free Resource!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/innovate-your-project-with-free-bootstrap-react-admin-from-creative-tim-mastering-modern-uis-with-our-react-framework-template/"><u>Innovate Your Project with Free Bootstrap React Admin From Creative Tim: Mastering Modern UIs with Our React Framework Template</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-possible-to-earn-extra-cash-with-these-8-chatgpt-assisted-jobs/"><u>Is It Possible to Earn Extra Cash with These 8 ChatGPT-Assisted Jobs?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-emojis-on-twitter-linuss-leaks-trojan-explained-and-chatbot-glitches-highlighted/"><u>No Emojis on Twitter, Linus’s Leaks, Trojan Explained, & ChatBot Glitches Highlighted</u></a></li>
-<li><a href="https://fox-where.techidaily.com/premier-creative-tim-ui-kit-advanced-bootstrap-4-design-system-with-pro-features/"><u>Premier Creative Tim UI Kit – Advanced Bootstrap 4 Design System with PRO Features</u></a></li>
-<li><a href="https://fox-where.techidaily.com/premium-gaia-bootstrap-masterpiece-from-creative-tim-advanced-full-stack-templates-for-developers/"><u>Premium Gaia Bootstrap Masterpiece From Creative Tim: Advanced Full-Stack Templates for Developers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-cost-of-enhancing-nintendo-switch-connectivity/"><u>The Cost of Enhancing Nintendo Switch Connectivity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-most-effective-multi-person-video-call-applications/"><u>The Most Effective Multi-Person Video Call Applications</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-cutting-edge-techniques-mastering-youtube-subtitlecc-additions/"><u>[New] Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-creating-viral-hashtag-campaigns-on-twitter/"><u>[Updated] 2024 Approved Creating Viral Hashtag Campaigns on Twitter</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-comprehensive-guide-to-crafting-professional-haul-videos/"><u>[Updated] In 2024, Comprehensive Guide to Crafting Professional Haul Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-magic-5-lite-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor Magic 5 Lite Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/complete-guide-eliminate-android-malware-effectively-in-just-4-simple-steps/"><u>Complete Guide: Eliminate Android Malware Effectively in Just 4 Simple Steps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-hassle-free-pet-care-with-arf-pets-innovative-auto-feeding-device/"><u>Discover Hassle-Free Pet Care with Arf Pets Innovative Auto Feeding Device</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-on-utilizing-the-iinstalleddll-interface-for-dynamic-library-calls/"><u>Guide on Utilizing the IInstalledDll Interface for Dynamic Library Calls</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-modify-system-center-configuration-manager-settings/"><u>How to Modify System Center Configuration Manager Settings</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-resolve-iphone-x-screen-recording-glitches-in-ios-11/"><u>How to Resolve iPhone X Screen Recording Glitches in iOS 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/los-5-mejores-editores-de-imagenes-raw-sin-costo-comparativa-detallada-para-la-fotografia-perfeccionista/"><u>Los 5 Mejores Editores De Imágenes RAW Sin Costo: Comparativa Detallada Para La Fotografía Perfeccionista</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-image-editing-with-apowersofts-background-eraser-step-by-step-tutorial-for-redeeming-your-discount-code/"><u>Mastering Image Editing with Apowersoft's Background Eraser: Step-by-Step Tutorial for Redeeming Your Discount Code</u></a></li>
+<li><a href="https://fox-where.techidaily.com/optimizing-web-server-performance-with-iis-item-management-tools/"><u>Optimizing Web Server Performance with IIS Item Management Tools</u></a></li>
+<li><a href="https://fox-where.techidaily.com/transfer-ipads-books-to-personal-computer-a-no-itunes-method-for-crossing-platforms/"><u>Transfer iPads Books to Personal Computer - A No-iTunes Method for Crossing Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-the-best-magsafe-battery-solutions-of-2024-tested-and-evaluated-insights/"><u>Ultimate Guide to the Best MagSafe Battery Solutions of 2024, Tested and Evaluated - Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-highest-quality-karaoke-devices/"><u>Ultimate Guide to the Highest Quality Karaoke Devices</u></a></li>
 </ul></div>
 

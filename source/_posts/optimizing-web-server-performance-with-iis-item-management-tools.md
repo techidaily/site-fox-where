@@ -1,7 +1,7 @@
 ---
 title: Optimizing Web Server Performance with IIS Item Management Tools
-date: 2024-09-24T19:26:07.410Z
-updated: 2024-09-30T07:16:55.633Z
+date: 2024-10-01T18:33:21.899Z
+updated: 2024-10-05T19:02:29.971Z
 tags:
   - user-guide
 categories:
@@ -101,13 +101,6 @@ Table of Contents
 
 ![IIS Collection Dialog](https://cdn.advancedinstaller.com/img/dialog/iis-collection.png "IIS Collection Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Property ID
 
 ### Section
@@ -117,23 +110,30 @@ The collection you want to modify must be a member of this IIS configuration sec
 <**WebSite**\>, <**VirtualDirectory**\> and <**ApplicationPool**\> are section pseudonames used for grouping direct properties of the website/virtual directory/application pool.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
 
 Specify a name for the collection in which the new item will be added.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Collection Item
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clear IIS Collection
@@ -145,10 +145,10 @@ The collection item's available fields are displayed in the list. Only those fie
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Value" column is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/); however, you need to insert the property references manually, due to development implementation constraints.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -184,22 +184,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagrammashup-androidandios-video-tiles/"><u>[New] InstagramMashup Android&iOS Video Tiles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-master-iphone-cams-with-these-hacks/"><u>[Updated] 2024 Approved Master iPhone Cams with These Hacks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-5-valheim-seed-recommendations-for-bountiful-crops-for-2024/"><u>[Updated] Top 5 Valheim Seed Recommendations for Bountiful Crops for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers/"><u>[Updated] Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-epson-stylus-nx420-printer-driver-compatible-with-windows-7-8-and-10/"><u>Download the Latest Epson Stylus NX420 Printer Driver Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://fox-where.techidaily.com/hide-the-saving-feature-while-preserving-your-flipbooks-a-complete-guide-with-flipbuilder/"><u>Hide the Saving Feature While Preserving Your FlipBooks - A Complete Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-can-you-insert-clickable-links-into-content-made-with-flipbuilder-tools/"><u>How Can You Insert Clickable Links Into Content Made With FlipBuilder Tools?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-apply-watermarks-to-your-photos-using-the-powerful-features-of-flip-image-pro-software/"><u>How to Apply Watermarks to Your Photos Using the Powerful Features of Flip Image Pro Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-craft-custom-protective-sleeves-for-your-flipbook-creations-with-flipbuilder-tutorial/"><u>How To Craft Custom Protective Sleeves For Your FlipBook Creations With FlipBuilder Tutorial</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-enhance-your-photos-mastering-contrast-adjustment-in-flipimage-pro/"><u>How to Enhance Your Photos: Mastering Contrast Adjustment in FlipImage Pro</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-manage-page-transition-duration-in-digital-flipbooks-using-flipbuilder/"><u>How to Manage Page Transition Duration in Digital Flipbooks Using FlipBuilder</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-personalize-the-flash-swf-file-for-your-own-ebooks-with-flipbuilder/"><u>How to Personalize the Flash SWF File for Your Own eBooks with FlipBuilder</u></a></li>
-<li><a href="https://fox-where.techidaily.com/improving-your-mobile-experience-with-flipbook-setting-optimal-output-quality-parameters/"><u>Improving Your Mobile Experience with FlipBook: Setting Optimal Output Quality Parameters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-convert-photos-on-ios-efficiently-from-jpegpng-to-pdf/"><u>In 2024, Convert Photos on IOS Efficiently From JPEG/PNG to PDF</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-your-pics-with-facetune-a-full-guide/"><u>In 2024, Perfecting Your Pics with Facetune - A Full Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-singing-machine-sml385btbk-karaoke-experience-user-friendly-vibrant-and-instantly-ready/"><u>Ultimate Singing Machine SML385BTBK Karaoke Experience: User-Friendly, Vibrant & Instantly Ready</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-sketches-to-screens-animation-via-windows-movie-maker/"><u>[Updated] From Sketches to Screens Animation via Windows Movie Maker</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-fcp-tutorial-for-new-users/"><u>2024 Approved Ultimate FCP Tutorial for New Users</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-on-utilizing-the-iinstalleddll-interface-for-dynamic-library-calls/"><u>Guide on Utilizing the IInstalledDll Interface for Dynamic Library Calls</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-modify-system-center-configuration-manager-settings/"><u>How to Modify System Center Configuration Manager Settings</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-resolve-iphone-x-screen-recording-glitches-in-ios-11/"><u>How to Resolve iPhone X Screen Recording Glitches in iOS 11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-image-editing-with-apowersofts-background-eraser-step-by-step-tutorial-for-redeeming-your-discount-code/"><u>Mastering Image Editing with Apowersoft's Background Eraser: Step-by-Step Tutorial for Redeeming Your Discount Code</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ering-insights-into-asmr-video-content/"><u>Pioneering Insights Into ASMR Video Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-trick-for-restoring-responsiveness-in-laptop-touchpad-scrolls/"><u>The Ultimate Trick for Restoring Responsiveness in Laptop Touchpad Scrolls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphones-chat-only-shows-numbers-not-names/"><u>What to Do When Your iPhone's Chat Only Shows Numbers, Not Names</u></a></li>
 </ul></div>
 

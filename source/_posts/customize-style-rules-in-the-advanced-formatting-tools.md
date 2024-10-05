@@ -1,7 +1,7 @@
 ---
 title: Customize Style Rules in the Advanced Formatting Tools
-date: 2024-09-28T00:08:39.223Z
-updated: 2024-09-30T04:24:33.460Z
+date: 2024-09-30T18:43:15.038Z
+updated: 2024-10-05T19:22:14.844Z
 tags:
   - user-guide
 categories:
@@ -78,52 +78,46 @@ This dialog allows you to configure fallback conditional text styles.
 
 ![Edit Conditional Text Styles Dialog](https://cdn.advancedinstaller.com/img/dialog/conditional-text-style.png "Edit Conditional Text Styles Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Adding a new fallback conditional text style
 
 Use the \[New... \] button, the “New...” context menu item or press theIns key. The [Edit Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to set the condition, followed by the text style combo box.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Editing a fallback conditional text style
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit Condition
 
 Use the \[Edit \] \> “Edit Condition...” button, the “Edit” > “Edit Condition...” context menu item or double-click the “Condition” column of an item in the list. The[Edit Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit the condition.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Edit Text Style
 
 Use the \[Edit \] \> “Edit Text Style...” button, the “Edit” > “Edit Text Style...” context menu item or double click the “Text Style” column of an item in the list. The combo box will dropdown the available text styles to choose from.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Removing a fallback conditional text style
@@ -163,18 +157,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-obs-vs-twitch-studio-which-one-is-better/"><u>[New] 2024 Approved OBS Vs Twitch Studio Which One Is Better?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-desktop-capture-obs-vs-shadowplay/"><u>[New] Desktop Capture OBS Vs. ShadowPlay</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-setting-up-your-vlog-fb-preferred-dimensions-for-2024/"><u>[Updated] Setting Up Your Vlog FB Preferred Dimensions for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/a-guide-to-picking-top-quality-free-srt-translation-platforms/"><u>A Guide to Picking Top-Quality, Free SRT Translation Platforms</u></a></li>
-<li><a href="https://fox-where.techidaily.com/harnessing-the-power-of-bootstrap-with-blk-design-system-by-creative-tim-the-ultimate-free-resource/"><u>Harnessing the Power of Bootstrap with BLK Design System by Creative Tim - The Ultimate Free Resource!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-modulate-your-message-a-top-tier-list-of-voice-change-mobile-apps/"><u>In 2024, Modulate Your Message A Top-Tier List of Voice Change Mobile Apps</u></a></li>
-<li><a href="https://fox-where.techidaily.com/innovate-your-project-with-free-bootstrap-react-admin-from-creative-tim-mastering-modern-uis-with-our-react-framework-template/"><u>Innovate Your Project with Free Bootstrap React Admin From Creative Tim: Mastering Modern UIs with Our React Framework Template</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/overcoming-known-graphics-driver-issue-a-comprehensive-solution/"><u>Overcoming 'Known Graphics Driver Issue': A Comprehensive Solution</u></a></li>
-<li><a href="https://fox-where.techidaily.com/premier-creative-tim-ui-kit-advanced-bootstrap-4-design-system-with-pro-features/"><u>Premier Creative Tim UI Kit – Advanced Bootstrap 4 Design System with PRO Features</u></a></li>
-<li><a href="https://fox-where.techidaily.com/premium-gaia-bootstrap-masterpiece-from-creative-tim-advanced-full-stack-templates-for-developers/"><u>Premium Gaia Bootstrap Masterpiece From Creative Tim: Advanced Full-Stack Templates for Developers</u></a></li>
-<li><a href="https://fox-where.techidaily.com/section-4b-fact/"><u>Section 4B: Fact.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails/"><u>[Updated] Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crack-the-code-unearthing-hidden-gems-in-youtubes-archive/"><u>[Updated] In 2024, Crack the Code Unearthing Hidden Gems in YouTube's Archive</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-online-no-download-gif-conversion-services-reviewed-for-2024/"><u>Best Online No-Download GIF Conversion Services Reviewed for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-rated-vr-joysticks-unveiled-for-2024/"><u>Best-Rated VR Joysticks Unveiled for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/complete-examination-screenflow-full-features-for-mac-for-2024/"><u>Complete Examination ScreenFlow Full Features for Mac for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-games-on-windows-11-and-10-free-nvidia-driver-update-now-available/"><u>Enhance Your Games on Windows 11 and 10 - Free Nvidia Driver Update Now Available!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-completely-remove-twitter-from-your-iphone-a-step-by-step-guide/"><u>How to Completely Remove Twitter From Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a05-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A05 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/masterclass-in-design-the-ultimate-walkthrough-for-diy-graduation-announcement-cards/"><u>Masterclass in Design: The Ultimate Walkthrough for DIY Graduation Announcement Cards</u></a></li>
+<li><a href="https://fox-where.techidaily.com/safe-surfing-in-chrome-the-ultimate-list-of-top-security-plugins-including-malwarefox/"><u>Safe Surfing in Chrome: The Ultimate List of Top Security Plugins, Including MalwareFox</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-7-must-have-mirroring-apps-compatible-with-both-ios-and-android-devices/"><u>Top 7 Must-Have Mirroring Apps Compatible with Both iOS & Android Devices</u></a></li>
 </ul></div>
 

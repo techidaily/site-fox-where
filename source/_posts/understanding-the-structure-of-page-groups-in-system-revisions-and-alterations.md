@@ -1,7 +1,7 @@
 ---
 title: Understanding the Structure of Page Groups in System Revisions and Alterations
-date: 2024-09-25T00:40:43.643Z
-updated: 2024-09-29T19:56:43.584Z
+date: 2024-09-29T20:54:46.237Z
+updated: 2024-10-05T19:57:50.407Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,10 @@ The “System Changes” pages allow you to define and setup changes made by you
 ![System Changes](https://cdn.advancedinstaller.com/img/ui/page-system-changes.png "System Changes")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -133,20 +133,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-make-your-facebook-video-stand-out/"><u>[New] In 2024, How to Make Your Facebook Video Stand Out</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-one-shot-screenshot-instruction-for-2024/"><u>[New] One-Shot Screenshot Instruction for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-orb-shaper-essentials/"><u>[New] Orb Shaper Essentials</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-clips-step-by-step-youtube-end-screen-tutorials/"><u>2024 Approved Transform Your Clips Step-by-Step YouTube End Screen Tutorials</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/boundless-memories-archive-instagrams-free-saves/"><u>Boundless Memories Archive Instagram’s Free Saves</u></a></li>
-<li><a href="https://fox-where.techidaily.com/explore-the-full-range-of-services-at-flipprintercom-your-ultimate-resource-for-professional-printing/"><u>Explore the Full Range of Services at FlipPrinter.com – Your Ultimate Resource for Professional Printing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/getting-the-most-recent-update-for-your-flipbuilder-easy-tutorial-inside/"><u>Getting the Most Recent Update for Your FlipBuilder - Easy Tutorial Inside!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/hide-the-saving-feature-while-preserving-your-flipbooks-a-complete-guide-with-flipbuilder/"><u>Hide the Saving Feature While Preserving Your FlipBooks - A Complete Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-can-you-insert-clickable-links-into-content-made-with-flipbuilder-tools/"><u>How Can You Insert Clickable Links Into Content Made With FlipBuilder Tools?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-apply-watermarks-to-your-photos-using-the-powerful-features-of-flip-image-pro-software/"><u>How to Apply Watermarks to Your Photos Using the Powerful Features of Flip Image Pro Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-craft-custom-protective-sleeves-for-your-flipbook-creations-with-flipbuilder-tutorial/"><u>How To Craft Custom Protective Sleeves For Your FlipBook Creations With FlipBuilder Tutorial</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-engage-with-snapchat-luminaries/"><u>How to Engage with Snapchat Luminaries</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-30-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Infinix Hot 30 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/rapid-ascension-harness-likes-and-videos-for-insta-success-for-2024/"><u>Rapid Ascension Harness Likes & Videos for Insta Success for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simplified-guide-to-understanding-langchain/"><u>Simplified Guide to Understanding LangChain</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-audiovisual-archive-system-and-voice-recordings/"><u>[New] Audiovisual Archive System & Voice Recordings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[New] In 2024, Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-depth-analysis-leading-tv-streaming-providers/"><u>[Updated] In-Depth Analysis Leading TV Streaming Providers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-stories-unseen-aspects-revealed-for-2024/"><u>[Updated] Instagram Stories Unseen Aspects Revealed for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamline-your-teamwork-zooming-through-screenshares/"><u>2024 Approved Streamline Your Teamwork Zooming Through Screenshares</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/easy-conversion-tricks-changing-your-music-from-mp3-to-uncompressed-wav-audio/"><u>Easy Conversion Tricks: Changing Your Music From MP3 to Uncompressed WAV Audio</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-setup-windows-plus-samsung-driver/"><u>Easy Setup: Windows + Samsung Driver</u></a></li>
+<li><a href="https://fox-where.techidaily.com/efficient-property-editing-interface-streamline-your-asset-management/"><u>Efficient Property Editing Interface: Streamline Your Asset Management</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhance-fb-story-visibility-with-these-tips-for-2024/"><u>Enhance FB Story Visibility with These Tips for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-properly-restart-or-reboot-a-computer-using-windows-8/"><u>How to Properly Restart or Reboot a Computer Using Windows 8</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-uninstall-audiobook-files-on-your-iphone-three-simple-strategies/"><u>How To Uninstall Audiobook Files on Your iPhone: Three Simple Strategies</u></a></li>
+<li><a href="https://fox-where.techidaily.com/identifying-mobile-surveillance-are-you-being-watched-by-your-own-device/"><u>Identifying Mobile Surveillance: Are You Being Watched by Your Own Device?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-nubia-red-magic-8s-proplus-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Nubia Red Magic 8S Pro+ by Name | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-on-the-go-video-making-essentials/"><u>In 2024, On-The-Go Video Making Essentials</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-application-virtualization-with-microsoft-system-center-app-v-version-5-tab-solutions-insights/"><u>Mastering Application Virtualization with Microsoft System Center App-V Version 5: Tab Solutions Insights</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-fast-and-easy-safari-screencapture-methods/"><u>Mastering Fast and Easy Safari Screencapture Methods</u></a></li>
+<li><a href="https://fox-where.techidaily.com/personalized-file-operations-tailored-action-techniques/"><u>Personalized File Operations: Tailored Action Techniques</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-guide-to-creating-stellar-highlight-reels-varied-techniques-unveiled/"><u>Ultimate Guide to Creating Stellar Highlight Reels: Varied Techniques Unveiled</u></a></li>
 </ul></div>
 

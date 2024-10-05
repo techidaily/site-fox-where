@@ -1,7 +1,7 @@
 ---
 title: Enhancing Attachments with IAttachedFile - Advanced Action Guide
-date: 2024-09-24T16:31:25.183Z
-updated: 2024-09-29T19:54:18.435Z
+date: 2024-09-28T18:53:24.215Z
+updated: 2024-10-05T17:58:50.802Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,16 @@ Table of Contents
 ## IAttachedFileCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +143,10 @@ Table of Contents
 IAttachedFileCustomAction : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -154,10 +160,16 @@ This interface facilitates editing custom action for launching attached executab
 **String CommandLine** \- Get or sets the command line arguments for launching executable file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples
@@ -170,10 +182,10 @@ $custAct.CommandLine = "command line arguments"
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -215,20 +227,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-expert-advice-on-youtube-short-pitfalls/"><u>[New] In 2024, Expert Advice on YouTube Short Pitfalls</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-ultimate-collection-30plus-vite-starter-templates-and-designs-creative-tim/"><u>1. Ultimate Collection: 30+ Vite Starter Templates and Designs | Creative Tim</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-desktop-and-mobile-solutions-how-to-rotate-videos-for-instagram/"><u>2024 Approved [Desktop & Mobile Solutions] How to Rotate Videos for Instagram?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-guide-convert-and-save-vox-media-content-in-multiple-video-formats-like-mp4-mov-etc/"><u>Complete Guide: Convert and Save Vox Media Content in Multiple Video Formats Like MP4, MOV, Etc.</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-your-favorite-dailymotion-tracks-into-high-quality-mp3-files-with-our-top-video-converter/"><u>Convert Your Favorite DailyMotion Tracks Into High-Quality MP3 Files with Our Top Video Converter</u></a></li>
-<li><a href="https://fox-where.techidaily.com/download-high-quality-hd-movies-from-daftsex-site-directly-in-mp4-format/"><u>Download High-Quality HD Movies From DaftSex Site Directly in MP4 Format</u></a></li>
-<li><a href="https://fox-where.techidaily.com/downloading-and-saving-video-media-from-reddit-as-high-quality-mp4s-and-avis-a-step-by-step-guide/"><u>Downloading and Saving Video Media From Reddit as High-Quality MP4s & AVIs: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effortlessly-convert-your-spotify-playlist-into-itunes-format-for-hassle-free-listening/"><u>Effortlessly Convert Your Spotify Playlist Into iTunes Format for Hassle-Free Listening</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effortlessly-save-your-favorite-viki-content-using-the-viki-video-downloader-tool/"><u>Effortlessly Save Your Favorite Viki Content Using the Viki Video Downloader Tool</u></a></li>
-<li><a href="https://fox-where.techidaily.com/find-your-perfect-match-the-definitive-guide-to-exceptional-smlodr-replacements-for-apple-and-pc-enthusiasts/"><u>Find Your Perfect Match: The Definitive Guide to Exceptional Smlodr Replacements for Apple and PC Enthusiasts!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/healing-split-screen-media-glitches/"><u>Healing Split-Screen Media Glitches</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-google-pixel-fold-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Google Pixel Fold Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-11-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 11? How to Fix</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-windows-movie-maker-for-animated-clips-for-2024/"><u>Mastering Windows Movie Maker for Animated Clips for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/superior-image-quality-the-power-of-youtubes-av1-settings/"><u>Superior Image Quality The Power of YouTube's AV1 Settings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-stardews-best-guide-to-ginger-island/"><u>[Updated] 2024 Approved Stardew's Best Guide to Ginger Island</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-achieving-excellence-in-work-and-online-content/"><u>[Updated] Achieving Excellence in Work and Online Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-how-to-create-a-sports-highlight-video-a-simple-guide/"><u>[Updated] In 2024, How to Create a Sports Highlight Video - a Simple Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/apowersoft-launches-new-feature-packed-screen-capture-pro-version-10/"><u>Apowersoft Launches New Feature-Packed Screen Capture Pro Version 1.0!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/configuring-xml-structure-understanding-the-elements-configuration-pane/"><u>Configuring XML Structure: Understanding the Elements Configuration Pane</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-the-mystery-of-damaged-hevc-files/"><u>Decoding the Mystery of Damaged HEVC Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-calibre-appearance-step-by-step-tutorial-for-modifying-icon-schemes-in-the-main-interface/"><u>Enhance Calibre Appearance: Step-by-Step Tutorial for Modifying Icon Schemes in the Main Interface</u></a></li>
+<li><a href="https://fox-where.techidaily.com/essential-information-every-startup-needs-about-acquiring-a-new-business-license/"><u>Essential Information Every Startup Needs About Acquiring a New Business License</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-eliminate-your-digital-trail-and-become-internet-invisible-effective-strategies-for-a-fresh-start/"><u>How to Eliminate Your Digital Trail and Become Internet Invisible: Effective Strategies for a Fresh Start</u></a></li>
+<li><a href="https://fox-links.techidaily.com/iconic-images-uncovered-histories-for-2024/"><u>Iconic Images Uncovered Histories for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-full-insight-gecata-game-logging-system-reviewed/"><u>In 2024, Full Insight Gecata Game Logging System Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-how-to-avoid-watermarks-in-stock-purchases/"><u>In 2024, How To Avoid Watermarks in Stock Purchases</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turn-zip-into-srt-a-step-by-step-conversion-process/"><u>In 2024, Turn ZIP Into SRT A Step-by-Step Conversion Process</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-ultimate-guide-mastering-color-adjustments-in-picture-bgs/"><u>The Ultimate Guide: Mastering Color Adjustments in Picture BGs</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-tutorial-incorporating-watermarked-text-and-graphics-into-your-pdf-documents-latest-update/"><u>Ultimate Tutorial: Incorporating Watermarked Text and Graphics Into Your PDF Documents, Latest Update</u></a></li>
+<li><a href="https://fox-where.techidaily.com/various-methods-to-record-movies-from-your-screen-with-ease/"><u>Various Methods to Record Movies From Your Screen with Ease</u></a></li>
 </ul></div>
 

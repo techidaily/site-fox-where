@@ -1,7 +1,7 @@
 ---
 title: Manage Characteristics Through Edit Feature Options Window
-date: 2024-09-25T01:34:53.554Z
-updated: 2024-09-30T00:11:59.965Z
+date: 2024-10-04T20:43:07.622Z
+updated: 2024-10-05T18:54:35.785Z
 tags:
   - user-guide
 categories:
@@ -82,19 +82,19 @@ Table of Contents
 ![Edit multiple features](https://cdn.advancedinstaller.com/img/dialog/edit-feature-properties.png "Edit multiple features")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature Tree
@@ -106,10 +106,10 @@ There are three options for the initial display of a feature:
 * Display Expanded - the feature will be displayed expanded in the features tree.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Installation behavior
@@ -128,10 +128,10 @@ You can select one of the following install behavior for the feature base on a c
  You can set the install level based on a condition in the [Conditional Levels Dialog](https://tools.techidaily.com/advancedinstaller/products/). Use the\[Conditional install level \] link to edit conditional install levels.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Attributes
@@ -181,21 +181,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-optimized-zoom-audio-settings-for-exceptional-listening/"><u>[Updated] In 2024, Optimized Zoom Audio Settings for Exceptional Listening</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-streamlined-capturing-top-5-mac-tools-for-effective-snipping/"><u>[Updated] In 2024, Streamlined Capturing Top 5 Mac Tools for Effective Snipping</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-guide-to-a-custom-made-nextjstailwind-css-project-showcase-created-by-creative-tim/"><u>Complete Guide to a Custom-Made Next.js/Tailwind CSS Project Showcase, Created by Creative Tim</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complimentary-paper-themed-bootstrap-admin-layout-with-angular-integration-by-creative-tim/"><u>Complimentary Paper-Themed Bootstrap Admin Layout with Angular Integration by Creative Tim</u></a></li>
-<li><a href="https://fox-where.techidaily.com/creative-tims-bootstrap-magic-build-stunning-web-forms-free/"><u>Creative Tim's Bootstrap Magic: Build Stunning Web Forms FREE!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/creative-tims-notus-tailwind-access-premium-tailwind-css-ui-components-for-free-with-administrator-panel/"><u>Creative Tim's Notus Tailwind: Access Premium Tailwind CSS UI Components for Free with Administrator Panel</u></a></li>
-<li><a href="https://fox-where.techidaily.com/creative-tims-premium-vue-material-kit-v2-exclusive-vuejs-3-plus-bootstrap-5-bundle-now-free/"><u>Creative Tim's Premium Vue Material Kit v2: Exclusive VueJS 3 + Bootstrap 5 Bundle - Now Free!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/creative-tims-vuejs-laravel-admin-panel-template-updivision-collaboration/"><u>Creative Tim's Vue.js Laravel Admin Panel Template - Updivision Collaboration</u></a></li>
-<li><a href="https://fox-where.techidaily.com/discover-exceptional-no-cost-svelte-templates-and-layouts-by-creative-tim/"><u>Discover Exceptional, No-Cost Svelte Templates & Layouts by Creative Tim</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essentials-for-embracing-quantum-hdr/"><u>Essentials for Embracing Quantum HDR</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonize-your-hp-laserjet-with-latest-windows-11-drivers/"><u>Harmonize Your HP Laserjet with Latest Windows 11 Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone X Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-checklist-5-key-points-to-think-about-for-game-console-purchase/"><u>The Ultimate Checklist: 5 Key Points to Think About for Game Console Purchase</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-two-channel-mix-expert-advice-on-restoring-stereo-functionality/"><u>Trouble with Two-Channel Mix? Expert Advice on Restoring Stereo Functionality</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-make-a-statement-10-best-animated-text-generators-for-eye-catching-content-for-2024/"><u>Updated Make a Statement 10 Best Animated Text Generators for Eye-Catching Content for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004796936-utorrent-not-working-heres-how-to-fix-your-torrent-clients-peer-connections-and-downloads-successfully/"><u>UTorrent Not Working? Here's How to Fix Your Torrent Client’s Peer Connections & Downloads Successfully</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-beginners-reference-to-final-cut-pro/"><u>[New] Complete Beginner's Reference to Final Cut Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-9-zero-price-editors-for-youtube-content/"><u>[Updated] 2024 Approved Exploring 9 Zero Price Editors for YouTube Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/airborne-ingenuity-sections-for-2024/"><u>Airborne Ingenuity Sections for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/best-pc-based-shooter-titles-expert-sniper-gameplay-experience/"><u>Best PC-Based Shooter Titles: Expert Sniper Gameplay Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-not-working-detected-no-intel-hardware/"><u>Drivers Not Working; Detected No Intel Hardware</u></a></li>
+<li><a href="https://fox-where.techidaily.com/master-the-art-of-combining-images-flawlessly-ultimate-tutorials-and-tips-for-professionals/"><u>Master the Art of Combining Images Flawlessly - Ultimate Tutorials and Tips for Professionals</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-control-panel-interactions-navigating-the-data-conversation/"><u>Mastering Control Panel Interactions: Navigating the Data Conversation</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-mastering-the-apowersoft-free-online-audio-editor/"><u>Step-by-Step Guide: Mastering the Apowersoft Free Online Audio Editor</u></a></li>
+<li><a href="https://discover-great.techidaily.com/watching-dvds-on-the-go-how-to-transfer-and-enjoy-movies-on-sonys-android-television-system/"><u>Watching DVDs On The Go: How to Transfer and Enjoy Movies on Sony's Android Television System</u></a></li>
 </ul></div>
 

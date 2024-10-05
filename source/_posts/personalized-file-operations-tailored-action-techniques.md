@@ -1,7 +1,7 @@
 ---
 title: "Personalized File Operations: Tailored Action Techniques"
-date: 2024-09-29T00:38:14.866Z
-updated: 2024-09-30T05:01:58.205Z
+date: 2024-09-29T16:48:31.387Z
+updated: 2024-10-05T20:13:21.979Z
 tags:
   - user-guide
 categories:
@@ -126,32 +126,25 @@ Table of Contents
 ## IFileCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IFileCustomAction : ICustomAction
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview
 
 This interface facilitates editing custom action that allows the launching of a file into execution or opening of a folder (the same action that occurs when you double-click it in Explorer).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -169,15 +162,22 @@ This interface facilitates editing custom action that allows the launching of a 
 **Bool Use64BitLauncher** \- Gets or sets the property of the custom action to use a 64-bit process to launch the file.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
 
 $advinst = new-object -com AdvancedInstaller $project = $advinst.CreateProjectS(“architect”) $project.FilesComponent.AddFileS("appdir", "D:\\MyApp.exe") $custAct = $project.CustomActionsComponent.NewLaunchFileFromDisk("\[#MyApp.exe\]")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -218,20 +218,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-the-power-of-voice-notes-masterclass/"><u>[New] Unlocking the Power of Voice Notes Masterclass</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-and-twittersphere-crossover-the-viral-vids-for-2024/"><u>[Updated] TikTok and Twittersphere Crossover The Viral Vids for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-profitability-playbook-the-ultimate-duo-of-dm-and-yo/"><u>2024 Approved Profitability Playbook The Ultimate Duo of Dm & Yo</u></a></li>
-<li><a href="https://fox-where.techidaily.com/find-your-perfect-match-the-definitive-guide-to-exceptional-smlodr-replacements-for-apple-and-pc-enthusiasts/"><u>Find Your Perfect Match: The Definitive Guide to Exceptional Smlodr Replacements for Apple and PC Enthusiasts!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/free-kisscartoon-downloader-get-your-favorite-anime-episodes-with-ease/"><u>Free KissCartoon Downloader: Get Your Favorite Anime Episodes with Ease</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-to-converting-and-downloading-your-favorite-wakanim-shows-in-various-formats/"><u>Guide to Converting and Downloading Your Favorite Wakanim Shows in Various Formats</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-converting-your-downloaded-babytv-content-into-common-formats-like-mp4-mov-and-avi/"><u>Guide: Converting Your Downloaded BabyTV Content Into Common Formats Like MP4, MOV & AVI</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-downloading-high-quality-flac-audio-files-for-mac-and-pc/"><u>Guide: Downloading High-Quality FLAC Audio Files for Mac & PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Pro Phone with Broken Screen</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-roxwell-content-easy-methods-for-securely-acquiring-music-videos/"><u>Mastering Roxwell Content: Easy Methods for Securely Acquiring Music Videos!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-productivity-using-chatgpt-discover-these-4-methods-for-superior-time-allocation/"><u>Maximize Productivity Using ChatGPT: Discover These 4 Methods for Superior Time Allocation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sony-ps5-social-gaming-101-how-to-set-up-a-shared-play-experience/"><u>Sony PS5 Social Gaming 101: How to Set Up a Shared Play Experience</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-instructions-on-how-to-download-videos-for-free-from-tube8/"><u>Step-by-Step Instructions on How to Download Videos for Free From Tube8</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/transforming-rookie-marketers-into-pros-with-these-five-hacks-for-2024/"><u>Transforming Rookie Marketers Into Pros with These Five Hacks for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-audio-cutting-101-disconnecting-sounds-from-your-iphonemac-videos-for-2024/"><u>Updated Audio Cutting 101 Disconnecting Sounds From Your iPhone/Mac Videos for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/apowersoft-launches-new-feature-packed-screen-capture-pro-version-10/"><u>Apowersoft Launches New Feature-Packed Screen Capture Pro Version 1.0!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/enhancing-attachments-with-iattachedfile-advanced-action-guide/"><u>Enhancing Attachments with IAttachedFile - Advanced Action Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/essential-information-every-startup-needs-about-acquiring-a-new-business-license/"><u>Essential Information Every Startup Needs About Acquiring a New Business License</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-eliminate-your-digital-trail-and-become-internet-invisible-effective-strategies-for-a-fresh-start/"><u>How to Eliminate Your Digital Trail and Become Internet Invisible: Effective Strategies for a Fresh Start</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-xr-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-15-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 15 Plus Passcode not Working?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-se-2022-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-narzo-n53-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme Narzo N53 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-2-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 2 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/jours-francais-sans-dimanche/"><u>Jours Français Sans Dimanche</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-ultimate-guide-mastering-color-adjustments-in-picture-bgs/"><u>The Ultimate Guide: Mastering Color Adjustments in Picture BGs</u></a></li>
+<li><a href="https://fox-where.techidaily.com/various-methods-to-record-movies-from-your-screen-with-ease/"><u>Various Methods to Record Movies From Your Screen with Ease</u></a></li>
 </ul></div>
 

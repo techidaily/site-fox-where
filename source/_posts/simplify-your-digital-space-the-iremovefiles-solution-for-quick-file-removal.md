@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Digital Space: The IRemoveFiles Solution for Quick File Removal"
-date: 2024-09-24T23:45:56.581Z
-updated: 2024-09-30T09:43:50.632Z
+date: 2024-09-29T21:06:59.164Z
+updated: 2024-10-05T18:17:13.063Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 This interface is meant to access existing file removal operations or create new ones.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,16 +122,10 @@ This interface is meant to access existing file removal operations or create new
 IRemoveFilesComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -139,10 +133,10 @@ IRemoveFilesComponent : IDispatch
 **Array<IUpdate> RemoveFiles** \- Gets the collection of file removal operations in the project .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -151,10 +145,16 @@ IRemoveFilesComponent : IDispatch
  Creates a new file removal operation in the specified folder .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -194,22 +194,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-no-cost-screen-recording-tricks-for-pc-users/"><u>[New] In 2024, No-Cost Screen Recording Tricks for PC Users</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-revolutionize-your-podcasts-rankings-with-effective-seo-methods/"><u>[Updated] 2024 Approved Revolutionize Your Podcast's Rankings with Effective SEO Methods</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-rotating-reality-in-visuals-the-art-of-spinning-images-for-instagram-triumphs/"><u>[Updated] 2024 Approved Rotating Reality in Visuals The Art of Spinning Images for Instagram Triumphs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-express-yourself-authentically-on-instagram-with-these-captions/"><u>[Updated] Express Yourself Authentically on Instagram with These Captions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/access-downloads-for-the-onion-in-different-video-codecs-flv-wmv-mkv-mp4/"><u>Access Downloads for The Onion in Different Video Codecs (FLV, WMV, MKV, MP4)</u></a></li>
-<li><a href="https://fox-where.techidaily.com/access-kelbyone-educational-videos-for-free-direct-downloads-from-the-official-site/"><u>Access KelbyOne Educational Videos for Free - Direct Downloads From the Official Site</u></a></li>
-<li><a href="https://fox-where.techidaily.com/browse-and-save-television-critiques-on-fernsehkritiktv-with-our-seo-best-practices-title-generator/"><u>Browse and Save Television Critiques on fernsehkritik.tv with Our SEO Best Practices Title Generator</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-guide-convert-and-save-vox-media-content-in-multiple-video-formats-like-mp4-mov-etc/"><u>Complete Guide: Convert and Save Vox Media Content in Multiple Video Formats Like MP4, MOV, Etc.</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-your-favorite-dailymotion-tracks-into-high-quality-mp3-files-with-our-top-video-converter/"><u>Convert Your Favorite DailyMotion Tracks Into High-Quality MP3 Files with Our Top Video Converter</u></a></li>
-<li><a href="https://fox-where.techidaily.com/download-high-quality-hd-movies-from-daftsex-site-directly-in-mp4-format/"><u>Download High-Quality HD Movies From DaftSex Site Directly in MP4 Format</u></a></li>
-<li><a href="https://fox-where.techidaily.com/downloading-and-saving-video-media-from-reddit-as-high-quality-mp4s-and-avis-a-step-by-step-guide/"><u>Downloading and Saving Video Media From Reddit as High-Quality MP4s & AVIs: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effortlessly-convert-your-spotify-playlist-into-itunes-format-for-hassle-free-listening/"><u>Effortlessly Convert Your Spotify Playlist Into iTunes Format for Hassle-Free Listening</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-surface-pro-ebx4-drivers-installed-in-windows-step-by-step/"><u>Get the Latest Surface Pro Ebx4 Drivers Installed in Windows: Step-by-Step</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-asus-rog-phone-7-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Asus ROG Phone 7 FRP Without Computer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/speak-with-synthetic-voices-chromebooks-leading-online-text-to-speech-apps/"><u>Speak with Synthetic Voices Chromebook's Leading Online Text-to-Speech Apps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elevating-your-vimeo-presence-with-imovie-videos/"><u>[Updated] Elevating Your Vimeo Presence with iMovie Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-text-artistry-in-ae-our-top-10-recommendations/"><u>2024 Approved Text Artistry in AE Our Top 10 Recommendations</u></a></li>
+<li><a href="https://fox-where.techidaily.com/easy-steps-to-customizing-your-androids-display-settings/"><u>Easy Steps to Customizing Your Android's Display Settings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-crystal-clear-channels-for-less-the-amazonbasics-tv-signal-enhancer-unveiled/"><u>Get Crystal Clear Channels for Less - The AmazonBasics TV Signal Enhancer Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-how-to-switch-off-acoustic-amplification-on-windows-10-systems/"><u>Guide: How to Switch Off Acoustic Amplification on Windows 10 Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-lava-yuva-2-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Lava Yuva 2 Pro FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/property-component-management-solutions/"><u>Property Component Management Solutions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/quick-and-easy-guide-turning-your-androids-pdfs-into-excel-format-with-minimal-hassle/"><u>Quick & Easy Guide: Turning Your Android's PDFs Into Excel Format with Minimal Hassle</u></a></li>
+<li><a href="https://solve-news.techidaily.com/step-by-step-tutorial-adding-captions-to-your-dvd-movies-with-ease/"><u>Step-by-Step Tutorial: Adding Captions to Your DVD Movies with Ease</u></a></li>
+<li><a href="https://fox-where.techidaily.com/successful-strategies-for-enjoying-call-of-duty-mobile-on-your-mac-device/"><u>Successful Strategies for Enjoying Call of Duty Mobile on Your Mac Device</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-what-is-ai-influencer/"><u>Updated 2024 Approved What Is AI Influencer?</u></a></li>
 </ul></div>
 

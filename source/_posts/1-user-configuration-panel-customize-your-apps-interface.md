@@ -1,7 +1,7 @@
 ---
 title: "1. User Configuration Panel: Customize Your App's Interface"
-date: 2024-09-28T09:28:48.204Z
-updated: 2024-09-30T03:01:35.446Z
+date: 2024-10-03T19:54:31.536Z
+updated: 2024-10-05T19:41:35.538Z
 tags:
   - user-guide
 categories:
@@ -80,6 +80,13 @@ This page allows you to specify settings for the application that is launched by
 
 ![Application Settings](https://cdn.advancedinstaller.com/img/dialog/task-tab-settings.png "Application Settings")  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Properties
 
 ### Task Name
@@ -87,20 +94,6 @@ This page allows you to specify settings for the application that is launched by
 Specify the task name. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this string.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If a task with this name already exists on the target computer the Task Name will be prefixed with the underscore character (\_).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Folder
 
@@ -110,26 +103,40 @@ Specify the folder in the Windows Task Scheduler Library in which the task will 
 
 Additional comments for the task. This string is [localizable](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Install Condition
 
 This condition is evaluated when the package is installed and based on the result the task will be created or not.
 
 ## Application
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Run
 
 Specify the application that should be run by the scheduled task. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Command Line
 
 Command line options for the launched application. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Working Folder
 
@@ -144,10 +151,10 @@ The following fields are a [Formatted](https://tools.techidaily.com/advancedinst
 * Working Folder
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Already running
@@ -173,13 +180,6 @@ Additional settings for the scheduled task:
 * Configured for (select this option if you want to configure the task for Windows XP, Windows Vista, Windows 7 or Windows 10)
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If a task is configured for Windows Vista, Windows 7 then this task will not be compatible with OSs below Windows Vista.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -214,22 +214,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-quieting-background-sounds-in-media-capture-free-and-paid/"><u>[New] 2024 Approved Quieting Background Sounds in Media Capture (Free & Paid)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-wincams-capturing-life-at-your-fingertips/"><u>[New] WinCams Capturing Life at Your Fingertips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-connecting-players-and-friends-stream-xbox-to-fb/"><u>[Updated] 2024 Approved Connecting Players & Friends Stream Xbox to FB</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-beyond-whats-visible-insights-into-instagram-story-consumers/"><u>[Updated] Beyond What's Visible Insights Into Instagram Story Consumers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-iphones-simple-recording-features-quickly/"><u>[Updated] In 2024, Mastering iPhone's Simple Recording Features Quickly</u></a></li>
-<li><a href="https://fox-where.techidaily.com/access-international-broadcasts-in-various-video-codecs-such-as-mp4-wmv-avi-get-your-files-here/"><u>Access International Broadcasts in Various Video Codecs Such as MP4, WMV, AVI – Get Your Files Here!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/catch-your-favorite-dctptv-shows-and-anime-with-ultradownloader-seamless-streaming-to-file-conversion/"><u>Catch Your Favorite DCTP.TV Shows & Anime with UltraDownloader – Seamless Streaming to File Conversion</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-guide-downloading-content-from-bg-video-successfully/"><u>Complete Guide: Downloading Content From BG Video Successfully</u></a></li>
-<li><a href="https://fox-where.techidaily.com/download-gameshows-from-gameone-convert-episodes-into-mp4wmvavi-formats-with-ease/"><u>Download Gameshows From GameOne: Convert Episodes Into MP4/WMV/AVI Formats with Ease</u></a></li>
-<li><a href="https://fox-where.techidaily.com/easy-guide-for-downloading-and-converting-cw-television-series-into-video-files-mp4-and-avi/"><u>Easy Guide for Downloading and Converting CW Television Series Into Video Files (MP4 & AVI)</u></a></li>
-<li><a href="https://fox-where.techidaily.com/free-khan-academy-lecture-downloads-subtitled-video-collection/"><u>Free Khan Academy Lecture Downloads: Subtitled Video Collection</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-to-converting-voice-over-ip-voip-audio-into-various-formats-like-mp3-wav-and-more-on-pc-or-mac/"><u>Guide to Converting Voice Over IP (VoIP) Audio Into Various Formats Like MP3, WAV, and More on PC or Mac</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-tecno-camon-20-premier-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Tecno Camon 20 Premier 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/mlining-video-craft-youtube-studio-edition-for-2024/"><u>Streamlining Video Craft YouTube Studio Edition for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-1n-11s-0x800f0922-update-error-step-by-step-guide/"><u>Troubleshooting Windows 1N 11'S 0X800f0922 Update Error: Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-process-when-will-you-receive-your-flipbuilder-license-key-post-order/"><u>Understanding the Process: When Will You Receive Your FlipBuilder License Key Post-Order?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gigglesome-footage-downloader/"><u>[New] Gigglesome Footage Downloader</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-digital-audio-mastery-fb-video-conversion-wizardry-for-2024/"><u>[Updated] Digital Audio Mastery FB Video Conversion Wizardry for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-master-the-mind-discovering-elite-game-rooms-for-2024/"><u>[Updated] Master the Mind Discovering Elite Game Rooms for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-zipping-up-subtitles-from-zip-to-srt-file-transformation/"><u>[Updated] Zipping Up Subtitles From ZIP to SRT File Transformation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-steps-to-skip-the-water-stained-stock-photos/"><u>2024 Approved Steps to Skip the Water-Stained Stock Photos</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-on-utilizing-the-iinstalleddll-interface-for-dynamic-library-calls/"><u>Guide on Utilizing the IInstalledDll Interface for Dynamic Library Calls</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-eradicating-phony-microsoft-edge-virus-warning-notifications-permanently/"><u>Guide: Eradicating Phony Microsoft Edge Virus Warning Notifications Permanently</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-modify-system-center-configuration-manager-settings/"><u>How to Modify System Center Configuration Manager Settings</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-resolve-iphone-x-screen-recording-glitches-in-ios-11/"><u>How to Resolve iPhone X Screen Recording Glitches in iOS 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-magix-beatstrip-harmonizing-your-beats-easily/"><u>In 2024, Magix Beatstrip Harmonizing Your Beats Easily</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-comprehensive-m1-max-clip-insight/"><u>In 2024, The Comprehensive M1 Max Clip Insight</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-image-editing-with-apowersofts-background-eraser-step-by-step-tutorial-for-redeeming-your-discount-code/"><u>Mastering Image Editing with Apowersoft's Background Eraser: Step-by-Step Tutorial for Redeeming Your Discount Code</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-the-xml-chooser-tool-editing-techniques-and-tips/"><u>Mastering the XML Chooser Tool: Editing Techniques and Tips</u></a></li>
+<li><a href="https://fox-where.techidaily.com/optimizing-web-server-performance-with-iis-item-management-tools/"><u>Optimizing Web Server Performance with IIS Item Management Tools</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-honor-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Honor</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamline-your-storage-download-vimeo-videos-in-mp4-formats/"><u>Streamline Your Storage Download Vimeo Videos in MP4 Formats</u></a></li>
+<li><a href="https://fox-where.techidaily.com/transfer-ipads-books-to-personal-computer-a-no-itunes-method-for-crossing-platforms/"><u>Transfer iPads Books to Personal Computer - A No-iTunes Method for Crossing Platforms</u></a></li>
 </ul></div>
 

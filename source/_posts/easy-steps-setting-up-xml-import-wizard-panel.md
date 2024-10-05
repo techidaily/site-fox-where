@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Setting Up XML Import Wizard Panel"
-date: 2024-09-26T23:43:55.849Z
-updated: 2024-09-30T00:00:02.655Z
+date: 2024-10-04T16:11:10.585Z
+updated: 2024-10-05T19:22:18.507Z
 tags:
   - user-guide
 categories:
@@ -98,10 +98,10 @@ Table of Contents
 ![File Install](https://cdn.advancedinstaller.com/img/dialog/xml-file-install.png "File Install")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Operation
@@ -126,22 +126,15 @@ Select one of the following options if you want to remove the XML file from the 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If none of the two available checkbox options is checked, the file will not be removed on uninstall.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component
 
 This field specifies the component whose install or removal will trigger the XML update operation.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Error Policy
 
@@ -158,16 +151,23 @@ If this option is enabled a backup copy of the original XML file will be created
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Because XML file updates may occur during uninstall too, a backup of the file will be created on uninstall as well. If during uninstall an error occurs, a backup of the file will be created (regardless of this option) and the uninstall process will continue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)It highly recommended that you leave this option**enabled**, because an unexpected error during the XML update process may _corrupt_ parts of your existing XML file.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Common options
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Impersonate installing user
 
@@ -206,22 +206,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-leaders-shaping-immersive-digital-experiences/"><u>[New] 2024 Approved Leaders Shaping Immersive Digital Experiences</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-complete-handbook-for-telegram-web-newbies/"><u>[New] In 2024, The Complete Handbook for Telegram Web Newbies</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-channel-finale-101-insider-tricks-for-successful-outros/"><u>[Updated] Channel Finale 101 Insider Tricks for Successful Outros</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-uav-options-to-maximize-your-gopro-video-potential/"><u>[Updated] Prime UAV Options to Maximize Your GoPro Video Potential</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-xiaomi-13t-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Xiaomi 13T</u></a></li>
-<li><a href="https://some-skills.techidaily.com/disabling-microsoft-defender-antivirus-in-windows-11-a-step-by-step-guide/"><u>Disabling Microsoft Defender Antivirus in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/do-flipbuilder-e-books-include-a-showhide-feature-during-reading/"><u>Do FlipBuilder E-Books Include a 'Show/Hide' Feature During Reading?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/editing-internal-and-external-layouts-a-step-by-step-tutorial-for-flipbooks-using-flipbuilder/"><u>Editing Internal & External Layouts: A Step-by-Step Tutorial for Flipbooks Using FlipBuilder</u></a></li>
-<li><a href="https://fox-where.techidaily.com/enhancing-corporate-presence-in-digital-presentations-how-to-insert-your-logo-into-the-flipbook-toolbar/"><u>Enhancing Corporate Presence in Digital Presentations: How to Insert Your Logo Into the Flipbook Toolbar</u></a></li>
-<li><a href="https://fox-where.techidaily.com/enhancing-image-luminance-a-guide-with-flipbuilder-tools/"><u>Enhancing Image Luminance: A Guide with FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-where.techidaily.com/evaluating-flipbuilders-license-period-for-flippdf-pro-what-you-need-to-know/"><u>Evaluating FlipBuilder's License Period for FlipPDF Pro – What You Need to Know</u></a></li>
-<li><a href="https://fox-where.techidaily.com/expand-your-reach-build-a-german-language-website-with-ease-using-flipbuilder/"><u>Expand Your Reach - Build a German Language Website with Ease Using FlipBuilder!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/explore-the-full-range-of-services-at-flipprintercom-your-ultimate-resource-for-professional-printing/"><u>Explore the Full Range of Services at FlipPrinter.com – Your Ultimate Resource for Professional Printing</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exploring-amazons-matter-cast-a-rival-for-chromecast-and-apples-airplay-technology/"><u>Exploring Amazon's Matter Cast - A Rival for Chromecast and Apple's AirPlay Technology</u></a></li>
-<li><a href="https://fox-where.techidaily.com/getting-the-most-recent-update-for-your-flipbuilder-easy-tutorial-inside/"><u>Getting the Most Recent Update for Your FlipBuilder - Easy Tutorial Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-solution-for-overcoming-fatal-errors-in-software-installs-error-1603-included/"><u>Master Solution for Overcoming Fatal Errors in Software Installs, Error 1603 Included</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-hot-40i-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Hot 40i Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-beyondbasics-futurecameraspost-mycam-for-2024/"><u>[New] BeyondBasics FutureCamerasPost-MyCam for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-digital-recorder-snap-your-screen-upload-to-youtube-onlinepcmac/"><u>[Updated] In 2024, Digital Recorder Snap Your Screen, Upload to YouTube Online/PC/Mac</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-nubia-red-magic-8s-proplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nubia Red Magic 8S Pro+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/exploring-file-attributes-through-the-properties-dialog-box/"><u>Exploring File Attributes Through the Properties Dialog Box</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-to-purchase-digital-games-even-with-the-closure-of-xbox-360-marketplace/"><u>How To Purchase Digital Games Even With The Closure Of Xbox 360 Marketplace</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-zte-nubia-flip-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your ZTE Nubia Flip 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/manage-characteristics-through-edit-feature-options-window/"><u>Manage Characteristics Through Edit Feature Options Window</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-podcast-editing-101-how-to-edit-a-podcasta-beginners-guide/"><u>New 2024 Approved Podcast Editing 101 How to Edit a Podcasta Beginners Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-rated-tools-for-creating-stunning-transparent-png-images-essential-guides/"><u>Top-Rated Tools for Creating Stunning Transparent PNG Images: Essential Guides</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-essential-features-of-user-profiles/"><u>Understanding Essential Features of User Profiles</u></a></li>
 </ul></div>
 

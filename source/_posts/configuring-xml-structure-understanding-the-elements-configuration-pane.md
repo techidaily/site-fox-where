@@ -1,7 +1,7 @@
 ---
 title: "Configuring XML Structure: Understanding the Elements Configuration Pane"
-date: 2024-09-28T18:52:28.611Z
-updated: 2024-09-30T09:50:36.811Z
+date: 2024-10-04T18:24:28.862Z
+updated: 2024-10-05T17:31:48.124Z
 tags:
   - user-guide
 categories:
@@ -103,31 +103,31 @@ Specify the element or comment text.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This string is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). Also you can [localize](https://tools.techidaily.com/advancedinstaller/products/) it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For example, if you need to insert in the XML file an element in the form <node>text content</node>, set the Text for the "node" element to "text content". 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When an XML element is in _update mode_, the text content is also **updated**. However, when the XML element being updated has **mixed content** with several _text regions_, the new text specified here will be**appended** to the element content.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install
 
 In this section you can specify the installation behavior of the XML element.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Create element if it doesn't already exist
 
 If a matching element is not found and this option is enabled, the element will be created in the desired location, under the specified parent.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### If the element is found:
 
@@ -144,10 +144,10 @@ If a matching element is not found and this option is enabled, the element will 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)In order to enhance the localizing precision of matching elements, you can use [identifier attributes](https://tools.techidaily.com/advancedinstaller/products/) to pinpoint an exact element from the file, in case several nodes have the same ancestors.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For example, if the target XML file looks like:
@@ -187,24 +187,24 @@ by changing the value of "PARAM" to "false", in order to identify the desired "O
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can specify several attributes as _identifiers_ for an XML element.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)XML Comments are always **inserted**, and never_updated_.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Condition
 
 The condition to create this element on install. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Uninstall
@@ -246,19 +246,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>[New] In 2024, Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-archivists-edge-cutting-edge-strategies-for-social-downloads/"><u>[New] In 2024, The Archivist's Edge Cutting-Edge Strategies for Social Downloads</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-dissecting-tunefabs-technology-for-flawless-capture/"><u>2024 Approved Dissecting Tunefab's Technology for Flawless Capture</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/concealed-chronicle-watchers-5-premier-application-choices-for-2024/"><u>Concealed Chronicle Watchers 5 Premier Application Choices for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-f14-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy F14 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/improving-your-mobile-experience-with-flipbook-setting-optimal-output-quality-parameters/"><u>Improving Your Mobile Experience with FlipBook: Setting Optimal Output Quality Parameters</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-redmi-note-12-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Redmi Note 12 5G FRP Without Computer</u></a></li>
-<li><a href="https://fox-where.techidaily.com/is-it-possible-to-integrate-business-information-into-a-converted-ebook-using-flipbuilders-platform/"><u>Is It Possible to Integrate Business Information Into a Converted EBook Using FlipBuilder's Platform?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/sharing-and-downloading-flipbooks-for-offline-viewing-the-ultimate-guide-with-flipbuilder/"><u>Sharing & Downloading Flipbooks for Offline Viewing | The Ultimate Guide with FlipBuilder</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simple-resolution-removing-display-from-gpus/"><u>Simple Resolution: Removing Display From GPUs</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-on-creating-durable-hardcovers-for-your-personal-flipbooks-at-home-flipmastery-with-flipbuildercom/"><u>Step-by-Step Tutorial on Creating Durable Hardcovers for Your Personal FlipBooks at Home [FlipMastery with FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-how-to-conduct-personnel-queries-within-flipbuilders-digital-books/"><u>Step-by-Step Tutorial: How to Conduct Personnel Queries Within Flipbuilder's Digital Books</u></a></li>
-<li><a href="https://fox-where.techidaily.com/switching-page-layout-in-books-is-it-possible-to-change-orientation-with-flipbuilder/"><u>Switching Page Layout in Books: Is It Possible To Change Orientation With FlipBuilder?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/reators-uniting-for-marvels-digital-future/"><u>[New] Creators Uniting for Marvel's Digital Future</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>[New] The Artist' Writes An iPad Guide to Time-Lapse Photography</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comprehensive-breakdown-of-item-attributes-in-the-details-overview-panel/"><u>Comprehensive Breakdown of Item Attributes in the 'Details' Overview Panel</u></a></li>
+<li><a href="https://fox-where.techidaily.com/detailed-overview-of-assembly-pages-structure-and-best-practices/"><u>Detailed Overview of Assembly Pages: Structure and Best Practices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo S18 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ifolder-quicklink-effortless-access-to-your-folders/"><u>IFolder QuickLink: Effortless Access to Your Folders</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-affordable-mcb-theme-images-for-channels/"><u>In 2024, Affordable MCB Theme Images for Channels</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-consistent-layout-configuration-the-tab-options-explained/"><u>Mastering Consistent Layout Configuration: The Tab Options Explained</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-storytelling-integrating-fun-custom-emojis-for-2024/"><u>Mastering Instagram Storytelling Integrating Fun, Custom Emojis for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-removing-a-filmora-watermark-without-paying/"><u>Step-by-Step Guide: Removing a Filmora Watermark Without Paying</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-guide-to-effective-package-verification/"><u>Ultimate Guide to Effective Package Verification</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-top-10-4k-computer-screens/"><u>Unveiling the #Top 10 4K Computer Screens</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-c55-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/wma-to-m4r-movavi/"><u>WMA to M4R 변환에 대한 비용 없는 해상도 가이드: 인터넷을 통한 Movavi의 접갈기</u></a></li>
 </ul></div>
 

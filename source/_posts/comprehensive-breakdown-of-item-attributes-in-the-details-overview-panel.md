@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Breakdown of Item Attributes in the 'Details' Overview Panel
-date: 2024-09-23T11:26:40.187Z
-updated: 2024-09-29T18:49:02.095Z
+date: 2024-10-04T19:31:28.276Z
+updated: 2024-10-05T19:11:20.040Z
 tags:
   - user-guide
 categories:
@@ -82,13 +82,6 @@ General information about the application installed by the package. For an examp
 
 ## Required
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Name
 
 The complete name of your application. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). The value in this field is stored in the **ProductName** property and it can be [localized](https://tools.techidaily.com/advancedinstaller/products/). 
@@ -100,6 +93,13 @@ The application version.
 A version string has the format "x.y.z" where x, y and z are numbers. Windows Installer actually allows 4 numbers in the string, but the last one is ignored when comparing versions. The maximum acceptable version string is "255.255.65535.65535". The following are examples of valid version strings: "3", "2.0", "2.11", "5.10.5". 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The value in this field is stored in the **ProductVersion** property.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When changing the Product Version, you should also allow generating a new Product Code if and only if you plan to check “Automatically upgrade older versions of the product” on the [Install Parameters](https://tools.techidaily.com/advancedinstaller/products/) page. Read why in [Changing Version](https://tools.techidaily.com/advancedinstaller/products/).
 
@@ -125,21 +125,22 @@ The Options hyperlink displays _Edit Product Version Dialog_ in which you can co
 
 The full name of your company. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). The value in this field is stored in the **Manufacturer** property and it can be [localized](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Support Info
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The following fields are of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). Their content can be [localized](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Support Link
@@ -155,42 +156,36 @@ The URL for application update information.
 The URL where the user can get technical support.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Support Telephone
 
 The phone number where the user can get technical support.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Contact
 
  The e-mail address for technical support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comments
 
 A more detailed description of the application. This information is displayed in the _Programs and Features_ applet in the Control Panel. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Programs and Features
@@ -202,10 +197,16 @@ This option registers the product with Windows Installer.
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If this option is not checked you cannot remove, repair or reinstall the application by using the Control Panel, the Windows Installer command-line options or the Windows Installer application programming interface (API).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Icon File
@@ -228,13 +229,6 @@ This option registers the product with Windows Installer.
 
 Prevents the product from being displayed in the "Programs and Features" applet in the Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Override Windows Installer programs list entry
 
 This option allows you to:
@@ -248,6 +242,13 @@ This option allows you to:
 
 ## End User License Agreement
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lincense
 
 Specify the EULA file. By clicking on \[... \] you can :
@@ -257,13 +258,6 @@ Specify the EULA file. By clicking on \[... \] you can :
 * _Delete license_
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option will automatically add InstallDlg dialog to your project.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Readme File
 
@@ -310,17 +304,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-social-savvy-strategies-for-maxed-out-page-popularity-for-2024/"><u>[New] Social Savvy Strategies for Maxed-Out Page Popularity for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pinterest-content-powered-free-high-speed-download-apps-reviewed/"><u>[Updated] Pinterest Content Powered Free, High-Speed Download Apps Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-techniques-in-picking-the-best-fpv-drone-propellers/"><u>2024 Approved Innovative Techniques in Picking the Best FPV Drone Propellers</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-bulk-pdf-files-into-engaging-flash-ebooks-at-no-cost/"><u>Convert Bulk PDF Files Into Engaging Flash Ebooks at No Cost</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-your-documents-with-our-free-pdf-to-flash-flipbook-creator/"><u>Convert Your Documents with Our Free PDF-to-Flash Flipbook Creator</u></a></li>
-<li><a href="https://fox-where.techidaily.com/converting-bulleted-lists-into-animated-flip-books-with-flipbuilder-technology/"><u>Converting Bulleted Lists Into Animated Flip Books with FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-where.techidaily.com/discover-clearer-page-details-use-our-zooming-functionality-in-flipbook-viewing-exclusive-to-flipbuildercom/"><u>Discover Clearer Page Details - Use Our Zooming Functionality in Flipbook Viewing, Exclusive to FlipBuilder.com</u></a></li>
-<li><a href="https://fox-where.techidaily.com/do-flipbuilder-e-books-include-a-showhide-feature-during-reading/"><u>Do FlipBuilder E-Books Include a 'Show/Hide' Feature During Reading?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/immersive-journeys-youtubes-best-storytelling-of-23-for-2024/"><u>Immersive Journeys YouTube’s Best Storytelling of '23 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hue-harmonies-crafting-visual-balance/"><u>In 2024, Hue Harmonies Crafting Visual Balance</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mastering-the-art-top-5-fluid-gaming-journeys/"><u>Mastering the Art Top 5 Fluid Gaming Journeys</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-essential-guide-to-streaming-quality-via-obs-youtube-and-twitch/"><u>The Essential Guide to Streaming Quality via OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-integrating-audio-elements-into-facebooks-visual-stories/"><u>[Updated] Integrating Audio Elements Into Facebook's Visual Stories</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-lead-content-curator-enhancing-digital-narratives/"><u>1. Lead Content Curator: Enhancing Digital Narratives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725284231695-windows-1011mp4avimkv/"><u>添加字幕的秘技：如何为Windows 10和11用户将文字超时引入MP4/AVI/MKV视频</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-14-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 14 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-effortlessly-broadcast-your-ipad-screen-to-a-tv-set/"><u>How to Effortlessly Broadcast Your iPad Screen to a TV Set</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-hd-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Smart 7 HD Phone without Google Account?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Yuva 2 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/introducing-apowercompress-a-revolutionary-software-released-with-cutting-edge-capabilities/"><u>Introducing ApowerCompress - A Revolutionary Software Released With Cutting-Edge Capabilities</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-xml-editors-a-guide-to-the-properties-and-settings-tab-for-elements/"><u>Mastering XML Editors: A Guide to the Properties & Settings Tab for Elements</u></a></li>
+<li><a href="https://games-able.techidaily.com/outsmart-xboxs-premium-price-spike-with-tactics/"><u>Outsmart Xbox's Premium Price Spike with Tactics</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simple-steps-effortless-methods-to-stream-your-instagram-feed-directly-to-your-television/"><u>Simple Steps: Effortless Methods to Stream Your Instagram Feed Directly to Your Television</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-8-complimentary-mac-data-restoration-tools-a-comparative-guide/"><u>Top 8 Complimentary Mac Data Restoration Tools : A Comparative Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-9-ocr-solutions-for-windows-10-free-and-premium-options-explored/"><u>Top 9 OCR Solutions for Windows 10: Free and Premium Options Explored</u></a></li>
 </ul></div>
 

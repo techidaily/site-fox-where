@@ -1,7 +1,7 @@
 ---
 title: "Navigating the World of Assemblies Webpages: A Comprehensive Guide"
-date: 2024-09-24T16:05:04.696Z
-updated: 2024-09-30T11:20:55.595Z
+date: 2024-10-02T20:08:39.348Z
+updated: 2024-10-05T17:07:08.997Z
 tags:
   - user-guide
 categories:
@@ -80,25 +80,38 @@ Windows Installer has the ability to install .NET and Win32 assemblies. These ar
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The information presented in this article can be applied in a similar fashion to**Assemblies Page** from [Merge Module Project](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding an assembly
 
 ![Add Assembly](https://cdn.advancedinstaller.com/img/toolbar/assembly-add.png "Add Assembly") Use the \[Add Assembly... \] toolbar button, the “Add Assembly...” context menu item or press the Insert key while the left pane is focused. A [File Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear, where you can choose a file to add. 
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding multiple assemblies
 
  To add multiple assemblies at once, use the \[Add Assembly... \] toolbar button, the “Add Assembly...” context menu item or press theInsert key while the left pane is focused. A dialog appears enabling you to select **one** or **more** files. If multiple files are selected the [Assembly Destination Dialog](https://tools.techidaily.com/advancedinstaller/products/) appears.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing an assembly
@@ -106,23 +119,10 @@ Windows Installer has the ability to install .NET and Win32 assemblies. These ar
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while an element is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -165,24 +165,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-harnessing-color-grading-power-with-central-luts/"><u>[New] Harnessing Color Grading Power with Central Luts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ghostly-pause-recorder-tutorial/"><u>2024 Approved Ghostly Pause Recorder Tutorial</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290250462-winxvideo-ai/"><u>如何利用WinxVideo AI技術提高影片品質，達到最佳效果</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-practices-to-avoid-sound-in-video-capture/"><u>Best Practices to Avoid Sound in Video Capture</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-8-creative-strategies-with-chatgpts-visual-capabilities/"><u>Discover 8 Creative Strategies with ChatGPT's Visual Capabilities</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-can-you-insert-clickable-links-into-content-made-with-flipbuilder-tools/"><u>How Can You Insert Clickable Links Into Content Made With FlipBuilder Tools?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-apply-watermarks-to-your-photos-using-the-powerful-features-of-flip-image-pro-software/"><u>How to Apply Watermarks to Your Photos Using the Powerful Features of Flip Image Pro Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-craft-custom-protective-sleeves-for-your-flipbook-creations-with-flipbuilder-tutorial/"><u>How To Craft Custom Protective Sleeves For Your FlipBook Creations With FlipBuilder Tutorial</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-enhance-your-photos-mastering-contrast-adjustment-in-flipimage-pro/"><u>How to Enhance Your Photos: Mastering Contrast Adjustment in FlipImage Pro</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-manage-page-transition-duration-in-digital-flipbooks-using-flipbuilder/"><u>How to Manage Page Transition Duration in Digital Flipbooks Using FlipBuilder</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-personalize-the-flash-swf-file-for-your-own-ebooks-with-flipbuilder/"><u>How to Personalize the Flash SWF File for Your Own eBooks with FlipBuilder</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-asus-rog-phone-8-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Asus ROG Phone 8 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/improving-your-mobile-experience-with-flipbook-setting-optimal-output-quality-parameters/"><u>Improving Your Mobile Experience with FlipBook: Setting Optimal Output Quality Parameters</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-f23-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo F23 5G FRP</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-for-elevating-your-tiktok-unboxing-popularity/"><u>In 2024, Techniques for Elevating Your TikTok Unboxing Popularity</u></a></li>
-<li><a href="https://fox-where.techidaily.com/is-it-possible-to-integrate-business-information-into-a-converted-ebook-using-flipbuilders-platform/"><u>Is It Possible to Integrate Business Information Into a Converted EBook Using FlipBuilder's Platform?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/sharing-and-downloading-flipbooks-for-offline-viewing-the-ultimate-guide-with-flipbuilder/"><u>Sharing & Downloading Flipbooks for Offline Viewing | The Ultimate Guide with FlipBuilder</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-process-to-update-your-videos-cover-images-for-2024/"><u>The Ultimate Process to Update Your Videos' Cover Images for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-use-premiere-pro-and-want-to-learn-how-to-change-a-videos-frame-rate-using-the-tool-here-are-the-steps-that-you-need-to-follow./"><u>Updated 2024 Approved Do You Use Premiere Pro and Want to Learn How to Change a Videos Frame Rate Using the Tool? Here Are the Steps that You Need to Follow</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-potential-exploring-ginger-valley-for-2024/"><u>[New] Unlocking Potential Exploring Ginger Valley for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-videocutters-comprehensive-scrutiny-final-verdict/"><u>[New] VideoCutter's Comprehensive Scrutiny – Final Verdict</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-splitcam-analysis-where-does-it-rank-among-recorders-for-2024/"><u>[Updated] SplitCam Analysis Where Does It Rank Among Recorders for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-the-best-video-aspect-ratio-experience/"><u>2024 Approved Crafting the Best Video Aspect Ratio Experience</u></a></li>
+<li><a href="https://fox-where.techidaily.com/creative-floor-plans-transforming-product-imagery-successfully/"><u>Creative Floor Plans: Transforming Product Imagery Successfully</u></a></li>
+<li><a href="https://fox-where.techidaily.com/discovering-concealed-ios-apps-easy-tips-and-tricks-for-iphone-users/"><u>Discovering Concealed iOS Apps: Easy Tips & Tricks for iPhone Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-v29-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo V29 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/quick-tips-to-restore-removed-contacts-from-your-iphone-device/"><u>Quick Tips to Restore Removed Contacts From Your iPhone Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-a05-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy A05</u></a></li>
+<li><a href="https://fox-where.techidaily.com/seamless-cross-platform-music-migration-transferring-tunes-from-android-to-ios-devices/"><u>Seamless Cross-Platform Music Migration: Transferring Tunes From Android to iOS Devices</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simple-hacks-to-enhance-iphone-speeds-under-ios-8/"><u>Simple Hacks to Enhance iPhone Speeds Under iOS 8</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simple-methods-for-recovering-deleted-pictures-on-your-android-device/"><u>Simple Methods for Recovering Deleted Pictures on Your Android Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-graphics-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD Graphics Drivers on Windows 8</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-transferring-your-data-from-a-samsung-mobile-device-to-your-computer/"><u>Step-by-Step Guide: Transferring Your Data From a Samsung Mobile Device to Your Computer</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-structure-of-page-groups-in-system-revisions-and-alterations/"><u>Understanding the Structure of Page Groups in System Revisions and Alterations</u></a></li>
 </ul></div>
 

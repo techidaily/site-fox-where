@@ -1,7 +1,7 @@
 ---
 title: Innovative ILibrary Component Tools & Techniques
-date: 2024-09-23T11:17:22.761Z
-updated: 2024-09-29T23:11:04.568Z
+date: 2024-10-02T18:26:01.756Z
+updated: 2024-10-05T20:37:37.349Z
 tags:
   - user-guide
 categories:
@@ -40,10 +40,10 @@ Table of Contents
 This interface allows to import library files or get all the library files from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -51,10 +51,10 @@ This interface allows to import library files or get all the library files from 
 ILibraryComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -62,16 +62,10 @@ ILibraryComponent : IDispatch
 **Array<ILibraryFile> Files** \- Gets all the library files the from project.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -81,10 +75,16 @@ ILibraryComponent : IDispatch
 **AddFileS(String target, String source)**  \- Imports the file specified by source in the desired target folder specified by project path.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -128,20 +128,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/google-bard-the-deceptive-application-that-harbors-dangerous-malware-stay-away-from-this-threat/"><u>'Google Bard': The Deceptive Application That Harbors Dangerous Malware - Stay Away From This Threat</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-aligning-zoom-sessions-with-desktop-and-smartphone-calendars/"><u>[Updated] Aligning Zoom Sessions with Desktop and Smartphone Calendars</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-closing-powerhouses-free-top-6-video-closers/"><u>[Updated] In 2024, Closing Powerhouses Free Top 6 Video Closers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-video-lifeline-downloading-made-simple-pcmac/"><u>2024 Approved Instagram Video Lifeline Downloading Made Simple (PC/Mac)</u></a></li>
-<li><a href="https://fox-where.techidaily.com/advanced-material-ui-and-react-admin-pro-template-by-creative-tim-elevate-your-react-projects/"><u>Advanced Material-UI & React Admin Pro Template by Creative Tim – Elevate Your React Projects</u></a></li>
-<li><a href="https://fox-where.techidaily.com/argons-pre-designed-bootstrap-4-ui-kit-for-larvel-projects-get-started-with-creatim-creations/"><u>Argon's Pre-Designed Bootstrap 4 UI Kit for Larvel Projects – Get Started with CreaTim Creations!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/boost-your-site-with-black-dashboard-a-complimentary-bootstrap-creativetime-admin-suite/"><u>Boost Your Site with Black Dashboard - A Complimentary Bootstrap # Creativetime Admin Suite</u></a></li>
-<li><a href="https://fox-where.techidaily.com/changing-one-aspect-of-an-object-while-keeping-others-constant-involves-proportional-reasoning-to-avoid-disproportionate-distortions/"><u>Changing One Aspect of an Object While Keeping Others Constant Involves Proportional Reasoning to Avoid Disproportionate Distortions.</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-guide-to-a-custom-made-nextjstailwind-css-project-showcase-created-by-creative-tim/"><u>Complete Guide to a Custom-Made Next.js/Tailwind CSS Project Showcase, Created by Creative Tim</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complimentary-paper-themed-bootstrap-admin-layout-with-angular-integration-by-creative-tim/"><u>Complimentary Paper-Themed Bootstrap Admin Layout with Angular Integration by Creative Tim</u></a></li>
-<li><a href="https://fox-where.techidaily.com/creative-tims-bootstrap-magic-build-stunning-web-forms-free/"><u>Creative Tim's Bootstrap Magic: Build Stunning Web Forms FREE!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-samsung-galaxy-s20-fe-with-5g-why-its-a-top-choice-for-tech-enthusiasts/"><u>Expert Analysis of the Samsung Galaxy S20 FE with 5G - Why It's a Top Choice for Tech Enthusiasts</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-mix-fold-3-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi Mix Fold 3? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warzone-and-graphics-cards-maximizing-performance-in-windows-10/"><u>Warzone and Graphics Cards: Maximizing Performance in Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/decouvrez-les-logiciels-leaders-en-transmission-multimedia-les-grands-classes-par-movavi/"><u>Découvrez Les Logiciels Leaders en Transmission Multimédia - Les Grands Classés Par Movavi</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-eradicating-phony-microsoft-edge-virus-warning-notifications-permanently/"><u>Guide: Eradicating Phony Microsoft Edge Virus Warning Notifications Permanently</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-modify-system-center-configuration-manager-settings/"><u>How to Modify System Center Configuration Manager Settings</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-resolve-iphone-x-screen-recording-glitches-in-ios-11/"><u>How to Resolve iPhone X Screen Recording Glitches in iOS 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-cutting-and-splicing-360-degree-footage-in-adobe-premiere/"><u>In 2024, Expert Tips for Cutting and Splicing 360-Degree Footage in Adobe Premiere</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-errors-with-windows-10-update-build-1607/"><u>Incompatibility Errors with Windows 10 Update (Build 1607)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-image-editing-with-apowersofts-background-eraser-step-by-step-tutorial-for-redeeming-your-discount-code/"><u>Mastering Image Editing with Apowersoft's Background Eraser: Step-by-Step Tutorial for Redeeming Your Discount Code</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-the-xml-chooser-tool-editing-techniques-and-tips/"><u>Mastering the XML Chooser Tool: Editing Techniques and Tips</u></a></li>
+<li><a href="https://fox-where.techidaily.com/optimizing-web-server-performance-with-iis-item-management-tools/"><u>Optimizing Web Server Performance with IIS Item Management Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/resolved-troubleshooting-steps-for-a-non-functional-camera-during-google-meet/"><u>Resolved: Troubleshooting Steps for a Non-Functional Camera During Google Meet</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/the-limitations-of-using-android-file-transfer-app-for-mac-users-after-an-ios-update/"><u>The Limitations of Using Android File Transfer App for Mac Users After an iOS Update</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722776072075-top-rated-smart-eyewear-a-comprehensive-guide/"><u>Top Rated Smart Eyewear : A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/transfer-ipads-books-to-personal-computer-a-no-itunes-method-for-crossing-platforms/"><u>Transfer iPads Books to Personal Computer - A No-iTunes Method for Crossing Platforms</u></a></li>
 </ul></div>
 

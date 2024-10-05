@@ -1,7 +1,7 @@
 ---
 title: Exploring File Attributes Through the Properties Dialog Box
-date: 2024-09-25T18:34:21.665Z
-updated: 2024-09-29T17:07:11.299Z
+date: 2024-10-04T19:15:33.468Z
+updated: 2024-10-05T20:51:31.922Z
 tags:
   - user-guide
 categories:
@@ -96,15 +96,22 @@ Table of Contents
 
 ![File Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/file-properties.png "File Properties Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## File
 
 The "Name" text field shows the name under which the file is installed. It is of [PseudoFormatted](https://tools.techidaily.com/advancedinstaller/products/) type, and you can [localize](https://tools.techidaily.com/advancedinstaller/products/) its value. Also, you can use the "Source Path" field to edit the path of the file to be included in the install package. Click on the\[... \] button to change it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Paths Per builds
@@ -114,16 +121,10 @@ Configure the source path for each build usingChange... hyperlink button.
 Reset the source path to the default one by clicking onReset hyperlink button or reset the source paths for all builds using Reset All hyperlink button.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Attributes
@@ -133,17 +134,10 @@ Reset the source path to the default one by clicking onReset hyperlink button or
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If a file marked as vital is not installed correctly, the installation stops and rolls back.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Signature
@@ -187,14 +181,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-where.techidaily.com/advanced-material-ui-and-react-admin-pro-template-by-creative-tim-elevate-your-react-projects/"><u>Advanced Material-UI & React Admin Pro Template by Creative Tim – Elevate Your React Projects</u></a></li>
-<li><a href="https://fox-where.techidaily.com/argons-pre-designed-bootstrap-4-ui-kit-for-larvel-projects-get-started-with-creatim-creations/"><u>Argon's Pre-Designed Bootstrap 4 UI Kit for Larvel Projects – Get Started with CreaTim Creations!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/avoiding-manual-transcription-by-leveraging-voice-recognition-in-ppt/"><u>Avoiding Manual Transcription by Leveraging Voice Recognition in PPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-standard-the-top-10-customizations-for-chatgpt/"><u>Beyond Standard: The Top 10 Customizations for ChatGPT</u></a></li>
-<li><a href="https://fox-where.techidaily.com/boost-your-site-with-black-dashboard-a-complimentary-bootstrap-creativetime-admin-suite/"><u>Boost Your Site with Black Dashboard - A Complimentary Bootstrap # Creativetime Admin Suite</u></a></li>
-<li><a href="https://fox-where.techidaily.com/changing-one-aspect-of-an-object-while-keeping-others-constant-involves-proportional-reasoning-to-avoid-disproportionate-distortions/"><u>Changing One Aspect of an Object While Keeping Others Constant Involves Proportional Reasoning to Avoid Disproportionate Distortions.</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-directinput-dll-errors-steps-for-successful-repair/"><u>Troubleshooting DirectInput DLL Errors: Steps for Successful Repair</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-top-virtualdub-alternatives-for-video-editing/"><u>Updated Top VirtualDub Alternatives for Video Editing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-strategies-to-find-the-perfect-power-source-for-drones/"><u>[New] In 2024, Strategies to Find the Perfect Power Source for Drones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-tech-bites-the-future-of-screen-capture-apps/"><u>[Updated] 2024 Approved Tech Bites The Future of Screen Capture Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-crafting-a-compelling-video-story-with-b-roll-variety-for-2024/"><u>[Updated] Crafting a Compelling Video Story with B-Roll Variety for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-elite-frame-sequencer-pro-package-for-2024/"><u>[Updated] Elite Frame Sequencer Pro Package for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-panning-for-priceless-pieces-in-open-source-archives/"><u>2024 Approved Panning for Priceless Pieces in Open-Source Archives</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ace-your-paperwork-a-step-by-step-guide-to-using-apowerpdf-for-efficient-form-automation/"><u>Ace Your Paperwork: A Step-by-Step Guide to Using ApowerPDF for Efficient Form Automation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-mac-systems-evolving-enough-to-challenge-pc-dominance-in-the-gamer-arena/"><u>Are Mac Systems Evolving Enough to Challenge PC Dominance in the Gamer Arena?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comprehensive-guide-to-multipurpose-internet-mail-extensions-mime-essential-file-type-identifiers-on-the-web/"><u>Comprehensive Guide to Multipurpose Internet Mail Extensions (MIME) - Essential File Type Identifiers on the Web</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-woes-solving-crash-issues/"><u>Nvidia RTX Woes - Solving Crash Issues</u></a></li>
+<li><a href="https://fox-where.techidaily.com/optimizing-system-performance-custom-execution-parameters-interface/"><u>Optimizing System Performance: Custom Execution Parameters Interface</u></a></li>
+<li><a href="https://fox-where.techidaily.com/personalized-feature-specifications/"><u>Personalized Feature Specifications</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simple-steps-for-seamlessly-copying-your-iphone-data-to-a-windows-or-mac-computer/"><u>Simple Steps for Seamlessly Copying Your iPhone Data to a Windows or Mac Computer</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-retrieving-information-from-a-damaged-iphone-device/"><u>Step-by-Step Guide: Retrieving Information From a Damaged iPhone Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-methods-for-retrieving-lost-notes-in-ipad-expert-tips-and-tricks/"><u>Top Methods for Retrieving Lost Notes in iPad – Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-notch-video-snipper-elite-screen-grabber-designed-exclusively-for-ipads/"><u>Top Notch Video Snipper: Elite Screen Grabber Designed Exclusively for iPads</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-rated-tools-for-creating-engaging-gifs-from-videos/"><u>Top-Rated Tools for Creating Engaging GIFs From Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-the-8-greatest-mobile-video-games/"><u>Ultimate Selection: The 8 Greatest Mobile Video Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-the-monitor-unrecognized-input-issue-a-comprehensive-guide/"><u>Understanding the 'Monitor Unrecognized Input' Issue: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Detailed Overview of Assembly Pages: Structure and Best Practices"
-date: 2024-09-25T08:53:54.411Z
-updated: 2024-09-29T22:45:07.668Z
+date: 2024-09-28T17:52:38.794Z
+updated: 2024-10-05T19:58:36.254Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Windows Installer has the ability to install .NET and Win32 assemblies. These ar
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The information presented in this article can be applied in a similar fashion to**Assemblies Page** from [Merge Module Project](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding an assembly
@@ -91,10 +91,10 @@ Windows Installer has the ability to install .NET and Win32 assemblies. These ar
 ![Add Assembly](https://cdn.advancedinstaller.com/img/toolbar/assembly-add.png "Add Assembly") Use the \[Add Assembly... \] toolbar button, the “Add Assembly...” context menu item or press the Insert key while the left pane is focused. A [File Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear, where you can choose a file to add. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding multiple assemblies
@@ -106,17 +106,17 @@ Windows Installer has the ability to install .NET and Win32 assemblies. These ar
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while an element is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -159,19 +159,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhance-your-photography-journey-mastering-the-art-of-snap-editing/"><u>[New] 2024 Approved Enhance Your Photography Journey Mastering the Art of Snap Editing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-tv-streaming-platforms-in-depth-comparisons/"><u>[New] Top 10 TV Streaming Platforms In-Depth Comparisons</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-essence-of-great-edu-videos-a-compreenasion-guide-to-youtube-excellence/"><u>[Updated] The Essence of Great Edu-Videos A Compreenasion Guide to YouTube Excellence</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-word-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a word document electronically</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-enhance-your-photos-mastering-contrast-adjustment-in-flipimage-pro/"><u>How to Enhance Your Photos: Mastering Contrast Adjustment in FlipImage Pro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-find-your-lost-or-stolen-iphone-using-the-find-my-app/"><u>How to Find Your Lost or Stolen iPhone Using the Find My App</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-manage-page-transition-duration-in-digital-flipbooks-using-flipbuilder/"><u>How to Manage Page Transition Duration in Digital Flipbooks Using FlipBuilder</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-personalize-the-flash-swf-file-for-your-own-ebooks-with-flipbuilder/"><u>How to Personalize the Flash SWF File for Your Own eBooks with FlipBuilder</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v29e-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V29e Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/improving-your-mobile-experience-with-flipbook-setting-optimal-output-quality-parameters/"><u>Improving Your Mobile Experience with FlipBook: Setting Optimal Output Quality Parameters</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-reno-8t-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Reno 8T Device</u></a></li>
-<li><a href="https://fox-where.techidaily.com/is-it-possible-to-integrate-business-information-into-a-converted-ebook-using-flipbuilders-platform/"><u>Is It Possible to Integrate Business Information Into a Converted EBook Using FlipBuilder's Platform?</u></a></li>
-<li><a href="https://win11.techidaily.com/pro-guide-how-to-locate-and-setup-shortcuts-near-win11s-power-icon/"><u>Pro Guide: How to Locate & Setup Shortcuts Near Win11's Power Icon</u></a></li>
-<li><a href="https://fox-where.techidaily.com/sharing-and-downloading-flipbooks-for-offline-viewing-the-ultimate-guide-with-flipbuilder/"><u>Sharing & Downloading Flipbooks for Offline Viewing | The Ultimate Guide with FlipBuilder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-quick-guide-overcoming-youtube-short-hurdles/"><u>[Updated] Quick Guide Overcoming YouTube Short Hurdles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/decoding-the-best-android-photography-software-is-picku-king/"><u>Decoding the Best Android Photography Software - Is PickU King?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/easy-tutorial-on-how-to-install-the-phone-manager-app-on-android-devices-via-apk/"><u>Easy Tutorial on How to Install the Phone Manager App on Android Devices via APK</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fundamental-characteristics-influencing-component-positioning/"><u>Fundamental Characteristics Influencing Component Positioning</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-itel-s23plus-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Itel S23+ FRP</u></a></li>
+<li><a href="https://fox-where.techidaily.com/innovative-ilibrary-component-tools-and-techniques/"><u>Innovative ILibrary Component Tools & Techniques</u></a></li>
+<li><a href="https://fox-where.techidaily.com/project-configuration-installation-settings-dashboard/"><u>Project Configuration – Installation Settings Dashboard</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-guide-installing-and-exploring-ifunnys-meme-app-for-2024/"><u>Quick Guide Installing & Exploring iFunny's Meme App for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/shotchrome-ultra-premium-chromeos-snapshooter/"><u>ShotChrome Ultra Premium ChromeOS Snapshooter</u></a></li>
 </ul></div>
 

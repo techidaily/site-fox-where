@@ -1,7 +1,7 @@
 ---
 title: "Custom File Handling Actions: Mastering IAttachedFile"
-date: 2024-09-22T16:08:35.202Z
-updated: 2024-09-30T01:33:56.899Z
+date: 2024-10-03T18:29:29.946Z
+updated: 2024-10-05T20:54:34.058Z
 tags:
   - user-guide
 categories:
@@ -125,22 +125,15 @@ Table of Contents
 
 ## IAttachedFileCustomAction
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IAttachedFileCustomAction : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +141,10 @@ IAttachedFileCustomAction : ICustomAction
 This interface facilitates editing custom action for launching attached executable file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -159,6 +152,13 @@ This interface facilitates editing custom action for launching attached executab
 **String AttachedSourceFile** \- Gets or sets the source path to the custom action executable file.
 
 **String CommandLine** \- Get or sets the command line arguments for launching executable file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Examples
 
@@ -170,10 +170,10 @@ $custAct.CommandLine = "command line arguments"
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -215,21 +215,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-cinema-for-all-a-comparative-look-at-vimeo-and-youtube/"><u>[New] In 2024, Cinema for All? A Comparative Look at Vimeo & YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-thorough-evaluation-of-the-high-resolution-dell-p2715q-monitor/"><u>2024 Approved A Thorough Evaluation of the High-Resolution Dell P2715Q Monitor</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-p40-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel P40 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/creative-tims-bootstrap-magic-build-stunning-web-forms-free/"><u>Creative Tim's Bootstrap Magic: Build Stunning Web Forms FREE!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/creative-tims-notus-tailwind-access-premium-tailwind-css-ui-components-for-free-with-administrator-panel/"><u>Creative Tim's Notus Tailwind: Access Premium Tailwind CSS UI Components for Free with Administrator Panel</u></a></li>
-<li><a href="https://fox-where.techidaily.com/creative-tims-premium-vue-material-kit-v2-exclusive-vuejs-3-plus-bootstrap-5-bundle-now-free/"><u>Creative Tim's Premium Vue Material Kit v2: Exclusive VueJS 3 + Bootstrap 5 Bundle - Now Free!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/creative-tims-vuejs-laravel-admin-panel-template-updivision-collaboration/"><u>Creative Tim's Vue.js Laravel Admin Panel Template - Updivision Collaboration</u></a></li>
-<li><a href="https://fox-where.techidaily.com/discover-exceptional-no-cost-svelte-templates-and-layouts-by-creative-tim/"><u>Discover Exceptional, No-Cost Svelte Templates & Layouts by Creative Tim</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-restore-functionality-of-a-malfunctioning-razer-kraken-mic/"><u>Effective Techniques to Restore Functionality of a Malfunctioning Razer Kraken Mic</u></a></li>
-<li><a href="https://fox-where.techidaily.com/elevate-your-web-projects-with-over-36plus-premium-tailwind-css-templates-and-themes-from-creative-tim/"><u>Elevate Your Web Projects with Over 36+ Premium Tailwind CSS Templates and Themes From Creative Tim</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/emoji-investment-tips-hacked-video-game-giants-and-the-chatgpt-job-uproar-unraveling-tech-trends/"><u>Emoji Investment Tips, Hacked Video Game Giants & the ChatGPT Job Uproar: Unraveling Tech Trends</u></a></li>
-<li><a href="https://fox-where.techidaily.com/experience-easy-web-design-with-nuxt-black-a-free-nuxtbootstrap-4-dashboard-by-creative-tim/"><u>Experience Easy Web Design with Nuxt Black, a FREE Nuxt/Bootstrap 4 Dashboard by Creative Tim</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-acpisys-problems-in-windows-11-easy-solutions-and-tips/"><u>Fixing ACPI.sys Problems in Windows 11 - Easy Solutions and Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-90-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor 90 to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-saving-live-periscope-broadcasts/"><u>In 2024, The Complete Guide to Saving Live Periscope Broadcasts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/viewer-payouts-for-video-engagement-for-2024/"><u>Viewer Payouts for Video Engagement for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-complete-critique-unmasking-the-bublcam-360-experience/"><u>[New] Complete Critique Unmasking the Bublcam 360 Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-innovative-tactics-for-stellar-facebook-ad-videos/"><u>[Updated] Innovative Tactics for Stellar Facebook Ad Videos</u></a></li>
+<li><a href="https://fox-where.techidaily.com/apowersoft-introduces-enhanced-screencapture-pro-version-11/"><u>Apowersoft Introduces Enhanced ScreenCapture Pro Version 1.1</u></a></li>
+<li><a href="https://fox-where.techidaily.com/detailed-product-information-and-specifications/"><u>Detailed Product Information & Specifications</u></a></li>
+<li><a href="https://fox-where.techidaily.com/essential-windows-wow6432-node-registry-key-guide/"><u>Essential Windows WOW6432 Node Registry Key Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/find-the-right-product-version-expert-search-guide/"><u>Find the Right Product Version: Expert Search Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-your-lg-screen-drivers-compatibility-with-windows-10781-resolved/"><u>Fixing Your LG Screen: Drivers Compatibility with Windows 10/7/8.1 Resolved</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-note-12-proplus-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi Note 12 Pro+ 5G Phones with/without a PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-revamp-your-videos-how-to-give-them-a-cartoon-makeover-for-2024/"><u>New Revamp Your Videos How to Give Them a Cartoon Makeover for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/optimizing-team-access-essential-guide-to-subscriptions-and-licenses/"><u>Optimizing Team Access: Essential Guide to Subscriptions and Licenses</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-gaomon-pd1560-graphic-pad-a-top-notch-pen-display-reviewed/"><u>Unveiling the Gaomon PD1560 Graphic Pad - A Top-Notch Pen Display Reviewed</u></a></li>
 </ul></div>
 

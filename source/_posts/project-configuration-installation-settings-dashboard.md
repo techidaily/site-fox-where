@@ -1,7 +1,7 @@
 ---
 title: Project Configuration – Installation Settings Dashboard
-date: 2024-09-23T17:32:01.302Z
-updated: 2024-09-30T02:31:43.122Z
+date: 2024-09-30T18:55:41.730Z
+updated: 2024-10-05T17:05:22.439Z
 tags:
   - user-guide
 categories:
@@ -78,6 +78,13 @@ In this tab you can configure the digital signature of your package.
 
 ![Digital signature settings tab](https://cdn.advancedinstaller.com/img/ui/digital-signature-settings-tab.png "Digital signature settings tab")  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Enable signing
 
 Checking this checkbox will enable the actual signing of the package. 
@@ -86,21 +93,7 @@ Checking this checkbox will enable the actual signing of the package.
 
 This button can be used to clear all fields.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Signing Tool
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Built-in
 
@@ -117,19 +110,6 @@ Select a custom signing tool.
 Enter a command line for the above cutom signing tool.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Environment variables can be specified in _Command Line_ field and they can be referenced as %ENV%.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Software Publisher Certificate
 
@@ -149,13 +129,6 @@ Copy
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To view or manage certificates inside the system store, you can use**certmgr.msc** tool (Press Windows Key +R, type "certmgr.msc" and press enter).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **\[Create... \]** \- Creates a certificate with which you can sign your package for testing. Make sure you install it as a trusted certificate and use it only for testing purposes.
 
 #### Use file from disk
@@ -165,10 +138,10 @@ When this option is selected the certificate used to sign the files is loaded fr
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Advanced Installer supports both _Personal Information Exchange PKCS #12 (.pfx)_ and _X509 (.cer)_ certificates.The _.pfx_ certificates contain both the public and private keys. The _.cer_ certificates contain only the public key, the private key being stored onto an USB eToken (protected by password).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Certificate** \- This field contains the path on disk to the certificate. You can use the \[... \] button in this field to select one from your hard-drive.
@@ -226,6 +199,13 @@ To better understand this feature see this article: [Azure Key Vault basic conce
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Signing using a certificate from Azure Key Vault only works on Windows 10 and above.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Tenant ID
 
 The Azure active directory where Key Vault resides. This field is mandatory!
@@ -258,16 +238,16 @@ When using Advanced Installer from command line, you can set the _Client secret_
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Due to the fact that the _Client secret_ is not stored in the project file, SetAzureKeyVaultSecret command can be used only from a .AIC [command file](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For increased security, the _Client secret_ can be stored in an Environment variable using \-secret\_is\_env\_var\_name switch. With this switch, the command will interpret that the name entered as a parameter is an environment variable.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For security reasons, environment variables can be used in all the above fields instead of the actual values. Environment variables can be easily securitized in Azure Pipelines. For example the actual Tenant Id can be stored in%TenantId% Environment variable. In this case, just enter the the%TenantId% reference in the _Tenant Id_ field. At build time the value stored in this environment variable will resolved and used for the Tenant ID.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Azure Key Vault certificate subject can be synchronized with the MSIX Publisher ID. To achieve this you must press the _Synchronize_ button from _Publisher Section_ of [Package Information](https://tools.techidaily.com/advancedinstaller/products/) page. At build time the subject - publisher ID mismatch is detected automatically.
 
@@ -275,16 +255,16 @@ For increased security, the _Client secret_ can be stored in an Environment vari
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Device Guard signing only works on Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To sign a package with Device Guard you need an Azure account configured for Device Guard signing. For more information regarding the configuration see this article:[Sign an MSIX package with Device Guard signing](https://tools.techidaily.com/advancedinstaller/products/)
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The Publisher ID from [Package Information Page](https://tools.techidaily.com/advancedinstaller/products/) must adhere to the following format:_CN=account\_name.onmicrosoft.com_
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Using command line
 
@@ -303,14 +283,14 @@ Copy
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If the account is not properly configured for Device Guard signing, signing a file could trigger an error that can imply that the timestamp can't be applied.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Signature Properties
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Description
 
@@ -329,6 +309,20 @@ The “Timestamp service URL” specifies the URL of the timestamp server. An ex
 <https://www.sectigo.com/resource-library/time-stamping-server>.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Signature properties are required to display the exact MSI name on the UAC prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Timestamp delay (ms)
 
@@ -377,20 +371,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>[New] 2024 Approved The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-explore-and-capture-mountains-with-best-cameras/"><u>[New] Explore and Capture Mountains with Best Cameras</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-avoiding-unwanted-shaking-in-dynamic-gopro-footage/"><u>2024 Approved Avoiding Unwanted Shaking in Dynamic GoPro Footage</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-setting-up-your-gaming-studio-with-obs/"><u>2024 Approved Setting Up Your Gaming Studio with OBS</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-insights-powered-through-cookiebot-integration/"><u>Discover Insights Powered Through Cookiebot Integration</u></a></li>
-<li><a href="https://fox-where.techidaily.com/elevate-your-web-projects-with-over-36plus-premium-tailwind-css-templates-and-themes-from-creative-tim/"><u>Elevate Your Web Projects with Over 36+ Premium Tailwind CSS Templates and Themes From Creative Tim</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/essential-zombies-unleashed-a-curated-list/"><u>Essential Zombies Unleashed A Curated List</u></a></li>
-<li><a href="https://fox-where.techidaily.com/experience-easy-web-design-with-nuxt-black-a-free-nuxtbootstrap-4-dashboard-by-creative-tim/"><u>Experience Easy Web Design with Nuxt Black, a FREE Nuxt/Bootstrap 4 Dashboard by Creative Tim</u></a></li>
-<li><a href="https://fox-where.techidaily.com/free-blackdashboard-react-and-genezio-admin-template-by-creative-tim-no-costs/"><u>Free BlackDashboard React & Genezio Admin Template by Creative Tim - No Costs!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/get-your-project-on-track-with-a-complimentary-pre-designed-white-dashboard-in-laravel-from-creative-tims-toolkit/"><u>Get Your Project on Track with a Complimentary Pre-Designed White Dashboard in Laravel From Creative Tim's Toolkit</u></a></li>
-<li><a href="https://fox-where.techidaily.com/harnessing-the-power-of-bootstrap-with-blk-design-system-by-creative-tim-the-ultimate-free-resource/"><u>Harnessing the Power of Bootstrap with BLK Design System by Creative Tim - The Ultimate Free Resource!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/innovate-your-project-with-free-bootstrap-react-admin-from-creative-tim-mastering-modern-uis-with-our-react-framework-template/"><u>Innovate Your Project with Free Bootstrap React Admin From Creative Tim: Mastering Modern UIs with Our React Framework Template</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-gadget-galaxy-with-toms-hardware-reviews/"><u>Navigating the Gadget Galaxy with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://fox-where.techidaily.com/premier-creative-tim-ui-kit-advanced-bootstrap-4-design-system-with-pro-features/"><u>Premier Creative Tim UI Kit – Advanced Bootstrap 4 Design System with PRO Features</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-mass-folder-creation-made-simple-for-windows-users/"><u>Step-by-Step Guide: Mass Folder Creation Made Simple for Windows Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-complete-user-manual-to-facetunes-photo-fixes/"><u>[New] In 2024, The Complete User Manual to Facetune's Photo Fixes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-steering-to-your-own-musical-selections-on-youtube/"><u>[New] Steering to Your Own Musical Selections on Youtube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-starting-with-a-bang-building-a-youtube-presence/"><u>[Updated] Starting with a Bang Building a YouTube Presence</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-pova-5-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Pova 5 to PC? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/looking-for-subtitle-edit-mac-alternative-here-are-the-best-options/"><u>Looking for Subtitle Edit Mac Alternative? Here Are the Best Options</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-tecno-pop-8-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Tecno Pop 8 Phone Now with These Tips</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-guide-to-screen-recording-on-iphones-mastering-techniques-for-iphone-x/"><u>Ultimate Guide to Screen Recording on iPhones: Mastering Techniques for iPhone X</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-guide-how-to-easily-upload-your-tracks-to-soundcloud/"><u>Ultimate Guide: How to Easily Upload Your Tracks to SoundCloud</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-im6s-driver-constraint-a-comprehensive-guide/"><u>Understanding the IM6's Driver Constraint: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/versatile-methods-transforming-your-myspace-music-into-mp3-format/"><u>Versatile Methods: Transforming Your MySpace Music Into MP3 Format</u></a></li>
 </ul></div>
 

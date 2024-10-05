@@ -1,7 +1,7 @@
 ---
 title: Getting Started with Dependency Management in the Setup Files Pane
-date: 2024-09-23T02:25:29.544Z
-updated: 2024-09-29T16:10:51.601Z
+date: 2024-10-04T18:43:56.415Z
+updated: 2024-10-05T20:25:29.984Z
 tags:
   - user-guide
 categories:
@@ -91,13 +91,6 @@ A prerequisite package can be retrieved from one of the following locations:
 
 ## Main Setup File
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### File path/URL
 
  This field lets you specify the exact path, URL or website address which contains the prerequisite installation package. The URL field can be [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) or [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) (for Feature-based prerequisites only).
@@ -105,16 +98,10 @@ A prerequisite package can be retrieved from one of the following locations:
 Use the \[... \] button to edit the URL using the [Edit PseudoFormatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folder
@@ -131,11 +118,25 @@ Copy
 
 If the “?FILE” construction is missing (just the “DIRECTORY” name is specified), the download file name from URL is used automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Save return value in this property
 
 This field holds the name of the property in which the prerequisite installer will store its return value. You can use this property during the install process of your main MSI.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)This field is forced to **uppercase characters** due to the fact that only**public properties** set during Wizard Dialogs Stage will be passed to Install Execution Stage.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Action to be run before the package installation
 
@@ -150,10 +151,10 @@ Using this option you can select any of the custom actions declared in the proje
 In this list, you can add additional files required by your prerequisite.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding files
@@ -163,10 +164,10 @@ In this list, you can add additional files required by your prerequisite.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only files that are in the primary setup file folder or one of its sub-folders can be added.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing files
@@ -182,20 +183,13 @@ This allows you to enable [LZMA Compression](https://tools.techidaily.com/advanc
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In order to use compression, your prerequisite files must be included in the EXE bootstrapper. This setting can be changed in the [Configuration Tab](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Logging
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Enable Logging
 
@@ -238,20 +232,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-flawless-conversion-needed-try-these-top-8-sub-and-srt-tools/"><u>[New] Flawless Conversion Needed? Try These Top 8 Sub & Srt Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-swipe-right-for-speed-quick-tiktok-video-acquisition/"><u>[Updated] 2024 Approved Swipe Right for Speed - Quick TikTok Video Acquisition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-record-powerpoint-presentation-with-webcam/"><u>[Updated] In 2024, How to Record PowerPoint Presentation with Webcam</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-gaming-setup-check-out-lgs-27uhd68-monitor-for-2024/"><u>[Updated] The Ultimate Gaming Setup? Check Out LG’s 27UHD68 Monitor for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/can-we-preserve-the-flip-initiative-for-later-use-discover-how-at-flipbuildercom/"><u>Can We Preserve The Flip Initiative For Later Use? Discover How At flipbuilder.com</u></a></li>
-<li><a href="https://techtrends.techidaily.com/chatgpt-plus-is-it-a-valuable-investment-top-5-benefits-of-joining/"><u>ChatGPT Plus: Is It a Valuable Investment? Top 5 Benefits of Joining</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-guide-emailing-your-custom-designed-flipbooks-via-mail-learn-with-flipbuilder/"><u>Complete Guide: Emailing Your Custom-Designed FlipBooks via Mail - Learn with FlipBuilder</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-bulk-pdf-files-into-engaging-flash-ebooks-at-no-cost/"><u>Convert Bulk PDF Files Into Engaging Flash Ebooks at No Cost</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-your-documents-with-our-free-pdf-to-flash-flipbook-creator/"><u>Convert Your Documents with Our Free PDF-to-Flash Flipbook Creator</u></a></li>
-<li><a href="https://fox-where.techidaily.com/converting-bulleted-lists-into-animated-flip-books-with-flipbuilder-technology/"><u>Converting Bulleted Lists Into Animated Flip Books with FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-where.techidaily.com/discover-clearer-page-details-use-our-zooming-functionality-in-flipbook-viewing-exclusive-to-flipbuildercom/"><u>Discover Clearer Page Details - Use Our Zooming Functionality in Flipbook Viewing, Exclusive to FlipBuilder.com</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-amazon-luna-assessment-exceptionally-seamless-gaming-experience/"><u>In-Depth Amazon Luna Assessment: Exceptionally Seamless Gaming Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-ai-prompt-creation-the-future-of-jobs-analyzing-longevity-and-opportunities/"><u>Is AI Prompt Creation the Future of Jobs? Analyzing Longevity & Opportunities</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/quickconversion-a-simple-method-to-transform-your-quicktime-videos-into-high-quality-mov-format/"><u>QuickConversion: A Simple Method to Transform Your QuickTime Videos Into High-Quality MOV Format</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-fixing-non-charging-airpods-in-just-9-steps/"><u>The Ultimate Guide: Fixing Non-Charging AirPods in Just 9 Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-asmr-mic-spectacular-exceptional-sound-for-a-good-deal/"><u>[New] ASMR Mic Spectacular Exceptional Sound for a Good Deal</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-shorts-guide-what-is-it-and-how-to-make-shorts-video/"><u>[New] YouTube Shorts Guide What Is It and How To Make Shorts Video?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advancements-in-quantum-hdr-technology-explained/"><u>2024 Approved Advancements in Quantum HDR Technology Explained</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-complete-kinetic-review-2023/"><u>2024 Approved Complete Kinetic Review 2023</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-step-by-step-approach-to-enhanced-roblox-views/"><u>A Step-by-Step Approach to Enhanced Roblox Views</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comprehensive-package-specification-template-collection/"><u>Comprehensive Package Specification Template Collection</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/navigating-the-world-of-assemblies-webpages-a-comprehensive-guide/"><u>Navigating the World of Assemblies Webpages: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/seamless-cross-platform-music-migration-transferring-tunes-from-android-to-ios-devices/"><u>Seamless Cross-Platform Music Migration: Transferring Tunes From Android to iOS Devices</u></a></li>
+<li><a href="https://fox-where.techidaily.com/smart-management-of-ephemeral-data-storage-components-in-tech-environments/"><u>Smart Management of Ephemeral Data Storage Components in Tech Environments</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-find-x7-ultra-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo Find X7 Ultra with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-transferring-your-data-from-a-samsung-mobile-device-to-your-computer/"><u>Step-by-Step Guide: Transferring Your Data From a Samsung Mobile Device to Your Computer</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-imsixcomponents-breakdown-exploring-innovative-modular-elements-in-tech-systems/"><u>The IMsixComponents Breakdown: Exploring Innovative Modular Elements in Tech Systems</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/top-5-ai-youtube-shorts-generators-to-create-diverse-and-engaging-videos-for-2024/"><u>Top 5 AI YouTube Shorts Generators to Create Diverse and Engaging Videos for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/travellers-companion-the-ultimate-guide-of-93-indispensable-phrases/"><u>Traveller's Companion: The Ultimate Guide of 93 Indispensable Phrases</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-structure-of-page-groups-in-system-revisions-and-alterations/"><u>Understanding the Structure of Page Groups in System Revisions and Alterations</u></a></li>
 </ul></div>
 

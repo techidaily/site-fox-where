@@ -1,7 +1,7 @@
 ---
 title: "Bootstrapping Executable: Guide on Using an EXE File with CLI Commands"
-date: 2024-09-27T16:14:26.864Z
-updated: 2024-09-30T05:50:47.618Z
+date: 2024-09-29T20:22:40.494Z
+updated: 2024-10-05T16:20:17.674Z
 tags:
   - user-guide
 categories:
@@ -96,19 +96,6 @@ If you build your EXE setup with the installation files outside (MSI, CAB etc.),
 
 The EXE Setup program (EXE Bootstrapper) supports all [msiexec command-line](https://tools.techidaily.com/advancedinstaller/products/) options (basically all the command-line parameters you can use for an MSI package). A command-line received by the EXE Bootstrapper will be passed to msiexec when launching the main MSI. This command-line overrides the one specified in the "Install Options" from the [Configuration Settings Tab](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## "//" marker
 
 The // marker is automatically replaced by the EXE Bootstrapper with <path\_to\_msi>. Msiexec command-line parameters need to be appended to this command.
@@ -134,10 +121,10 @@ To learn more about how pass commands to your MSI and MSP packages see the [Msie
 These commands affect only the language selection dialog and the dialogs in the prerequisite wizard. To also affect the MSI package please use the standard MSIEXEC command-line parameters. Note that the MSI parameters must come after the Bootstrapper parameters.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### /extract <path>
@@ -176,13 +163,6 @@ Launches the EXE setup using the specified language. This command-line option wi
 
 Sets the username used by the proxy server in case the Installer needs Internet access. This command is deprecated, and you should use /proxyusername instead. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### /password
 
 Sets the password used by the proxy server in case the Installer needs Internet access. This command was deprecated and you should use /proxypassword instead. 
@@ -192,10 +172,10 @@ Sets the password used by the proxy server in case the Installer needs Internet 
 Sets the username used by the proxy server in case the Installer needs Internet access. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### /proxypassword <password>
@@ -211,10 +191,10 @@ Creates a log file at the specified path with the specified name. If a path and 
 Using this switch will force the Bootstrapper to cancel/discard the update checks if any is declared in the [Updater Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### /aespassword
@@ -231,13 +211,6 @@ Installs the AES encrypted Mypackage.exe using the password "secret" to decrypt 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)A particular example is installing [Multiple Instances Page](https://tools.techidaily.com/advancedinstaller/products/) from the command-line. The possibilities are described in [How do I install multiple instances from the command line?](https://tools.techidaily.com/advancedinstaller/products/) article.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### /prereqs <prereq\_id\_list>
 
 Specifies which prerequisites to be installed.
@@ -247,10 +220,10 @@ Specifies which prerequisites to be installed.
 Skips prerequistes installation.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### /newinst <instance\_id>
@@ -260,6 +233,13 @@ Installs new instance, where  <instance\_id>  is the instance id defined in your
 ### /upgrdinst <instance\_product\_code>
 
 Upgrades an installed instance.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### /selinst <instance\_product\_code>
 
@@ -274,10 +254,10 @@ Changes the instance "Product Name" when installing it.
 Options for msiexec.exe on running the MSI package.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## command-line switches order
@@ -296,6 +276,13 @@ Setup.exe /norestart /exelang 1033 /exenoui /qn
 
 Copy
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Return code
 
 The EXE Bootstrapper will return:
@@ -305,6 +292,13 @@ The EXE Bootstrapper will return:
 * otherwise, it will show the code returned by MSIExec.exe after running the main MSI
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Setup EXE provides the MSI it launches with the **SETUPEXEDIR** property which contains the folder path from where it was executed. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -339,16 +333,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-leveraging-your-roku-setup-for-exclusive-fb-live-content/"><u>[New] In 2024, Leveraging Your Roku Setup for Exclusive FB Live Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-optimal-video-tools-deciding-between-bandicam-and-camtasia/"><u>[New] In 2024, Optimal Video Tools Deciding Between Bandicam & Camtasia</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-essential-guide-to-snap-mastery/"><u>[New] The Essential Guide to Snap Mastery</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-itel-p55plus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Itel P55+ Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>2024 Approved Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-your-documents-with-our-free-pdf-to-flash-flipbook-creator/"><u>Convert Your Documents with Our Free PDF-to-Flash Flipbook Creator</u></a></li>
-<li><a href="https://fox-where.techidaily.com/converting-bulleted-lists-into-animated-flip-books-with-flipbuilder-technology/"><u>Converting Bulleted Lists Into Animated Flip Books with FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-where.techidaily.com/discover-clearer-page-details-use-our-zooming-functionality-in-flipbook-viewing-exclusive-to-flipbuildercom/"><u>Discover Clearer Page Details - Use Our Zooming Functionality in Flipbook Viewing, Exclusive to FlipBuilder.com</u></a></li>
-<li><a href="https://fox-where.techidaily.com/do-flipbuilder-e-books-include-a-showhide-feature-during-reading/"><u>Do FlipBuilder E-Books Include a 'Show/Hide' Feature During Reading?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/editing-internal-and-external-layouts-a-step-by-step-tutorial-for-flipbooks-using-flipbuilder/"><u>Editing Internal & External Layouts: A Step-by-Step Tutorial for Flipbooks Using FlipBuilder</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-vip-racing-edition-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 VIP Racing Edition To Phone | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-viral-watches-amazon-primes-hot-series-in-twittersphere/"><u>[New] Viral Watches Amazon Prime's Hot Series in Twittersphere</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-driving-traffic-with-creative-fb-video-marketing-hacks/"><u>[Updated] Driving Traffic with Creative FB Video Marketing Hacks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chromebook-voice-overhaul-guide-top-5-cloud-vocal-modification-tools-reviewed/"><u>2024 Approved Chromebook Voice Overhaul Guide Top 5 Cloud Vocal Modification Tools Reviewed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-top-playlist-hits-social-medias-1-10-video-winners/"><u>2024 Approved Top Playlist Hits Social Media's #1-#10 Video Winners</u></a></li>
+<li><a href="https://fox-where.techidaily.com/configuring-xml-structure-understanding-the-elements-configuration-pane/"><u>Configuring XML Structure: Understanding the Elements Configuration Pane</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/deconstructing-the-features-of-djis-quadcopter-model-3/"><u>Deconstructing the Features of DJI's Quadcopter Model 3</u></a></li>
+<li><a href="https://fox-where.techidaily.com/easy-tutorial-on-how-to-install-the-phone-manager-app-on-android-devices-via-apk/"><u>Easy Tutorial on How to Install the Phone Manager App on Android Devices via APK</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effortless-mp3-ringtone-creation-process-for-apple-devices-a-comprehensive-guide/"><u>Effortless MP3 Ringtone Creation Process for Apple Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/essential-information-every-startup-needs-about-acquiring-a-new-business-license/"><u>Essential Information Every Startup Needs About Acquiring a New Business License</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fundamental-characteristics-influencing-component-positioning/"><u>Fundamental Characteristics Influencing Component Positioning</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-ensure-smooth-gaming-keeping-ati-radeon-drivers-up-to-date-on-windows/"><u>How to Ensure Smooth Gaming: Keeping ATI Radeon Drivers Up-to-Date on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-max-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone XS Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-watchers-unveiling-who-sees-your-content/"><u>Instagram Watchers Unveiling Who Sees Your Content</u></a></li>
+<li><a href="https://fox-where.techidaily.com/project-configuration-installation-settings-dashboard/"><u>Project Configuration – Installation Settings Dashboard</u></a></li>
+<li><a href="https://fox-where.techidaily.com/seamless-sync-tutorial-displaying-your-samsung-galaxy-s9-on-a-flat-screen-tv/"><u>Seamless Sync Tutorial: Displaying Your Samsung Galaxy S9 on a Flat-Screen TV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-why-isnt-my-thaumaturge-game-starting-on-windows/"><u>Troubleshooting Steps: Why Isn't My Thaumaturge Game Starting on Windows?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-tutorial-incorporating-watermarked-text-and-graphics-into-your-pdf-documents-latest-update/"><u>Ultimate Tutorial: Incorporating Watermarked Text and Graphics Into Your PDF Documents, Latest Update</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unique-product-identification-code-deciphering-the-iproductcode/"><u>Unique Product Identification Code - Deciphering the IProductCode</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-htc-u23-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your HTC U23 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

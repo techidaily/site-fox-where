@@ -1,7 +1,7 @@
 ---
 title: 1. Standard Text Settings Menu
-date: 2024-09-23T04:57:55.020Z
-updated: 2024-09-29T16:50:29.028Z
+date: 2024-10-01T20:13:17.230Z
+updated: 2024-10-05T16:53:32.977Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Default strings can be used in subsequent projects, and their[localization ident
 ![Default strings tab](https://cdn.advancedinstaller.com/img/ui/default-strings-tab.png "Default strings tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Project Strings
@@ -93,22 +93,29 @@ In this section, you can provide translations for untranslated default strings o
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Changes made to the texts are marked with a green outline, which disappears after saving. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Store changes to repository
 
 Save changes to your repository. Each language will be stored in separate dictionaries.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Store changes to a specific location
 
@@ -119,19 +126,6 @@ Save changes as a dictionary file to a specific location on your computer. All l
 Manage dictionaries with the [Repository Manager](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)We will gladly offer you a free license if you help us with missing translations. To contact us regarding this, just use the**Send to Advanced Installer team** item from the [Repository Manager](https://tools.techidaily.com/advancedinstaller/products/) \> Dictionaries tab context menu.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -166,14 +160,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-10-ps5-external-hard-drives-you-can-find/"><u>[New] Top 10 Ps5 External Hard Drives You Can Find</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-illuminating-insights-for-iphone-night-photos-for-2024/"><u>[Updated] Illuminating Insights for iPhone Night Photos for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-windows-admin-error-for-apps/"><u>Bypassing Windows Admin Error for Apps</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-13t-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi 13T Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elite-mac-audio-recorders-discover-the-five-best-for-2024/"><u>Elite Mac Audio Recorders Discover the Five Best for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/hide-the-saving-feature-while-preserving-your-flipbooks-a-complete-guide-with-flipbuilder/"><u>Hide the Saving Feature While Preserving Your FlipBooks - A Complete Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-can-you-insert-clickable-links-into-content-made-with-flipbuilder-tools/"><u>How Can You Insert Clickable Links Into Content Made With FlipBuilder Tools?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-apply-watermarks-to-your-photos-using-the-powerful-features-of-flip-image-pro-software/"><u>How to Apply Watermarks to Your Photos Using the Powerful Features of Flip Image Pro Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-craft-custom-protective-sleeves-for-your-flipbook-creations-with-flipbuilder-tutorial/"><u>How To Craft Custom Protective Sleeves For Your FlipBook Creations With FlipBuilder Tutorial</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-technique-to-implement-youtube-playlists-smoothly-into-web-pages/"><u>[New] Technique to Implement YouTube Playlists Smoothly Into Web Pages</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-smooth-decline-techniques-for-controlled-audio-reduction/"><u>[Updated] 2024 Approved Smooth Decline Techniques for Controlled Audio Reduction</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-blueprint-entering-itunes-and-google-play-listings/"><u>[Updated] 2024 Approved The Blueprint Entering iTunes and Google Play Listings</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-editing-excellence-the-ultimate-guide-to-top-notebooks/"><u>2024 Approved Editing Excellence The Ultimate Guide to Top Notebooks</u></a></li>
+<li><a href="https://fox-where.techidaily.com/advanced-image-targeting-techniques-with-ipatch/"><u>Advanced Image Targeting Techniques with IPatch</u></a></li>
+<li><a href="https://fox-where.techidaily.com/detailed-overview-of-assembly-pages-structure-and-best-practices/"><u>Detailed Overview of Assembly Pages: Structure and Best Practices</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expanding-your-online-presence-strategies-for-growing-website-features-and-extensions/"><u>Expanding Your Online Presence: Strategies for Growing Website Features and Extensions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expert-guide-setting-up-timed-radio-broadcast-captures/"><u>Expert Guide: Setting Up Timed Radio Broadcast Captures</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-download-3dconnexion-drivers/"><u>How to Download 3Dconnexion Drivers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-joke-jigsaw-puzzles-build-with-kapwingenasian-memes/"><u>In 2024, Joke Jigsaw Puzzles Build with Kapwing’enasian Memes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-6-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 6</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-consistent-layout-configuration-the-tab-options-explained/"><u>Mastering Consistent Layout Configuration: The Tab Options Explained</u></a></li>
+<li><a href="https://fox-where.techidaily.com/quickinstall-tool-instant-software-update-wizard/"><u>QuickInstall Tool - Instant Software Update Wizard</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simplify-your-digital-space-the-iremovefiles-solution-for-quick-file-removal/"><u>Simplify Your Digital Space: The IRemoveFiles Solution for Quick File Removal</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-motorola-moto-g84-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Motorola Moto G84 5G Phone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-15-no-cost-software-to-change-your-videos-from-4k-tofrom-hd-best-pc-and-mac-options-revealed/"><u>Top 15 No-Cost Software to Change Your Videos From 4K To/From HD: Best PC & Mac Options Revealed</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-guide-to-effective-package-verification/"><u>Ultimate Guide to Effective Package Verification</u></a></li>
 </ul></div>
 

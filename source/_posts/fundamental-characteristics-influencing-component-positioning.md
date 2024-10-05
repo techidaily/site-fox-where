@@ -1,7 +1,7 @@
 ---
 title: Fundamental Characteristics Influencing Component Positioning
-date: 2024-09-24T08:38:11.080Z
-updated: 2024-09-30T04:04:08.302Z
+date: 2024-09-28T18:37:42.258Z
+updated: 2024-10-05T21:08:16.480Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 This type of search will try to find the component you want, retrieve its Key Path (or Key Member) and interpret it as a file or a folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### GUID
@@ -91,10 +91,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
  The searched component's Globally Unique Identifier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Type
@@ -104,16 +104,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * ComponentId
@@ -122,10 +116,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -161,18 +155,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-where.techidaily.com/y-plus-3-0/"><u> [ Y + 3 = 0 </u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-essentials-of-making-professional-level-facebook-reels/"><u>[New] In 2024, The Essentials of Making Professional-Level Facebook Reels</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-a-step-by-step-guide-to-crafting-an-effective-youtube-watch-later-playlist/"><u>[Updated] A Step-by-Step Guide to Crafting an Effective YouTube Watch Later Playlist</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-roundup-unleashing-the-best-5-online-title-makers/"><u>[Updated] The Ultimate Roundup Unleashing the Best 5 Online Title Makers</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-comparative-assessment-youtube-vs-dailymention/"><u>2024 Approved Comparative Assessment YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-premium-virtual-playstation-simulators-for-modern-computers/"><u>2024 Approved Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
-<li><a href="https://fox-where.techidaily.com/best-platforms-and-sites-to-showcase-your-flipbooks-discover-options-on-flipbuildercom/"><u>Best Platforms and Sites to Showcase Your Flipbooks: Discover Options on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-where.techidaily.com/burning-e-books-as-cds-with-flipbuilder-step-by-step-instructions/"><u>Burning E-Books as CDs with FlipBuilder - Step by Step Instructions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/making-history-revolutionary-gpt-4-by-openai/"><u>Making History: Revolutionary GPT-4 by OpenAI</u></a></li>
-<li><a href="https://fox-where.techidaily.com/premium-gaia-bootstrap-masterpiece-from-creative-tim-advanced-full-stack-templates-for-developers/"><u>Premium Gaia Bootstrap Masterpiece From Creative Tim: Advanced Full-Stack Templates for Developers</u></a></li>
-<li><a href="https://fox-where.techidaily.com/section-4b-fact/"><u>Section 4B: Fact.</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ultimate-bootstrap-ui-toolkit-with-paper-kit-pro-enhanced-design-solutions-from-creative-tim/"><u>Ultimate Bootstrap UI Toolkit with Paper Kit PRO: Enhanced Design Solutions From Creative Tim</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-unraveling-the-fabric-of-augmented-realities/"><u>[New] 2024 Approved Unraveling the Fabric of Augmented Realities</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-innovative-methods-for-effective-image-pairing/"><u>[New] In 2024, Innovative Methods for Effective Image Pairing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/v-friendly-settings-for-repeated-online-videos/"><u>[New] TV-Friendly Settings for Repeated Online Videos</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-standard-text-settings-menu/"><u>1. Standard Text Settings Menu</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommendations-for-full-rotation-shots/"><u>2024 Approved Expert Recommendations for Full Rotation Shots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-secrets-of-google-podcast-uploads/"><u>2024 Approved Unlocking the Secrets of Google Podcast Uploads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-the-newest-amd-radeon-v2410-gpu-software/"><u>Download the Newest AMD Radeon V24.10 GPU Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/easy-steps-setting-up-xml-import-wizard-panel/"><u>Easy Steps: Setting Up XML Import Wizard Panel</u></a></li>
+<li><a href="https://fox-where.techidaily.com/getting-started-with-dependency-management-in-the-setup-files-pane/"><u>Getting Started with Dependency Management in the Setup Files Pane</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-seamlessly-upload-youtube-videos-to-facebook-feed/"><u>How to Seamlessly Upload YouTube Videos to Facebook Feed</u></a></li>
+<li><a href="https://fox-where.techidaily.com/masterful-creation-of-ssrs-reports-using-optimized-resource-settings-interface/"><u>Masterful Creation of SSRS Reports Using Optimized Resource Settings Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-microsoft-account-woes-fix-user-profile-service-hiccups-in-windows-11/"><u>Mastering Microsoft Account Woes: Fix User Profile Service Hiccups in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-incompatibilities-usbasp-in-versions-from-81-to-win11/"><u>Overcoming Incompatibilities: USBasp in Versions From 8.1 to Win11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/restore-lost-images-efficient-photo-retrieval-from-memory-cards/"><u>Restore Lost Images: Efficient Photo Retrieval From Memory Cards</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-apowermanagers-inability-to-access-notes-on-iphones-and-ipads/"><u>Troubleshooting ApowerManager's Inability to Access Notes on iPhones and iPads</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-icomclass-unveiling-the-secrets-of-application-identifiers/"><u>Understanding IComClass: Unveiling the Secrets of Application Identifiers</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unlocking-success-understanding-the-top-six-dependencies-in-project-management/"><u>Unlocking Success: Understanding the Top Six Dependencies in Project Management</u></a></li>
 </ul></div>
 

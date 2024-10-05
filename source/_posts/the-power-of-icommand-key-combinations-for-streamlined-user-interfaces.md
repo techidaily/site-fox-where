@@ -1,7 +1,7 @@
 ---
 title: The Power of ICommand Key Combinations for Streamlined User Interfaces
-date: 2024-09-22T19:08:47.096Z
-updated: 2024-09-30T09:29:32.768Z
+date: 2024-09-28T17:11:47.608Z
+updated: 2024-10-05T16:49:59.314Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 Using this interface you can edit the command shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ Using this interface you can edit the command shortcut.
 ICommandShortcut : IBaseShortcut
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -169,18 +169,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-decrypt-viewer-counts-unveiling-instagram-audience-numbers/"><u>[New] Decrypt Viewer Counts Unveiling Instagram Audience Numbers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-pinterest-video-extraction-top-5-free-tools-ranked/"><u>[Updated] 2024 Approved Pinterest Video Extraction Top 5 Free Tools Ranked</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-youtubes-hidden-view-tracking-method/"><u>[Updated] Unlocking YouTube’s Hidden View Tracking Method</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effortlessly-save-your-favorite-viki-content-using-the-viki-video-downloader-tool/"><u>Effortlessly Save Your Favorite Viki Content Using the Viki Video Downloader Tool</u></a></li>
-<li><a href="https://fox-where.techidaily.com/find-your-perfect-match-the-definitive-guide-to-exceptional-smlodr-replacements-for-apple-and-pc-enthusiasts/"><u>Find Your Perfect Match: The Definitive Guide to Exceptional Smlodr Replacements for Apple and PC Enthusiasts!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-face-mix-ups-in-your-images-with-these-simple-tips-for-apple-photos-users/"><u>Fix Face Mix-Ups in Your Images with These Simple Tips for Apple Photos Users</u></a></li>
-<li><a href="https://fox-where.techidaily.com/free-kisscartoon-downloader-get-your-favorite-anime-episodes-with-ease/"><u>Free KissCartoon Downloader: Get Your Favorite Anime Episodes with Ease</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-converting-your-downloaded-babytv-content-into-common-formats-like-mp4-mov-and-avi/"><u>Guide: Converting Your Downloaded BabyTV Content Into Common Formats Like MP4, MOV & AVI</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone 13 Pro Max</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-pro-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Pro Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-dealing-with-persistent-glitches-in-pathfinder-wrath-of-the-righteous/"><u>Resolved: Dealing with Persistent Glitches in Pathfinder - Wrath of the Righteous</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-ways-to-reorder-youtube-watchlist-alphabetically/"><u>Swift Ways to Reorder YouTube Watchlist Alphabetically</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-list-best-mac-compatible-recorders/"><u>[New] In 2024, The Ultimate List Best Mac-Compatible Recorders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-navigating-the-business-of-home-produced-videos/"><u>[New] Navigating the Business of Home-Produced Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avoid-being-overwhelmed-by-tiktok-drafts-edits-for-orderliness/"><u>[Updated] Avoid Being Overwhelmed by TikTok Drafts Edits for Orderliness</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-top-rated-apps-for-effortlessly-adding-stickers-to-images/"><u>1. Top Rated Apps for Effortlessly Adding Stickers to Images</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-your-clips-to-life-a-compreenased-way-to-post-on-youtube/"><u>Bring Your Clips to Life A Compreenased Way to Post on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-fedora-40s-latest-enhancements-the-most-recent-advancements-in-this-popular-linux-distribution/"><u>Discover Fedora 40'S Latest Enhancements: The Most Recent Advancements in This Popular Linux Distribution</u></a></li>
+<li><a href="https://fox-where.techidaily.com/easy-conversion-tricks-changing-your-music-from-mp3-to-uncompressed-wav-audio/"><u>Easy Conversion Tricks: Changing Your Music From MP3 to Uncompressed WAV Audio</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-nvidia-7025nforce630a-windows-error/"><u>Fixing Nvidia 7025/nForce630a Windows Error</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-tuning-into-the-pubg-world-championships-live-telecast/"><u>Guide: Tuning Into the PUBG World Championships Live Telecast</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-uninstall-audiobook-files-on-your-iphone-three-simple-strategies/"><u>How To Uninstall Audiobook Files on Your iPhone: Three Simple Strategies</u></a></li>
+<li><a href="https://fox-where.techidaily.com/latest-update-release-notes-whats-new-and-improved/"><u>Latest Update Release Notes: What's New and Improved</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/peak-visionary-workspace-appraisal-for-2024/"><u>Peak Visionary Workspace Appraisal for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-guide-how-to-recover-accidentally-deleted-notes-on-your-iphone/"><u>Professional Guide: How to Recover Accidentally Deleted Notes on Your iPhone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/refine-your-photos-top-5-tools-for-sharpening-blurry-pictures/"><u>Refine Your Photos: Top 5 Tools for Sharpening Blurry Pictures</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-strategies-to-spot-and-eradicate-bogus-av-protection-programs/"><u>Step-by-Step Strategies to Spot and Eradicate Bogus AV Protection Programs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-of-grok-the-breakthrough-ai-from-elon-musk-and-its-price-tag/"><u>Unraveling the Mystery of Grok: The Breakthrough AI From Elon Musk & Its Price Tag</u></a></li>
 </ul></div>
 

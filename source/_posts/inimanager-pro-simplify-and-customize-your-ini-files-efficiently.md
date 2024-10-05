@@ -1,7 +1,7 @@
 ---
 title: "INIManager Pro: Simplify and Customize Your .ini Files Efficiently"
-date: 2024-09-27T05:03:01.422Z
-updated: 2024-09-30T00:48:18.030Z
+date: 2024-10-04T17:31:13.612Z
+updated: 2024-10-05T16:40:11.104Z
 tags:
   - user-guide
 categories:
@@ -113,15 +113,22 @@ Table of Contents
 Using this interface, you can edit an INI file or get, add or delete INI file sections.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IIniFile : IDirectoryMember
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -133,10 +140,16 @@ IIniFile : IDirectoryMember
 **Array<IIniSection> Sections** \- Gets all the INI sections from the file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -154,29 +167,10 @@ IIniFile : IDirectoryMember
 ![Inifile](https://cdn.advancedinstaller.com/img/powershell-automation/inifile.png "Inifile")  
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -217,20 +211,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-ignite-engagement-on-tiktok-explore-the-best-20-caption-ideas-for-2024/"><u>[New] Ignite Engagement on TikTok - Explore the Best 20 Caption Ideas for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-harness-the-potential-of-instagram-videos-for-brand-growth/"><u>[Updated] In 2024, Harness the Potential of Instagram Videos for Brand Growth</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-roblox-recording-best-practices-on-a-mac-for-2024/"><u>[Updated] Mastering Roblox Recording Best Practices on a Mac for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/access-kelbyone-educational-videos-for-free-direct-downloads-from-the-official-site/"><u>Access KelbyOne Educational Videos for Free - Direct Downloads From the Official Site</u></a></li>
-<li><a href="https://fox-info.techidaily.com/adding-depth-with-3d-text-in-photoshop-workflows/"><u>Adding Depth with 3D Text in Photoshop Workflows</u></a></li>
-<li><a href="https://fox-where.techidaily.com/browse-and-save-television-critiques-on-fernsehkritiktv-with-our-seo-best-practices-title-generator/"><u>Browse and Save Television Critiques on fernsehkritik.tv with Our SEO Best Practices Title Generator</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-guide-convert-and-save-vox-media-content-in-multiple-video-formats-like-mp4-mov-etc/"><u>Complete Guide: Convert and Save Vox Media Content in Multiple Video Formats Like MP4, MOV, Etc.</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-your-favorite-dailymotion-tracks-into-high-quality-mp3-files-with-our-top-video-converter/"><u>Convert Your Favorite DailyMotion Tracks Into High-Quality MP3 Files with Our Top Video Converter</u></a></li>
-<li><a href="https://fox-where.techidaily.com/download-high-quality-hd-movies-from-daftsex-site-directly-in-mp4-format/"><u>Download High-Quality HD Movies From DaftSex Site Directly in MP4 Format</u></a></li>
-<li><a href="https://fox-where.techidaily.com/downloading-and-saving-video-media-from-reddit-as-high-quality-mp4s-and-avis-a-step-by-step-guide/"><u>Downloading and Saving Video Media From Reddit as High-Quality MP4s & AVIs: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effortlessly-convert-your-spotify-playlist-into-itunes-format-for-hassle-free-listening/"><u>Effortlessly Convert Your Spotify Playlist Into iTunes Format for Hassle-Free Listening</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hunters-guide-to-best-camcorder-tech-today-for-2024/"><u>Hunters' Guide to Best Camcorder Tech Today for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/international-haunts-a-halloween-journey/"><u>International Haunts: A Halloween Journey</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-brisk-blueprint-to-crafting-google-image-mosaics-for-2024/"><u>The Brisk Blueprint to Crafting Google Image Mosaics for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-the-power-of-fcp-advanced-audio-editing-techniques/"><u>Updated In 2024, Unleash the Power of FCP Advanced Audio Editing Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-spontaneous-restart-issues-on-windows-10-systems/"><u>Diagnosing Spontaneous Restart Issues on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-where.techidaily.com/efficient-property-editing-interface-streamline-your-asset-management/"><u>Efficient Property Editing Interface: Streamline Your Asset Management</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/formulating-flashy-podcast-teasers/"><u>Formulating Flashy Podcast Teasers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-idea-to-reality-explore-these-12-inspirational-free-image-websites-for-2024/"><u>From Idea to Reality – Explore These 12 Inspirational Free Image Websites for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-properly-restart-or-reboot-a-computer-using-windows-8/"><u>How to Properly Restart or Reboot a Computer Using Windows 8</u></a></li>
+<li><a href="https://fox-where.techidaily.com/identifying-mobile-surveillance-are-you-being-watched-by-your-own-device/"><u>Identifying Mobile Surveillance: Are You Being Watched by Your Own Device?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-x6-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find X6</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-photovisionharmony-synchronize-ios-plus-sierra-photos/"><u>In 2024, PhotovisionHarmony Synchronize iOS + Sierra Photos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-hot-30i-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix Hot 30i Phones</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-application-virtualization-with-microsoft-system-center-app-v-version-5-tab-solutions-insights/"><u>Mastering Application Virtualization with Microsoft System Center App-V Version 5: Tab Solutions Insights</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-fast-and-easy-safari-screencapture-methods/"><u>Mastering Fast and Easy Safari Screencapture Methods</u></a></li>
+<li><a href="https://fox-where.techidaily.com/personalized-file-operations-tailored-action-techniques/"><u>Personalized File Operations: Tailored Action Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/relying-on-artifice-intelligence-can-chatgpt-help-you-survive-natures-test/"><u>Relying on Artifice Intelligence: Can ChatGPT Help You Survive Nature's Test?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-guide-to-creating-stellar-highlight-reels-varied-techniques-unveiled/"><u>Ultimate Guide to Creating Stellar Highlight Reels: Varied Techniques Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-securely-changing-your-apple-account-password-for-2020-and-beyond/"><u>Ultimate Tutorial: Securely Changing Your Apple Account Password for 2020 and Beyond</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo V29e? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Personalized Feature Specifications
-date: 2024-09-25T16:04:36.044Z
-updated: 2024-09-29T16:54:47.951Z
+date: 2024-09-28T19:59:52.311Z
+updated: 2024-10-05T19:53:43.662Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,10 @@ Table of Contents
 See [Custom Actions List](https://tools.techidaily.com/advancedinstaller/products/) for a detailed description of each predefined custom action in Advanced Installer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Execution Time
@@ -92,6 +92,13 @@ See [Custom Actions List](https://tools.techidaily.com/advancedinstaller/product
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)On Windows Vista or above the custom actions which affect the system or require Administrator privileges should run without impersonation. For this you can simply check the **Run under the LocalSystem account with full privileges (no impersonation)** option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Execution Options
 
 * _Run under the LocalSystem account with full privileges (no impersonation)_ \- the custom action will be executed under the LocalSystem account with full privileges. This option is not available for custom actions which are executed Immediately.
@@ -101,19 +108,6 @@ See [Custom Actions List](https://tools.techidaily.com/advancedinstaller/product
 * _Action Text..._ \- specify a text that will be displayed in the progress dialog box or written in the log file, when the custom action is being run. Use the button. The [Edit Action Properties Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed and will allow you to specify the text. Note that only deferred custom actions can set an Action Text.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Custom actions that are _executable_ files must return a value of 0 for success. The installer interprets any other return value as failure.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Execution Condition
 
@@ -128,20 +122,13 @@ See [Custom Actions List](https://tools.techidaily.com/advancedinstaller/product
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The _First Time Install_, _Upgrade_,_Regular uninstall_ and _Replaced by a new version_ options may not displayed by default, you should use the _Show upgrade options_ link to display them.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * _Advanced execution scenarios_ \- this link displays the [Advanced Execution Scenarios Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### UI Triggering Events
@@ -151,6 +138,13 @@ A list with all the [events](https://tools.techidaily.com/advancedinstaller/prod
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This list is shown only for custom actions without sequence. If the list is empty then the custom action will never execute.
 
 Select an event and click **Go to selected event dialog** link button to configure it in the [Dialog Editor Page](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -194,19 +188,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-customize-your-scroll-delete-instagram-suggestions/"><u>[New] Customize Your Scroll Delete Instagram Suggestions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-sharing-is-caring-but-not-without-copyright-checks-tiktok-for-2024/"><u>[New] Sharing Is Caring - But Not Without Copyright Checks (TikTok) for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitters-guide-adding-videos-for-2024/"><u>[Updated] Twitter's Guide Adding Videos for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-assessing-the-full-video-range-within-a-64128gb-memory-pool/"><u>2024 Approved Assessing the Full Video Range Within a 64/128GB Memory Pool</u></a></li>
-<li><a href="https://fox-where.techidaily.com/access-international-broadcasts-in-various-video-codecs-such-as-mp4-wmv-avi-get-your-files-here/"><u>Access International Broadcasts in Various Video Codecs Such as MP4, WMV, AVI – Get Your Files Here!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-guide-downloading-content-from-bg-video-successfully/"><u>Complete Guide: Downloading Content From BG Video Successfully</u></a></li>
-<li><a href="https://fox-where.techidaily.com/download-gameshows-from-gameone-convert-episodes-into-mp4wmvavi-formats-with-ease/"><u>Download Gameshows From GameOne: Convert Episodes Into MP4/WMV/AVI Formats with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-repair-usb-flash-drive-recognition-problems-with-ease/"><u>Expert Advice: Repair USB Flash Drive Recognition Problems with Ease</u></a></li>
-<li><a href="https://fox-where.techidaily.com/free-khan-academy-lecture-downloads-subtitled-video-collection/"><u>Free Khan Academy Lecture Downloads: Subtitled Video Collection</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-converting-and-downloading-your-fxs-analytics-footage-as-mp4-mp3-or-avi-on-macos-and-windows-systems/"><u>Guide: Converting and Downloading Your FXS Analytics Footage as MP4, MP3 or AVI on macOS & Windows Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-vivo-v30-lite-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo V30 Lite 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Tecno Phantom V Flip? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-e-reader-for-bibliophiles-unveiling-the-kobo-forma/"><u>The Ultimate E-Reader for Bibliophiles: Unveiling the Kobo Forma</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-protective-covers-for-samsung-galaxy-z-flip-6/"><u>Top-Rated Protective Covers for Samsung Galaxy Z Flip 6</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-digital-warriors-youtubes-top-ten-women-for-2024/"><u>[New] Digital Warriors YouTube’s #Top Ten Women for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-expertly-blending-tracks-using-audacity-crossfade-tools-for-2024/"><u>[New] Expertly Blending Tracks Using Audacity Crossfade Tools for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-iphone-solutions-for-reverse-playback/"><u>[New] IPhone Solutions for Reverse Playback</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-sculpt-social-shares/"><u>[New] Sculpt Social Shares</u></a></li>
+<li><a href="https://discover-community.techidaily.com/avsluttende-liste-over-obs-optaker-i-2028-forstehandlet-av-movavi/"><u>Avsluttende Liste over OBS-Optaker I 202([8] - Førstehandlet Av Movavi</u></a></li>
+<li><a href="https://win-top.techidaily.com/conversion-gratuita-de-archivos-m4r-a-wav-online-con-movavi/"><u>Conversión Gratuita De Archivos M4R a WAV Online Con Movavi</u></a></li>
+<li><a href="https://fox-where.techidaily.com/efficient-property-editing-interface-streamline-your-asset-management/"><u>Efficient Property Editing Interface: Streamline Your Asset Management</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-properly-restart-or-reboot-a-computer-using-windows-8/"><u>How to Properly Restart or Reboot a Computer Using Windows 8</u></a></li>
+<li><a href="https://fox-where.techidaily.com/identifying-mobile-surveillance-are-you-being-watched-by-your-own-device/"><u>Identifying Mobile Surveillance: Are You Being Watched by Your Own Device?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/personalized-file-operations-tailored-action-techniques/"><u>Personalized File Operations: Tailored Action Techniques</u></a></li>
 </ul></div>
 

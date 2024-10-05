@@ -1,7 +1,7 @@
 ---
 title: Advanced Image Targeting Techniques with IPatch
-date: 2024-09-27T09:37:23.936Z
-updated: 2024-09-30T06:37:28.109Z
+date: 2024-10-02T18:02:57.954Z
+updated: 2024-10-05T20:08:27.029Z
 tags:
   - user-guide
 categories:
@@ -118,10 +118,10 @@ Table of Contents
 ## IPatchTargetImage
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -129,10 +129,10 @@ Table of Contents
 IPatchTargetImage : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -140,10 +140,10 @@ IPatchTargetImage : IDispatch
 This interface is meant to edit target image properties
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -175,10 +175,10 @@ This interface is meant to edit target image properties
 **RemoveSymbolsFolder(String aSymbolsFolder)** Removes a folder from disk containing symbol files from the SymbolsFolder collection. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -220,15 +220,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-convenient-steps-upside-down-video-via-vlc-application/"><u>[New] 2024 Approved Convenient Steps Upside Down Video via VLC Application</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-demystifying-the-process-of-high-dynamic-range-in-photoshop/"><u>[New] In 2024, Demystifying the Process of High Dynamic Range in Photoshop</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-step-by-step-tutorial-for-effective-morphvox-audio-changes/"><u>[Updated] Step-by-Step Tutorial for Effective MorphVOX Audio Changes</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-ultimate-guide-to-fetching-your-favorites-effortless-dramafever-movie-and-series-downloads/"><u>1. Ultimate Guide to Fetching Your Favorites: Effortless DramaFever Movie and Series Downloads</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-comic-relief-in-the-metaverse-meme-basics-unveiled/"><u>Crafting Comic Relief in the Metaverse – Meme Basics Unveiled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hassle-free-tweak-no-current-nvidia-screen/"><u>Hassle-Free Tweak: No Current NVIDIA Screen</u></a></li>
-<li><a href="https://fox-where.techidaily.com/seamless-conversion-guide-transforming-soundcloud-songs-into-mp3-files/"><u>Seamless Conversion Guide: Transforming SoundCloud Songs Into MP3 Files</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-how-to-convert-and-save-music-files-in-different-codes-mp3-wav-from-qobuz-library/"><u>Step-by-Step Tutorial: How to Convert and Save Music Files in Different Codes (MP3, WAV) From Qobuz Library</u></a></li>
-<li><a href="https://fox-where.techidaily.com/streaming-spotify-on-amazon-tech-two-easy-ways-with-alexa-compatibility/"><u>Streaming Spotify on Amazon Tech: Two Easy Ways with Alexa Compatibility</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-your-security-settings-on-windows-11/"><u>Tailoring Your Security Settings on Windows 11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-user-configuration-panel-customize-your-apps-interface/"><u>1. User Configuration Panel: Customize Your App's Interface</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-flawless-4k-quality-in-plex-streams-a-step-by-step-tutorial-for-optimal-playback/"><u>Achieve Flawless 4K Quality in Plex Streams: A Step-by-Step Tutorial for Optimal Playback</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-determining-superiority-in-code-chatgpt-vs-gemini/"><u>AI Showdown: Determining Superiority in Code - ChatGPT Vs. Gemini</u></a></li>
+<li><a href="https://fox-where.techidaily.com/best-10-no-cost-file-explorer-applications-for-android-devices/"><u>Best 10 No-Cost File Explorer Applications for Android Devices</u></a></li>
+<li><a href="https://fox-where.techidaily.com/creating-the-ultimate-facebook-birthday-celebration-video-top-3-strategies-that-work/"><u>Creating the Ultimate Facebook Birthday Celebration Video: Top 3 Strategies That Work!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/dissecting-the-efficacy-of-vidma-as-a-recorder-for-2024/"><u>Dissecting the Efficacy of Vidma as a Recorder for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-ineffectiveness-to-influence-with-smm-mastery-for-2024/"><u>From Ineffectiveness to Influence with SMM Mastery for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-mastering-the-art-of-color-bump-3d-gameplay-on-your-computer/"><u>Guide: Mastering the Art of Color Bump 3D Gameplay on Your Computer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-100-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor 100 Pro Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oneplus-nord-n30-se-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For OnePlus Nord N30 SE Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-comparison-how-does-the-ipad-pro-measure-up-to-the-surface-pro/"><u>In-Depth Comparison: How Does the iPad Pro Measure Up to the Surface Pro?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/quick-tips-for-making-calls-directly-from-your-desktop-to-any-phone/"><u>Quick Tips for Making Calls Directly From Your Desktop to Any Phone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/speedy-google-play-music-extractor-the-quick-guide-for-efficient-music-download/"><u>Speedy Google Play Music Extractor: The Quick Guide for Efficient Music Download</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-free-decision-making-tools-of-2020-in-depth-reviews/"><u>Top Free Decision-Making Tools of 2020: In-Depth Reviews</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-difference-antivirus-protection-vs-internet-security-solutions/"><u>Understanding the Difference: Antivirus Protection Vs. Internet Security Solutions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-how-to-fix-kernel-panic-on-mac/"><u>Video - How to Fix Kernel Panic on Mac?</u></a></li>
 </ul></div>
 

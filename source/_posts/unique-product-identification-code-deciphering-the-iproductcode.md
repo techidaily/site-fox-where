@@ -1,7 +1,7 @@
 ---
 title: Unique Product Identification Code - Deciphering the IProductCode
-date: 2024-09-22T20:47:57.840Z
-updated: 2024-09-30T10:49:38.190Z
+date: 2024-09-30T21:05:00.880Z
+updated: 2024-10-05T21:07:57.516Z
 tags:
   - user-guide
 categories:
@@ -110,13 +110,6 @@ Table of Contents
 
 This interface is meant to edit the [“Product Code”](https://tools.techidaily.com/advancedinstaller/products/) for specific languages present in the project.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
  IProductCode: IDispatch 
@@ -149,26 +142,32 @@ Generates a new product code for all languages in the project.
 $advinst = new-object -comObject "AdvancedInstaller"
 $proj    = $advinst.CreateProject($advinst.ProjectTypes.Architect)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## generate new product code
 $proj.ProductDetails.ProductCode.GenerateAll()
 $new_prodCode = $proj.ProductDetails.ProductCode.GetProductCode()
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## generate upgrade code
 $upgradeCode     = $proj.ProductDetails.UpgradeCode.UpgradeCode
 $new_upgradeCode = $proj.ProductDetails.UpgradeCode.GenerateUpgradeCode()
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## load a project with multiple languages
@@ -176,6 +175,13 @@ $projPath = "C:\Tests\Powershell COM\multi-language.aip"
 
 ## generate different product codes for each language
 $projPath.ProductDetails.ProductCode.SetDifferentValues()
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## get product code per language package
 $pc_en = $projPath.ProductDetails.ProductCode.GetProductCode(1033)
@@ -186,10 +192,10 @@ $pc_de = $projPath.ProductDetails.ProductCode.GetProductCode(1031)
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -233,15 +239,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-advanced-audio-editing-apps-ranked-by-users/"><u>[New] In 2024, Advanced Audio Editing Apps Ranked by Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-your-guide-to-youtube-video-edits/"><u>[New] In 2024, From Raw to Refined Your Guide to YouTube Video Edits</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/8-mistakes-to-avoid-as-a-new-youtuber/"><u>8 Mistakes to Avoid as a New Youtuber</u></a></li>
-<li><a href="https://fox-where.techidaily.com/can-we-preserve-the-flip-initiative-for-later-use-discover-how-at-flipbuildercom/"><u>Can We Preserve The Flip Initiative For Later Use? Discover How At flipbuilder.com</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-guide-emailing-your-custom-designed-flipbooks-via-mail-learn-with-flipbuilder/"><u>Complete Guide: Emailing Your Custom-Designed FlipBooks via Mail - Learn with FlipBuilder</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-walkthrough-of-wmps-cd-handling-for-2024/"><u>Comprehensive Walkthrough of WMP's CD Handling for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-bulk-pdf-files-into-engaging-flash-ebooks-at-no-cost/"><u>Convert Bulk PDF Files Into Engaging Flash Ebooks at No Cost</u></a></li>
-<li><a href="https://fox-where.techidaily.com/convert-your-documents-with-our-free-pdf-to-flash-flipbook-creator/"><u>Convert Your Documents with Our Free PDF-to-Flash Flipbook Creator</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-void-comprehensive-aid-for-outriders-audio-troubleshooting/"><u>Fixing the Silent Void: Comprehensive Aid for Outriders Audio Troubleshooting</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/obile-savvy-tailoring-youtube-video-thumbnails-with-phones-for-2024/"><u>[New] Mobile-Savvy Tailoring YouTube Video Thumbnails with Phones for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-efficient-broadcast-techniques-incorporating-youtube-loops-on-tv/"><u>2024 Approved Efficient Broadcast Techniques Incorporating YouTube Loops on TV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-edge-headsets-for-drone-vr-use/"><u>2024 Approved Leading Edge Headsets for Drone VR Use</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-itel-p55t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Itel P55T Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-twitter-accounts-to-unlock-travel-secrets-score-deals-and-gain-valuable-insights-from-66-experts/"><u>Best Twitter Accounts to Unlock Travel Secrets: Score Deals and Gain Valuable Insights From 66 Experts.</u></a></li>
+<li><a href="https://fox-where.techidaily.com/creative-floor-plans-transforming-product-imagery-successfully/"><u>Creative Floor Plans: Transforming Product Imagery Successfully</u></a></li>
+<li><a href="https://fox-where.techidaily.com/discovering-concealed-ios-apps-easy-tips-and-tricks-for-iphone-users/"><u>Discovering Concealed iOS Apps: Easy Tips & Tricks for iPhone Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-streaming-speeds-on-steam-with-these-simple-solutions/"><u>Improve Streaming Speeds on Steam with These Simple Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-precisioncapture-w10-pro/"><u>In 2024, PrecisionCapture W10 Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mise-en-ligne-gratuite-comment-transformer-un-fichier-wav-en-format-wma-avec-movavi/"><u>Mise en Ligne Gratuite : Comment Transformer Un Fichier WAV en Format WMA Avec Movavi</u></a></li>
+<li><a href="https://fox-where.techidaily.com/quick-tips-to-restore-removed-contacts-from-your-iphone-device/"><u>Quick Tips to Restore Removed Contacts From Your iPhone Device</u></a></li>
+<li><a href="https://fox-where.techidaily.com/seamless-cross-platform-music-migration-transferring-tunes-from-android-to-ios-devices/"><u>Seamless Cross-Platform Music Migration: Transferring Tunes From Android to iOS Devices</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simple-hacks-to-enhance-iphone-speeds-under-ios-8/"><u>Simple Hacks to Enhance iPhone Speeds Under iOS 8</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simple-methods-for-recovering-deleted-pictures-on-your-android-device/"><u>Simple Methods for Recovering Deleted Pictures on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-into-latest-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into Latest Computer Hardware</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-step-by-step-strategy-for-eradicating-chinese-malware-from-your-system/"><u>Ultimate Step-by-Step Strategy for Eradicating Chinese Malware From Your System</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-structure-of-page-groups-in-system-revisions-and-alterations/"><u>Understanding the Structure of Page Groups in System Revisions and Alterations</u></a></li>
 </ul></div>
 
