@@ -1,7 +1,7 @@
 ---
 title: How to Modify System Center Configuration Manager Settings
-date: 2024-09-28T17:15:29.195Z
-updated: 2024-10-05T21:08:50.328Z
+date: 2024-10-03T18:46:40.017Z
+updated: 2024-10-10T16:34:11.348Z
 tags:
   - user-guide
 categories:
@@ -84,15 +84,28 @@ In the right view you to declare the settings for the selected configuration pro
 This panel displays both predefined and user made configuration profiles. By default, Advanced Installer comes with two predefined configurations:MSI Default and EXE Default. These configurations are _Read Only_ meaning they **can not** be deleted or changed. However, any of these profiles can be duplicated in order to modify their original settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add Configuration
 
 Use the "Add" context menu option or press theInsert key while the left panel is focused.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Duplicate Configuration
 
@@ -103,10 +116,10 @@ Use the "Duplicate" context menu option or press the+ key while a profile from t
 While a configuration profile is selected use the "Rename" context menu option or press the F2 key.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove Configuration
@@ -116,17 +129,16 @@ While a configuration profile is selected use the "Remove" context menu option o
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The SCCM Configuration dialog is available only in**Architect** projects.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -171,22 +183,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-growth-odyssey-of-ajey-nagar-on-youtube/"><u>[New] In 2024, The Growth Odyssey of Ajey Nagar on YouTube</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-standard-text-settings-menu/"><u>1. Standard Text Settings Menu</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-maximizing-impact-10-key-strategies-for-instagram-video-promotion/"><u>2024 Approved Maximizing Impact 10 Key Strategies for Instagram Video Promotion</u></a></li>
-<li><a href="https://fox-where.techidaily.com/easy-steps-setting-up-xml-import-wizard-panel/"><u>Easy Steps: Setting Up XML Import Wizard Panel</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effective-techniques-for-capturing-audio-from-clubhouse-sessions/"><u>Effective Techniques for Capturing Audio From Clubhouse Sessions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-v-purse-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor V Purse to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/income-comparison-exercise-monetizing-videos-on-dailymovement-and-youtube-for-2024/"><u>Income Comparison Exercise Monetizing Videos on DailyMovement & YouTube for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/masterful-creation-of-ssrs-reports-using-optimized-resource-settings-interface/"><u>Masterful Creation of SSRS Reports Using Optimized Resource Settings Interface</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/max-headphones-dilemma-quality-or-cost/"><u>Max Headphones Dilemma: Quality or Cost?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategic-approach-to-dealing-with-youtube-copyright-claims-for-2024/"><u>Strategic Approach to Dealing With YouTube Copyright Claims for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-100-vocabulary-slip-ups-in-everyday-english/"><u>Top 100 Vocabulary Slip-Ups in Everyday English</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/twitter-mastery-101-unlock-the-secrets-of-building-a-loyal-follower-base/"><u>Twitter Mastery 101: Unlock the Secrets of Building a Loyal Follower Base</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ultimate-guide-to-screen-recording-on-iphones-mastering-techniques-for-iphone-x/"><u>Ultimate Guide to Screen Recording on iPhones: Mastering Techniques for iPhone X</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ultimate-guide-how-to-easily-upload-your-tracks-to-soundcloud/"><u>Ultimate Guide: How to Easily Upload Your Tracks to SoundCloud</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-im6s-driver-constraint-a-comprehensive-guide/"><u>Understanding the IM6's Driver Constraint: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/versatile-methods-transforming-your-myspace-music-into-mp3-format/"><u>Versatile Methods: Transforming Your MySpace Music Into MP3 Format</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-vibes-the-best-bgm-to-complement-your-yt-short-creations-for-2024/"><u>Viral Vibes The Best BGM to Complement Your YT Short Creations for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-discovering-the-basics-of-discords-spoiler-tags/"><u>[New] In 2024, Discovering the Basics of Discord's Spoiler Tags</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ultimate-configuration-ticking-clocks-setup-guide-for-broadcasting-platforms/"><u>[Updated] In 2024, Ultimate Configuration Ticking Clocks Setup Guide for Broadcasting Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-guide-to-calculate-your-youtube-views-and-money-for-2024/"><u>[Updated] Ultimate Guide to Calculate Your YouTube Views and Money for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-user-configuration-panel-customize-your-apps-interface/"><u>1. User Configuration Panel: Customize Your App's Interface</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-audio-liberation-from-youtube-three-safe-methods/"><u>2024 Approved Audio Liberation From YouTube Three Safe Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/craft-a-signature-sound-how-to-modify-voices-for-instagram-for-2024/"><u>Craft a Signature Sound How to Modify Voices for Instagram for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immerse-yourself-in-3d-entertainment-the-complete-guide-to-streaming-with-fandango-from-home/"><u>Immerse Yourself in 3D Entertainment: The Complete Guide to Streaming with Fandango From Home</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-13-ultra-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi 13 Ultra Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimize-your-websites-analytics-and-personalization-using-cookiebot-technology/"><u>Optimize Your Website's Analytics and Personalization Using Cookiebot Technology</u></a></li>
+<li><a href="https://fox-where.techidaily.com/quick-tips-for-making-calls-directly-from-your-desktop-to-any-phone/"><u>Quick Tips for Making Calls Directly From Your Desktop to Any Phone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/speedy-google-play-music-extractor-the-quick-guide-for-efficient-music-download/"><u>Speedy Google Play Music Extractor: The Quick Guide for Efficient Music Download</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-free-decision-making-tools-of-2020-in-depth-reviews/"><u>Top Free Decision-Making Tools of 2020: In-Depth Reviews</u></a></li>
 </ul></div>
 

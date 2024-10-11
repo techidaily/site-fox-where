@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Setting Up XML Import Wizard Panel"
-date: 2024-10-04T16:11:10.585Z
-updated: 2024-10-05T19:22:18.507Z
+date: 2024-10-07T21:53:33.399Z
+updated: 2024-10-10T21:45:02.026Z
 tags:
   - user-guide
 categories:
@@ -98,10 +98,10 @@ Table of Contents
 ![File Install](https://cdn.advancedinstaller.com/img/dialog/xml-file-install.png "File Install")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Operation
@@ -126,10 +126,10 @@ Select one of the following options if you want to remove the XML file from the 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If none of the two available checkbox options is checked, the file will not be removed on uninstall.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component
@@ -143,6 +143,13 @@ Select what action should be performed in case an error occurs during the XML in
 * Abort installation - all system changes will rollback.
 * Skip file - the file which caused the error will be skipped. All the changes performed by the installation on this file will be reverted and the installation will continue.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Create backup before updating
 
 If this option is enabled a backup copy of the original XML file will be created before the update operation takes place. 
@@ -151,23 +158,16 @@ If this option is enabled a backup copy of the original XML file will be created
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Because XML file updates may occur during uninstall too, a backup of the file will be created on uninstall as well. If during uninstall an error occurs, a backup of the file will be created (regardless of this option) and the uninstall process will continue.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)It highly recommended that you leave this option**enabled**, because an unexpected error during the XML update process may _corrupt_ parts of your existing XML file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Common options
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Impersonate installing user
 
@@ -206,15 +206,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-beyondbasics-futurecameraspost-mycam-for-2024/"><u>[New] BeyondBasics FutureCamerasPost-MyCam for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-digital-recorder-snap-your-screen-upload-to-youtube-onlinepcmac/"><u>[Updated] In 2024, Digital Recorder Snap Your Screen, Upload to YouTube Online/PC/Mac</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-nubia-red-magic-8s-proplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nubia Red Magic 8S Pro+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/exploring-file-attributes-through-the-properties-dialog-box/"><u>Exploring File Attributes Through the Properties Dialog Box</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/how-to-purchase-digital-games-even-with-the-closure-of-xbox-360-marketplace/"><u>How To Purchase Digital Games Even With The Closure Of Xbox 360 Marketplace</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-zte-nubia-flip-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your ZTE Nubia Flip 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/manage-characteristics-through-edit-feature-options-window/"><u>Manage Characteristics Through Edit Feature Options Window</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-podcast-editing-101-how-to-edit-a-podcasta-beginners-guide/"><u>New 2024 Approved Podcast Editing 101 How to Edit a Podcasta Beginners Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-rated-tools-for-creating-stunning-transparent-png-images-essential-guides/"><u>Top-Rated Tools for Creating Stunning Transparent PNG Images: Essential Guides</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-essential-features-of-user-profiles/"><u>Understanding Essential Features of User Profiles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-content-creation-essential-tips-for-snapchat-success/"><u>[New] 2024 Approved Mastering Content Creation Essential Tips for Snapchat Success</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-behind-the-scenes-to-the-best-free-meme-designs/"><u>[New] In 2024, Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mediamatters-size-your-content-for-stellar-instagram/"><u>[New] MediaMatters Size Your Content for Stellar Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-social-media-supremacy-top-10-youtube-influencers/"><u>[Updated] Social Media Supremacy Top 10 YouTube Influencers</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-top-rated-apps-for-effortlessly-adding-stickers-to-images/"><u>1. Top Rated Apps for Effortlessly Adding Stickers to Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-average-playback-period-in-high-res-20mb-content/"><u>2024 Approved Average Playback Period in High-Res 20MB Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amplifying-your-youtube-presentation-size-for-2024/"><u>Amplifying Your YouTube Presentation Size for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/escaping-load-limbo-solutions-for-far-cry-5-display-issues-on-launch/"><u>Escaping Load Limbo: Solutions for Far Cry 5 Display Issues on Launch</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-completely-remove-twitter-from-your-iphone-a-step-by-step-guide/"><u>How to Completely Remove Twitter From Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/latest-update-release-notes-whats-new-and-improved/"><u>Latest Update Release Notes: What's New and Improved</u></a></li>
+<li><a href="https://fox-where.techidaily.com/masterclass-in-design-the-ultimate-walkthrough-for-diy-graduation-announcement-cards/"><u>Masterclass in Design: The Ultimate Walkthrough for DIY Graduation Announcement Cards</u></a></li>
+<li><a href="https://fox-where.techidaily.com/navigating-through-directory-tasks-a-comprehensive-guide-to-organizing-in-visual-studio-extensions-vsix/"><u>Navigating Through Directory Tasks: A Comprehensive Guide to Organizing in Visual Studio Extensions (VSIX)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/refine-your-photos-top-5-tools-for-sharpening-blurry-pictures/"><u>Refine Your Photos: Top 5 Tools for Sharpening Blurry Pictures</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-strategies-to-spot-and-eradicate-bogus-av-protection-programs/"><u>Step-by-Step Strategies to Spot and Eradicate Bogus AV Protection Programs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-secret-to-deep-sleep-on-win11/"><u>The Secret to Deep Sleep on Win11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-7-must-have-mirroring-apps-compatible-with-both-ios-and-android-devices/"><u>Top 7 Must-Have Mirroring Apps Compatible with Both iOS & Android Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ultimate-list-groundbreayer-vr-gloves-reviewed-for-2024/"><u>Ultimate List Groundbreayer VR Gloves Reviewed for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Customize Style Rules in the Advanced Formatting Tools
-date: 2024-09-30T18:43:15.038Z
-updated: 2024-10-05T19:22:14.844Z
+date: 2024-10-03T23:23:07.428Z
+updated: 2024-10-10T21:40:21.499Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ This dialog allows you to configure fallback conditional text styles.
 ![Edit Conditional Text Styles Dialog](https://cdn.advancedinstaller.com/img/dialog/conditional-text-style.png "Edit Conditional Text Styles Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding a new fallback conditional text style
@@ -90,34 +90,34 @@ This dialog allows you to configure fallback conditional text styles.
 Use the \[New... \] button, the “New...” context menu item or press theIns key. The [Edit Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to set the condition, followed by the text style combo box.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Editing a fallback conditional text style
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Edit Condition
 
 Use the \[Edit \] \> “Edit Condition...” button, the “Edit” > “Edit Condition...” context menu item or double-click the “Condition” column of an item in the list. The[Edit Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit the condition.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Edit Text Style
 
 Use the \[Edit \] \> “Edit Text Style...” button, the “Edit” > “Edit Text Style...” context menu item or double click the “Text Style” column of an item in the list. The combo box will dropdown the available text styles to choose from.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Removing a fallback conditional text style
@@ -157,17 +157,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails/"><u>[Updated] Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crack-the-code-unearthing-hidden-gems-in-youtubes-archive/"><u>[Updated] In 2024, Crack the Code Unearthing Hidden Gems in YouTube's Archive</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-online-no-download-gif-conversion-services-reviewed-for-2024/"><u>Best Online No-Download GIF Conversion Services Reviewed for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-rated-vr-joysticks-unveiled-for-2024/"><u>Best-Rated VR Joysticks Unveiled for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/complete-examination-screenflow-full-features-for-mac-for-2024/"><u>Complete Examination ScreenFlow Full Features for Mac for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-games-on-windows-11-and-10-free-nvidia-driver-update-now-available/"><u>Enhance Your Games on Windows 11 and 10 - Free Nvidia Driver Update Now Available!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-completely-remove-twitter-from-your-iphone-a-step-by-step-guide/"><u>How to Completely Remove Twitter From Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a05-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A05 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/masterclass-in-design-the-ultimate-walkthrough-for-diy-graduation-announcement-cards/"><u>Masterclass in Design: The Ultimate Walkthrough for DIY Graduation Announcement Cards</u></a></li>
-<li><a href="https://fox-where.techidaily.com/safe-surfing-in-chrome-the-ultimate-list-of-top-security-plugins-including-malwarefox/"><u>Safe Surfing in Chrome: The Ultimate List of Top Security Plugins, Including MalwareFox</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-7-must-have-mirroring-apps-compatible-with-both-ios-and-android-devices/"><u>Top 7 Must-Have Mirroring Apps Compatible with Both iOS & Android Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-book-trailers-reviewed-top-5-picks-revealed/"><u>[New] In 2024, Book Trailers Reviewed Top 5 Picks Revealed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-spectaculum-of-sight-top-picks-for-professional-8k-for-2024/"><u>[Updated] Spectaculum of Sight Top Picks for Professional 8K for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-lead-content-curator-enhancing-digital-narratives/"><u>1. Lead Content Curator: Enhancing Digital Narratives</u></a></li>
+<li><a href="https://fox-where.techidaily.com/best-free-online-photo-hosting-platforms/"><u>Best Free Online Photo Hosting Platforms</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/l-scoreboard-the-premier-six-of-video-downloads-for-2024/"><u>Global Scoreboard The Premier Six of Video Downloads for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up-for-2024/"><u>How To Be A Beauty Guru on YouTube Beauty Vlogger Set Up for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-effortlessly-broadcast-your-ipad-screen-to-a-tv-set/"><u>How to Effortlessly Broadcast Your iPad Screen to a TV Set</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-eliminate-your-digital-trail-and-become-internet-invisible-effective-strategies-for-a-fresh-start/"><u>How to Eliminate Your Digital Trail and Become Internet Invisible: Effective Strategies for a Fresh Start</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-se-2022-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/introducing-apowercompress-a-revolutionary-software-released-with-cutting-edge-capabilities/"><u>Introducing ApowerCompress - A Revolutionary Software Released With Cutting-Edge Capabilities</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-12-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/revamp-and-improve-essential-update-for-your-go-to-app/"><u>Revamp and Improve: Essential Update for Your Go-To App</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simple-steps-effortless-methods-to-stream-your-instagram-feed-directly-to-your-television/"><u>Simple Steps: Effortless Methods to Stream Your Instagram Feed Directly to Your Television</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-et-pratiques-courantes-de-la-plateforme-dintelligence-artificielle-winx-video-questions-frequemment-posees-et-reponses-detaillees/"><u>Stratégies Et Pratiques Courantes De La Plateforme D'intelligence Artificielle WinX Video : Questions Fréquemment Posées Et Réponses Détaillées</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-transition-text-editor-from-light-to-dark-windows-11-style/"><u>Swiftly Transition Text Editor From Light to Dark, Windows 11 Style</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-9-ocr-solutions-for-windows-10-free-and-premium-options-explored/"><u>Top 9 OCR Solutions for Windows 10: Free and Premium Options Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722886510150-top-ipad-offers-and-discounts-shop-smart-today/"><u>Top iPad Offers and Discounts: Shop Smart Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976842894-troubleshoot-and-fix-your-pcs-bluetooth-glitches-in-windows-1/"><u>Troubleshoot and Fix Your PC's Bluetooth Glitches in Windows 1 #</u></a></li>
+<li><a href="https://fox-where.techidaily.com/various-methods-to-record-movies-from-your-screen-with-ease/"><u>Various Methods to Record Movies From Your Screen with Ease</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Effective Package Verification
-date: 2024-10-02T17:06:12.177Z
-updated: 2024-10-05T20:26:16.983Z
+date: 2024-10-08T19:32:52.285Z
+updated: 2024-10-10T16:21:59.472Z
 tags:
   - user-guide
 categories:
@@ -79,13 +79,34 @@ The validation tool checks your project for compliance with each of the internal
 
 ## Build Settings
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Enable ICE validation for Msi packages
 
 Run selected ICE evaluation file at the MSI package build time. If no predefined evaluation files are detected use the \[Browse \] button to locate the evaluation file.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Enable ICE validation for Merge Module packages
 
 Run selected ICE evaluation file at the Merge Module package build time. If no predefined evaluation files are detected use the \[Browse \] button to locate the evaluation file.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Enable Advanced Installer best practice rules
 
@@ -94,13 +115,6 @@ Run the [Advanced Installer Best Practice](https://tools.techidaily.com/advanced
 ### Enable App-V 5 resource compatibility check
 
 By enabling this option you will get an "Issue List" with resources that don't meet the App-V 5 standards. The compatibility check will be performed at build time and it will include [Drivers](https://tools.techidaily.com/advancedinstaller/products/), [Scheduled tasks](https://tools.techidaily.com/advancedinstaller/products/) and [Firewall settings](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Enable UWP resource compatibility check
 
@@ -116,38 +130,24 @@ Uses appcert.exe from the [Windows App Certification Kit](https://learn.microsof
 
 To run these validation tests requires you to install Windows SDK.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Define Rules
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Suppress Warning messages.
 
 No validation warnings will be displayed to the user.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Suppress specific ICEs.
 
 The ICEs you specify separated by ";" character will not run.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The validation result is displayed as information in the build log and will not affect the build result. After the build operation is finished the validation result is displayed in the **Issue Pane** list allowing user to locate the problem in Advanced Installer UI (if possible).
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -182,22 +182,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-android-and-iphones-hottest-social-tools-to-increase-fb-likes/"><u>[Updated] Android & iPhone's Hottest Social Tools to Increase FB Likes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-video-soundtracks-on-digital-platforms-for-2024/"><u>[Updated] Enhancing Video Soundtracks on Digital Platforms for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harness-social-blade-for-profound-youtube-stats-analysis-for-2024/"><u>[Updated] Harness Social Blade for Profound YouTube Stats Analysis for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/avoid-these-critical-android-permissions-top-9-list/"><u>Avoid These Critical Android Permissions: Top 9 List</u></a></li>
-<li><a href="https://fox-where.techidaily.com/eco-friendly-strategies-transforming-businesses-and-lifestyles/"><u>Eco-Friendly Strategies: Transforming Businesses and Lifestyles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-send-and-receive-faxes-for-free-online-top-7-services-unveiled/"><u>How to Send and Receive Faxes for Free Online - Top 7 Services Unveiled</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-tecno-spark-20-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Tecno Spark 20 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-determining-cost-effectiveness-of-youtubers/"><u>In 2024, Determining Cost-Effectiveness of Youtubers</u></a></li>
-<li><a href="https://fox-where.techidaily.com/inimanager-pro-simplify-and-customize-your-ini-files-efficiently/"><u>INIManager Pro: Simplify and Customize Your .ini Files Efficiently</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimize-your-online-gaming-experience-by-lowering-latency-latest-techniques/"><u>Optimize Your Online Gaming Experience by Lowering Latency: Latest Techniques</u></a></li>
-<li><a href="https://fox-where.techidaily.com/pc-gaming-mastery-the-ultimate-techniques-for-conquering-turbo-stars/"><u>PC Gaming Mastery: The Ultimate Techniques for Conquering Turbo Stars</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-power-of-icommand-key-combinations-for-streamlined-user-interfaces/"><u>The Power of ICommand Key Combinations for Streamlined User Interfaces</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-techniques-for-successfully-transforming-iso-into-high-quality-mp4-videos/"><u>Top Techniques for Successfully Transforming ISO Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-and-managing-your-computers-hardware-keys/"><u>Understanding and Managing Your Computer's Hardware Keys</u></a></li>
-<li><a href="https://facebook.techidaily.com/ungrouping-techniques-on-the-social-giant-facebook/"><u>Ungrouping Techniques on the Social Giant, Facebook</u></a></li>
-<li><a href="https://fox-where.techidaily.com/watermark-elimination-tools-on-smartphones-for-streaming-content/"><u>Watermark Elimination Tools on Smartphones for Streaming Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-discover-the-new-era-of-photography-with-toolwiz-comprehensive-2023-reviews-for-2024/"><u>[Updated] Discover the New Era of Photography with Toolwiz Comprehensive 2023 Reviews for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-chromatic-wonders-bridging-color-knowledge/"><u>2024 Approved Chromatic Wonders Bridging Color Knowledge</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-zeo-startup-showcase/"><u>2024 Approved The Ultimate Zeo-Startup Showcase</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nce-engagement-and-its-impact-on-youtube-performance-for-2024/"><u>Audience Engagement and Its Impact on YouTube Performance for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/customize-style-rules-in-the-advanced-formatting-tools/"><u>Customize Style Rules in the Advanced Formatting Tools</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effective-techniques-for-capturing-audio-from-clubhouse-sessions/"><u>Effective Techniques for Capturing Audio From Clubhouse Sessions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-updates-for-windows-fingerprint-drivers-fast-and-reliable-download-options-here/"><u>Essential Updates for Windows Fingerprint Drivers - Fast & Reliable Download Options Here</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-achieve-a-fully-transparent-logo-with-optimal-techniques-and-applications/"><u>How to Achieve a Fully-Transparent Logo with Optimal Techniques and Applications</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/kostenloze-online-mpg-conversie-naar-wav-professioneel-door-movavi/"><u>Kostenloze Online Mpg-Conversie Naar Wav - Professioneel Door Movavi</u></a></li>
+<li><a href="https://fox-where.techidaily.com/navigate-through-our-expert-guide-of-2020s-best-mac-compatible-mind-mapping-applications-that-offer-seamless-organization-and-creativity-enhancement-feature4/"><u>Navigate Through Our Expert Guide of 2020'S Best Mac Compatible Mind Mapping Applications that Offer Seamless Organization and Creativity Enhancement Features.</u></a></li>
+<li><a href="https://fox-where.techidaily.com/purchasing-a-malwarebytes-lifetime-subscription-legitimately-expert-guide/"><u>Purchasing a Malwarebytes Lifetime Subscription Legitimately - Expert Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-to-restoring-accidentally-erased-images-on-your-iphone-7/"><u>Step-by-Step Guide to Restoring Accidentally Erased Images on Your iPhone 7</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-10-free-android-apps-for-outstanding-video-editing-unleash-your-creativity/"><u>Top 10 Free Android Apps for Outstanding Video Editing: Unleash Your Creativity</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-picks-the-leading-windowsmac-gif-creation-tools-online/"><u>Ultimate Picks: The Leading Windows/Mac GIF Creation Tools Online</u></a></li>
+<li><a href="https://fox-where.techidaily.com/versatile-methods-transforming-your-myspace-music-into-mp3-format/"><u>Versatile Methods: Transforming Your MySpace Music Into MP3 Format</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Efficient Property Editing Interface: Streamline Your Asset Management"
-date: 2024-09-30T17:42:43.699Z
-updated: 2024-10-05T16:52:19.745Z
+date: 2024-10-07T16:05:35.802Z
+updated: 2024-10-10T22:20:28.761Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,10 @@ Create or edit a property.
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -94,16 +94,10 @@ Create or edit a property.
 In this field, you can specify the property name. When choosing the property's name, you should also decide if the property is [private or public](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -114,21 +108,35 @@ In this field, you can specify the property's default value. Since this field is
 
 In this field, you can add useful information about the property as comments.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Hide Property
 
 Prevents the property from being written into the log file. This may be used to prevent the installer from displaying passwords or other confidential information in the log file.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When the machine Debug policy is set to a value of 7, the installer writes the property in the log, even if the property is marked as hidden. 
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Set persistent property
 
 If you enable this option, the property is stored in the registry and available in maintenance mode (repair, uninstall, etc.) and during the upgrade installation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Secure property
@@ -147,25 +155,11 @@ The property value will be encrypted only after the install process moves beyond
 
 Allows the property to be saved during [administrative installation](https://learn.microsoft.com/en-us/windows/win32/msi/administrative-installation?redirectedfrom=MSDN); meaning when the user installs from an administrative image, this value is used rather than the one stored in the MSI file.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Per Build Values
 
 Configure the property's value for each build.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This section is only available if your project contains multiple builds.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Build
 
@@ -213,21 +207,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-fantasy-villas-with-oriental-elegance-mc-edition/"><u>[New] 2024 Approved Fantasy Villas with Oriental Elegance, MC Edition</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-sculpting-light-and-shadow-the-photoshop-hdr-way/"><u>[New] 2024 Approved Sculpting Light and Shadow The Photoshop HDR Way</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-shortcut-to-go-to-tags-maximizing-your-youtube-impact/"><u>[New] Shortcut to Go-To Tags Maximizing Your YouTube Impact</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/10-leading-ai-named-generators-boosting-podcast-titles-for-2024/"><u>10 Leading AI Named Generators Boosting Podcast Titles for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/avoid-these-critical-android-permissions-top-9-list/"><u>Avoid These Critical Android Permissions: Top 9 List</u></a></li>
-<li><a href="https://fox-where.techidaily.com/eco-friendly-strategies-transforming-businesses-and-lifestyles/"><u>Eco-Friendly Strategies: Transforming Businesses and Lifestyles</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-a34-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy A34 5G FRP</u></a></li>
-<li><a href="https://fox-where.techidaily.com/inimanager-pro-simplify-and-customize-your-ini-files-efficiently/"><u>INIManager Pro: Simplify and Customize Your .ini Files Efficiently</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nt-techniques-to-shuffle-youtube-song-sequences-for-2024/"><u>Instant Techniques to Shuffle YouTube Song Sequences for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/multios-file-finder-toolkit-quick-data-restoration/"><u>MultiOS File Finder Toolkit – Quick Data Restoration</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-gif-speed-boosters-top-online-and-mobile-apps/"><u>New 2024 Approved GIF Speed Boosters Top Online and Mobile Apps</u></a></li>
-<li><a href="https://fox-where.techidaily.com/pc-gaming-mastery-the-ultimate-techniques-for-conquering-turbo-stars/"><u>PC Gaming Mastery: The Ultimate Techniques for Conquering Turbo Stars</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-power-of-icommand-key-combinations-for-streamlined-user-interfaces/"><u>The Power of ICommand Key Combinations for Streamlined User Interfaces</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-techniques-for-successfully-transforming-iso-into-high-quality-mp4-videos/"><u>Top Techniques for Successfully Transforming ISO Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-and-managing-your-computers-hardware-keys/"><u>Understanding and Managing Your Computer's Hardware Keys</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unveiling-the-hidden-potential-of-earnings-on-vimeo-platforms-for-2024/"><u>Unveiling the Hidden Potential of Earnings on Vimeo Platforms for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhancing-video-success-top-8-yt-thumbnail-strategies/"><u>[New] Enhancing Video Success Top 8 YT Thumbnail Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-achieving-perfect-picture-quality-on-zoom/"><u>[New] In 2024, Achieving Perfect Picture Quality on Zoom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-craft-your-story-with-immersive-youtube-video-editing-tips/"><u>[New] In 2024, Craft Your Story with Immersive YouTube Video Editing Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-audio-for-digital-unboxing-scenes/"><u>2024 Approved Mastering Audio for Digital Unboxing Scenes</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expert-guide-setting-up-timed-radio-broadcast-captures/"><u>Expert Guide: Setting Up Timed Radio Broadcast Captures</u></a></li>
+<li><a href="https://fox-where.techidaily.com/exploring-file-attributes-through-the-properties-dialog-box/"><u>Exploring File Attributes Through the Properties Dialog Box</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-your-future-a-guide-to-prosperity-in-graphic-designing/"><u>In 2024, Crafting Your Future A Guide to Prosperity in Graphic Designing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-12-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 12 With or Without Password</u></a></li>
+<li><a href="https://fox-where.techidaily.com/manage-characteristics-through-edit-feature-options-window/"><u>Manage Characteristics Through Edit Feature Options Window</u></a></li>
+<li><a href="https://fox-where.techidaily.com/smart-management-of-ephemeral-data-storage-components-in-tech-environments/"><u>Smart Management of Ephemeral Data Storage Components in Tech Environments</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/1723005620906-star-wars-jedi-fallen-order-wont-open-now-it-does/"><u>Star Wars Jedi: Fallen Order Won't Open - Now It Does!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/streamlining-your-social-space-stop-following-steps/"><u>Streamlining Your Social Space Stop Following Steps</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-rated-tools-for-creating-stunning-transparent-png-images-essential-guides/"><u>Top-Rated Tools for Creating Stunning Transparent PNG Images: Essential Guides</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-essential-features-of-user-profiles/"><u>Understanding Essential Features of User Profiles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-wealth-the-ultimate-13-step-guide-for-newbies-on-reddit-for-2024/"><u>Unleashing Wealth The Ultimate 13-Step Guide for Newbies on Reddit for 2024</u></a></li>
 </ul></div>
 

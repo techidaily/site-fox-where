@@ -1,7 +1,7 @@
 ---
 title: The Power of ICommand Key Combinations for Streamlined User Interfaces
-date: 2024-09-28T17:11:47.608Z
-updated: 2024-10-05T16:49:59.314Z
+date: 2024-10-09T00:05:56.726Z
+updated: 2024-10-10T20:35:15.350Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 Using this interface you can edit the command shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ Using this interface you can edit the command shortcut.
 ICommandShortcut : IBaseShortcut
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -169,21 +169,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-list-best-mac-compatible-recorders/"><u>[New] In 2024, The Ultimate List Best Mac-Compatible Recorders</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-navigating-the-business-of-home-produced-videos/"><u>[New] Navigating the Business of Home-Produced Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-avoid-being-overwhelmed-by-tiktok-drafts-edits-for-orderliness/"><u>[Updated] Avoid Being Overwhelmed by TikTok Drafts Edits for Orderliness</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-top-rated-apps-for-effortlessly-adding-stickers-to-images/"><u>1. Top Rated Apps for Effortlessly Adding Stickers to Images</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-your-clips-to-life-a-compreenased-way-to-post-on-youtube/"><u>Bring Your Clips to Life A Compreenased Way to Post on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-fedora-40s-latest-enhancements-the-most-recent-advancements-in-this-popular-linux-distribution/"><u>Discover Fedora 40'S Latest Enhancements: The Most Recent Advancements in This Popular Linux Distribution</u></a></li>
-<li><a href="https://fox-where.techidaily.com/easy-conversion-tricks-changing-your-music-from-mp3-to-uncompressed-wav-audio/"><u>Easy Conversion Tricks: Changing Your Music From MP3 to Uncompressed WAV Audio</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-nvidia-7025nforce630a-windows-error/"><u>Fixing Nvidia 7025/nForce630a Windows Error</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-tuning-into-the-pubg-world-championships-live-telecast/"><u>Guide: Tuning Into the PUBG World Championships Live Telecast</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-uninstall-audiobook-files-on-your-iphone-three-simple-strategies/"><u>How To Uninstall Audiobook Files on Your iPhone: Three Simple Strategies</u></a></li>
-<li><a href="https://fox-where.techidaily.com/latest-update-release-notes-whats-new-and-improved/"><u>Latest Update Release Notes: What's New and Improved</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/peak-visionary-workspace-appraisal-for-2024/"><u>Peak Visionary Workspace Appraisal for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/professional-guide-how-to-recover-accidentally-deleted-notes-on-your-iphone/"><u>Professional Guide: How to Recover Accidentally Deleted Notes on Your iPhone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/refine-your-photos-top-5-tools-for-sharpening-blurry-pictures/"><u>Refine Your Photos: Top 5 Tools for Sharpening Blurry Pictures</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-strategies-to-spot-and-eradicate-bogus-av-protection-programs/"><u>Step-by-Step Strategies to Spot and Eradicate Bogus AV Protection Programs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-of-grok-the-breakthrough-ai-from-elon-musk-and-its-price-tag/"><u>Unraveling the Mystery of Grok: The Breakthrough AI From Elon Musk & Its Price Tag</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premier-screenshare-software-reviews/"><u>[New] In 2024, Premier Screenshare Software Reviews</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-lead-content-curator-enhancing-digital-narratives/"><u>1. Lead Content Curator: Enhancing Digital Narratives</u></a></li>
+<li><a href="https://fox-where.techidaily.com/apowersoft-introduces-enhanced-screencapture-pro-version-11/"><u>Apowersoft Introduces Enhanced ScreenCapture Pro Version 1.1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asrock-z890-taichi-motherboard-features-10-usb-type-c-and-2-thunderbolt-a-detailed-review/"><u>ASRock Z890 Taichi Motherboard: Features 10 USB Type-C & 2 Thunderbolt - A Detailed Review</u></a></li>
+<li><a href="https://fox-where.techidaily.com/detailed-product-information-and-specifications/"><u>Detailed Product Information & Specifications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-skills-for-successful-interviews/"><u>Essential Skills for Successful Interviews</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-microcomputers-reviewed/"><u>Essential Windows Microcomputers Reviewed</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-picks-smart-home-sound-systems-of-2024/"><u>Expert Picks: Smart Home Sound Systems of 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-and-using-messengers-without-facebook-connection/"><u>Exploring and Using Messengers without Facebook Connection</u></a></li>
+<li><a href="https://fox-where.techidaily.com/find-the-right-product-version-expert-search-guide/"><u>Find the Right Product Version: Expert Search Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-s23-ultra-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy S23 Ultra Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-overcome-common-airplay-issues-with-ease-a-step-by-step-guide/"><u>How to Overcome Common AirPlay Issues with Ease: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/introducing-apowercompress-a-revolutionary-software-released-with-cutting-edge-capabilities/"><u>Introducing ApowerCompress - A Revolutionary Software Released With Cutting-Edge Capabilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/laughs-at-your-service-web/"><u>Laughs at Your Service (Web)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-xml-editors-a-guide-to-the-properties-and-settings-tab-for-elements/"><u>Mastering XML Editors: A Guide to the Properties & Settings Tab for Elements</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/melody-in-motion-iphones-role-in-making-music-videos-for-2024/"><u>Melody in Motion IPhone's Role in Making Music Videos for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/optimizing-team-access-essential-guide-to-subscriptions-and-licenses/"><u>Optimizing Team Access: Essential Guide to Subscriptions and Licenses</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-gadgets-in-auto-traffic-camera-tech-for-2024/"><u>Premier Gadgets in Auto Traffic Camera Tech for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-8-complimentary-mac-data-restoration-tools-a-comparative-guide/"><u>Top 8 Complimentary Mac Data Restoration Tools : A Comparative Guide</u></a></li>
 </ul></div>
 

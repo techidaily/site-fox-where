@@ -1,7 +1,7 @@
 ---
 title: "Mastering the XML Chooser Tool: Editing Techniques and Tips"
-date: 2024-10-01T16:05:15.535Z
-updated: 2024-10-05T18:43:50.422Z
+date: 2024-10-04T03:42:10.042Z
+updated: 2024-10-11T04:31:27.022Z
 tags:
   - user-guide
 categories:
@@ -82,13 +82,6 @@ Table of Contents
 
 ## XML Locator
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Search
 
 In this field, you can select the search criteria. This field corresponds to the _Locator Type_ field from the [](https://tools.techidaily.com/advancedinstaller/products/)panel. The following search options are available:
@@ -104,6 +97,13 @@ In this field, you can select the search criteria. This field corresponds to the
 * Element exists
 * The search will be performed using the element name without specifying the index in the parent.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Value
 
 In this field, you can define the value of the search operation. This field corresponds to the _Value_ field from the [](https://tools.techidaily.com/advancedinstaller/products/) panel.
@@ -111,17 +111,17 @@ In this field, you can define the value of the search operation. This field corr
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If an **Element has index in the parent** criteria is selected the value field must contain only integer numbers and is a_0 based_ value. In case a string is supplied the search operation's found value will always return the current element.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Store
@@ -139,24 +139,18 @@ This field corresponds with the _Result Type_ field from the [](https://tools.te
 * Element text
 * The text contained by the element that meets the search criteria will be returned by the search operation.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### in
 
 In this field, you can specify the Advanced Installer property where the resulted value will be stored. You can write the name of the property or use the \[... \] button to display the [Property Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) and select a property. This field corresponds with the _Result Property_ field from the[](https://tools.techidaily.com/advancedinstaller/products/) panel.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)It is highly advised to use **public properties**. A public property has its name written in capital letters. If in this field a property is written which is not previously declared, it will be created**only** if the search proves to be successful; otherwise, it will not exist.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The following combinations for an XML locator are possible:
 
@@ -205,21 +199,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-instant-video-playback-on-fb-enabling-auto-play-of-youtube-videos-for-2024/"><u>[New] Instant Video Playback on FB Enabling Auto-Play of Youtube Videos for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-all-around-vs-3d-visual-perspectives-for-2024/"><u>[Updated] All Around Vs 3D Visual Perspectives for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-lightroom-for-android-a-complete-guide/"><u>[Updated] Unveiling Lightroom for Android A Complete Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ace-your-paperwork-a-step-by-step-guide-to-using-apowerpdf-for-efficient-form-automation/"><u>Ace Your Paperwork: A Step-by-Step Guide to Using ApowerPDF for Efficient Form Automation</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-bygone-era-filmmaking-to-life-today/"><u>Bringing Bygone Era Filmmaking to Life Today</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-guide-to-multipurpose-internet-mail-extensions-mime-essential-file-type-identifiers-on-the-web/"><u>Comprehensive Guide to Multipurpose Internet Mail Extensions (MIME) - Essential File Type Identifiers on the Web</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhancing-images-with-gopro-studios-color-adjustment/"><u>Enhancing Images with GoPro Studio's Color Adjustment</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-6s-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-seipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone SE/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-reno-9a-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo Reno 9A to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-imsibuild-a-complete-guide-to-efficient-construction-management/"><u>Mastering IMsiBuild: A Complete Guide to Efficient Construction Management</u></a></li>
-<li><a href="https://fox-where.techidaily.com/optimizing-system-performance-custom-execution-parameters-interface/"><u>Optimizing System Performance: Custom Execution Parameters Interface</u></a></li>
-<li><a href="https://fox-where.techidaily.com/personalized-feature-specifications/"><u>Personalized Feature Specifications</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/sound-symphony-music-within-whatsapp-statuses/"><u>Sound Symphony Music Within WhatsApp Statuses</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-methods-for-retrieving-lost-notes-in-ipad-expert-tips-and-tricks/"><u>Top Methods for Retrieving Lost Notes in iPad – Expert Tips & Tricks</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-notch-video-snipper-elite-screen-grabber-designed-exclusively-for-ipads/"><u>Top Notch Video Snipper: Elite Screen Grabber Designed Exclusively for iPads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-fixes-for-seamless-phone-screencasting/"><u>[New] 2024 Approved Quick Fixes for Seamless Phone Screencasting</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-creating-custom-tiktok-ringtone-for-mobile-devices/"><u>[Updated] Creating Custom TikTok Ringtone for Mobile Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unraveling-video-transmission-errors-in-facebooks-popular-messaging-apps-for-2024/"><u>[Updated] Unraveling Video Transmission Errors in Facebook's Popular Messaging Apps for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/como-convertir-archivos-mp3-a-formato-ogg-vorbis-online-sin-coste-alguno-con-movavi/"><u>Cómo Convertir Archivos MP3 a Formato Ogg Vorbis Online Sin Coste Alguno Con Movavi</u></a></li>
+<li><a href="https://fox-where.techidaily.com/configuring-xml-structure-understanding-the-elements-configuration-pane/"><u>Configuring XML Structure: Understanding the Elements Configuration Pane</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effortless-mp3-ringtone-creation-process-for-apple-devices-a-comprehensive-guide/"><u>Effortless MP3 Ringtone Creation Process for Apple Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/seamless-sync-tutorial-displaying-your-samsung-galaxy-s9-on-a-flat-screen-tv/"><u>Seamless Sync Tutorial: Displaying Your Samsung Galaxy S9 on a Flat-Screen TV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-instructions-for-converting-mts-m2ts-and-ts-files-for-playback-on-ios-devices-and-macs/"><u>Step-by-Step Instructions for Converting MTS, M2TS, and TS Files for Playback on iOS Devices and Macs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/tech-savvy-gaming-windows-10-video-capture-tactics-for-2024/"><u>Tech-Savvy Gaming Windows 10 Video Capture Tactics for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-tutorial-incorporating-watermarked-text-and-graphics-into-your-pdf-documents-latest-update/"><u>Ultimate Tutorial: Incorporating Watermarked Text and Graphics Into Your PDF Documents, Latest Update</u></a></li>
 </ul></div>
 

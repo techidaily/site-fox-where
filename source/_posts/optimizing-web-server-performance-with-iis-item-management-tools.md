@@ -1,7 +1,7 @@
 ---
 title: Optimizing Web Server Performance with IIS Item Management Tools
-date: 2024-10-01T18:33:21.899Z
-updated: 2024-10-05T19:02:29.971Z
+date: 2024-10-09T17:29:48.652Z
+updated: 2024-10-10T18:22:34.644Z
 tags:
   - user-guide
 categories:
@@ -101,7 +101,21 @@ Table of Contents
 
 ![IIS Collection Dialog](https://cdn.advancedinstaller.com/img/dialog/iis-collection.png "IIS Collection Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Property ID
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Section
 
@@ -109,31 +123,17 @@ The collection you want to modify must be a member of this IIS configuration sec
 
 <**WebSite**\>, <**VirtualDirectory**\> and <**ApplicationPool**\> are section pseudonames used for grouping direct properties of the website/virtual directory/application pool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Name
 
 Specify a name for the collection in which the new item will be added.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Collection Item
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clear IIS Collection
@@ -145,10 +145,10 @@ The collection item's available fields are displayed in the list. Only those fie
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Value" column is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/); however, you need to insert the property references manually, due to development implementation constraints.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -184,14 +184,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-from-sketches-to-screens-animation-via-windows-movie-maker/"><u>[Updated] From Sketches to Screens Animation via Windows Movie Maker</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-fcp-tutorial-for-new-users/"><u>2024 Approved Ultimate FCP Tutorial for New Users</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-on-utilizing-the-iinstalleddll-interface-for-dynamic-library-calls/"><u>Guide on Utilizing the IInstalledDll Interface for Dynamic Library Calls</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-modify-system-center-configuration-manager-settings/"><u>How to Modify System Center Configuration Manager Settings</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-resolve-iphone-x-screen-recording-glitches-in-ios-11/"><u>How to Resolve iPhone X Screen Recording Glitches in iOS 11</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-image-editing-with-apowersofts-background-eraser-step-by-step-tutorial-for-redeeming-your-discount-code/"><u>Mastering Image Editing with Apowersoft's Background Eraser: Step-by-Step Tutorial for Redeeming Your Discount Code</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ering-insights-into-asmr-video-content/"><u>Pioneering Insights Into ASMR Video Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-trick-for-restoring-responsiveness-in-laptop-touchpad-scrolls/"><u>The Ultimate Trick for Restoring Responsiveness in Laptop Touchpad Scrolls</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphones-chat-only-shows-numbers-not-names/"><u>What to Do When Your iPhone's Chat Only Shows Numbers, Not Names</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-comprehensive-guide-to-best-screen-capturing-apps/"><u>[Updated] Comprehensive Guide to Best Screen Capturing Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-reviews-best-game-capture-apps/"><u>[Updated] Expert Reviews Best Game Capture Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-selection-of-10-premium-spotify-soundscape-tools/"><u>[Updated] Expert Selection of 10 Premium Spotify Soundscape Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-the-ultimate-video-cropping-techniques/"><u>[Updated] Mastering Instagram The Ultimate Video Cropping Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-peeking-at-public-posts-on-instagram-without-registering/"><u>A Beginner's Guide to Peeking at Public Posts on Instagram without Registering</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beat-the-problem-overcome-iphones-persistent-headphone-syndrome-with-these-8-tips/"><u>Beat the Problem: Overcome iPhone's Persistent Headphone Syndrome with These 8 Tips</u></a></li>
+<li><a href="https://fox-where.techidaily.com/eco-friendly-strategies-transforming-businesses-and-lifestyles/"><u>Eco-Friendly Strategies: Transforming Businesses and Lifestyles</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-pova-6-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Pova 6 Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/inimanager-pro-simplify-and-customize-your-ini-files-efficiently/"><u>INIManager Pro: Simplify and Customize Your .ini Files Efficiently</u></a></li>
+<li><a href="https://fox-where.techidaily.com/pc-gaming-mastery-the-ultimate-techniques-for-conquering-turbo-stars/"><u>PC Gaming Mastery: The Ultimate Techniques for Conquering Turbo Stars</u></a></li>
+<li><a href="https://article-posts.techidaily.com/spectaculous-14-animated-text-illustration-samples/"><u>Spectaculous 14 Animated Text Illustration Samples</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-power-of-icommand-key-combinations-for-streamlined-user-interfaces/"><u>The Power of ICommand Key Combinations for Streamlined User Interfaces</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-techniques-for-successfully-transforming-iso-into-high-quality-mp4-videos/"><u>Top Techniques for Successfully Transforming ISO Into High-Quality MP4 Videos</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-and-managing-your-computers-hardware-keys/"><u>Understanding and Managing Your Computer's Hardware Keys</u></a></li>
 </ul></div>
 
