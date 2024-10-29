@@ -1,7 +1,7 @@
 ---
 title: Fundamental Characteristics Influencing Component Positioning
-date: 2024-10-09T22:58:22.305Z
-updated: 2024-10-10T18:52:42.168Z
+date: 2024-10-23T19:04:42.288Z
+updated: 2024-10-28T17:00:19.410Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 This type of search will try to find the component you want, retrieve its Key Path (or Key Member) and interpret it as a file or a folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### GUID
@@ -91,10 +91,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
  The searched component's Globally Unique Identifier.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Type
@@ -104,10 +104,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * ComponentId
@@ -116,10 +116,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -155,16 +155,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ringtone-revolution-transforming-your-ios-sound/"><u>[New] In 2024, Ringtone Revolution Transforming Your iOS Sound</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-integrate-with-ease-an-in-depth-look-at-instagrams-music-icons/"><u>[New] Integrate with Ease An In-Depth Look at Instagram's Music Icons</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-premiere-list-of-ios-ps2-emulation-tools/"><u>[New] Premiere List of iOS PS2 Emulation Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-x-stream-recorder-pc-edition/"><u>[New] X-Stream Recorder PC Edition</u></a></li>
-<li><a href="https://fox-where.techidaily.com/creating-the-ultimate-facebook-birthday-celebration-video-top-3-strategies-that-work/"><u>Creating the Ultimate Facebook Birthday Celebration Video: Top 3 Strategies That Work!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/easy-steps-to-customizing-your-androids-display-settings/"><u>Easy Steps to Customizing Your Android's Display Settings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-an-openai-guide/"><u>Mastering ChatGPT: An OpenAI Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reliable-mpeg-video-restoration-software-fix-and-recover-damaged-mp4-videos-easily/"><u>Reliable MPEG Video Restoration Software – Fix and Recover Damaged MP4 Videos Easily</u></a></li>
-<li><a href="https://fox-where.techidaily.com/successful-strategies-for-enjoying-call-of-duty-mobile-on-your-mac-device/"><u>Successful Strategies for Enjoying Call of Duty Mobile on Your Mac Device</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-difference-antivirus-protection-vs-internet-security-solutions/"><u>Understanding the Difference: Antivirus Protection Vs. Internet Security Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleashing-full-potential-of-firefox-x-pie-mode-for-2024/"><u>Unleashing Full Potential of Firefox X-Pie Mode for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-advances-in-syma-x8c-flight-autonomy-for-2024/"><u>[New] Advances in Syma X8C Flight Autonomy for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonyhub-combining-ios-and-macos-photo-videos/"><u>[Updated] HarmonyHub Combining iOS & macOS Photo-Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728471315854-ppt/"><u>如何在永久删除后轻松恢复PPT文件：有效技巧分享</u></a></li>
+<li><a href="https://win-lab.techidaily.com/finding-and-matching-text-up-to-a-newline-or-eof-using-emeditors-features/"><u>Finding and Matching Text Up to a Newline or EOF Using EmEditor's Features</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guida-alla-gestione-degli-errori-per-il-trasferimento-dei-dati-samsung-e-la-risoluzione-dellssd-che-non-viene-rilevato/"><u>Guida Alla Gestione Degli Errori per Il Trasferimento Dei Dati Samsung E La Risoluzione Dell'SSD Che Non Viene Rilevato</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-eliminate-youtube-shorts-permanent-guide/"><u>In 2024, Eliminate YouTube Shorts Permanent Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c12frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C12FRP Lock</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-critiques-and-praises-a-breakdown-of-recent-viber-out-testimonials/"><u>Top Critiques & Praises: A Breakdown of Recent Viber Out Testimonials</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-missing-files-during-synctoy-backups-on-windows-os/"><u>Troubleshooting Missing Files During SyncToy Backups on Windows OS</u></a></li>
+<li><a href="https://fox-where.techidaily.com/tutorial-eficiente-para-sincronizar-contenido-de-archivos-entre-windows-11-8-y-7-sin-esfuerzo/"><u>Tutorial Eficiente Para Sincronizar Contenido De Archivos Entre Windows 11, 8 Y 7 Sin Esfuerzo</u></a></li>
+<li><a href="https://fox-where.techidaily.com/wie-sie-daten-von-einer-formatierten-festplatte-wiederherstellen-ohne-vorheriges-backup-zu-haben/"><u>Wie Sie Daten Von Einer Formatierten Festplatte Wiederherstellen, Ohne Vorheriges Backup Zu Haben</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ps4hdd/"><u>セキュリティ確保のためのPS4HDD容量増幅 - 失わないアップグレード</u></a></li>
 </ul></div>
 

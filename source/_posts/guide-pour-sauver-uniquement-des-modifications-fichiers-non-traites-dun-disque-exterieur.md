@@ -1,7 +1,7 @@
 ---
 title: "Guide Pour Sauver Uniquement Des Modifications: Fichiers Non Traités D'un Disque Extérieur"
-date: 2024-10-15T16:07:07.448Z
-updated: 2024-10-22T23:19:46.988Z
+date: 2024-10-25T21:27:20.567Z
+updated: 2024-10-28T23:45:27.321Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a0a176db85647e2b441ce187.jpg
@@ -50,10 +50,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -76,6 +76,13 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -93,6 +100,13 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -144,6 +158,13 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -170,6 +191,19 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -190,13 +224,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -211,13 +238,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -225,13 +245,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -255,13 +268,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -270,14 +276,14 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,17 +300,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-best-macpc-screenshot-toolkit-for-desktops-for-2024/"><u>[Updated] Best MacPC Screenshot Toolkit for Desktops for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-hdr-photoshop-how-to-create-hdr-images-in-photoshop-like-a-pro/"><u>[Updated] In 2024, HDR Photoshop How to Create HDR Images in Photoshop Like a Pro</u></a></li>
-<li><a href="https://fox-where.techidaily.com/2-fixing-vdiskmanager-cannot-be-located-in-vmware-expert-tips-and-tricks/"><u>2. Fixing 'VdiskManager Cannot Be Located' In VMware: Expert Tips and Tricks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make/"><u>2024 Approved Earning Big on Youtube Shorts What You Need & How Much Can You Make?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-recommendations-for-8-windows-audio-apps/"><u>2024 Approved Expert Recommendations for 8-Windows Audio Apps</u></a></li>
-<li><a href="https://fox-where.techidaily.com/decouvrez-loutil-de-migration-ssd-le-plus-performant-pour-windows-gratuiciel/"><u>Découvrez L'Outil De Migration SSD Le Plus Performant Pour Windows - Gratuiciel!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/five-effective-methods-for-resolving-ssd-detection-problems-on-a-windows-11-installation/"><u>Five Effective Methods for Resolving SSD Detection Problems on a Windows 11 Installation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-critical-steam-errors-understanding-the-steamuidll-failure-message/"><u>Fixing Critical Steam Errors: Understanding the Steamui.dll Failure Message</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-internet-speech-capture-tools-for-2024/"><u>Top Internet Speech Capture Tools for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-instagrams-hidden-filter-tools-for-2024/"><u>Unlocking Instagram's Hidden Filter Tools for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1728467361890-word/"><u>Wordプログラムにおける「最近利用されたアイテム」切り替え手順: 使い方とトリックを解き明かす</u></a></li>
+<li><a href="https://fox-where.techidaily.com/le-top-des-logiciels-de-clonage-et-imagerie-disque-pour-uefi-sous-windows-solutions-optimales/"><u>« Le Top Des Logiciels De Clonage Et Imagerie Disque Pour UEFI Sous Windows : Solutions Optimales »</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-master-the-pre-upload-process-on-tiktoks-copyright-policy/"><u>[New] In 2024, Master the Pre-Upload Process on TikTok's Copyright Policy</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-superior-pcmacos-users-choice-best-8-uhd-video-player/"><u>[New] In 2024, Superior PC/MacOS Users' Choice Best 8 UHD Video Player</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-concrete-jungles-to-eco-havens-rethinking-urban-living/"><u>[Updated] 2024 Approved From Concrete Jungles to Eco Havens Rethinking Urban Living</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-kickstart-a-successful-charity-contest-via-social-media/"><u>2024 Approved Kickstart a Successful Charity Contest via Social Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-resource-for-advanced-periscope-techniques/"><u>2024 Approved The Ultimate Resource for Advanced Periscope Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-live-stream-tools-xsplit-or-obs/"><u>Best Live Stream Tools XSplit or OBS?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/clonaciper-minissd-clonazione-completa-utilizzo-di-aomei-backupper/"><u>Clonaciper MiniSSD Clonazione Completa Utilizzo Di AOMEI Backupper</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comprehensive-step-by-step-tutorial-on-enhancing-your-surface-laptop-go-2-with-an-ssd-upgrade/"><u>Comprehensive Step-by-Step Tutorial on Enhancing Your Surface Laptop Go 2 with an SSD Upgrade</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effortless-steps-to-move-pictures-from-your-computer-to-iphone-using-itunes/"><u>Effortless Steps to Move Pictures From Your Computer to iPhone Using iTunes</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-set-up-incremental-backups-from-windows-server-to-a-network-drive/"><u>How to Set Up Incremental Backups From Windows Server to a Network Drive</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-poco-c55-phone-by-drfone-android/"><u>How to Unlock a Network Locked Poco C55 Phone?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-pinnacle-selector-your-personal-video-vault/"><u>In 2024, The Pinnacle Selector Your Personal Video Vault</u></a></li>
+<li><a href="https://fox-where.techidaily.com/installing-windows-11-build-23h2-on-non-certified-systems-a-step-by-step-guide-with-two-effective-techniques/"><u>Installing Windows 11 Build 23H2 on Non-Certified Systems - A Step-by-Step Guide with Two Effective Techniques</u></a></li>
+<li><a href="https://fox-where.techidaily.com/maximize-disk-capacity-top-three-tips-for-efficient-backup-management-on-windows-systems-windows-1087/"><u>Maximize Disk Capacity: Top Three Tips for Efficient Backup Management on Windows Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/next-gen-battle-analyzing-features-between-samsung-galaxy-s23-ultra-and-s21-ultra/"><u>Next-Gen Battle: Analyzing Features Between Samsung Galaxy S23 Ultra and S21 Ultra</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ruckkehr-zu-einem-vorherigen-wiederherstellungsschritt-auf-windows-10-eine-schnelle-anleitung/"><u>Rückkehr Zu Einem Vorherigen Wiederherstellungsschritt Auf Windows 10: Eine Schnelle Anleitung</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-walkthrough-for-turning-off-icloud-services-on-various-iphone-versions-including-iphone-13-14-and-15/"><u>Step-by-Step Walkthrough for Turning Off iCloud Services on Various iPhone Versions (Including iPhone 13, 14, and 15)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-visual-vagueness-techniques-on-images/"><u>Ultimate Visual Vagueness Techniques on Images</u></a></li>
 </ul></div>
 

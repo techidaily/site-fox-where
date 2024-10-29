@@ -1,7 +1,7 @@
 ---
 title: Innovative ILibrary Component Tools & Techniques
-date: 2024-10-05T05:01:41.323Z
-updated: 2024-10-10T17:38:39.083Z
+date: 2024-10-24T23:14:55.377Z
+updated: 2024-10-29T00:01:10.900Z
 tags:
   - user-guide
 categories:
@@ -40,10 +40,16 @@ Table of Contents
 This interface allows to import library files or get all the library files from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -51,10 +57,10 @@ This interface allows to import library files or get all the library files from 
 ILibraryComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -62,16 +68,10 @@ ILibraryComponent : IDispatch
 **Array<ILibraryFile> Files** \- Gets all the library files the from project.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -81,10 +81,10 @@ ILibraryComponent : IDispatch
 **AddFileS(String target, String source)**  \- Imports the file specified by source in the desired target folder specified by project path.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -128,22 +128,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-quick-and-comfortable-game-capture-tips-for-rainbow-six-siege-for-2024/"><u>[New] Quick & Comfortable Game Capture Tips for Rainbow Six Siege for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ai-generated-podcast-titles-that-stick-with-you/"><u>[Updated] 2024 Approved AI-Generated Podcast Titles That Stick With You</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-elite-8-films-on-facebook-for-2024/"><u>[Updated] Elite 8 Films on Facebook for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ps4-broadcasting-made-easy-your-obs-guide-for-2024/"><u>[Updated] PS4 Broadcasting Made Easy Your OBS Guide for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/avoid-these-critical-android-permissions-top-9-list/"><u>Avoid These Critical Android Permissions: Top 9 List</u></a></li>
-<li><a href="https://fox-where.techidaily.com/easy-tutorial-on-how-to-install-the-phone-manager-app-on-android-devices-via-apk/"><u>Easy Tutorial on How to Install the Phone Manager App on Android Devices via APK</u></a></li>
-<li><a href="https://fox-where.techidaily.com/eco-friendly-strategies-transforming-businesses-and-lifestyles/"><u>Eco-Friendly Strategies: Transforming Businesses and Lifestyles</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s24plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S24+ in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-poco-c65-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Poco C65 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-x6-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco X6 Pro FRP</u></a></li>
-<li><a href="https://fox-where.techidaily.com/inimanager-pro-simplify-and-customize-your-ini-files-efficiently/"><u>INIManager Pro: Simplify and Customize Your .ini Files Efficiently</u></a></li>
-<li><a href="https://fox-info.techidaily.com/laughlab-design-suite-for-2024/"><u>LaughLab Design Suite for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/textual-quests-unlimited-utilizing-chatgpt-as-your-ultimate-tool-for-making-ttrpgs-come-to-life/"><u>Textual Quests Unlimited: Utilizing ChatGPT as Your Ultimate Tool for Making TTRPGs Come to Life</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-power-of-icommand-key-combinations-for-streamlined-user-interfaces/"><u>The Power of ICommand Key Combinations for Streamlined User Interfaces</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-techniques-for-successfully-transforming-iso-into-high-quality-mp4-videos/"><u>Top Techniques for Successfully Transforming ISO Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-and-managing-your-computers-hardware-keys/"><u>Understanding and Managing Your Computer's Hardware Keys</u></a></li>
-<li><a href="https://fox-where.techidaily.com/watermark-elimination-tools-on-smartphones-for-streaming-content/"><u>Watermark Elimination Tools on Smartphones for Streaming Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-fine-tuning-zoom-visuals-top-techniques/"><u>[New] Fine-Tuning Zoom Visuals Top Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-gopros-superhero-5-and-sj7-showdown/"><u>[New] GoPro's Superhero 5 and SJ7 Showdown</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-advanced-tips-for-effective-google-podcast-sharing/"><u>[New] In 2024, Advanced Tips for Effective Google Podcast Sharing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nspire-your-recruitment-process-with-pioneering-tapes-for-2024/"><u>[New] Inspire Your Recruitment Process with Pioneering Tapes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unveiling-instavid-secrets-plotting-a-successful-marketing-scheme/"><u>[Updated] Unveiling InstaVid Secrets Plotting a Successful Marketing Scheme</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728485892807-3/"><u>如何修复磁碟区问题：3种简单方法挽救数据安全</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-securely-copy-files-from-computer-to-external-drive-using-two-techniques-step-by-step-guide/"><u>How To Securely Copy Files From Computer to External Drive Using Two Techniques (Step-by-Step Guide)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-12-pro-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 12 Pro with iTunes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-motorola-edge-40-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Motorola Edge 40 and stops randomly</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solutions-rapides-pour-reparer-un-demarrage-dysfonctionnel-sous-windows/"><u>Solutions Rapides Pour Réparer Un Démarrage Dysfonctionnel Sous Windows</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-converting-and-transmitting-pdfs-from-pc-to-ipad-using-windows/"><u>Step-by-Step Tutorial: Converting and Transmitting PDFs From PC to iPad Using Windows</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-complete-walkthrough-of-managing-acer-recoveries-in-windows-11-environments/"><u>The Complete Walkthrough of Managing Acer Recoveries in Windows 11 Environments</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-economical-choice-in-depth-review-of-the-tp-link-archer-c5email-protectedtp-link/"><u>The Economical Choice: In-Depth Review of the TP-Link Archer C5([email Protected](tp-Link)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/transferieren-sie-ihr-system-mit-mbr-einfache-ubertragung-vom-festplattenlaufwerk-zu-ssdusb-zur-wiederherstellung-des-bootvorgangs/"><u>Transferieren Sie Ihr System Mit MBR: Einfache Übertragung Vom Festplattenlaufwerk Zu SSD/USB Zur Wiederherstellung Des Bootvorgangs.</u></a></li>
+<li><a href="https://fox-where.techidaily.com/wie-sie-daten-von-einer-defekten-sd-karte-wiederherstellen-konnen/"><u>Wie Sie Daten Von Einer Defekten SD-Karte Wiederherstellen Können</u></a></li>
 </ul></div>
 

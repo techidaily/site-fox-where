@@ -1,7 +1,7 @@
 ---
 title: "Mastering XML Editors: A Guide to the Properties & Settings Tab for Elements"
-date: 2024-10-04T04:26:23.971Z
-updated: 2024-10-10T17:57:09.207Z
+date: 2024-10-22T18:05:33.475Z
+updated: 2024-10-28T17:18:37.752Z
 tags:
   - user-guide
 categories:
@@ -103,24 +103,44 @@ Specify the element or comment text.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This string is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). Also you can [localize](https://tools.techidaily.com/advancedinstaller/products/) it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For example, if you need to insert in the XML file an element in the form <node>text content</node>, set the Text for the "node" element to "text content". 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When an XML element is in _update mode_, the text content is also **updated**. However, when the XML element being updated has **mixed content** with several _text regions_, the new text specified here will be**appended** to the element content.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install
 
 In this section you can specify the installation behavior of the XML element.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Create element if it doesn't already exist
 
 If a matching element is not found and this option is enabled, the element will be created in the desired location, under the specified parent.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### If the element is found:
 
@@ -133,13 +153,6 @@ If a matching element is not found and this option is enabled, the element will 
 * If matching elements are found and this option is enabled, the element will be added as a detected node's sibling.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If none of the above options are set, the element is ignored, meaning that is neither created nor updated. You can choose to use these settings if you need to navigate in an XML tree in order to reach a specific node. By using this method you can reach a sibling node without modifying the parent node(current node).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)In order to enhance the localizing precision of matching elements, you can use [identifier attributes](https://tools.techidaily.com/advancedinstaller/products/) to pinpoint an exact element from the file, in case several nodes have the same ancestors.
 
@@ -183,31 +196,24 @@ by changing the value of "PARAM" to "false", in order to identify the desired "O
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)XML Comments are always **inserted**, and never_updated_.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
 
 The condition to create this element on install. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
-## Uninstall
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Uninstall
 
 ### Remove element on uninstall
 
@@ -246,19 +252,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-ensuring-seamless-entry-for-your-show/"><u>[New] Ensuring Seamless Entry for Your Show</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-joke-juggernauts-top-ranked-text-based-jokesters/"><u>[New] Joke Juggernauts Top Ranked Text-Based Jokesters</u></a></li>
-<li><a href="https://fox-where.techidaily.com/best-free-online-photo-hosting-platforms/"><u>Best Free Online Photo Hosting Platforms</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/vating-cash-by-critiquing-consumer-commodities-online/"><u>Cultivating Cash by Critiquing Consumer Commodities Online</u></a></li>
-<li><a href="https://fox-where.techidaily.com/enhancing-attachments-with-iattachedfile-advanced-action-guide/"><u>Enhancing Attachments with IAttachedFile - Advanced Action Guide</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-note-12-proplus-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi Note 12 Pro+ 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-eliminate-your-digital-trail-and-become-internet-invisible-effective-strategies-for-a-fresh-start/"><u>How to Eliminate Your Digital Trail and Become Internet Invisible: Effective Strategies for a Fresh Start</u></a></li>
-<li><a href="https://fox-where.techidaily.com/revamp-and-improve-essential-update-for-your-go-to-app/"><u>Revamp and Improve: Essential Update for Your Go-To App</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sing-your-heart-out-with-the-singing-machine-sml385btbk-the-most-user-friendly-colorful-karaoke-experience-available-today/"><u>Sing Your Heart Out with the Singing Machine SML385BTBK: The Most User-Friendly, Colorful Karaoke Experience Available Today</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-ultimate-guide-mastering-color-adjustments-in-picture-bgs/"><u>The Ultimate Guide: Mastering Color Adjustments in Picture BGs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/timely-trim-of-microsoft-edge-tabs-win11-edition/"><u>Timely Trim of Microsoft Edge Tabs, Win11 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-iphone-virtual-reality-games-to-beat-your-high-scores/"><u>Top 10 iPhone Virtual Reality Games to Beat Your High Scores</u></a></li>
-<li><a href="https://fox-where.techidaily.com/various-methods-to-record-movies-from-your-screen-with-ease/"><u>Various Methods to Record Movies From Your Screen with Ease</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-online-broadcast-battle-facebook-vs-youtube-and-twitspaces/"><u>[New] In 2024, Online Broadcast Battle FACEbook Vs. YOUTube & TWITSpaces</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevating-your-listening-palette-with-youtube-music/"><u>[Updated] In 2024, Elevating Your Listening Palette with YouTube Music</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-photovideo-optimization-while-travelling/"><u>[Updated] Master Photo/Video Optimization While Travelling</u></a></li>
+<li><a href="https://fox-where.techidaily.com/complete-dallas-data-restoration-tutorial-expert-strategies-and-techniques/"><u>Complete Dallas Data Restoration Tutorial: Expert Strategies and Techniques</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comprehensive-guide-what-does-an-icloud-backup-include/"><u>Comprehensive Guide: What Does an iCloud Backup Include?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-recording-tech-the-hottest-cam-tools-of-the-year/"><u>Cutting-Edge Recording Tech The Hottest Cam Tools of the Year</u></a></li>
+<li><a href="https://fox-where.techidaily.com/discovering-your-latest-files-a-guide-to-locating-newly-created-documents/"><u>Discovering Your Latest Files: A Guide to Locating Newly Created Documents</u></a></li>
+<li><a href="https://fox-where.techidaily.com/gratis-und-zentrales-backup-fur-server-and-arbeitsplatze-mit-aomei-cyber-backup/"><u>Gratis Und Zentrales Backup Für Server & Arbeitsplätze Mit AOMEI Cyber Backup</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guida-passo-passo-per-lutilizzo-della-riga-di-comando-wbadmin-in-windows-7-per-backup-ai-dati/"><u>Guida Passo-Passo per L'utilizzo Della Riga Di Comando Wbadmin in Windows 7 per Backup AI Dati</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-audio-output-problems-on-your-hp-computer-with-windows-one/"><u>How to Repair Audio Output Problems on Your HP Computer With Windows ˈonē</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro Max to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolution-steps-for-the-unavailable-steam-service-error-message/"><u>Resolution Steps for the 'Unavailable Steam Service' Error Message</u></a></li>
+<li><a href="https://fox-where.techidaily.com/restaurar-unidad-seagate-externa-accidentalmente-formateada-como-solucionarlo/"><u>Restaurar: Unidad Seagate Externa Accidentalmente Formateada, Cómo Solucionarlo?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rtx-2080-latest-graphics-card-driver-update-for-windows-1178-systems/"><u>RTX 2080 Latest Graphics Card Driver Update for WIndows 11/7/8 Systems</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-step-by-step-tutorial-how-to-boot-your-pc-using-an-external-hard-drive-on-windows-1011/"><u>Ultimate Step-by-Step Tutorial: How to Boot Your PC Using an External Hard Drive on Windows 10/11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-process-of-chatbot-interaction-mimicking-humans/"><u>Understanding the Process of Chatbot Interaction Mimicking Humans</u></a></li>
+<li><a href="https://fox-where.techidaily.com/verschwundene-fallout/"><u>Verschwundene Fallout</u></a></li>
 </ul></div>
 

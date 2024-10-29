@@ -1,7 +1,7 @@
 ---
 title: Exploring File Attributes Through the Properties Dialog Box
-date: 2024-10-06T21:29:17.191Z
-updated: 2024-10-10T20:09:59.241Z
+date: 2024-10-25T20:47:43.280Z
+updated: 2024-10-28T19:54:10.881Z
 tags:
   - user-guide
 categories:
@@ -96,15 +96,22 @@ Table of Contents
 
 ![File Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/file-properties.png "File Properties Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## File
 
 The "Name" text field shows the name under which the file is installed. It is of [PseudoFormatted](https://tools.techidaily.com/advancedinstaller/products/) type, and you can [localize](https://tools.techidaily.com/advancedinstaller/products/) its value. Also, you can use the "Source Path" field to edit the path of the file to be included in the install package. Click on the\[... \] button to change it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Paths Per builds
@@ -113,13 +120,6 @@ Configure the source path for each build usingChange... hyperlink button.
 
 Reset the source path to the default one by clicking onReset hyperlink button or reset the source paths for all builds using Reset All hyperlink button.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Attributes
 
  The attributes are initialized when the file is added for the first time to the installation from the source file's attributes on disk. To override them, click on the appropriate checkboxes.
@@ -127,16 +127,23 @@ Reset the source path to the default one by clicking onReset hyperlink button or
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If a file marked as vital is not installed correctly, the installation stops and rolls back.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Signature
@@ -146,19 +153,6 @@ Specify whether you want to [digitally sign](https://tools.techidaily.com/advanc
 Before enabling this option, you should assure the certificate supports signing the file type.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Digitally signing a .XAP file requires Silverlight installed on your development machine.
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -193,18 +187,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-where.techidaily.com/comprehensive-breakdown-of-item-attributes-in-the-details-overview-panel/"><u>Comprehensive Breakdown of Item Attributes in the 'Details' Overview Panel</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-head-to-head-hitman-pro-vs-malwarebytes-for-optimal-security/"><u>Comprehensive Head-to-Head: Hitman Pro Vs. Malwarebytes for Optimal Security</u></a></li>
-<li><a href="https://fox-where.techidaily.com/essential-windows-wow6432-node-registry-key-guide/"><u>Essential Windows WOW6432 Node Registry Key Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/exploring-the-huawei-p10s-user-interface-and-usability-for-2024/"><u>Exploring the Huawei P10's User Interface & Usability for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-updated-windows-11-interface-for-2024/"><u>Exploring the Updated Windows 11 Interface for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ifolder-quicklink-effortless-access-to-your-folders/"><u>IFolder QuickLink: Effortless Access to Your Folders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-adding-tracks-to-premiere-pro-projects/"><u>In 2024, Step-by-Step Guide Adding Tracks to Premiere Pro Projects</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-ultimate-android-gaming-experience-kinemaster-reviewed/"><u>In 2024, The Ultimate Android Gaming Experience - KineMaster Reviewed</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-the-art-of-choosing-with-a-smart-registry-selector-window/"><u>Mastering the Art of Choosing with a Smart Registry Selector Window</u></a></li>
-<li><a href="https://fox-where.techidaily.com/optimizing-team-access-essential-guide-to-subscriptions-and-licenses/"><u>Optimizing Team Access: Essential Guide to Subscriptions and Licenses</u></a></li>
-<li><a href="https://win-answers.techidaily.com/reestablishing-server-link-for-fallout-76-players-fixes-for-pc-connections/"><u>Reestablishing Server Link for Fallout 76 Players – Fixes for PC Connections</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smoothly-reactivated-scanner-on-windows-11/"><u>Smoothly Reactivated Scanner on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-windows-8-screen-snapping-tools/"><u>[New] 2024 Approved Windows 8 Screen Snapping Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adding-images-to-instagram-made-simple/"><u>[Updated] Adding Images to Instagram Made Simple</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-awesome-free-webcam-games-for-computer/"><u>[Updated] Awesome Free Webcam Games for Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-acoustic-architects-building-with-mac-studios/"><u>2024 Approved Acoustic Architects Building with Mac Studios</u></a></li>
+<li><a href="https://fox-where.techidaily.com/4-estrategias-efectivas-para-realizar-copias-de-respaldo-en-grupo-con-windows-11/"><u>4 Estrategias Efectivas Para Realizar Copias De Respaldo en Grupo Con Windows 11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/5-2024/"><u>精选5款硬盘分区修复工具 - 2024年最佳版本推荐列表</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-rt-ac88u-performance-analysis-does-it-meet-gamers-expectations/"><u>Asus RT-AC88U Performance Analysis: Does It Meet Gamers' Expectations?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/fix-apples-ios-films-freezing-up-a-guide-with-six-troubleshooting-steps-for-your-computer/"><u>Fix Apple's iOS Films Freezing Up: A Guide with Six Troubleshooting Steps for Your Computer</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guia-sencilla-como-recuperar-datos-en-tu-iphone-tras-realizar-un-restablecimiento-a-la-configuracion-original/"><u>Guía Sencilla: Cómo Recuperar Datos en Tu iPhone Tras Realizar Un Restablecimiento a La Configuración Original</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-hyper-v-replication-your-ultimate-step-by-step-installation-tutorial/"><u>Mastering Hyper-V Replication: Your Ultimate Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://fox-where.techidaily.com/myrecover-professionelle-methoden-zur-wiederherstellung-von-cerber-dateien-schritt-fur-schritt-anleitung/"><u>MyRecover: Professionelle Methoden Zur Wiederherstellung Von Cerber-Dateien - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-world-of-telegram-online-with-ease-for-2024/"><u>Navigating the World of Telegram Online with Ease for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rapid-reinstatement-of-apexs-perfection/"><u>Rapid Reinstatement of Apex's Perfection</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simple-steps-to-overcome-error-0xc00007b-on-your-windows-10-pc/"><u>Simple Steps to Overcome Error 0xC00007B on Your Windows 10 PC</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solve-your-iphones-apple-id-hiccup-during-initial-setup-a-comprehensive-fix-tutorial/"><u>Solve Your iPhone's Apple ID Hiccup During Initial Setup: A Comprehensive Fix Tutorial</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-the-zte-blade-a3y-reliable-functionality-in-a-low-cost-device/"><u>Unveiling the Potential of the ZTE Blade A3Y: Reliable Functionality in a Low-Cost Device</u></a></li>
 </ul></div>
 

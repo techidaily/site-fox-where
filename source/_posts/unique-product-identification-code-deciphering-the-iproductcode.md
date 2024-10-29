@@ -1,7 +1,7 @@
 ---
 title: Unique Product Identification Code - Deciphering the IProductCode
-date: 2024-10-04T04:14:31.515Z
-updated: 2024-10-10T20:27:03.686Z
+date: 2024-10-27T00:11:47.052Z
+updated: 2024-10-28T18:15:29.091Z
 tags:
   - user-guide
 categories:
@@ -110,28 +110,15 @@ Table of Contents
 
 This interface is meant to edit the [“Product Code”](https://tools.techidaily.com/advancedinstaller/products/) for specific languages present in the project.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
  IProductCode: IDispatch 
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -163,35 +150,36 @@ $advinst = new-object -comObject "AdvancedInstaller"
 $proj    = $advinst.CreateProject($advinst.ProjectTypes.Architect)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## generate new product code
 $proj.ProductDetails.ProductCode.GenerateAll()
 $new_prodCode = $proj.ProductDetails.ProductCode.GetProductCode()
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## generate upgrade code
 $upgradeCode     = $proj.ProductDetails.UpgradeCode.UpgradeCode
 $new_upgradeCode = $proj.ProductDetails.UpgradeCode.GenerateUpgradeCode()
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## load a project with multiple languages
 $projPath = "C:\Tests\Powershell COM\multi-language.aip" 
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## generate different product codes for each language
 $projPath.ProductDetails.ProductCode.SetDifferentValues()
@@ -245,24 +233,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-handbook-for-proficient-periscope-use/"><u>[New] Comprehensive Handbook for Proficient Periscope Use</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-digital-dominance-youtubes-best-female-gamers-for-2024/"><u>[Updated] Digital Dominance YouTube's Best Female Gamers for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-uncluttered-focus-affinity-photos-cleanup-technique/"><u>2024 Approved Uncluttered Focus Affinity Photo's Cleanup Technique</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-co-pilot-transform-your-car-with-expert-ai-guidance/"><u>ChatGPT as a Co-Pilot: Transform Your Car with Expert AI Guidance</u></a></li>
-<li><a href="https://fox-where.techidaily.com/efficient-property-editing-interface-streamline-your-asset-management/"><u>Efficient Property Editing Interface: Streamline Your Asset Management</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-lgs-ultra-hd-tech-27ud68-monitor-deep-dive/"><u>Exploring LG's Ultra HD Tech 27UD68 Monitor Deep Dive</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-tecno-camon-20-pro-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Tecno Camon 20 Pro 5G FRP Locks</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-properly-restart-or-reboot-a-computer-using-windows-8/"><u>How to Properly Restart or Reboot a Computer Using Windows 8</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hubsan-h501s-x4-fpv-quadcopter-review-for-2024/"><u>Hubsan H501S X4 FPV Quadcopter Review for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/identifying-mobile-surveillance-are-you-being-watched-by-your-own-device/"><u>Identifying Mobile Surveillance: Are You Being Watched by Your Own Device?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-application-virtualization-with-microsoft-system-center-app-v-version-5-tab-solutions-insights/"><u>Mastering Application Virtualization with Microsoft System Center App-V Version 5: Tab Solutions Insights</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-fast-and-easy-safari-screencapture-methods/"><u>Mastering Fast and Easy Safari Screencapture Methods</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-make-unforgettable-video-invites-with-these-mobile-apps/"><u>New 2024 Approved Make Unforgettable Video Invites with These Mobile Apps</u></a></li>
-<li><a href="https://fox-where.techidaily.com/personalized-file-operations-tailored-action-techniques/"><u>Personalized File Operations: Tailored Action Techniques</u></a></li>
-<li><a href="https://fox-where.techidaily.com/property-component-management-solutions/"><u>Property Component Management Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/quick-and-easy-guide-turning-your-androids-pdfs-into-excel-format-with-minimal-hassle/"><u>Quick & Easy Guide: Turning Your Android's PDFs Into Excel Format with Minimal Hassle</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ultimate-guide-to-creating-stellar-highlight-reels-varied-techniques-unveiled/"><u>Ultimate Guide to Creating Stellar Highlight Reels: Varied Techniques Unveiled</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/standing-the-key-of-youtube-aspect-ratios-for-success-for-2024/"><u>Understanding the Key of YouTube Aspect Ratios for Success for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-chime-chronicles-mastering-the-art-of-tamil-ringtones/"><u>[Updated] 2024 Approved Chime Chronicles Mastering the Art of Tamil Ringtones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-pro-learning-snapseed-essentials/"><u>[Updated] From Novice to Pro Learning Snapseed Essentials</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/blueprint-for-an-intriguing-videography-script-for-2024/"><u>Blueprint for an Intriguing Videography Script for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-facile-pour-recouvrer-linstallation-de-microsoft-office-sur-pc-et-macintosh/"><u>Guide Facile Pour Recouvrer L'Installation De Microsoft Office Sur PC Et Macintosh</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-recover-past-conversations-on-wechat-reinstate-or-clear-your-chats-easily/"><u>How to Recover Past Conversations on WeChat: Reinstate or Clear Your Chats Easily</u></a></li>
+<li><a href="https://fox-where.techidaily.com/losungen-fur-den-fehler-unzugangliches-startgerat-beim-einrichten-von-windows-server-2019/"><u>Lösungen Für Den Fehler «Unzugängliches Startgerät» Beim Einrichten Von Windows Server 2019</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/premium-aerial-choices-for-high-quality-gopro-recordings/"><u>Premium Aerial Choices For High-Quality GoPro Recordings</u></a></li>
+<li><a href="https://fox-where.techidaily.com/restaurar-o-arreglar-ventanas-11-a-la-perfeccion-conocer-las-5-estrategias-mas-efectivas-mediante-el-simbolo-del-sistema/"><u>Restaurar O Arreglar Ventanas 11 a La Perfeccion: Conocer Las 5 Estrategias Más Efectivas Mediante El Símbolo Del Sistema</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-critical-criteria-you-need-to-assess-before-relying-on-chatgpt-for-mental-health-care/"><u>The Critical Criteria You Need to Assess Before Relying on ChatGPT for Mental Health Care</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-15-most-economical-ssl-certificates/"><u>Top 15 Most Economical SSL Certificates</u></a></li>
+<li><a href="https://fox-where.techidaily.com/wie-man-den-fehlenden-systemwiederherstellungspunkt-in-windows-11-wieder-herstellt-protokollfuhren-and-workarounds/"><u>Wie Man Den Fehlenden Systemwiederherstellungspunkt in Windows 11 Wieder Herstellt – Protokollführen & Workarounds</u></a></li>
 </ul></div>
 

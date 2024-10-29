@@ -1,7 +1,7 @@
 ---
 title: "Configuring XML Structure: Understanding the Elements Configuration Pane"
-date: 2024-10-08T04:28:59.787Z
-updated: 2024-10-11T05:26:14.234Z
+date: 2024-10-23T17:25:01.870Z
+updated: 2024-10-28T16:10:25.656Z
 tags:
   - user-guide
 categories:
@@ -98,10 +98,10 @@ Table of Contents
 ![Element Settings](https://cdn.advancedinstaller.com/img/dialog/xml-element-settings.png "Element Settings")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Text
@@ -110,9 +110,23 @@ Specify the element or comment text.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This string is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). Also you can [localize](https://tools.techidaily.com/advancedinstaller/products/) it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For example, if you need to insert in the XML file an element in the form <node>text content</node>, set the Text for the "node" element to "text content". 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When an XML element is in _update mode_, the text content is also **updated**. However, when the XML element being updated has **mixed content** with several _text regions_, the new text specified here will be**appended** to the element content.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install
 
@@ -121,13 +135,6 @@ In this section you can specify the installation behavior of the XML element.
 ### Create element if it doesn't already exist
 
 If a matching element is not found and this option is enabled, the element will be created in the desired location, under the specified parent.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### If the element is found:
 
@@ -142,6 +149,13 @@ If a matching element is not found and this option is enabled, the element will 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If none of the above options are set, the element is ignored, meaning that is neither created nor updated. You can choose to use these settings if you need to navigate in an XML tree in order to reach a specific node. By using this method you can reach a sibling node without modifying the parent node(current node).
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)In order to enhance the localizing precision of matching elements, you can use [identifier attributes](https://tools.techidaily.com/advancedinstaller/products/) to pinpoint an exact element from the file, in case several nodes have the same ancestors.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 For example, if the target XML file looks like:
 
@@ -180,40 +194,20 @@ by changing the value of "PARAM" to "false", in order to identify the desired "O
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can specify several attributes as _identifiers_ for an XML element.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)XML Comments are always **inserted**, and never_updated_.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Condition
 
 The condition to create this element on install. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
-## Uninstall
-
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Uninstall
 
 ### Remove element on uninstall
 
@@ -252,16 +246,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-alternative-to-obs-the-next-gen-stream-software/"><u>[Updated] 2024 Approved Alternative to OBS The Next-Gen Stream Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-android-tutorial-reversed-video-display/"><u>[Updated] Android Tutorial Reversed Video Display</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effective-guide-mastering-data-restoration-with-apowerrecover/"><u>Effective Guide: Mastering Data Restoration with ApowerRecover</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-completely-remove-twitter-from-your-iphone-a-step-by-step-guide/"><u>How to Completely Remove Twitter From Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-srt-mastery-free-and-best-websites-in-top-8-lists/"><u>In 2024, SRT Mastery Free & Best Websites in Top 8 Lists</u></a></li>
-<li><a href="https://fox-where.techidaily.com/in-depth-apowermanager-instructional-handbook-your-definitive-how-to-guide/"><u>In-Depth APowerManager Instructional Handbook - Your Definitive How-To Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-ordering-an-uber-a-smart-money-saving-choice-compared-to-taxi-services/"><u>Is Ordering an Uber a Smart Money-Saving Choice Compared to Taxi Services?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/safe-surfing-in-chrome-the-ultimate-list-of-top-security-plugins-including-malwarefox/"><u>Safe Surfing in Chrome: The Ultimate List of Top Security Plugins, Including MalwareFox</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-7-must-have-mirroring-apps-compatible-with-both-ios-and-android-devices/"><u>Top 7 Must-Have Mirroring Apps Compatible with Both iOS & Android Devices</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-rated-photo-layering-applications-enhance-your-images/"><u>Top-Rated Photo Layering Applications: Enhance Your Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-liberate-your-listening-experience-with-pazera-the-2024-review/"><u>[New] Liberate Your Listening Experience with Pazera The 2024 Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-consciousness-proven-techniques-for-documenting-virtual-play-for-2024/"><u>[Updated] Capturing Consciousness Proven Techniques for Documenting Virtual Play for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comparing-mobile-vr-gear-top-10-edition/"><u>2024 Approved Comparing Mobile VR Gear - Top 10 Edition</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728462781563-chrome/"><u>解决 Chrome 网络浏览器中无预设文件夹错误 - 详细说明</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728489824490-aomei-backupper/"><u>AOMEI Backupperプログラムの基本情報と機能解説</u></a></li>
+<li><a href="https://fox-where.techidaily.com/creating-backup-data-from-your-downloads-folder-in-windows-10-a-simple-guide/"><u>Creating Backup Data From Your Downloads Folder in Windows 10 - A Simple Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effizientes-verschieben-von-windows-11-auf-einen-ssd-ohne-wiederherstellung-des-systems/"><u>Effizientes Verschieben Von Windows 11 Auf Einen SSD Ohne Wiederherstellung Des Systems</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guia-facil-de-crear-una-copia-de-seguridad-metalizada-para-restauracion-bare-metal-en-windows-11/"><u>Guía Fácil De Crear Una Copia De Seguridad Metalizada Para Restauración Bare Metal en Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y200e-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y200e 5G Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-ringtones-guide-top-downloads/"><u>In 2024, Ultimate Ringtones Guide Top Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-discover-manycam-the-ultimate-video-editing-tool-and-online-webcam-solution/"><u>Live Streaming Mastery: Discover ManyCam, the Ultimate Video Editing Tool & Online Webcam Solution</u></a></li>
+<li><a href="https://fox-where.techidaily.com/sichere-deine-dokumente-vor-dem-selbstausloschungseffekt-von-microsoft-onedrive-masterclass-in-dateiwiedergewinnungstechniken/"><u>Sichere Deine Dokumente Vor Dem Selbstauslöschungseffekt Von Microsoft OneDrive: Masterclass in Dateiwiedergewinnungstechniken</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-virality-equation-tiktok-vs-twitter-for-2024/"><u>The Virality Equation TikTok Vs. Twitter for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-blu-ray-replication-tool-exact-11-clone-without-compression-damage/"><u>Ultimate Blu-Ray Replication Tool - Exact 1:1 Clone without Compression Damage</u></a></li>
+<li><a href="https://fox-where.techidaily.com/videotutorial-wie-man-eine-gespeicherte-partition-auf-eine-andere-festplatte-verschiebt/"><u>Videotutorial: Wie Man Eine Gespeicherte Partition Auf Eine Andere Festplatte Verschiebt</u></a></li>
+<li><a href="https://fox-where.techidaily.com/wie-ubertrage-ich-iphone-bilder-auf-windows-1011/"><u>Wie Übertrage Ich iPhone-Bilder Auf Windows 10/11?</u></a></li>
 </ul></div>
 

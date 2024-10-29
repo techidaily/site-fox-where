@@ -1,7 +1,7 @@
 ---
 title: Advanced Image Targeting Techniques with IPatch
-date: 2024-10-04T20:17:26.163Z
-updated: 2024-10-10T16:11:55.983Z
+date: 2024-10-21T18:37:03.862Z
+updated: 2024-10-28T16:45:56.236Z
 tags:
   - user-guide
 categories:
@@ -118,10 +118,10 @@ Table of Contents
 ## IPatchTargetImage
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -129,22 +129,21 @@ Table of Contents
 IPatchTargetImage : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit target image properties
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -169,10 +168,10 @@ This interface is meant to edit target image properties
 **Array<String> SymbolsFolders** \- Gets the collection of symbol files (.pdb) generated for PE code files (.exe, .dll, etc) to generate more optimal diffs, thus reducing the patch's size.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -180,6 +179,13 @@ This interface is meant to edit target image properties
 **AddSymbolsFolder(String aSymbolsFolder)** Adds a folder from disk containing symbol files to the SymbolsFolder collection. 
 
 **RemoveSymbolsFolder(String aSymbolsFolder)** Removes a folder from disk containing symbol files from the SymbolsFolder collection. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -220,14 +226,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-9-cross-platform-communication-apps-iphone-vs-android-comparison/"><u>[New] Top 9 Cross-Platform Communication Apps IPhone vs Android Comparison</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-infinix-note-30-vip-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Infinix Note 30 VIP without App | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-spark-20-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Spark 20 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovation-surge-gpt-4-ais-new-frontier/"><u>Innovation Surge: GPT-4, AI's New Frontier</u></a></li>
-<li><a href="https://fox-where.techidaily.com/restore-lost-images-efficient-photo-retrieval-from-memory-cards/"><u>Restore Lost Images: Efficient Photo Retrieval From Memory Cards</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-apowermanagers-inability-to-access-notes-on-iphones-and-ipads/"><u>Troubleshooting ApowerManager's Inability to Access Notes on iPhones and iPads</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-icomclass-unveiling-the-secrets-of-application-identifiers/"><u>Understanding IComClass: Unveiling the Secrets of Application Identifiers</u></a></li>
-<li><a href="https://fox-where.techidaily.com/unlocking-success-understanding-the-top-six-dependencies-in-project-management/"><u>Unlocking Success: Understanding the Top Six Dependencies in Project Management</u></a></li>
-<li><a href="https://win-forum.techidaily.com/week-in-review-upcoming-models-from-google-and-samsung/"><u>Week in Review: Upcoming Models From Google & Samsung</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-edge-your-way-to-success-instagrams-finest-border-applications/"><u>[New] Edge Your Way to Success Instagram's Finest Border Applications</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-industrys-leading-heavy-duty-drone-picks/"><u>[Updated] Industry's Leading Heavy-Duty Drone Picks</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-la-herramienta-ideal-para-hacer-copias-de-seguridad-del-correo-en-windows-live-mail/"><u>1. 'La Herramienta Ideal Para Hacer Copias De Seguridad Del Correo en Windows Live Mail'</u></a></li>
+<li><a href="https://media-tips.techidaily.com/10-and-dvd-issues-discover-cost-free-remedies-here/"><u>10 and DVD Issues? Discover Cost-Free Remedies Here!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-viral-video-blueprint-top-10-tiktok-tricks/"><u>2024 Approved Viral Video Blueprint Top 10 TikTok Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-samsung-galaxy-a05s-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Samsung Galaxy A05s to iPhone | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/acoustic-architects-building-with-mac-studios/"><u>Acoustic Architects Building with Mac Studios</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/download-and-install-logitech-g403-gamepad-drivers-on-windows-latest-version/"><u>Download and Install Logitech G403 Gamepad Drivers on Windows - Latest Version</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-poco-m6-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Poco M6 5G</u></a></li>
+<li><a href="https://fox-where.techidaily.com/krok-po-kroku-przeprowadz-niezalezne-wykresyskanie-windows-1111-na-dysku-zmieczenia-uruchamiajacym-szybki-przewodnik-gdanski/"><u>Krok Po Kroku Przeprowadz Niezależne Wykresyskanie Windows 11/11 Na Dysku Zmięczenia Uruchamiającym Szybki Przewodnik Gdański</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728466994687-onedrive/"><u>OneDrive というクラウドサービスにおける一方通行同期の設定方法</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unable-to-locate-page-encountering-the-classic-http-404-error/"><u>Unable To Locate Page - Encountering the Classic HTTP 404 Error</u></a></li>
 </ul></div>
 

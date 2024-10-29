@@ -1,7 +1,7 @@
 ---
 title: "Navigating the World of Assemblies Webpages: A Comprehensive Guide"
-date: 2024-10-18T01:31:44.641Z
-updated: 2024-10-22T16:43:04.789Z
+date: 2024-10-23T18:51:36.332Z
+updated: 2024-10-28T20:46:06.553Z
 tags:
   - user-guide
 categories:
@@ -79,50 +79,50 @@ Windows Installer has the ability to install .NET and Win32 assemblies. These ar
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The information presented in this article can be applied in a similar fashion to**Assemblies Page** from [Merge Module Project](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding an assembly
 
 ![Add Assembly](https://cdn.advancedinstaller.com/img/toolbar/assembly-add.png "Add Assembly") Use the \[Add Assembly... \] toolbar button, the “Add Assembly...” context menu item or press the Insert key while the left pane is focused. A [File Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear, where you can choose a file to add. 
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding multiple assemblies
 
  To add multiple assemblies at once, use the \[Add Assembly... \] toolbar button, the “Add Assembly...” context menu item or press theInsert key while the left pane is focused. A dialog appears enabling you to select **one** or **more** files. If multiple files are selected the [Assembly Destination Dialog](https://tools.techidaily.com/advancedinstaller/products/) appears.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Removing an assembly
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while an element is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -165,17 +165,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/2024-approved-digital-magic-uncovering-premier-3d-animation-software/"><u>2024 Approved Digital Magic Uncovering Premier 3D Animation Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-enhancing-viewership-transferring-twitch-content-to-fb/"><u>2024 Approved Enhancing Viewership Transferring Twitch Content to FB</u></a></li>
-<li><a href="https://fox-where.techidaily.com/die-top-3-beliebtesten-gmail-backup-programme-ihr-ultimativer-leitfaden/"><u>Die Top-3 Beliebtesten Gmail-Backup-Programme: Ihr Ultimativer Leitfaden</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guida-completa-a-salvare-i-file-su-hard-disk-esterni-non-allocati-senza-perdite-di-informazioni/"><u>Guida Completa a Salvare I File Su Hard Disk Esterni Non Allocati Senza Perdite Di Informazioni</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-complet-pour-retrouver-ses-favoris-perdus-dans-edge-browser/"><u>Guide Complet Pour Retrouver Ses Favoris Perdus Dans Edge Browser</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-pratique-localisation-du-dossier-programdata-dans-windows-11-resolu/"><u>Guide Pratique : Localisation Du Dossier 'ProgramData' Dans Windows 11 - Résolu!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-mac-users-download-vllo-and-find-the-best-alternatives/"><u>New Mac Users Download VLLO and Find the Best Alternatives</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/perfecting-your-content-chrome-compatible-tiktok-uploads/"><u>Perfecting Your Content Chrome-Compatible TikTok Uploads</u></a></li>
-<li><a href="https://fox-where.techidaily.com/techniques-efficaces-pour-recuperation-de-photos-sur-une-carte-sd-compromise-augmenter-les-chances-de-reussite/"><u>Techniques Efficaces Pour Récupération De Photos Sur Une Carte SD Compromise – Augmenter Les Chances De Réussite</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-mlb-the-show-21-servers-play-without-interruptions/"><u>Troubleshooting Guide: Fixing MLB The Show 21 Servers - Play Without Interruptions!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-visual-storytelling-with-ar-and-luts-for-2024/"><u>Unlocking Visual Storytelling with AR & LUTs for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-titans-clash-discovering-the-ultimate-7-grand-wars/"><u>[Updated] In 2024, Titans Clash Discovering the Ultimate 7 Grand Wars</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-creative-power-instagrams-top-10-grid-makers/"><u>[Updated] Unleash Creative Power Instagram's Top 10 Grid Makers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/custom-film-conclusion-templates-for-free-for-2024/"><u>Custom Film Conclusion Templates, For FREE for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guida-passo-passo-come-avviare-da-un-disco-esterno-in-windows-10-e-11/"><u>Guida Passo-Passo: Come Avviare Da Un Disco Esterno in Windows 10 E 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-properly-enabledisable-offline-files-feature-on-windows-11/"><u>How to Properly Enable/Disable Offline Files Feature on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-defy-2-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Defy 2 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-pova-5-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Pova 5 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ishowu-audio-capture-review/"><u>IShowU Audio Capture Review</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-restoration-in-active-directory-environments-optimal-solutions-unveiled/"><u>Mastering Restoration in Active Directory Environments: Optimal Solutions Unveiled</u></a></li>
+<li><a href="https://fox-where.techidaily.com/resolving-docker-desktops-hypervisor-detection-problem/"><u>Resolving Docker Desktop's Hypervisor Detection Problem</u></a></li>
+<li><a href="https://fox-where.techidaily.com/scopri-lssd-ad-alta-velocita-ssd-sata-iii-per-la-migrazione-intensiva-del-tuo-computer/"><u>Scopri L'SSD Ad Alta Velocità SSD SATA III Per La Migrazione Intensiva Del Tuo Computer</u></a></li>
+<li><a href="https://win-best.techidaily.com/securisez-et-facilitez-votre-passage-a-windows-11-avec-notre-meilleur-outil-de-migration/"><u>Sécurisez Et Facilitez Votre Passage À Windows 11 Avec Notre Meilleur Outil De Migration</u></a></li>
+<li><a href="https://fox-where.techidaily.com/sprywanie-sasiadow-dla-co-akroni-true-image-uzywa-wyjatkowych-strategii-klonowania/"><u>Sprywanie Sąsiadów: Dla Co Akroni True Image Używa Wyjątkowych Strategii Klonowania</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-cyber-monday-offer-score-an-hp-pavilion-laptop-for-just-450-enjoy-a-steep-50-discount-dive-into-the-deal-at-zdnet/"><u>Unbeatable Cyber Monday Offer: Score an HP Pavilion Laptop for Just $450! Enjoy a Steep 50% Discount – Dive Into the Deal at ZDNet</u></a></li>
+<li><a href="https://fox-where.techidaily.com/usb-security-unlocked-how-to-safely-encrypt-your-portable-storage-files/"><u>USB Security Unlocked: How to Safely Encrypt Your Portable Storage Files</u></a></li>
 </ul></div>
 

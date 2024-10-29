@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Breakdown of Item Attributes in the 'Details' Overview Panel
-date: 2024-10-05T16:30:20.021Z
-updated: 2024-10-10T20:11:05.410Z
+date: 2024-10-25T18:58:31.778Z
+updated: 2024-10-28T20:02:05.839Z
 tags:
   - user-guide
 categories:
@@ -80,13 +80,6 @@ General information about the application installed by the package. For an examp
 
 ![ttest](https://cdn.advancedinstaller.com/img/ui/product-details.png "ttest")  
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Required
 
 ### Name
@@ -101,13 +94,20 @@ A version string has the format "x.y.z" where x, y and z are numbers. Windows In
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The value in this field is stored in the **ProductVersion** property.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When changing the Product Version, you should also allow generating a new Product Code if and only if you plan to check “Automatically upgrade older versions of the product” on the [Install Parameters](https://tools.techidaily.com/advancedinstaller/products/) page. Read why in [Changing Version](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Version taken from file**
@@ -119,10 +119,10 @@ To retrieve the Product Version from a file (EXE file for example), click on\[..
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When the _Product Version_ is changed due to an external source update, a new Product Code will be automatically generated. New GUIDs for the components are also generated if _Allow side by side installs of different product versions_ option from [Upgrades page](https://tools.techidaily.com/advancedinstaller/products/) is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The version must be contained by the file metadata, **not** as a string in a text file. 
@@ -135,6 +135,19 @@ The Options hyperlink displays _Edit Product Version Dialog_ in which you can co
 * Never generate a new Product Code and component's GUIDs when Product Version changes
 * Ask the user every time
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Publisher
 
 The full name of your company. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). The value in this field is stored in the **Manufacturer** property and it can be [localized](https://tools.techidaily.com/advancedinstaller/products/).
@@ -143,23 +156,9 @@ The full name of your company. This field is of [PseudoFormatted Type](https://t
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The following fields are of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). Their content can be [localized](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Support Link
 
  The application's home page URL. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Update Info Link
 
@@ -181,13 +180,6 @@ The phone number where the user can get technical support.
 
 A more detailed description of the application. This information is displayed in the _Programs and Features_ applet in the Control Panel. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Programs and Features
 
 ### Register product with Windows Installer.
@@ -197,15 +189,28 @@ This option registers the product with Windows Installer.
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If this option is not checked you cannot remove, repair or reinstall the application by using the Control Panel, the Windows Installer command-line options or the Windows Installer application programming interface (API).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Icon File
 
  This is the icon which will be shown for the product in the "Programs and Features" applet in Control Panel. Choose a file that contains icons by using the\[Browse... \] button and select from the available icons in the drop-down list. Press \[Reset \] to use the default Windows Installer icon. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Disable Modify
 
@@ -214,6 +219,13 @@ This option registers the product with Windows Installer.
 ### Disable Repair
 
  Disables the "Repair" button in the "Programs and Features" applet in the Control Panel. This button is showed when you select the _Click here for support information_ link.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Disable Remove
 
@@ -234,13 +246,6 @@ This option allows you to:
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Applied patches will no longer be displayed when selecting the “Override Windows Installer programs list entry” option and the patched versions will be listed side by side. Also, **Disable Repair** option is enabled because only native Windows Installer "Programs and Features" entries can use a \[Repair \] button.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## End User License Agreement
 
 ### Lincense
@@ -256,6 +261,13 @@ Specify the EULA file. By clicking on \[... \] you can :
 ## Readme File
 
 Set the Readme File for your application.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Show in Readme Dialog
 
@@ -298,18 +310,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-propel-views-up-top-hashtag-combinations-for-youtube-profit/"><u>[Updated] Propel Views Up Top Hashtag Combinations for YouTube Profit</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capturing-content-live-review-of-premium-obs-options-for-2024/"><u>Capturing Content Live Review of Premium OBS Options for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-on-correcting-compromised-system-data-structures-within-windows-10-or-11/"><u>Complete Guide on Correcting Compromised System Data Structures Within Windows 10 or 11</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-guide-to-multipurpose-internet-mail-extensions-mime-essential-file-type-identifiers-on-the-web/"><u>Comprehensive Guide to Multipurpose Internet Mail Extensions (MIME) - Essential File Type Identifiers on the Web</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effortless-photo-scaling-the-three-best-web-applications-to-enlarge-your-pictures/"><u>Effortless Photo Scaling: The Three Best Web Applications to Enlarge Your Pictures</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/for-the-digital-novice-a-beginners-guide-to-visual-clarity-and-pixel-perfect-images/"><u>For the Digital Novice A Beginner's Guide to Visual Clarity and Pixel-Perfect Images</u></a></li>
-<li><a href="https://fox-where.techidaily.com/free-techniques-for-applying-a-watermark-to-your-videos/"><u>Free Techniques for Applying a Watermark to Your Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-comprehensive-techniques-to-master-telegram-web-interface/"><u>In 2024, Comprehensive Techniques to Master Telegram Web Interface</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-imsibuild-a-complete-guide-to-efficient-construction-management/"><u>Mastering IMsiBuild: A Complete Guide to Efficient Construction Management</u></a></li>
-<li><a href="https://fox-where.techidaily.com/personalized-feature-specifications/"><u>Personalized Feature Specifications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-rectifying-steamdll-disappearance-issues/"><u>The Ultimate Guide to Rectifying Steam.dll Disappearance Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-forward-thinking-ios-for-ps2-emulation/"><u>[Updated] In 2024, Forward-Thinking iOS for PS2 Emulation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamlining-your-gaming-experience-with-easy-recordings/"><u>[Updated] In 2024, Streamlining Your Gaming Experience with Easy Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-secret-pathway-to-premium-pristine-pictures/"><u>[Updated] The Secret Pathway to Premium, Pristine Pictures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-twirling-titans-olympic-ice-revelations/"><u>[Updated] Twirling Titans Olympic Ice Revelations</u></a></li>
+<li><a href="https://fox-where.techidaily.com/2-fixing-vdiskmanager-cannot-be-located-in-vmware-expert-tips-and-tricks/"><u>2. Fixing 'VdiskManager Cannot Be Located' In VMware: Expert Tips and Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-gopro-helmet-mounts-and-how-to-use-them/"><u>2024 Approved Best GoPro Helmet Mounts and How to Use Them</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-how-to-edit-drone-videos/"><u>2024 Approved How to Edit Drone Videos</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comment-configurer-et-reparer-une-image-de-sauvegarde-sur-windows-11/"><u>Comment Configurer Et Réparer Une Image De Sauvegarde Sur Windows 11?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/decouvrez-loutil-de-migration-ssd-le-plus-performant-pour-windows-gratuiciel/"><u>Découvrez L'Outil De Migration SSD Le Plus Performant Pour Windows - Gratuiciel!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/five-effective-methods-for-resolving-ssd-detection-problems-on-a-windows-11-installation/"><u>Five Effective Methods for Resolving SSD Detection Problems on a Windows 11 Installation</u></a></li>
+<li><a href="https://fox-where.techidaily.com/foto-wiedergewinnung-von-sd-karten-effiziente-losungen-fur-unbeabsichtigtes-loschen/"><u>Foto Wiedergewinnung Von SD Karten - Effiziente Lösungen Für Unbeabsichtigtes Löschen</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-x50iplus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-paint-shop-pro-tricks-for-2024/"><u>Premier Paint Shop Pro Tricks for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-self-care-routine-with-these-9-chatgpt-tips-for-optimal-health/"><u>Revolutionize Your Self-Care Routine with These 9 ChatGPT Tips for Optimal Health</u></a></li>
+<li><a href="https://fox-where.techidaily.com/robust-samsung-solid-state-drive-imaging-tool-for-ultimate-data-security/"><u>Robust Samsung Solid State Drive Imaging Tool for Ultimate Data Security</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728505726714-windows/"><u>Windows上の失われた音楽フォルダを取り戻す効果的な手段</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728467361890-word/"><u>Wordプログラムにおける「最近利用されたアイテム」切り替え手順: 使い方とトリックを解き明かす</u></a></li>
 </ul></div>
 

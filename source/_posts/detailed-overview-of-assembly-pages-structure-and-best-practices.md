@@ -1,7 +1,7 @@
 ---
 title: "Detailed Overview of Assembly Pages: Structure and Best Practices"
-date: 2024-10-05T17:00:41.425Z
-updated: 2024-10-11T02:18:43.194Z
+date: 2024-10-27T17:35:18.326Z
+updated: 2024-10-28T19:10:45.447Z
 tags:
   - user-guide
 categories:
@@ -79,22 +79,22 @@ Windows Installer has the ability to install .NET and Win32 assemblies. These ar
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The information presented in this article can be applied in a similar fashion to**Assemblies Page** from [Merge Module Project](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding an assembly
 
 ![Add Assembly](https://cdn.advancedinstaller.com/img/toolbar/assembly-add.png "Add Assembly") Use the \[Add Assembly... \] toolbar button, the “Add Assembly...” context menu item or press the Insert key while the left pane is focused. A [File Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear, where you can choose a file to add. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding multiple assemblies
@@ -102,10 +102,10 @@ Windows Installer has the ability to install .NET and Win32 assemblies. These ar
  To add multiple assemblies at once, use the \[Add Assembly... \] toolbar button, the “Add Assembly...” context menu item or press theInsert key while the left pane is focused. A dialog appears enabling you to select **one** or **more** files. If multiple files are selected the [Assembly Destination Dialog](https://tools.techidaily.com/advancedinstaller/products/) appears.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing an assembly
@@ -113,10 +113,10 @@ Windows Installer has the ability to install .NET and Win32 assemblies. These ar
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while an element is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -159,22 +159,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-educational-videography-key-editing-strategies/"><u>[New] 2024 Approved Educational Videography Key Editing Strategies</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-get-1k-followers-every-month-on-instagram-for-2024/"><u>[New] How to Get 1K Followers Every Month on Instagram for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ptimizing-youtube-videos-with-the-right-tags/"><u>[New] Optimizing YouTube Videos with the Right Tags</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-beginners-guide-to-easy-multi-snap-chat-videos-and-edits/"><u>[New] The Beginner's Guide to Easy Multi-Snap Chat Videos & Edits</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screencasting-simplified-adopting-the-ezvide-method/"><u>2024 Approved Screencasting Simplified Adopting the EZvide Method</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-on-utilizing-the-iinstalleddll-interface-for-dynamic-library-calls/"><u>Guide on Utilizing the IInstalledDll Interface for Dynamic Library Calls</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-eradicating-phony-microsoft-edge-virus-warning-notifications-permanently/"><u>Guide: Eradicating Phony Microsoft Edge Virus Warning Notifications Permanently</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-modify-system-center-configuration-manager-settings/"><u>How to Modify System Center Configuration Manager Settings</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-resolve-iphone-x-screen-recording-glitches-in-ios-11/"><u>How to Resolve iPhone X Screen Recording Glitches in iOS 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-iphone-7-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your iPhone 7 Plus and iPad?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-lava-agni-2-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Lava Agni 2 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-electronics-top-picks-and-honest-reviews-from-toms-gear-lab/"><u>Mastering Electronics: Top Picks & Honest Reviews From Tom’s Gear Lab</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-image-editing-with-apowersofts-background-eraser-step-by-step-tutorial-for-redeeming-your-discount-code/"><u>Mastering Image Editing with Apowersoft's Background Eraser: Step-by-Step Tutorial for Redeeming Your Discount Code</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-the-xml-chooser-tool-editing-techniques-and-tips/"><u>Mastering the XML Chooser Tool: Editing Techniques and Tips</u></a></li>
-<li><a href="https://fox-where.techidaily.com/optimizing-web-server-performance-with-iis-item-management-tools/"><u>Optimizing Web Server Performance with IIS Item Management Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-setup-compatible-wacom-intuos-pro-driver-for-windows-10-operating-system/"><u>Seamless Setup: Compatible Wacom Intuos Pro Driver for Windows 10 Operating System</u></a></li>
-<li><a href="https://fox-where.techidaily.com/transfer-ipads-books-to-personal-computer-a-no-itunes-method-for-crossing-platforms/"><u>Transfer iPads Books to Personal Computer - A No-iTunes Method for Crossing Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-free-video-conferencing-excellence-plus-screen-sharing-guide-for-2024/"><u>[New] Free Video Conferencing Excellence + Screen Sharing Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-shooting-stars-and-sedans-selecting-the-best-gear-for-sj4000/"><u>[New] Shooting Stars & Sedans Selecting the Best Gear for SJ4000</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-convert-youtube-videos-smoothly-into-professional-webm-files/"><u>[Updated] 2024 Approved Convert YouTube Videos Smoothly Into Professional WebM Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-filming-to-fame-discovering-the-top-10-ladies-on-youtube/"><u>[Updated] From Filming to Fame Discovering the Top 10 Ladies on YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-how-to-turn-on-av1-settings-on-youtube-and-why-you-should-do-it/"><u>[Updated] How to Turn on AV1 Settings on YouTube and Why You Should Do It</u></a></li>
+<li><a href="https://fox-where.techidaily.com/aomei-backuppers-guide-to-image-segmentation-for-enhanced-data-management/"><u>AOMEI Backupper's Guide to Image Segmentation for Enhanced Data Management</u></a></li>
+<li><a href="https://fox-where.techidaily.com/easy-steps-to-move-folders-from-your-desktop-computer-to-iphone-using-windows-operating-systems-11-and-10/"><u>Easy Steps to Move Folders From Your Desktop Computer to iPhone Using Windows Operating Systems (11 & 10)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-12-mini-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 12 mini to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-navigating-through-sound-excellence-and-user-frustrations-with-drops-grell-tws1x-iems/"><u>In-Depth Analysis: Navigating Through Sound Excellence and User Frustrations with Drop's Grell TWS1X IEMs</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-iphone-icloud-backup-failures-a-comprehensive-guide-for-all-models/"><u>Solving iPhone iCloud Backup Failures: A Comprehensive Guide for All Models</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ssdusb/"><u>SSDからUSBメモリへ素早くセットアップできる完全なデータコピー方法：詳細チュートリアル</u></a></li>
+<li><a href="https://fox-where.techidaily.com/tutorial-pertama-utama-untuk-restarting-partisi-ext4-atau-ext3-di-operating-system-windows/"><u>Tutorial Pertama-Utama Untuk Restarting Partisi Ext4 Atau Ext3 Di Operating System Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-s24-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy S24 without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

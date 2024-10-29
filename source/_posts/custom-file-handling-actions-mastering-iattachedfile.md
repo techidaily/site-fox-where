@@ -1,7 +1,7 @@
 ---
 title: "Custom File Handling Actions: Mastering IAttachedFile"
-date: 2024-10-07T23:11:13.209Z
-updated: 2024-10-11T03:03:00.032Z
+date: 2024-10-27T20:20:07.760Z
+updated: 2024-10-28T18:46:12.425Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IAttachedFileCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,15 +137,22 @@ Table of Contents
 IAttachedFileCustomAction : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface facilitates editing custom action for launching attached executable file.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -154,10 +161,10 @@ This interface facilitates editing custom action for launching attached executab
 **String CommandLine** \- Get or sets the command line arguments for launching executable file.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples
@@ -168,13 +175,6 @@ $custAct = $project.CustomActionsComponent.NewLaunchAttachedFile("D:\my_tool.exe
 $custAct.CommandLine = "command line arguments"
 
 Copy
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -215,24 +215,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>[New] Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-transform-your-digital-self-updating-status-and-avatars-on-discord-for-2024/"><u>[New] Transform Your Digital Self Updating Status & Avatars on Discord for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-echoes-in-the-stream-full-year-tweet-video-analysis/"><u>[Updated] 2024 Approved Echoes in the Stream - Full Year Tweet Video Analysis</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-closer-look-at-instagram-stories-beyond-the-screen-for-2024/"><u>[Updated] A Closer Look at Instagram Stories Beyond the Screen for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-10-converters-free-apps-for-efficient-srt-file-transformations/"><u>[Updated] Prime 10 Converters FREE Apps for Efficient SRT File Transformations</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-guide-to-multipurpose-internet-mail-extensions-mime-essential-file-type-identifiers-on-the-web/"><u>Comprehensive Guide to Multipurpose Internet Mail Extensions (MIME) - Essential File Type Identifiers on the Web</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effortless-photo-scaling-the-three-best-web-applications-to-enlarge-your-pictures/"><u>Effortless Photo Scaling: The Three Best Web Applications to Enlarge Your Pictures</u></a></li>
-<li><a href="https://fox-where.techidaily.com/free-techniques-for-applying-a-watermark-to-your-videos/"><u>Free Techniques for Applying a Watermark to Your Videos</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-completely-remove-twitter-from-your-iphone-a-step-by-step-guide/"><u>How to Completely Remove Twitter From Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-binocular-vision-the-leading-digital-photo-enhancements/"><u>In 2024, Binocular Vision The Leading Digital Photo Enhancements</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-stepping-through-the-art-of-subtle-volume-lowering-in-audacity/"><u>In 2024, Stepping Through the Art of Subtle Volume Lowering in Audacity</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-guide-incorporating-facebook-live-into-websites/"><u>In 2024, The Ultimate Guide Incorporating Facebook LIVE Into Websites</u></a></li>
-<li><a href="https://fox-where.techidaily.com/in-depth-apowermanager-instructional-handbook-your-definitive-how-to-guide/"><u>In-Depth APowerManager Instructional Handbook - Your Definitive How-To Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-imsibuild-a-complete-guide-to-efficient-construction-management/"><u>Mastering IMsiBuild: A Complete Guide to Efficient Construction Management</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-wma-remote-free-movavi-wma-transcoder/"><u>Movavi의 제공 시스템에서 원격으로 무료 WMA 디코딩 서비스 - Remote, Free Movavi WMA Transcoder</u></a></li>
-<li><a href="https://fox-where.techidaily.com/personalized-feature-specifications/"><u>Personalized Feature Specifications</u></a></li>
-<li><a href="https://fox-where.techidaily.com/safe-surfing-in-chrome-the-ultimate-list-of-top-security-plugins-including-malwarefox/"><u>Safe Surfing in Chrome: The Ultimate List of Top Security Plugins, Including MalwareFox</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-rated-photo-layering-applications-enhance-your-images/"><u>Top-Rated Photo Layering Applications: Enhance Your Images</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-of-the-best-top-rated-free-mpeg-video-splitting-tools/"><u>Updated In 2024, Best of the Best Top-Rated Free MPEG Video Splitting Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-dji-flying-series-fundamentals-advanced-features-high-res-vision/"><u>[New] DJI Flying Series Fundamentals, Advanced Features, High-Res Vision</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unleashing-the-power-of-whiteboards-in-google-meet-on-diverse-devices-for-seamless-engagement-for-2024/"><u>[New] Unleashing the Power of Whiteboards in Google Meet on Diverse Devices for Seamless Engagement for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-earnings-via-sponsored-youtube-videos/"><u>[Updated] Mastering Earnings via Sponsored YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-money-making-enabling-youtube-monetization-for-mobile-devices/"><u>[Updated] Mastering Money-Making Enabling YouTube Monetization for Mobile Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>[Updated] Sound Innovation at Hand Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme Phone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/advanced-strategies-for-windows-11-defense-masterful-use-of-firewalls-and-network-shielding-techniques/"><u>Advanced Strategies for Windows 11 Defense: Masterful Use of Firewalls and Network Shielding Techniques</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effektieve-backup-oplossingen-voor-techproblemen-met-windows-10/"><u>Effektieve Backup-Oplossingen Voor Techproblemen Met Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-bugs-ensure-uninterrupted-gameplay-in-latest-destiny-2-update-for-pc-gamers/"><u>Fixed Bugs Ensure Uninterrupted Gameplay in Latest Destiny 2 Update for PC Gamers</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guida-passo-passo-come-avviare-da-un-disco-esterno-in-windows-10-e-11/"><u>Guida Passo-Passo: Come Avviare Da Un Disco Esterno in Windows 10 E 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlined-design-integrating-gamers-banner-templates/"><u>In 2024, Streamlined Design Integrating Gamers' Banner Templates</u></a></li>
+<li><a href="https://fox-where.techidaily.com/in-depth-analysis-of-iskysoft-data-recovery-software-assessing-its-advantages-drawbacks-and-pricing-details/"><u>In-Depth Analysis of iSkysoft Data Recovery Software – Assessing Its Advantages, Drawbacks, & Pricing Details</u></a></li>
+<li><a href="https://fox-where.techidaily.com/page-unavailable-error-the-requested-content-cannot-be-found/"><u>Page Unavailable Error – The Requested Content Cannot Be Found</u></a></li>
+<li><a href="https://fox-where.techidaily.com/perfekt-laden-von-bildert-auf-das-ios-gerat/"><u>Perfekt Laden Von Bildert Auf Das iOS-Gerät</u></a></li>
+<li><a href="https://fox-where.techidaily.com/scopri-lssd-ad-alta-velocita-ssd-sata-iii-per-la-migrazione-intensiva-del-tuo-computer/"><u>Scopri L'SSD Ad Alta Velocità SSD SATA III Per La Migrazione Intensiva Del Tuo Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-steps-to-fixing-broken-xbox-series-xands/"><u>Simple Steps to Fixing Broken Xbox Series X&S</u></a></li>
+<li><a href="https://fox-where.techidaily.com/sprywanie-sasiadow-dla-co-akroni-true-image-uzywa-wyjatkowych-strategii-klonowania/"><u>Sprywanie Sąsiadów: Dla Co Akroni True Image Używa Wyjątkowych Strategii Klonowania</u></a></li>
+<li><a href="https://fox-where.techidaily.com/telechargement-gratuit-et-creation-dune-cle-usb-bootable-avec-rufus-pour-windows-11/"><u>Téléchargement Gratuit Et Création D’une Clé USB Bootable Avec Rufus Pour Windows 11</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-a-detailed-guide-to-making-your-pictures-speak-for-2024/"><u>Updated A Detailed Guide to Making Your Pictures Speak for 2024</u></a></li>
 </ul></div>
 

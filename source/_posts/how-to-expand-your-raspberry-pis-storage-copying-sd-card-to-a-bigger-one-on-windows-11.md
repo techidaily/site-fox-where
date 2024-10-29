@@ -1,7 +1,7 @@
 ---
 title: "How to Expand Your Raspberry Pi's Storage: Copying SD Card to a Bigger One on Windows 11"
-date: 2024-10-17T19:11:47.503Z
-updated: 2024-10-23T03:21:43.985Z
+date: 2024-10-25T21:44:15.100Z
+updated: 2024-10-28T16:50:07.679Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a9868bdf923c96ee4b76c8aaef.jpg
@@ -35,6 +35,13 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -43,13 +50,20 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -72,13 +86,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -86,6 +93,13 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -100,16 +114,10 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
@@ -132,13 +140,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -155,23 +156,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -201,6 +188,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -218,16 +218,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-8-strategies-livestreaming-webinars-without-costs-for-2024/"><u>[New] 8 Strategies Livestreaming Webinars Without Costs for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1728504189250-4/"><u>4無料の手順：デスクトップノートパソコンから画像回復ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/content-mastery-using-chatgpt-9-essential-techniques-for-writers/"><u>Content Mastery Using ChatGPT: 9 Essential Techniques for Writers</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effective-strategies-for-shutting-down-highlighted-port-utilizing-programs/"><u>Effective Strategies for Shutting Down Highlighted Port Utilizing Programs</u></a></li>
-<li><a href="https://fox-where.techidaily.com/erfolgreich-managen-von-problemen-eine-anleitung-zu-systemsicherungen-des-windows-servers/"><u>Erfolgreich Managen Von Problemen: Eine Anleitung Zu Systemsicherungen Des Windows-Servers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-11-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 11 without Backup | Stellar</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-cropping-images-in-fcpx-tips-tricks-and-best-practices/"><u>New Cropping Images in FCPX Tips, Tricks, and Best Practices</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/protecting-against-deception-an-insight-into-scarewares-impact-on-computers/"><u>Protecting Against Deception: An Insight Into Scareware's Impact on Computers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unlock-extra-space-premium-external-drives-for-ps5-for-2024/"><u>Unlock Extra Space Premium External Drives for PS5 for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/wie-sie-ihre-dokumente-und-anpassungen-unter-windows-11-effizient-sichern-konnen-schritt-fur-schritt-anleitung/"><u>Wie Sie Ihre Dokumente Und Anpassungen Unter Windows 11 Effizient Sichern Können - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-essential-youtube-strategies-compiling-10-basic-yet-engaging-ideas-for-everyone/"><u>[New] Essential YouTube Strategies Compiling 10 Basic Yet Engaging Ideas for Everyone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-from-tiktok-kitchens-15-irresistible-culinary-challenges/"><u>[New] From TikTok Kitchens 15 Irresistible Culinary Challenges</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-seamless-transition-of-photos-from-your-device-to-snapchat-for-2024/"><u>[New] How-To Seamless Transition of Photos From Your Device to Snapchat for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-determining-top-video-player-vlcs-face-off-with-mx/"><u>[Updated] 2024 Approved Determining Top Video Player VLC's Face-Off With MX</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-resolving-the-erase-all-content-and-settings-disabled-issue-on-iphoneipad/"><u>1. Resolving the 'Erase All Content & Settings' Disabled Issue on iPhone/iPad</u></a></li>
+<li><a href="https://fox-where.techidaily.com/archos-device-data-retrieval-techniques-explained/"><u>Archos Device Data Retrieval Techniques Explained</u></a></li>
+<li><a href="https://techidaily.com/best-vpn-for-kodi-in-2020-the-ultimate-guide/"><u>Best VPN for Kodi in 2020 [the Ultimate Guide]</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fix-a-computer-endlessly-rebooting-8-proven-methods/"><u>Fix a Computer Endlessly Rebooting: 8 Proven Methods</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guia-paso-a-paso-para-realizar-una-respaldo-de-windows-7-antes-de-la-actualizacion-a-windows-11/"><u>Guía Paso a Paso Para Realizar Una Respaldo De Windows 7 Antes De La Actualización a Windows 11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guida-passo-passo-per-lutilizzo-della-riga-di-comando-wbadmin-in-windows-7-per-backup-ai-dati/"><u>Guida Passo-Passo per L'utilizzo Della Riga Di Comando Wbadmin in Windows 7 per Backup AI Dati</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guida-rapido-per-la-creazione-di-compiti-di-sincronizzazione-automatica-in-aomei-backupper-per-gli-utenti-mac/"><u>Guida Rapido per La Creazione Di Compiti Di Sincronizzazione Automatica in AOMEI Backupper per Gli Utenti Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/has-openai-fallen-behind-gpt/"><u>Has OpenAI Fallen Behind GPT?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-moving-the-windows-bootloader-to-an-alternative-storage-device/"><u>Step-by-Step Guide: Moving the Windows Bootloader to an Alternative Storage Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/teenage-mutant-ninja-turtles-dvd-collection-ultimate-backup-solutions/"><u>Teenage Mutant Ninja Turtles DVD Collection: Ultimate Backup Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-magic-of-4k-unraveling-enhanced-pixels/"><u>The Magic of 4K: Unraveling Enhanced Pixels</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-computer-screens-of-2024-a-buyers-guide/"><u>Top Rated Computer Screens of 2024: A Buyer's Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-step-by-step-tutorial-how-to-boot-your-pc-using-an-external-hard-drive-on-windows-1011/"><u>Ultimate Step-by-Step Tutorial: How to Boot Your PC Using an External Hard Drive on Windows 10/11</u></a></li>
 </ul></div>
 

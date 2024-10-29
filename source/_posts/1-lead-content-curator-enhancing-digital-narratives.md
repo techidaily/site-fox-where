@@ -1,7 +1,7 @@
 ---
 title: "1. Lead Content Curator: Enhancing Digital Narratives"
-date: 2024-10-07T23:03:16.698Z
-updated: 2024-10-10T23:26:38.740Z
+date: 2024-10-23T19:17:19.338Z
+updated: 2024-10-28T23:17:47.670Z
 tags:
   - user-guide
 categories:
@@ -97,10 +97,10 @@ Drag the dialog's margins while it is selected.
 ![New Control](https://cdn.advancedinstaller.com/img/toolbar/control-new.png "New Control")Use the \[New Control \] toolbar button while a dialog is focused. A drop-down list of all the available controls will be displayed. Select one and click on the dialog surface where you want to place it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can also add controls with the use of the toolbox.
@@ -119,6 +119,13 @@ For a list of all the controls that can be used, please see the[Installer Contro
 
 ![Align](https://cdn.advancedinstaller.com/img/toolbar/editor-align.png "Align")Use the \[Align \] toolbar button or the “Align” context menu item while a group of controls is selected. You have the following options: 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Lefts
 * Rights
 * Tops
@@ -134,22 +141,15 @@ For a list of all the controls that can be used, please see the[Installer Contro
 * Horizontal
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Spacing Controls
 
 ![Space](https://cdn.advancedinstaller.com/img/toolbar/editor-space.png "Space")Use the \[Space Evenly \] toolbar button or the “Space Evenly” context menu item while a group of controls is selected. You have the following options:
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Across
 * Down
@@ -162,22 +162,15 @@ For a list of all the controls that can be used, please see the[Installer Contro
 * Height
 * Both
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Display Grid and Dialog Margins
 
  Use the \[Settings \] toolbar button. The [Editor Settings](https://tools.techidaily.com/advancedinstaller/products/) dialog will be displayed allowing you to customize the grid and dialog margins.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Layout Behavior
@@ -188,39 +181,53 @@ For a list of all the controls that can be used, please see the[Installer Contro
 
 ![Bring To Front](https://cdn.advancedinstaller.com/img/toolbar/editor-b2f.png "Bring To Front")Use the\[Bring To Front \] button, the “Order > Bring To Front” context menu item or press the Ctrl + Shift + F keys while one or multiple controls are selected in order to bring them on top of the Z-order (tab-order).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Send To Back
 
 ![Send To Back](https://cdn.advancedinstaller.com/img/toolbar/editor-s2b.png "Send To Back")Use the \[Send To Back \] button, the “Order > Send To Back” context menu item or press the Ctrl + Shift + B keys while one or multiple controls are selected to send them to the bottom of the Z-order (tab-order). 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tab Order Dialog
 
 ![Tab](https://cdn.advancedinstaller.com/img/toolbar/editor-tab.png "Tab")Use the \[Tab Order \] toolbar button, the “Control Tab Order” context menu item or press the Ctrl + T keys while the focus is on the dialog. The [Control Tab Order Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed enabling you to specify a tab order.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Edit Tab Order
 
 ![Tab](https://cdn.advancedinstaller.com/img/toolbar/editor-tab-direct.png "Tab")Use the “Tab Order > Edit in Place” toolbar drop-down menu option. In this way, you can edit the control tab order "in place". Overlay labels will appear over each control of your dialog, representing the tab order index. By clicking on a control you can alter its tab order index as follows: if the Ctrl key is pressed, the control's index is increased, else if the Shift key is pressed the control's index is decreased. You can repeatedly click on a control until it reaches the desired tab index. If no key is pressed while clicking the controls the Editor automatically counts the altered controls and assigns sequential tab indexes. You can exit the tab order edit mode by pressing the \[Tab Order \] toolbar button.
 
-![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Child controls such as Radio Buttons or BBControls are not involved in the tab order cycle; they rather fallow their parent controls (Radio Button Groups or Billboard Host controls, respectively).
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Child controls such as Radio Buttons or BBControls are not involved in the tab order cycle; they rather fallow their parent controls (Radio Button Groups or Billboard Host controls, respectively).
 
 ### Control replication
 
 Select the controls and use the “Copy” / “Cut” and “Paste” context menu options or the Ctrl + C / Ctrl + X and Ctrl + V accelerator keys. All the control's dependencies are also replicated.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The option can also be used between different application instances.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Control Selection
 
@@ -250,13 +257,6 @@ If you use the Ctrl key, the last selected control is the main control while if 
 ### Moving Controls
 
  Drag and drop the selected control or use the Up, Down, Left, Right keys. 
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Resizing controls
 
@@ -318,17 +318,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-expert-take-on-camstudios-recorder-efficacy-for-2024/"><u>[New] Expert Take on CamStudio's Recorder Efficacy for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-effortless-strategies-to-detect-duplicate-and-phony-likes/"><u>[Updated] In 2024, Effortless Strategies to Detect Duplicate and Phony Likes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-intro-magic-crafting-irresistible-podcast-openers/"><u>[Updated] In 2024, Intro Magic Crafting Irresistible Podcast Openers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-scouting-for-cost-effective-clouds-a-pricing-analysis-of-2024/"><u>[Updated] Scouting for Cost-Effective Clouds A Pricing Analysis of 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/audiophiles-ultimate-narrative-guides-for-2024/"><u>Audiophile's Ultimate Narrative Guides for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-head-to-head-hitman-pro-vs-malwarebytes-for-optimal-security/"><u>Comprehensive Head-to-Head: Hitman Pro Vs. Malwarebytes for Optimal Security</u></a></li>
-<li><a href="https://fox-where.techidaily.com/detailed-product-information-and-specifications/"><u>Detailed Product Information & Specifications</u></a></li>
-<li><a href="https://fox-where.techidaily.com/essential-windows-wow6432-node-registry-key-guide/"><u>Essential Windows WOW6432 Node Registry Key Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-xlsx-document-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Create a Digital Signature Online for .xlsx document</u></a></li>
-<li><a href="https://fox-where.techidaily.com/introducing-apowercompress-a-revolutionary-software-released-with-cutting-edge-capabilities/"><u>Introducing ApowerCompress - A Revolutionary Software Released With Cutting-Edge Capabilities</u></a></li>
-<li><a href="https://fox-where.techidaily.com/optimizing-team-access-essential-guide-to-subscriptions-and-licenses/"><u>Optimizing Team Access: Essential Guide to Subscriptions and Licenses</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-professionals-method-for-soundless-iphone-video-editing/"><u>Updated In 2024, The Professionals Method for Soundless iPhone Video Editing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/00plus-gaming-channel-names-for-every-gamer-filmora-for-2024/"><u>[New] 100+ Gaming Channel Names for Every Gamer - Filmora for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-master-clearer-photos-unveiling-the-top-10-web-edits/"><u>[New] In 2024, Master Clearer Photos Unveiling the Top 10 Web Edits</u></a></li>
+<li><a href="https://fox-where.techidaily.com/come-eseguire-il-backup-di-microsoft-office-su-disco-rigido-prima-della-riconfigurazione/"><u>Come Eseguire Il Backup Di Microsoft Office Su Disco Rigido Prima Della Riconfigurazione</u></a></li>
+<li><a href="https://win-best.techidaily.com/discover-the-finest-dvd-copying-applications-for-apple-desktops-our-top-picks-including-movavi-converter/"><u>Discover the Finest DVD Copying Applications for Apple Desktops - Our Top Picks Including Movavi Converter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fehler-bei-der-verwendung-von-handbrake-unter-windows-11-erkunde-wege-zur-behebung-und-andere-optionen/"><u>Fehler Bei Der Verwendung Von HandBrake Unter Windows 11? Erkunde Wege Zur Behebung Und Andere Optionen.</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-outsmart-youtube-sanctions-for-2024/"><u>How to Outsmart Youtube Sanctions for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-note-12-pro-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi Note 12 Pro 5G Device</u></a></li>
+<li><a href="https://fox-where.techidaily.com/strategie-efficaci-per-ripristinare-documenti-eliminati-permanentemente-nel-sistema-operativo-windows-11/"><u>Strategie Efficaci per Ripristinare Documenti Eliminati Permanentemente Nel Sistema Operativo Windows 11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/successful-solution-to-downloading-troubles-on-windows-update-error-code-0x800f0806/"><u>Successful Solution to Downloading Troubles on Windows Update (Error Code 0X800F0806)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-sony-sd-card-data-restoration-manual-a-complete-step-by-step-tutorial/"><u>Ultimate Sony SD Card Data Restoration Manual: A Complete Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

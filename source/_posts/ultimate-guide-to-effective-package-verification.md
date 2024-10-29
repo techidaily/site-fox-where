@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Effective Package Verification
-date: 2024-10-08T19:32:52.285Z
-updated: 2024-10-10T16:21:59.472Z
+date: 2024-10-24T23:59:21.695Z
+updated: 2024-10-28T22:48:34.245Z
 tags:
   - user-guide
 categories:
@@ -79,38 +79,31 @@ The validation tool checks your project for compliance with each of the internal
 
 ## Build Settings
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Enable ICE validation for Msi packages
 
 Run selected ICE evaluation file at the MSI package build time. If no predefined evaluation files are detected use the \[Browse \] button to locate the evaluation file.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enable ICE validation for Merge Module packages
 
 Run selected ICE evaluation file at the Merge Module package build time. If no predefined evaluation files are detected use the \[Browse \] button to locate the evaluation file.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Enable Advanced Installer best practice rules
 
 Run the [Advanced Installer Best Practice](https://tools.techidaily.com/advancedinstaller/products/) evaluators at build time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Enable App-V 5 resource compatibility check
 
@@ -119,6 +112,13 @@ By enabling this option you will get an "Issue List" with resources that don't m
 ### Enable UWP resource compatibility check
 
 Verifies that the package resources and settings are attuned to Universal Windows Platform best practices. The check is performed at build time and all detected compatibility issues are shown in the "Issue List" pane.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Enable UWP manifest validation
 
@@ -129,6 +129,13 @@ Run the UWP manifest validation at build time.
 Uses appcert.exe from the [Windows App Certification Kit](https://learn.microsoft.com/en-us/windows/uwp/debug-test-perf/windows-app-certification-kit) to validate an MSI or UWP AppX build. If you build your project via command line, you have to be aware that by enabling WACK, the uninstall process will not be silent. The validation will provide an output log as well as a more user-friendly HTML log. 
 
 To run these validation tests requires you to install Windows SDK.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Define Rules
 
@@ -141,13 +148,6 @@ No validation warnings will be displayed to the user.
 The ICEs you specify separated by ";" character will not run.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The validation result is displayed as information in the build log and will not affect the build result. After the build operation is finished the validation result is displayed in the **Issue Pane** list allowing user to locate the problem in Advanced Installer UI (if possible).
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -182,22 +182,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-discover-the-new-era-of-photography-with-toolwiz-comprehensive-2023-reviews-for-2024/"><u>[Updated] Discover the New Era of Photography with Toolwiz Comprehensive 2023 Reviews for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-chromatic-wonders-bridging-color-knowledge/"><u>2024 Approved Chromatic Wonders Bridging Color Knowledge</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-zeo-startup-showcase/"><u>2024 Approved The Ultimate Zeo-Startup Showcase</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nce-engagement-and-its-impact-on-youtube-performance-for-2024/"><u>Audience Engagement and Its Impact on YouTube Performance for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/customize-style-rules-in-the-advanced-formatting-tools/"><u>Customize Style Rules in the Advanced Formatting Tools</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effective-techniques-for-capturing-audio-from-clubhouse-sessions/"><u>Effective Techniques for Capturing Audio From Clubhouse Sessions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/essential-updates-for-windows-fingerprint-drivers-fast-and-reliable-download-options-here/"><u>Essential Updates for Windows Fingerprint Drivers - Fast & Reliable Download Options Here</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-achieve-a-fully-transparent-logo-with-optimal-techniques-and-applications/"><u>How to Achieve a Fully-Transparent Logo with Optimal Techniques and Applications</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/kostenloze-online-mpg-conversie-naar-wav-professioneel-door-movavi/"><u>Kostenloze Online Mpg-Conversie Naar Wav - Professioneel Door Movavi</u></a></li>
-<li><a href="https://fox-where.techidaily.com/navigate-through-our-expert-guide-of-2020s-best-mac-compatible-mind-mapping-applications-that-offer-seamless-organization-and-creativity-enhancement-feature4/"><u>Navigate Through Our Expert Guide of 2020'S Best Mac Compatible Mind Mapping Applications that Offer Seamless Organization and Creativity Enhancement Features.</u></a></li>
-<li><a href="https://fox-where.techidaily.com/purchasing-a-malwarebytes-lifetime-subscription-legitimately-expert-guide/"><u>Purchasing a Malwarebytes Lifetime Subscription Legitimately - Expert Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-guide-to-restoring-accidentally-erased-images-on-your-iphone-7/"><u>Step-by-Step Guide to Restoring Accidentally Erased Images on Your iPhone 7</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-10-free-android-apps-for-outstanding-video-editing-unleash-your-creativity/"><u>Top 10 Free Android Apps for Outstanding Video Editing: Unleash Your Creativity</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-picks-the-leading-windowsmac-gif-creation-tools-online/"><u>Ultimate Picks: The Leading Windows/Mac GIF Creation Tools Online</u></a></li>
-<li><a href="https://fox-where.techidaily.com/versatile-methods-transforming-your-myspace-music-into-mp3-format/"><u>Versatile Methods: Transforming Your MySpace Music Into MP3 Format</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-liberate-your-files-top-picks-for-20-free-cloud-storage-options-up-to-1tb/"><u>[New] Liberate Your Files Top Picks for 20 FREE Cloud Storage Options (Up To 1TB)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-2024windows-1011/"><u>1. 2024年最新解決方法：Windows 10和11上簡單逆向修復資料</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-anonymous-sharing-simplified-blurring-techniques-for-videos/"><u>2024 Approved Anonymous Sharing Simplified Blurring Techniques for Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-guide-to-video-cuts-windows-edition-made-simple/"><u>2024 Approved The Ultimate Guide to Video Cuts Windows Edition, Made Simple</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y56-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y56 5G</u></a></li>
+<li><a href="https://fox-where.techidaily.com/erleichterung-beim-datentransfer-funf-effektive-schritte-um-dateien-von-ihrem-altmodischen-pc-zu-einem-neuartigen-gerat-zu-bewegen/"><u>Erleichterung Beim Datentransfer: Fünf Effektive Schritte, Um Dateien Von Ihrem Altmodischen PC Zu Einem Neuartigen Gerät Zu Bewegen</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expert-guide-choosing-and-setting-up-the-ideal-motherboard-in-labs-2-5/"><u>Expert Guide: Choosing & Setting Up the Ideal Motherboard in Labs 2-5</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-media-player-app-when-it-stops-working-on-windows-11/"><u>How to Fix the Media Player App When It Stops Working on Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-lava-yuva-2-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Lava Yuva 2 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-present-state-of-drones-and-their-future-expansion/"><u>In 2024, The Present State of Drones and Their Future Expansion</u></a></li>
+<li><a href="https://fox-where.techidaily.com/schritt-fur-schritt-guide-zum-kopieren-von-linux-startfestplatten/"><u>Schritt-Für-Schritt-Guide Zum Kopieren Von Linux Startfestplatten</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-organizers-einfach-und-schnell-zwei-ordnere-in-windows-10-synchronisieren/"><u>Top Organizers: Einfach Und Schnell Zwei Ordnere in Windows 10 Synchronisieren</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-guide-mastering-the-password-free-restoration-of-lenovo-thinkpads-with-windows-11/"><u>Ultimate Guide: Mastering the Password-Free Restoration of Lenovo ThinkPads with Windows 11</u></a></li>
 </ul></div>
 

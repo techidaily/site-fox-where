@@ -1,7 +1,7 @@
 ---
 title: The Power of ICommand Key Combinations for Streamlined User Interfaces
-date: 2024-10-09T00:05:56.726Z
-updated: 2024-10-10T20:35:15.350Z
+date: 2024-10-26T23:02:10.604Z
+updated: 2024-10-28T20:04:47.672Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 Using this interface you can edit the command shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ Using this interface you can edit the command shortcut.
 ICommandShortcut : IBaseShortcut
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -169,24 +169,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-premier-screenshare-software-reviews/"><u>[New] In 2024, Premier Screenshare Software Reviews</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-lead-content-curator-enhancing-digital-narratives/"><u>1. Lead Content Curator: Enhancing Digital Narratives</u></a></li>
-<li><a href="https://fox-where.techidaily.com/apowersoft-introduces-enhanced-screencapture-pro-version-11/"><u>Apowersoft Introduces Enhanced ScreenCapture Pro Version 1.1</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asrock-z890-taichi-motherboard-features-10-usb-type-c-and-2-thunderbolt-a-detailed-review/"><u>ASRock Z890 Taichi Motherboard: Features 10 USB Type-C & 2 Thunderbolt - A Detailed Review</u></a></li>
-<li><a href="https://fox-where.techidaily.com/detailed-product-information-and-specifications/"><u>Detailed Product Information & Specifications</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-skills-for-successful-interviews/"><u>Essential Skills for Successful Interviews</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-windows-microcomputers-reviewed/"><u>Essential Windows Microcomputers Reviewed</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-picks-smart-home-sound-systems-of-2024/"><u>Expert Picks: Smart Home Sound Systems of 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-and-using-messengers-without-facebook-connection/"><u>Exploring and Using Messengers without Facebook Connection</u></a></li>
-<li><a href="https://fox-where.techidaily.com/find-the-right-product-version-expert-search-guide/"><u>Find the Right Product Version: Expert Search Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-s23-ultra-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy S23 Ultra Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-overcome-common-airplay-issues-with-ease-a-step-by-step-guide/"><u>How to Overcome Common AirPlay Issues with Ease: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/introducing-apowercompress-a-revolutionary-software-released-with-cutting-edge-capabilities/"><u>Introducing ApowerCompress - A Revolutionary Software Released With Cutting-Edge Capabilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/laughs-at-your-service-web/"><u>Laughs at Your Service (Web)</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-xml-editors-a-guide-to-the-properties-and-settings-tab-for-elements/"><u>Mastering XML Editors: A Guide to the Properties & Settings Tab for Elements</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/melody-in-motion-iphones-role-in-making-music-videos-for-2024/"><u>Melody in Motion IPhone's Role in Making Music Videos for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/optimizing-team-access-essential-guide-to-subscriptions-and-licenses/"><u>Optimizing Team Access: Essential Guide to Subscriptions and Licenses</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-gadgets-in-auto-traffic-camera-tech-for-2024/"><u>Premier Gadgets in Auto Traffic Camera Tech for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-8-complimentary-mac-data-restoration-tools-a-comparative-guide/"><u>Top 8 Complimentary Mac Data Restoration Tools : A Comparative Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/le-top-des-logiciels-de-clonage-et-imagerie-disque-pour-uefi-sous-windows-solutions-optimales/"><u>« Le Top Des Logiciels De Clonage Et Imagerie Disque Pour UEFI Sous Windows : Solutions Optimales »</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-obs-masterclass-for-successful-instagram-broadcasts/"><u>[Updated] 2024 Approved OBS Masterclass for Successful Instagram Broadcasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-cropped-video-content-on-instagram-for-2024/"><u>[Updated] The Ultimate Guide to Cropped Video Content on Instagram for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-clear-images-made-easy-picart-backdrop-takedown-technique/"><u>2024 Approved Clear Images Made Easy PicArt Backdrop Takedown Technique</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-productivity-now-learn-swift-app-opening-tricks-on-windows-11-via-simple-keyboard-shortcuts/"><u>Boost Productivity Now: Learn Swift App Opening Tricks on Windows 11 via Simple Keyboard Shortcuts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/clonaciper-minissd-clonazione-completa-utilizzo-di-aomei-backupper/"><u>Clonaciper MiniSSD Clonazione Completa Utilizzo Di AOMEI Backupper</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comprehensive-step-by-step-tutorial-on-enhancing-your-surface-laptop-go-2-with-an-ssd-upgrade/"><u>Comprehensive Step-by-Step Tutorial on Enhancing Your Surface Laptop Go 2 with an SSD Upgrade</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effortless-steps-to-move-pictures-from-your-computer-to-iphone-using-itunes/"><u>Effortless Steps to Move Pictures From Your Computer to iPhone Using iTunes</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-set-up-incremental-backups-from-windows-server-to-a-network-drive/"><u>How to Set Up Incremental Backups From Windows Server to a Network Drive</u></a></li>
+<li><a href="https://fox-where.techidaily.com/installing-windows-11-build-23h2-on-non-certified-systems-a-step-by-step-guide-with-two-effective-techniques/"><u>Installing Windows 11 Build 23H2 on Non-Certified Systems - A Step-by-Step Guide with Two Effective Techniques</u></a></li>
+<li><a href="https://fox-where.techidaily.com/maximize-disk-capacity-top-three-tips-for-efficient-backup-management-on-windows-systems-windows-1087/"><u>Maximize Disk Capacity: Top Three Tips for Efficient Backup Management on Windows Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-connectivity-an-expert-review-of-the-netgeer-nighthawk-x4-wi-fi-mesh-network-enhancer/"><u>Maximizing Connectivity: An Expert Review of the Netgeer NightHawk X4 Wi-Fi Mesh Network Enhancer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-access-social-media-links-and-customizable-menu-stay-connected-top-recommendations/"><u>Quick Access: Social Media Links & Customizable Menu - Stay Connected | Top Recommendations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-ai-potential-for-professional-gain-the-comprehensive-guide-to-using-chatgpt-as-a-work-companion/"><u>Unleash AI Potential for Professional Gain: The Comprehensive Guide to Using ChatGPT as a Work Companion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlock-the-magic-of-stories-in-fb-free-cross-platform-tools/"><u>Unlock the Magic of Stories in FB – Free, Cross-Platform Tools</u></a></li>
 </ul></div>
 

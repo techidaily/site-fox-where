@@ -1,7 +1,7 @@
 ---
 title: "IFolder QuickLink: Effortless Access to Your Folders"
-date: 2024-10-08T21:40:23.519Z
-updated: 2024-10-11T02:16:00.962Z
+date: 2024-10-26T23:47:17.116Z
+updated: 2024-10-28T18:56:11.140Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 Using this interface you can edit the folder shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ Using this interface you can edit the folder shortcut.
 IFolderShortcut : IBaseShortcut
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -169,24 +169,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-sculpting-your-online-presence-with-top-niche-creators/"><u>[New] 2024 Approved Sculpting Your Online Presence with Top Niche Creators</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-high-quality-fb-videos-for-ff-browser-users/"><u>[New] High-Quality FB Videos for FF Browser Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-chapters-to-youtube-videos-for-2024/"><u>[New] How to Add Chapters to YouTube Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-boost-your-instagrams-accessibility-with-easy-caption-features/"><u>[New] In 2024, Boost Your Instagram's Accessibility with Easy Caption Features</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-cinematic-influence-building-a-powerful-video-marketing-strategy/"><u>[Updated] 2024 Approved Instagram Cinematic Influence Building a Powerful Video Marketing Strategy</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-easy-gif-to-video-transformation-top-5-no-download-options/"><u>[Updated] Easy GIF to Video Transformation Top 5 No-Download Options</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-add-videos-to-youtube-playlist/"><u>[Updated] How to Add Videos to YouTube Playlist?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-top-rated-apps-for-effortlessly-adding-stickers-to-images/"><u>1. Top Rated Apps for Effortlessly Adding Stickers to Images</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/detailed-process-for-creating-professional-voice-recordings-for-2024/"><u>Detailed Process for Creating Professional Voice Recordings for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-completely-remove-twitter-from-your-iphone-a-step-by-step-guide/"><u>How to Completely Remove Twitter From Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/in-depth-apowermanager-instructional-handbook-your-definitive-how-to-guide/"><u>In-Depth APowerManager Instructional Handbook - Your Definitive How-To Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/masterclass-in-design-the-ultimate-walkthrough-for-diy-graduation-announcement-cards/"><u>Masterclass in Design: The Ultimate Walkthrough for DIY Graduation Announcement Cards</u></a></li>
-<li><a href="https://fox-where.techidaily.com/navigating-through-directory-tasks-a-comprehensive-guide-to-organizing-in-visual-studio-extensions-vsix/"><u>Navigating Through Directory Tasks: A Comprehensive Guide to Organizing in Visual Studio Extensions (VSIX)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-fusing-cinematics-with-soundtracks-innovations-and-tips/"><u>New In 2024, Fusing Cinematics with Soundtracks Innovations and Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-capture-failures-overcoming-pc-spec-limitations/"><u>Resolving Capture Failures: Overcoming PC Spec Limitations</u></a></li>
-<li><a href="https://fox-where.techidaily.com/safe-surfing-in-chrome-the-ultimate-list-of-top-security-plugins-including-malwarefox/"><u>Safe Surfing in Chrome: The Ultimate List of Top Security Plugins, Including MalwareFox</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-strategies-to-spot-and-eradicate-bogus-av-protection-programs/"><u>Step-by-Step Strategies to Spot and Eradicate Bogus AV Protection Programs</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-7-must-have-mirroring-apps-compatible-with-both-ios-and-android-devices/"><u>Top 7 Must-Have Mirroring Apps Compatible with Both iOS & Android Devices</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-rated-photo-layering-applications-enhance-your-images/"><u>Top-Rated Photo Layering Applications: Enhance Your Images</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-essential-image-editors-tips-for-text-in-pictures/"><u>[New] In 2024, Essential Image Editors Tips for Text in Pictures</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-straightforward-steps-simplified-laptop-screening-on-dell/"><u>[New] Straightforward Steps Simplified Laptop Screening on Dell</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-swirl-and-swing-the-essential-guide-to-mac-based-tiktok-dancing/"><u>[New] Swirl & Swing The Essential Guide to Mac-Based TikTok Dancing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-gratis-aomei-software-fur-effizientes-incremental-and-differential-backup/"><u>1. Gratis AOMEI-Software Für Effizientes Incremental & Differential Backup</u></a></li>
+<li><a href="https://fox-where.techidaily.com/5ocl6ycf6kej5yaz77ya5peg5rov5y246l295lil6lyj5pah5lu25asplus6zqc56kn/"><u>急速解决：无法卸载下載文件夾障碍</u></a></li>
+<li><a href="https://fox-where.techidaily.com/come-installare-e-proteggere-un-server-di-avvio-pxe-con-windows/"><u>Come Installare E Proteggere Un Server Di Avvio PXE Con Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-storytelling-with-these-10-fcp-plugins/"><u>Enhance Your Storytelling with These 10 FCP Plugins</u></a></li>
+<li><a href="https://fox-where.techidaily.com/free-business-data-recovery-solution-by-aomei-ensuring-secure-backups/"><u>Free Business Data Recovery Solution by AOMEI - Ensuring Secure Backups</u></a></li>
+<li><a href="https://fox-where.techidaily.com/secure-your-windows-recovery-partitions-protect-data-on-win11-win10-win8-and-win7/"><u>Secure Your Windows Recovery Partitions - Protect Data on Win11, Win10, Win8 & Win7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-android-guide-to-enjoy-virtual-reality/"><u>Step-by-Step Android Guide to Enjoy Virtual Reality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tiny-tinas-wonderlands-seamless-installation-guide-for-windows-pc/"><u>Tiny Tina's Wonderlands Seamless Installation Guide for Windows PC</u></a></li>
 </ul></div>
 

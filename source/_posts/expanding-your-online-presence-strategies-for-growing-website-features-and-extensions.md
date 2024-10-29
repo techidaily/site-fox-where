@@ -1,7 +1,7 @@
 ---
 title: "Expanding Your Online Presence: Strategies for Growing Website Features and Extensions"
-date: 2024-10-10T03:41:36.237Z
-updated: 2024-10-10T18:50:07.550Z
+date: 2024-10-25T20:40:36.921Z
+updated: 2024-10-28T22:32:09.647Z
 tags:
   - user-guide
 categories:
@@ -98,13 +98,20 @@ Table of Contents
 
 The options from this page apply to older IIS versions, like IIS 5 or 6\. They will be ignored on machines with newer versions of IIS.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Web Application
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Web Site Size
@@ -115,13 +122,6 @@ Depending on the expected server load you can choose one of the settings:
 * Medium - Between 10,000 and 100,000 requests per day. (Default)
 * Large - More than 100,000 requests per day.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Web Application Level
 
 Depending on the type of dynamic web application installed on this Web Site, you can choose an application level:
@@ -130,25 +130,25 @@ Depending on the type of dynamic web application installed on this Web Site, you
 * Medium - Pooled Web Application. (Default)
 * High - Isolated Web Application. (mission-critical applications that should be run outside of both core IIS and pooled processes)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Web Server Extensions
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create Front Page Server Extension
 
 This option enables the IIS Tool to configure Front Page Server Extensions for this Web Site. For further information please see the[FrontPage Server Extensions](https://tools.techidaily.com/advancedinstaller/products/) section.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Usergroups to configure with Front Page
 
@@ -188,15 +188,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secure-your-conversations-mastering-free-and-paid-skype-captures-on-pcsmac/"><u>[New] 2024 Approved Secure Your Conversations Mastering Free and Paid Skype Captures on PCs/Mac</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-package-specification-template-collection/"><u>Comprehensive Package Specification Template Collection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-hp-deskjet-annoy-2700-functionality-with-the-new-drivers-downloaded-for-free/"><u>Enhance Your HP Deskjet Annoy 2700 Functionality with the New Drivers Downloaded for Free</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-startech-vga-compatible-usb-graphics-driver/"><u>Free Download: StarTech VGA Compatible USB Graphics Driver</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-monetizing-content-how-much-adsense-pays-you-per-thousand-video-hits/"><u>In 2024, Monetizing Content How Much AdSense Pays You Per Thousand Video Hits?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/navigating-the-world-of-assemblies-webpages-a-comprehensive-guide/"><u>Navigating the World of Assemblies Webpages: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pro-gamer-secrets-revealed-overcoming-warzone-lag-and-system-hiccups-on-pc/"><u>Pro Gamer Secrets Revealed: Overcoming Warzone Lag and System Hiccups on PC</u></a></li>
-<li><a href="https://fox-where.techidaily.com/smart-management-of-ephemeral-data-storage-components-in-tech-environments/"><u>Smart Management of Ephemeral Data Storage Components in Tech Environments</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-imsixcomponents-breakdown-exploring-innovative-modular-elements-in-tech-systems/"><u>The IMsixComponents Breakdown: Exploring Innovative Modular Elements in Tech Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-preserving-past-a-guide-to-digitally-archiving-faded-prints-for-2024/"><u>[New] Preserving Past A Guide to Digitally Archiving Faded Prints for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-monetary-milestones-a-look-at-pewdiepies-yearly-income-for-2024/"><u>[Updated] Monetary Milestones A Look at PewDiePie's Yearly Income for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-timeless-tales-for-the-whole-clan-family-movie-guide/"><u>2024 Approved Timeless Tales for the Whole Clan Family Movie Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/diskimage-ruckschau-2024-einleitungsanleitung-und-fragen-and-antworten-abwechslungsreiche-optionen/"><u>DiskImage-Rückschau 2024: Einleitungsanleitung Und Fragen & Antworten - Abwechslungsreiche Optionen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-broken-paradox-launcher-effective-solutions-inside/"><u>Fix Your Broken Paradox Launcher – Effective Solutions Inside</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guida-passo-passo-per-la-sincronizzazione-dei-file-localstorage-in-onedrive-attraverso-varianti-di-windows/"><u>Guida Passo-Passo per La Sincronizzazione Dei File LocalStorage in OneDrive Attraverso Varianti Di Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-se-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone SE and iPad</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-optimally-perform-asus-secure-erase-on-a-samsung-970-evo-ssd/"><u>How To Optimally Perform ASUS Secure Erase on a Samsung 970 EVO SSD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y100-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y100 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/iphone-clash-detailed-review-of-the-newest-15-pro-against-the-powerful-pro-max/"><u>IPhone Clash: Detailed Review of the Newest 15 Pro Against the Powerful Pro Max</u></a></li>
+<li><a href="https://win-blog.techidaily.com/museum-becomes-museums/"><u>Museum Becomes Museums</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-iphone-13-hiccups-top-six-issues-and-how-to-mend-them/"><u>Navigating Through iPhone 13 Hiccups: Top Six Issues and How to Mend Them</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-windows-11-driver-installation-issues-in-depth/"><u>Solving Windows 11 Driver Installation Issues in Depth</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-4-usb-speicherstabe-fur-optimale-datensicherung-und-automatische-backups/"><u>Top 4 USB-Speicherstäbe Für Optimale Datensicherung Und Automatische Backups</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-itunes-backup-failures-discover-6-successful-methods-to-restore-seamlessly/"><u>Troubleshooting iTunes Backup Failures: Discover 6 Successful Methods to Restore Seamlessly</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728481059382-windows-11/"><u>Windows 11で誤って消去されたデータの回復方法</u></a></li>
+<li><a href="https://fox-where.techidaily.com/rasshirenie-hraneniya-na-ssd-ili-hdd-bez-perezagruzki/"><u>Расширение Хранения На SSD Или HDD Без Перезагрузки</u></a></li>
 </ul></div>
 
