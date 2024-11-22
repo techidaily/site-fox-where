@@ -1,7 +1,7 @@
 ---
 title: "Simple Strategies: How to Recover Lost or Deleted Files From a USB Drive"
-date: 2024-11-06T17:06:47.939Z
-updated: 2024-11-12T19:29:18.824Z
+date: 2024-11-15T22:02:50.353Z
+updated: 2024-11-22T03:47:24.149Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4d72497c27eefd9717a1c743.jpg
@@ -50,10 +50,11 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -72,23 +73,9 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -107,6 +94,10 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -205,10 +196,7 @@ Passo 4\. Avvia il Backup:
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
@@ -225,6 +213,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -232,6 +224,10 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -245,13 +241,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -262,6 +251,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -271,13 +264,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,22 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-pro-stream-wars-choosing-between-vmix-and-wirecast/"><u>[New] In 2024, Pro-Stream Wars Choosing Between VMix and Wirecast</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-tips-and-insights-for-successful-spotify-marketing/"><u>[Updated] 2024 Approved Tips and Insights for Successful Spotify Marketing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-beginners-ultimate-gear-list-for-film-shooting-for-2024/"><u>[Updated] Beginner's Ultimate Gear List for Film Shooting for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-easy-steps-moving-downloaded-files-from-your-c-drive-to-a-new-home-on-the-d-drive/"><u>1. Easy Steps: Moving Downloaded Files From Your C Drive to a New Home on the D Drive</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1728468824140-macaomei-backupper/"><u>实现Mac平台上AOMEI Backupper数据双向同步技巧分享</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-detaille-pour-restaurer-les-fichiers-corrompus-sur-windows-11-via-linvite-de-commande-et-outils-tels-que-sfc-ou-dism/"><u>Guide Détaillé Pour Restaurer Les Fichiers Corrompus Sur Windows 11 via L'invite De Commande Et Outils Tels Que SFC Ou DISM</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-pratique-pour-le-clonage-dun-disque-dur-vers-une-unite-solid-state-via-usb-sans-utiliser-sata/"><u>Guide Pratique Pour Le Clonage D'un Disque Dur Vers Une Unité Solid State via USB - Sans Utiliser SATA</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-enabledisable-network-discovery-feature-on-windows-10/"><u>Guide: Enable/Disable Network Discovery Feature on Windows 10</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-perfect-picks-microphones-for-diverse-online-audiences/"><u>In 2024, Perfect Picks Microphones for Diverse Online Audiences</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-vlcs-screen-recording-capabilities/"><u>In 2024, VLC's Screen Recording Capabilities</u></a></li>
-<li><a href="https://fox-where.techidaily.com/netzlaufwerke-in-windows-11-erfolgreich-verknupfen-einfach-zuverlassig-and-detailliert-entdecken-sie-drei-effektive-techniken/"><u>Netzlaufwerke in Windows 11 Erfolgreich Verknüpfen: Einfach, Zuverlässig & Detailliert - Entdecken Sie Drei Effektive Techniken</u></a></li>
-<li><a href="https://fox-where.techidaily.com/restaurar-archivos-perdidos-gratuitamente-para-windows-7-8-10-y-versiones-recientes/"><u>Restaurar Archivos Perdidos Gratuitamente Para Windows 7, 8, 10 Y Versiones Recientes</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-guide-securely-restoring-information-on-cfast-media-storage-devices/"><u>Step-by-Step Guide: Securely Restoring Information on CFast Media Storage Devices</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-picks-la-mejor-herramienta-de-desbloqueo-de-bitlocker-para-windows-10-8-7-y-11/"><u>Top Picks: La Mejor Herramienta De Desbloqueo De BitLocker Para Windows 10, 8, 7 Y 11</u></a></li>
-<li><a href="https://fox-where.techidaily.com/two-proven-techniques-for-successfully-executing-dell-secure-erase-on-your-ssd-a-comprehensive-tutorial/"><u>Two Proven Techniques for Successfully Executing Dell Secure Erase on Your SSD - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-significance-in-windows-patches/"><u>Understanding the Significance in Windows Patches</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-experts-selection-best-full-screen-recorders-for-pc-and-mac/"><u>[New] Expert's Selection Best Full-Screen Recorders for PC and Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-effortless-storytelling-using-pixiz-for-photo-videos/"><u>[New] In 2024, Effortless Storytelling Using Pixiz for Photo Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-complete-handbook-of-xbox-one-zoom-communication-for-2024/"><u>[New] The Complete Handbook of Xbox One Zoom Communication for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>[Updated] In 2024, Visionary Solutions Top 1 Ward Video Recorders on the Web</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-stories-a-step-by-step-polling-guide-for-2024/"><u>[Updated] Mastering Instagram Stories A Step-by-Step Polling Guide for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mic-selection-made-easy-optimal-picks-for-vloggers-educators-and-more/"><u>[Updated] Mic Selection Made Easy Optimal Picks for Vloggers, Educators & More</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-come-aprire-le-cartelle-bloccate-sul-tuo-desktop-guida-rapida/"><u>1. Come Aprire Le Cartelle Bloccate Sul Tuo Desktop: Guida Rapida</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-cutting-edge-techniques-quickly-developing-quality-captions-for-facebook-posts/"><u>2024 Approved Cutting-Edge Techniques Quickly Developing Quality Captions for Facebook Posts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/como-solucionar-problemas-y-restaurar-una-unidad-con-formato-raw-en-diferentes-versiones-de-windows-incluyendo-la-ultima-edicion-de-windows-11/"><u>Cómo Solucionar Problemas Y Restaurar Una Unidad Con Formato RAW en Diferentes Versiones De Windows, Incluyendo La Última Edición De Windows 11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fast-and-simple-guide-optimizing-folder-synchronization-on-windows-1110/"><u>Fast & Simple Guide: Optimizing Folder Synchronization on Windows 11/10</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guia-paso-a-paso-para-configurar-el-backup-automatico-en-windows-11-cuatro-soluciones-especializadas/"><u>Guía Paso a Paso Para Configurar El Backup Automático en Windows 11: Cuatro Soluciones Especializadas</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-samsung-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Samsung</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-m14-4g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy M14 4G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/kioxia-loutil-de-clonage-numerique-simple-et-sur-le-meilleur-choix-pour-vous/"><u>KIOXIA : L'Outil De Clonage Numérique Simple Et Sûr - Le Meilleur Choix Pour Vous!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-double-helix-structure-of-dna-consists-of-two-complementary-strands-running-in-opposite-directions-antiparallel-whereas-rnas-single-stranded-nature-allo177/"><u>The Double Helix Structure of DNA Consists of Two Complementary Strands Running in Opposite Directions (Antiparallel), Whereas RNA's Single-Stranded Nature Allows for Diverse Structures and Functions but Lacks This Characteristic Feature.</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728473580990-windows-server-2012-r2/"><u>Windows Server 2012 R2 から最新版に移行するための包括的なガイド</u></a></li>
+<li><a href="https://fox-where.techidaily.com/windows-7-and-8/"><u>ネットワークドライブをWindows 7 & 8で分配する方法：詳細ガイド</u></a></li>
 </ul></div>
 
