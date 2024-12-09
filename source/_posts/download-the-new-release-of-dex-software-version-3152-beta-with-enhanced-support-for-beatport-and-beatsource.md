@@ -1,7 +1,7 @@
 ---
 title: Download the New Release of DEX Software Version 3.15.2 (BETA) with Enhanced Support for Beatport and Beatsource
-date: 2024-11-24T17:32:21.457Z
-updated: 2024-11-30T16:36:09.825Z
+date: 2024-12-06T22:10:46.160Z
+updated: 2024-12-08T19:24:22.558Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
@@ -57,7 +57,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,18 +79,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-screen-record-on-hp-laptop-best-4-ways-to-use-for-2024/"><u>[New] How to Screen Record on Hp Laptop? - Best 4 Ways to Use for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-perfectly-preserve-facebook-films-with-top-5-chrome-plugs/"><u>[New] Perfectly Preserve Facebook Films with Top 5 Chrome Plugs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-how-to-make-amazing-slow-motion-video-on-android-easily/"><u>[Updated] How to Make Amazing Slow Motion Video on Android Easily</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-breakdown-of-item-attributes-in-the-details-overview-panel/"><u>Comprehensive Breakdown of Item Attributes in the 'Details' Overview Panel</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-head-to-head-hitman-pro-vs-malwarebytes-for-optimal-security/"><u>Comprehensive Head-to-Head: Hitman Pro Vs. Malwarebytes for Optimal Security</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ifolder-quicklink-effortless-access-to-your-folders/"><u>IFolder QuickLink: Effortless Access to Your Folders</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-consistent-layout-configuration-the-tab-options-explained/"><u>Mastering Consistent Layout Configuration: The Tab Options Explained</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-the-art-of-choosing-with-a-smart-registry-selector-window/"><u>Mastering the Art of Choosing with a Smart Registry Selector Window</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-your-creativity-best-gopro-video-editing-software-beyond-gopro-studio/"><u>New 2024 Approved Unleash Your Creativity Best GoPro Video Editing Software (Beyond GoPro Studio)</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-voice-cloning-simplified-two-approaches-to-achieve-consistent-ai-voices/"><u>New In 2024, Voice Cloning Simplified Two Approaches to Achieve Consistent AI Voices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/pro-gear-bundle-elevating-your-experience-with-yi-4k-for-2024/"><u>Pro Gear Bundle Elevating Your Experience with YI 4K for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-guide-removing-a-filmora-watermark-without-paying/"><u>Step-by-Step Guide: Removing a Filmora Watermark Without Paying</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlocking-the-full-potential-of-mac-audio-with-audacitys-features/"><u>[Updated] In 2024, Unlocking the Full Potential of Mac Audio with Audacity's Features</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs-for-2024/"><u>[Updated] Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs) for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-x9b-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor X9b without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-and-efficient-cooling-solutions-the-topmate-c302-unveiled/"><u>Affordable & Efficient Cooling Solutions: The TopMate C302 Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/buy-digiarty-software-centers-winx-dvd-video-converter-at-a-special-price/"><u>Buy Digiarty Software Center's WinX DVD Video Converter at a Special Price!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/enhancing-your-pcs-efficiency-expert-tips-from-yl-computing/"><u>Enhancing Your PC's Efficiency: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/exploring-the-significance-of-the-grand-canal-initiative-insights-by-yl-computing-and-software-solutions/"><u>Exploring the Significance of the Grand Canal Initiative: Insights by YL Computing and Software Solutions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/get-your-hands-on-updated-dj-software-pcdj-compatible-dex-3-professional-and-lightweight-editions-v3801-now-available/"><u>Get Your Hands on Updated DJ Software: PCDJ-Compatible DEX 3 Professional and Lightweight Editions v3.8.0.1 Now Available</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-google-pixel-8-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Google Pixel 8 Phone Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78t-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78t Phone with Broken Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-star-wars-squadrons-game-analysis-engrossing-galactic-battles-await/"><u>In-Depth Star Wars Squadrons Game Analysis - Engrossing Galactic Battles Await</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-driver-update-fixes-professional-tips-by-yl-software-experts/"><u>Mastering Driver Update Fixes: Professional Tips by YL Software Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-best-quadcopter-engine-landscape-for-2024/"><u>Navigating the Best Quadcopter Engine Landscape for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/prevent-and-resolve-computer-overheating-essential-tips-by-yl-software-professionals/"><u>Prevent and Resolve Computer Overheating: Essential Tips by YL Software Professionals</u></a></li>
+<li><a href="https://fox-where.techidaily.com/protect-your-gpu-expert-strategies-for-preventing-graphics-card-issues-with-yl-software/"><u>Protect Your GPU: Expert Strategies for Preventing Graphics Card Issues with YL Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/resolving-system-freezes-identifying-issues-with-your-graphics-card-insights-from-yl-computing/"><u>Resolving System Freezes: Identifying Issues with Your Graphics Card - Insights From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-razer-headset-microphone-quick-and-simple-repair-tips/"><u>Revive Your Razer Headset Microphone: Quick & Simple Repair Tips</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-finding-and-using-your-pcs-energy-settings-tips-from-yl-software/"><u>Step-by-Step Guide: Finding and Using Your PC's Energy Settings - Tips From YL Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unveiling-the-onset-of-the-opium-wars-with-expertise-from-yl-software-solutions/"><u>Unveiling the Onset of the Opium Wars with Expertise From YL Software Solutions</u></a></li>
 </ul></div>
 

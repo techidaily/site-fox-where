@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your DJ Sets From PCDJ Dex 2 to Dex 3: A Comprehensive Step-by-Step Guide"
-date: 2024-11-29T16:38:27.649Z
-updated: 2024-11-30T19:51:57.953Z
+date: 2024-12-03T03:21:21.396Z
+updated: 2024-12-09T00:49:25.973Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,17 +44,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-instant-accessibility-the-simplest-way-to-ifunny-memes/"><u>[New] Instant Accessibility The Simplest Way to iFunny Memes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-prime-facebook-extra-tools-secure-file-grabber-firefox-version/"><u>[Updated] 2024 Approved Prime Facebook Extra Tools Secure File Grabber, Firefox Version</u></a></li>
-<li><a href="https://fox-where.techidaily.com/aomei-tech-support-expert-system-restoration-and-tailored-recovery-solutions/"><u>AOMEI Tech Support: Expert System Restoration & Tailored Recovery Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/come-automatizzare-il-sincronizzazione-delle-cartelle-con-nas-su-windows-11/"><u>Come Automatizzare Il Sincronizzazione Delle Cartelle Con NAS Su Windows 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/detailed-methodology-to-masterboard-use-in-desktopiosandroid-zoom-sessions/"><u>Detailed Methodology to Masterboard Use in Desktop/iOS/Android Zoom Sessions</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-to-do-list-software-for-windows-users/"><u>Essential To-Do List Software for Windows Users</u></a></li>
-<li><a href="https://fox-where.techidaily.com/printer-friendly-iphone-contacts-made-easy-discover-four-proven-techniques/"><u>Printer-Friendly iPhone Contacts Made Easy - Discover Four Proven Techniques!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-your-mobile-identity-prevent-android-number-sharing-online/"><u>Secure Your Mobile Identity: Prevent Android Number Sharing Online</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-art-of-crafting-youtube-playlists-for-optimal-listening/"><u>The Art of Crafting YouTube Playlists for Optimal Listening</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ultimate-guide-to-free-network-attached-storage-nas-backup-solutions-on-windows-11-10-8-and-7/"><u>Ultimate Guide to Free Network-Attached Storage (NAS) Backup Solutions on Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1728487805552-windows-7/"><u>Windows 7の自動シャットダウン処理後のバックアップ方法</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hanneling-creativity-get-green-screen-tips-from-youtube/"><u>[New] Channeling Creativity Get Green Screen Tips From YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-mac-apps-screen-recording-made-simple-for-2024/"><u>[New] Essential Mac Apps Screen Recording Made Simple for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-bandicam-key-takeaways-and-tips/"><u>[New] Mastering Bandicam - Key Takeaways and Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-leading-e-commerce-platforms-for-high-quality-tv-purchases/"><u>Discover the Leading E-Commerce Platforms for High-Quality TV Purchases</u></a></li>
+<li><a href="https://fox-where.techidaily.com/evaluating-the-accuracy-and-dependability-of-cryptocurrencys-blockchain-explorers-for-address-balance-verification-a-deep-dive-by-yl-computing/"><u>Evaluating the Accuracy and Dependability of Cryptocurrency's Blockchain Explorers for Address Balance Verification: A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-to-fix-difficulty-with-devices-advanced-solutions-by-yl-software-professionals/"><u>Guide to Fix Difficulty with Devices: Advanced Solutions by YL Software Professionals</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-can-i-ensure-maximum-browser-security-tips-by-yl-computing-and-yl-software/"><u>How Can I Ensure Maximum Browser Security? - Tips by YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-harmonizing-hues-audio-fade-techniques-in-logic-pro/"><u>In 2024, Harmonizing Hues Audio Fade Techniques in Logic Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-shadows-a-systematic-guide-to-hidden-youtube-content/"><u>In 2024, Unveiling the Shadows A Systematic Guide to Hidden YouTube Content</u></a></li>
+<li><a href="https://fox-where.techidaily.com/pioneer-dj-deckadrive-3-software-update-version-v317-free-download/"><u>Pioneer DJ Deckadrive 3 Software Update - Version v3.17 | Free Download</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/spring-to-the-future-innovations-in-screen-capture-tech/"><u>Spring to the Future Innovations in Screen Capture Tech</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-reasons-behind-sluggish-printer-performance-a-guide-by-yl-computing/"><u>Understanding the Reasons Behind Sluggish Printer Performance - A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-reasons-behind-your-pcs-unexpected-crashes-and-freezes-a-guide-by-yl-computing/"><u>Understanding the Reasons Behind Your PC's Unexpected Crashes & Freezes: A Guide by YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 14? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DEX ^3 Mastery: A Comprehensive Guide on Sample Management - Load, Record & Playback Explained (Video)"
-date: 2024-11-26T18:57:15.406Z
-updated: 2024-11-30T16:29:10.420Z
+date: 2024-12-05T01:59:09.954Z
+updated: 2024-12-08T21:13:59.348Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-tailor-your-insta-experience-no-more-suggestions/"><u>[Updated] 2024 Approved Tailor Your Insta Experience No More Suggestions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-instagram-algorithm-update-will-affect-you/"><u>[Updated] How Instagram Algorithm Update Will Affect You</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-navigating-nuances-the-artists-hue-harmony-handbook/"><u>[Updated] Navigating Nuances The Artist’s Hue Harmony Handbook</u></a></li>
-<li><a href="https://fox-where.techidaily.com/2-professionelle-dashcam-video-wiederherstellungstechniken-verstanden-entdecken-sie-die-geheimnisse-mit-myrecover/"><u>2. Professionelle Dashcam-Video Wiederherstellungstechniken Verstanden – Entdecken Sie Die Geheimnisse Mit MyRecover</u></a></li>
-<li><a href="https://common-error.techidaily.com/dell-camera-malfunction-heres-how-to-solve-it-on-windows-computers/"><u>Dell Camera Malfunction? Here's How to Solve It on Windows Computers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-brother-mfc-7860dw-driver-for-windows-systems-and-easy-installation-guide/"><u>Get the Newest Brother MFC-7860DW Driver for Windows Systems & Easy Installation Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-best-of-the-web-vertical-video-editors/"><u>New In 2024, The Best of the Web Vertical Video Editors</u></a></li>
-<li><a href="https://fox-where.techidaily.com/page-unavailable-the-ultimate-guide-to-understanding-the-404-error-message/"><u>Page Unavailable: The Ultimate Guide to Understanding the '404 Error' Message</u></a></li>
-<li><a href="https://fox-where.techidaily.com/simple-strategies-how-to-recover-lost-or-deleted-files-from-a-usb-drive/"><u>Simple Strategies: How to Recover Lost or Deleted Files From a USB Drive</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-8-outils-de-recuperation-de-donnees-pour-les-fichiers-supprimes-sur-disque-dur/"><u>Top 8 Outils De Récupération De Données Pour Les Fichiers Supprimés Sur Disque Dur</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723006514564-troubleshooting-assassins-creed-valhalla-release-issues-solutions-revealed/"><u>Troubleshooting Assassin's Creed Valhalla Release Issues – Solutions Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>[New] 2024 Approved Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-integrating-advanced-movie-capture-on-diverse-tech-environments/"><u>[New] In 2024, Integrating Advanced Movie Capture on Diverse Tech Environments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphone-mastery-complete-guide-to-capturing-podcasts/"><u>[Updated] IPhone Mastery Complete Guide to Capturing Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-venture-into-virtual-worlds-a-close-look-at-lgs-360-tech/"><u>2024 Approved Venture Into Virtual Worlds A Close Look at LG's 360 Tech</u></a></li>
+<li><a href="https://fox-where.techidaily.com/diagnosing-common-issues-why-does-your-scanner-halt-operation/"><u>Diagnosing Common Issues: Why Does Your Scanner Halt Operation?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-techniques-with-nvidia-recorder/"><u>Essential Techniques with NVIDIA Recorder</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-dotm-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .dotm file</u></a></li>
+<li><a href="https://fox-where.techidaily.com/high-resolution-eagle-theme-wallpaper-collection-ultimate-visuals-by-yl-computing/"><u>High-Resolution Eagle Theme Wallpaper Collection - Ultimate Visuals by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/marvel-universe-inspired-graphics-shockwave-comic-scenes-high-quality-wallpapers-by-yl-computing/"><u>Marvel Universe Inspired Graphics: Shockwave Comic Scenes - High-Quality Wallpapers by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/maximizing-pc-efficiency-key-strategies-by-yl-software-experts/"><u>Maximizing PC Efficiency: Key Strategies by YL Software Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-windows-interface-managing-firewall-zones-discreetly/"><u>Secure Windows Interface: Managing Firewall Zones Discreetly</u></a></li>
+<li><a href="https://fox-where.techidaily.com/secure-your-system-a-step-by-step-guide-to-tweaking-windows-firewall-via-the-control-panel-expert-advice-from-yl-software/"><u>Secure Your System: A Step-by-Step Guide to Tweaking Windows Firewall via the Control Panel - Expert Advice From YL Software</u></a></li>
 </ul></div>
 

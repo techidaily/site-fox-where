@@ -1,7 +1,7 @@
 ---
 title: How Did Sun Yat-Sen Shape Contemporary Chinese Society and Politics? Exploring the Legacy with Insights From YL Computing
-date: 2024-11-25T16:56:14.104Z
-updated: 2024-11-30T19:45:34.818Z
+date: 2024-12-06T21:25:51.563Z
+updated: 2024-12-08T16:13:03.527Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,18 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-m1-explored-apples-leap-in-computational-innovation/"><u>[New] M1 Explored Apple's Leap in Computational Innovation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-from-sideways-to-symmetry-mastering-the-art-of-rotating-visual-content-for-maximum-engagement-for-2024/"><u>[Updated] From Sideways to Symmetry Mastering the Art of Rotating Visual Content for Maximum Engagement for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-lg-bp350-review-audiovisual-performance-analysis/"><u>[Updated] The LG BP350 Review Audiovisual Performance Analysis</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-pitch-to-peak-steps-for-effective-adobe-audition-fades/"><u>2024 Approved From Pitch to Peak Steps for Effective Adobe Audition Fades</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-reno-11f-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo Reno 11F 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comment-exclure-un-dossier-de-la-synchronisation-sur-onedrive-guide-detaille/"><u>Comment Exclure Un Dossier De La Synchronisation Sur OneDrive - Guide Détaillé</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/excellent-backdrops-setting-the-stage-for-streaming/"><u>Excellent Backdrops Setting the Stage for Streaming</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-magic-6-lite-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/linux-bootfahige-aomei-backupper-disk-images-kostenlos-herunterladen/"><u>Linux Bootfähige AOMEI Backupper Disk-Images Kostenlos Herunterladen</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/pros-and-cons-of-investing-in-digital-coins-a-comprehensive-guide-by-yl-computing/"><u>Pros and Cons of Investing in Digital Coins - A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-ultimate-solution-for-fixing-distributedcom-eaccess-error-10016/"><u>The Ultimate Solution for Fixing DistributedCOM E_ACCESS Error 10016</u></a></li>
-<li><a href="https://fox-where.techidaily.com/upgrading-from-hdd-to-ssd-for-windows/"><u>Upgrading From HDD to SSD for Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/spider-man-no-way-home-how-to-find-and-view-the-movie-safely/"><u>'Spider-Man: No Way Home': How to Find and View the Movie Safely</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevate-presentations-add-youtube-in-google-slides-for-2024/"><u>[Updated] Elevate Presentations - Add YouTube in Google Slides for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-digital-media-mapper/"><u>[Updated] In 2024, Digital Media Mapper</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes-for-2024/"><u>[Updated] Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/erfolgreiche-digitale-strategien-fur-banken-nach-dem-wandel-implementierung-von-digital-twins-im-bereich-der-kredite/"><u>Erfolgreiche Digitale Strategien Für Banken Nach Dem Wandel – Implementierung Von Digital Twins Im Bereich Der Kredite</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expand-your-playlist-with-new-tracks-discover-the-latest-additions-to-our-premium-karaoke-selection-for-march-2nd-2017/"><u>Expand Your Playlist with New Tracks: Discover the Latest Additions to Our Premium Karaoke Selection for March 2Nd, 2017!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/hercules-dj-control-pro-compatible-with-djay-serato-and-mixxx-advanced-pcdj-supported-controller/"><u>Hercules DJ Control Pro: Compatible with Djay, Serato & Mixxx – Advanced PCDJ-Supported Controller</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nubia-red-magic-9-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nubia Red Magic 9 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/party-tyme-karaoke-unlimited-fresh-melodies-and-daily-sing-along-fun/"><u>Party Tyme Karaoke Unlimited: Fresh Melodies & Daily Sing-Along Fun!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/retrieving-your-data-steps-to-locate-and-restore-backup-copies-expert-advice-from-yl-computing/"><u>Retrieving Your Data: Steps to Locate and Restore Backup Copies - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-retrieve-deleted-content-from-iphone-when-no-sync-history-exists/"><u>Step-by-Step Tutorial: Retrieve Deleted Content From iPhone When No Sync History Exists</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/struggling-with-a-non-cooperative-blue-yeti-mic-follow-these-steps-for-quick-repairs/"><u>Struggling with a Non-Cooperative Blue Yeti Mic? Follow These Steps for Quick Repairs</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ram-choices-optimize-your-pcs-performance-for-work-and-play-latest-reviews-by-zdnet/"><u>Top Ram Choices : Optimize Your PC's Performance for Work & Play - Latest Reviews by ZDNet</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-power-options-a-comprehensive-guide-by-yl-computing/"><u>Understanding Power Options: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/why-does-your-windows-system-use-so-much-cpu-power-uncovered-tips-from-yl-software-experts/"><u>Why Does Your Windows System Use So Much CPU Power? Uncovered Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-software-solutions-easily-saving-and-recovering-your-systems-registry-files/"><u>YL Software Solutions: Easily Saving & Recovering Your System's Registry Files</u></a></li>
 </ul></div>
 

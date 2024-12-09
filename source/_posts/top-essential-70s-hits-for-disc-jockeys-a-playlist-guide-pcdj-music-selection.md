@@ -1,7 +1,7 @@
 ---
 title: "Top Essential '70S Hits for Disc Jockeys: A Playlist Guide - PCDJ Music Selection"
-date: 2024-11-27T20:57:59.374Z
-updated: 2024-11-30T20:08:39.550Z
+date: 2024-12-02T22:09:57.037Z
+updated: 2024-12-08T17:39:37.238Z
 tags:
   - product
 categories:
@@ -152,7 +152,7 @@ Here’s last nights video chat. John’s list of must play 70s songs for DJs is
 [CONTINUE READING AT DISCJOCKEYNEWS.COM](http://discjockeynews.com/the-must-play-songs-from-the-70s-with-brian-redd-and-john-young/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -174,18 +174,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/02/musthave70smusicfordjs-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-minute-by-minute-fortnite-tile-methods/"><u>[New] In 2024, Minute-by-Minute Fortnite Tile Methods</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-transformative-content-blocks-enhanced-youtube-decks/"><u>[Updated] In 2024, Transformative Content Blocks Enhanced Youtube Decks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-troubleshooting-shorts-the-non-displaying-thumbnail/"><u>2024 Approved Troubleshooting Shorts The Non-Displaying Thumbnail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dual-task-like-a-pro-a-comprehensive-guide-to-split-screen-on-macbook-air/"><u>Dual Task Like a Pro: A Comprehensive Guide to Split Screen on MacBook Air</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-latest-mpow-bluetooth-driver-update-for-windows-download-now/"><u>Get Latest MPOW Bluetooth Driver Update for Windows - Download Now</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-etape-par-etape-pour-dupliquer-windows-111087-sur-un-support-externe/"><u>Guide Étape Par Étape Pour Dupliquer Windows 11/10/8/7 Sur Un Support Externe</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-invest-in-quality-top-5-handhoced-stabilizers-review/"><u>In 2024, Invest in Quality Top 5 Handhoced Stabilizers Review</u></a></li>
-<li><a href="https://win-special.techidaily.com/inside-the-lab-the-rise-of-microsofts-next-gen-ai-processor-to-challenge-apple-macbook-dominance-insights-from-zdnet/"><u>Inside the Lab: The Rise of Microsoft's Next-Gen AI Processor to Challenge Apple MacBook Dominance | Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/july-2024s-new-default-login-details-for-linksys-network-devices-revealed/"><u>July 2024'S New Default Login Details for Linksys Network Devices Revealed</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-samsung-galaxy-s24-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-for-seamlessly-archiving-gmail-on-your-synology-storage-device/"><u>Step-by-Step Tutorial for Seamlessly Archiving Gmail on Your Synology Storage Device</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-essentials-of-preserving-information-demystifying-data-backup-and-recovery-strategies/"><u>The Essentials of Preserving Information: Demystifying Data Backup and Recovery Strategies</u></a></li>
-<li><a href="https://fox-where.techidaily.com/44oh44oi44oq44o844kr44o844oj44gu5asx44kp44km44gf44oh44o844k44ks54sh5paz5zue5b6p44gz44kl77yt44gk44gu5oml5rov/"><u>メモリーカードの失われたデータを無料回復する３つの手法</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-insta-photo-watermarks-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Insta Photo Watermarks A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-ranked-comedic-image-editor/"><u>[New] In 2024, Top-Ranked Comedic Image Editor</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-melody-meets-momentum-harmonizing-sound-with-imagery-for-2024/"><u>[New] Melody Meets Momentum Harmonizing Sound with Imagery for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-constructing-youtube-playlists-made-simple-for-2024/"><u>[Updated] Constructing YouTube Playlists Made Simple for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-top-trending-dj-mixes-and-remixes-fresh-tracks-added-in-mays-video-collection/"><u>1. Top Trending DJ Mixes & Remixes - Fresh Tracks Added in May's Video Collection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-stepwise-process-for-capturing-live-soundtracks-online/"><u>2024 Approved Stepwise Process for Capturing Live Soundtracks Online</u></a></li>
+<li><a href="https://fox-where.techidaily.com/3-week-journey-effortlessly-operating-windows-10-for-disc-jockeys-djs-with-simple-steps-and-tips/"><u>3-Week Journey: Effortlessly Operating Windows 10 for Disc Jockeys (DJs) with Simple Steps and Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4bflacmovavi/"><u>免費線上M4B到FLAC轉換：如何使用Movavi轉錄工具進行音效改造</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/browse-without-leaving-a-trace-in-depth-tutorial-for-incognito-mode-on-popular-browsers/"><u>Browse Without Leaving a Trace: In-Depth Tutorial for Incognito Mode on Popular Browsers</u></a></li>
+<li><a href="https://fox-where.techidaily.com/combine-and-compact-with-yl-solutions-creating-a-zip-from-various-files-or-folders/"><u>Combine and Compact with YL Solutions: Creating a Zip From Various Files or Folders</u></a></li>
+<li><a href="https://fox-where.techidaily.com/high-definition-alfa-romeo-emblem-wallpaper-premium-automotive-graphics-by-yl-computing/"><u>High-Definition Alfa Romeo Emblem Wallpaper - Premium Automotive Graphics by YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-to-zoom-into-online-engagements-intelligently/"><u>In 2024, Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
+<li><a href="https://fox-where.techidaily.com/pioneer-dj-deckadrive-3-software-update-version-v317-free-download/"><u>Pioneer DJ Deckadrive 3 Software Update - Version v3.17 | Free Download</u></a></li>
+<li><a href="https://fox-where.techidaily.com/regular-optimization-practices-for-superior-pc-performance-as-recommended-by-yl-software-experts/"><u>Regular Optimization Practices for Superior PC Performance as Recommended by YL Software Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y100i-power-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y100i Power 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-reasons-behind-sluggish-printer-performance-a-guide-by-yl-computing/"><u>Understanding the Reasons Behind Sluggish Printer Performance - A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-software-unveils-simplified-insights-into-blockchain-tech-for-beginners/"><u>YL Software Unveils Simplified Insights Into Blockchain Tech for Beginners</u></a></li>
 </ul></div>
 
