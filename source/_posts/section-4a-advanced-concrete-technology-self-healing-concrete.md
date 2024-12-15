@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Concrete Technology – Self-Healing Concrete"
-date: 2024-12-07T16:03:54.426Z
-updated: 2024-12-08T21:01:03.226Z
+date: 2024-12-10T18:13:17.067Z
+updated: 2024-12-14T21:57:30.146Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,14 +50,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-cost-free-visuals-from-selective-4-youtube-feeds/"><u>[New] In 2024, Gain Cost-Free Visuals From Selective 4 YouTube Feeds</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-potplayer-plus-windows-media-counterpart/"><u>[New] PotPlayer Plus Windows Media Counterpart</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-elite-videographers-choice-ideal-grabber-software-for-2024/"><u>[Updated] Elite Videographer's Choice Ideal Grabber Software for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/boost-your-computers-efficiency-expert-tips-from-yl-computing-on-enhancing-pc-performance/"><u>Boost Your Computer's Efficiency: Expert Tips From YL Computing on Enhancing PC Performance</u></a></li>
-<li><a href="https://fox-where.techidaily.com/decoding-the-link-between-blockchain-technology-and-cryptocurrency-insights-from-yl-software-experts/"><u>Decoding the Link Between Blockchain Technology and Cryptocurrency - Insights From YL Software Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-document-review-workflow-with-6-innovative-chatgpt-integrated-apps/"><u>Enhance Your Document Review Workflow with 6 Innovative ChatGPT Integrated Apps</u></a></li>
-<li><a href="https://fox-where.techidaily.com/resolving-audio-driver-issues-a-step-by-step-guide-yl-computing/"><u>Resolving Audio Driver Issues: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-boot-issues-discover-why-your-pc-wont-start-with-yl-computing-solutions/"><u>Troubleshooting Boot Issues: Discover Why Your PC Won't Start with YL Computing Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warframe-stability-enhanced-put-an-end-to-in-game-freezes-and-lags/"><u>Warframe Stability Enhanced - Put an End to In-Game Freezes and Lags</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/connect-your-scanner-to-a-pc-without-cables-easy-instructions-using-yls-wireless-solutions/"><u>Connect Your Scanner to a PC without Cables: Easy Instructions Using YL's Wireless Solutions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/download-lyrx-version-1202-the-ultimate-mac-compatible-software-for-amateur-djs-and-karaoke-lovers/"><u>Download LYRX Version 1.2.0.2 - The Ultimate MAC-Compatible Software for Amateur DJs and Karaoke Lovers!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-installation-tutorial-for-handbrakes-libdvdcss-library-on-mac-and-windows-including-visual-aids/"><u>Easy Installation Tutorial for HandBrake's Libdvdcss Library on Mac and Windows (Including Visual Aids)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-realme-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Realme .</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-z-fold-5-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy Z Fold 5 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-in-fortnite-reactive-measures-to-mend-mic-malfunctions/"><u>Troubleshooting Audio Glitches in Fortnite: Reactive Measures to Mend Mic Malfunctions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-key-hazards-navigating-cryptocurrency-investments-safely-insights-by-yl-computing-and-yl-software/"><u>Understanding Key Hazards: Navigating Cryptocurrency Investments Safely - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-your-cpus-limits-identifying-safe-operating-temperatures/"><u>Understanding Your CPU's Limits: Identifying Safe Operating Temperatures</u></a></li>
 </ul></div>
 

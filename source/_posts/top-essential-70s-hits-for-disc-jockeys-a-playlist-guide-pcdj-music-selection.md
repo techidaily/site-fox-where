@@ -1,7 +1,7 @@
 ---
 title: "Top Essential '70S Hits for Disc Jockeys: A Playlist Guide - PCDJ Music Selection"
-date: 2024-12-02T22:09:57.037Z
-updated: 2024-12-08T17:39:37.238Z
+date: 2024-12-11T16:12:46.421Z
+updated: 2024-12-14T16:47:50.330Z
 tags:
   - product
 categories:
@@ -152,7 +152,7 @@ Here’s last nights video chat. John’s list of must play 70s songs for DJs is
 [CONTINUE READING AT DISCJOCKEYNEWS.COM](http://discjockeynews.com/the-must-play-songs-from-the-70s-with-brian-redd-and-john-young/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -174,22 +174,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/02/musthave70smusicfordjs-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-insta-photo-watermarks-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Insta Photo Watermarks A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-ranked-comedic-image-editor/"><u>[New] In 2024, Top-Ranked Comedic Image Editor</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-melody-meets-momentum-harmonizing-sound-with-imagery-for-2024/"><u>[New] Melody Meets Momentum Harmonizing Sound with Imagery for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-constructing-youtube-playlists-made-simple-for-2024/"><u>[Updated] Constructing YouTube Playlists Made Simple for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-top-trending-dj-mixes-and-remixes-fresh-tracks-added-in-mays-video-collection/"><u>1. Top Trending DJ Mixes & Remixes - Fresh Tracks Added in May's Video Collection</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-stepwise-process-for-capturing-live-soundtracks-online/"><u>2024 Approved Stepwise Process for Capturing Live Soundtracks Online</u></a></li>
-<li><a href="https://fox-where.techidaily.com/3-week-journey-effortlessly-operating-windows-10-for-disc-jockeys-djs-with-simple-steps-and-tips/"><u>3-Week Journey: Effortlessly Operating Windows 10 for Disc Jockeys (DJs) with Simple Steps and Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/m4bflacmovavi/"><u>免費線上M4B到FLAC轉換：如何使用Movavi轉錄工具進行音效改造</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/browse-without-leaving-a-trace-in-depth-tutorial-for-incognito-mode-on-popular-browsers/"><u>Browse Without Leaving a Trace: In-Depth Tutorial for Incognito Mode on Popular Browsers</u></a></li>
-<li><a href="https://fox-where.techidaily.com/combine-and-compact-with-yl-solutions-creating-a-zip-from-various-files-or-folders/"><u>Combine and Compact with YL Solutions: Creating a Zip From Various Files or Folders</u></a></li>
-<li><a href="https://fox-where.techidaily.com/high-definition-alfa-romeo-emblem-wallpaper-premium-automotive-graphics-by-yl-computing/"><u>High-Definition Alfa Romeo Emblem Wallpaper - Premium Automotive Graphics by YL Computing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-to-zoom-into-online-engagements-intelligently/"><u>In 2024, Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
-<li><a href="https://fox-where.techidaily.com/pioneer-dj-deckadrive-3-software-update-version-v317-free-download/"><u>Pioneer DJ Deckadrive 3 Software Update - Version v3.17 | Free Download</u></a></li>
-<li><a href="https://fox-where.techidaily.com/regular-optimization-practices-for-superior-pc-performance-as-recommended-by-yl-software-experts/"><u>Regular Optimization Practices for Superior PC Performance as Recommended by YL Software Experts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y100i-power-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y100i Power 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-reasons-behind-sluggish-printer-performance-a-guide-by-yl-computing/"><u>Understanding the Reasons Behind Sluggish Printer Performance - A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-software-unveils-simplified-insights-into-blockchain-tech-for-beginners/"><u>YL Software Unveils Simplified Insights Into Blockchain Tech for Beginners</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-film-crafting-from-script-to-screen/"><u>[Updated] In 2024, Film Crafting From Script to Screen</u></a></li>
+<li><a href="https://fox-where.techidaily.com/can-windows-defender-cause-slower-speeds-on-your-laptop-or-desktop-insights-from-yl-software-experts/"><u>Can Windows Defender Cause Slower Speeds on Your Laptop or Desktop? - Insights From YL Software Experts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-and-easy-the-best-iphone-video-rotation-apps/"><u>Free and Easy The Best iPhone Video Rotation Apps</u></a></li>
+<li><a href="https://fox-where.techidaily.com/getting-started-with-mixing-in-pcdj-a-comprehensive-guide-to-arranging-dj-sets-beginner-edition-1/"><u>Getting Started with Mixing in PCDJ: A Comprehensive Guide to Arranging DJ Sets, Beginner Edition 1</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-address-a-non-functioning-aol-mail-application-in-iphone-discover-the-6-most-helpful-fixes/"><u>How to Successfully Address a Non-Functioning AOL Mail Application in iPhone: Discover the 6 Most Helpful Fixes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-expanding-your-communication-horizons-top-10-android-apps-to-consider-in-place-of-facetime/"><u>New 2024 Approved Expanding Your Communication Horizons Top 10 Android Apps to Consider in Place of FaceTime</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-instructions-finding-and-using-windows-defender-in-windows-11-tips-from-yl-software-experts/"><u>Step-by-Step Instructions: Finding and Using Windows Defender in Windows 11 – Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-windows-graphics-and-display-issues-expert-tips-from-yl-computing/"><u>Troubleshooting Windows Graphics and Display Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Itel P55T | Dr.fone</u></a></li>
 </ul></div>
 

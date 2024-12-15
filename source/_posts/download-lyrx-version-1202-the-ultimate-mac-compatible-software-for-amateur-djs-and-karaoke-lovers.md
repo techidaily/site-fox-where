@@ -1,7 +1,7 @@
 ---
 title: Download LYRX Version 1.2.0.2 - The Ultimate MAC-Compatible Software for Amateur DJs and Karaoke Lovers!
-date: 2024-12-03T20:23:44.184Z
-updated: 2024-12-08T19:31:36.445Z
+date: 2024-12-11T22:16:11.537Z
+updated: 2024-12-15T04:23:19.194Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ You will want to update LYRX now to ensure a better karaoke hosting experience f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.2.0.2
@@ -40,7 +40,7 @@ You will want to update LYRX now to ensure a better karaoke hosting experience f
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -62,24 +62,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/LYRXv1202-cover-image-1.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-funfactory-enjoy-video-making-with-ease/"><u>[New] 2024 Approved FunFactory Enjoy Video Making with Ease</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-complete-roadmap-downloading-editing-and-customizing-whatsapp-tones/"><u>[New] The Complete Roadmap Downloading, Editing & Customizing WhatsApp Tones</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outubes-celebrated-click-it-achievements-for-2024/"><u>[New] YouTube's Celebrated Click-It Achievements for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-elevating-your-online-presence-with-advanced-zoom-filters/"><u>[Updated] 2024 Approved Elevating Your Online Presence with Advanced Zoom Filters</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-new-frontiers-in-mobile-videography-alternatives-to-periscope-for-2024/"><u>[Updated] New Frontiers in Mobile Videography - Alternatives to Periscope for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-s17-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo S17 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/digital-dj-essentials-learn-how-to-use-songbookdb-for-seamless-remote-requests-and-dj-setups-step-by-step-guide-in-video-format/"><u>Digital DJ Essentials: Learn How to Use SongBookDB for Seamless Remote Requests and DJ Setups | Step-by-Step Guide in Video Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-standard-dvd-resolutions-how-do-480p-720p-and-1080p-compare-in-quality-and-clarity/"><u>Exploring Standard DVD Resolutions - How Do 480P, 720P, and 1080P Compare in Quality and Clarity?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/fix-your-non-responsive-computer-essential-tips-by-yl-software-experts/"><u>Fix Your Non-Responsive Computer: Essential Tips by YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-turn-off-microsofts-antivirus-windows-defender-settings-guide-for-windows-10-insights-by-yl-computing/"><u>How To Turn Off Microsoft's Antivirus: Windows Defender Settings Guide for Windows 10 - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-crafting-visual-tales-the-essential-guide-to-text-effects/"><u>In 2024, Crafting Visual Tales The Essential Guide to Text Effects</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/learn-the-art-of-skype-voice-recording-in-mp3-free/"><u>Learn the Art of Skype Voice Recording in MP3 (Free)</u></a></li>
-<li><a href="https://fox-where.techidaily.com/shogun-2-fall-of-the-samurai-enhance-your-gaming-setup-with-stunning-total-war-backdrops-and-wallpapers-yl-computing/"><u>Shogun 2 Fall of the Samurai: Enhance Your Gaming Setup with Stunning Total War Backdrops & Wallpapers - YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/syncing-your-itunes-library-with-dj-pro-software-a-step-by-step-guide/"><u>Syncing Your iTunes Library with DJ Pro Software: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-and-replacement-of-malfunctioning-expansion-cards-by-yl-software-experts/"><u>Troubleshooting and Replacement of Malfunctioning Expansion Cards by YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-and-resolving-corrupt-drivers-in-windows-pcs-solutions-by-yl-computing-experts/"><u>Troubleshooting and Resolving Corrupt Drivers in Windows PCs - Solutions by YL Computing Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-your-hard-drive-issues-expert-advice-and-solutions-by-yl-tech-gurus/"><u>Troubleshooting Your Hard Drive Issues: Expert Advice and Solutions by YL Tech Gurus</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-softwares-expert-advice-on-adding-programs-to-your-pc-through-the-windows-control-panel/"><u>YL Software's Expert Advice on Adding Programs to Your PC Through the Windows Control Panel</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-choosing-the-best-video-editor-gopro-hero-vs-polaroid-cube/"><u>[New] 2024 Approved Choosing the Best Video Editor GoPro Hero Vs. Polaroid Cube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/umpstart-success-with-top-30-youtube-intra-designers-insights/"><u>[New] Jumpstart Success with Top 30 YouTube Intra Designers' Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-9-must-play-screen-free-apps-for-offline-android-enthusiasts/"><u>2024 Approved 9 Must-Play Screen-Free Apps for Offline Android Enthusiasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-revisiting-your-secret-snap-archive/"><u>2024 Approved Revisiting Your Secret Snap Archive</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/diagnosing-high-temperature-issues-in-electronics-expert-advice-by-yl-software/"><u>Diagnosing High Temperature Issues in Electronics: Expert Advice by YL Software</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pursuing-your-vision-learn-professional-filmmaking-on-youtube/"><u>In 2024, Pursuing Your Vision Learn Professional Filmmaking on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-quick-guide-capturing-time-lapses-on-samsung-devices/"><u>In 2024, Quick Guide Capturing Time-Lapses on Samsung Devices</u></a></li>
+<li><a href="https://fox-where.techidaily.com/preventing-memory-issues-on-windows-how-upgrading-your-systems-ram-can-help-insights-by-yl-computing/"><u>Preventing Memory Issues on Windows: How Upgrading Your System's RAM Can Help - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/recognizing-windows-memory-malfunction-typical-signs-and-solutions-by-techguru/"><u>Recognizing Windows Memory Malfunction: Typical Signs and Solutions - By TechGuru</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seek-immediate-medical-attention-for-all-significant-eye-injuries-to-prevent-complications-such-as-glaucoma-or-retinal-detachment/"><u>Seek Immediate Medical Attention for All Significant Eye Injuries to Prevent Complications Such as Glaucoma or Retinal Detachment</u></a></li>
+<li><a href="https://fox-where.techidaily.com/stimulating-motivational-graphics-and-screen-savers-brought-to-you-by-yl-software-solutions/"><u>Stimulating Motivational Graphics & Screen Savers - Brought to You by YL Software Solutions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-ultimate-guide-to-listening-to-mp3s-on-windows-recommended-programs-from-yl-software-expertise/"><u>The Ultimate Guide to Listening to MP3s on Windows: Recommended Programs From YL Software Expertise</u></a></li>
+<li><a href="https://fox-where.techidaily.com/web-scraping-made-easy-extract-and-download-pages-as-csv-txt-or-json-using-yl-web-scraper-yl-computing/"><u>Web Scraping Made Easy: Extract & Download Pages as CSV, TXT, or JSON Using YL Web Scraper - YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-computing-expert-guide-accelerate-your-computer-effortlessly/"><u>YL Computing Expert Guide: Accelerate Your Computer Effortlessly</u></a></li>
 </ul></div>
 

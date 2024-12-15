@@ -1,7 +1,7 @@
 ---
 title: "DEX ^3 Mastery: A Comprehensive Guide on Sample Management - Load, Record & Playback Explained (Video)"
-date: 2024-12-05T01:59:09.954Z
-updated: 2024-12-08T21:13:59.348Z
+date: 2024-12-08T01:05:45.382Z
+updated: 2024-12-14T16:28:09.748Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>[New] 2024 Approved Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-integrating-advanced-movie-capture-on-diverse-tech-environments/"><u>[New] In 2024, Integrating Advanced Movie Capture on Diverse Tech Environments</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphone-mastery-complete-guide-to-capturing-podcasts/"><u>[Updated] IPhone Mastery Complete Guide to Capturing Podcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-venture-into-virtual-worlds-a-close-look-at-lgs-360-tech/"><u>2024 Approved Venture Into Virtual Worlds A Close Look at LG's 360 Tech</u></a></li>
-<li><a href="https://fox-where.techidaily.com/diagnosing-common-issues-why-does-your-scanner-halt-operation/"><u>Diagnosing Common Issues: Why Does Your Scanner Halt Operation?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-techniques-with-nvidia-recorder/"><u>Essential Techniques with NVIDIA Recorder</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-dotm-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .dotm file</u></a></li>
-<li><a href="https://fox-where.techidaily.com/high-resolution-eagle-theme-wallpaper-collection-ultimate-visuals-by-yl-computing/"><u>High-Resolution Eagle Theme Wallpaper Collection - Ultimate Visuals by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/marvel-universe-inspired-graphics-shockwave-comic-scenes-high-quality-wallpapers-by-yl-computing/"><u>Marvel Universe Inspired Graphics: Shockwave Comic Scenes - High-Quality Wallpapers by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/maximizing-pc-efficiency-key-strategies-by-yl-software-experts/"><u>Maximizing PC Efficiency: Key Strategies by YL Software Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-windows-interface-managing-firewall-zones-discreetly/"><u>Secure Windows Interface: Managing Firewall Zones Discreetly</u></a></li>
-<li><a href="https://fox-where.techidaily.com/secure-your-system-a-step-by-step-guide-to-tweaking-windows-firewall-via-the-control-panel-expert-advice-from-yl-software/"><u>Secure Your System: A Step-by-Step Guide to Tweaking Windows Firewall via the Control Panel - Expert Advice From YL Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-learn-iphone-techniques-for-quick-video-reduction/"><u>[New] 2024 Approved Learn iPhone Techniques for Quick Video Reduction</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-guide-to-choosing-a-tunefab-recorder-for-2024/"><u>[New] The Ultimate Guide to Choosing a Tunefab Recorder for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precise-methods-for-creating-impactful-client-spots-on-film/"><u>[Updated] Precise Methods for Creating Impactful Client Spots on Film</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-solve-non-detected-proxy-settings-on-windows-os/"><u>Guide to Solve Non-Detected Proxy Settings on Windows OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-live-link-lifters-annual-archive-access/"><u>In 2024, Live Link Lifters - Annual Archive Access</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/journey-to-the-ultimate-vr-cycling-spaces/"><u>Journey to the Ultimate VR Cycling Spaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-winupgrade-error-code-xc004f050/"><u>Mastering Fix for WinUpgrade Error Code: Xc004F050</u></a></li>
+<li><a href="https://fox-where.techidaily.com/revolutionize-your-set-with-reloops-mixon-4-now-compatible-with-pcdj-via-dex-3-enhanced-controller-performance-for-djs/"><u>Revolutionize Your Set with ReLOOP's Mixon 4 Now Compatible with PCDJ via DEX 3 - Enhanced Controller Performance for DJs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seven-years-of-future-proof-viewing-samsung-pledges-lifetime-free-os-updates-for-their-smart-tv-line/"><u>Seven Years of Future-Proof Viewing: Samsung Pledges Lifetime FREE OS Updates for Their Smart TV Line</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-the-issue-of-a-non-responsive-pc-expert-advice-from-yl-computings-tech-specialists/"><u>Solving the Issue of a Non-Responsive PC: Expert Advice From YL Computing's Tech Specialists</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-to-manage-programs-with-windows-control-panel-from-yl-software-experts/"><u>Step-by-Step Tutorial to Manage Programs with Windows Control Panel From YL Software Experts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/efinitive-guide-to-film-gear-buying-tips-for-2024/"><u>The Definitive Guide to Film Gear Buying Tips for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-pc-driver-issues-expert-tips-by-yl-software-team/"><u>Troubleshooting PC Driver Issues: Expert Tips by YL Software Team</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-collection-of-monster-hunter-world-2019-background-graphics-enhance-your-pc-display-with-yl-software-imagery/"><u>Ultimate Collection of Monster Hunter World 2019 Background Graphics – Enhance Your PC Display with YL Software Imagery</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-costs-a-comprehensive-guide-on-charges-for-monitoring-encryption-currency-wallet-balances-yl-computing/"><u>Understanding Costs: A Comprehensive Guide on Charges for Monitoring Encryption Currency Wallet Balances - YL Computing</u></a></li>
 </ul></div>
 

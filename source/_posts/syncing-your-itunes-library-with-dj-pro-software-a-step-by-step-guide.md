@@ -1,7 +1,7 @@
 ---
 title: "Syncing Your iTunes Library with DJ Pro Software: A Step-by-Step Guide"
-date: 2024-12-07T00:56:25.131Z
-updated: 2024-12-09T02:54:11.969Z
+date: 2024-12-08T03:54:27.199Z
+updated: 2024-12-15T03:51:48.531Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ iTunes has always been a hugely popular among DJs for media management and playl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **DJ mixing applications** such as [DEX 3](https://tools.techidaily.com/pcdj/products/) have robust media-management tools baked in.
@@ -38,6 +38,10 @@ The iTunes library is essentially two files: The **Library.itl** which is the na
 
 The iTunes 12.2 update (_and up_) no longer creates the Library.xml file by default, therefore when DEX 3 or RED Mobile 3 are launched the iTunes tab and subsequent playlists are not displayed. Thankfully, there is a setting in iTunes 12.2 that will generate the Library.xml file so our DJ software can dynamically pick it up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to get the Library.xml file back in iTunes 12.2
 
 Open iTunes. Then, click on the **Menu** button > **Preferences**:
@@ -45,16 +49,12 @@ Open iTunes. Then, click on the **Menu** button > **Preferences**:
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunesmenu-1.jpg?fit=359%2C429&ssl=1 "itunesmenu-1")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunesmenu-1.jpg?fit=359%2C429&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on Advanced options and put a tick in the **Share iTunes Library XML with other applications** box:
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1 "shareitunes")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click on **OK** to apply. The **Library.xml** will be create in: **Users/username/Music/iTunes** _(NOTE: The default location is where you need to store your iTunes library.xml file for PCDJ to grab it)_
 
@@ -63,11 +63,11 @@ Click on **OK** to apply. The **Library.xml** will be create in: **Users/usernam
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1 "itunestab")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,19 +89,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunes12support-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-where-can-you-find-instagram-ringtones-that-elevate-your-call-experience/"><u>[Updated] 2024 Approved Where Can You Find Instagram Ringtones That Elevate Your Call Experience?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-comprehensible-guide-to-adding-images-on-instagram/"><u>[Updated] A Comprehensible Guide to Adding Images on Instagram</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-community-builders-gamer-youtubers/"><u>[Updated] In 2024, Community Builders Gamer YouTubers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/avoiding-edgenuitys-grasp-tips-for-quickly-skipping-video-lessons-for-2024/"><u>Avoiding Edgenuity's Grasp Tips for Quickly Skipping Video Lessons for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-your-perfect-mobile-companion-iphone-or-android-find-out-here/"><u>Choosing Your Perfect Mobile Companion: IPhone or Android - Find Out Here</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-like-a-pro-16-free-video-editors-for-amateur-filmmakers-for-2024/"><u>Create Like a Pro 16 Free Video Editors for Amateur Filmmakers for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/impact-of-windows-defender-on-pc-efficiency-insights-from-yl-computings-expert-analysis/"><u>Impact of Windows Defender on PC Efficiency: Insights From YL Computing's Expert Analysis</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-joining-the-world-of-live-broadcasts-a-roku-primer/"><u>In 2024, Joining the World of Live Broadcasts A Roku Primer</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-a60-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/solving-display-anomalies-a-comprehensive-guide-by-yl-computing/"><u>Solving Display Anomalies: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-essential-70s-hits-for-disc-jockeys-a-playlist-guide-pcdj-music-selection/"><u>Top Essential '70S Hits for Disc Jockeys: A Playlist Guide - PCDJ Music Selection</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-audio-issues-on-windows-a-step-by-step-guide-by-yl-computing-for-effective-sound-card-integration/"><u>Troubleshooting Audio Issues on Windows: A Step-by-Step Guide by YL Computing for Effective Sound Card Integration</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-guide-for-accurate-monitor-display-innovative-solutions-from-yl-software-experts/"><u>Troubleshooting Guide for Accurate Monitor Display - Innovative Solutions From YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-xlsx-file-features-with-expert-insights-from-yl-software/"><u>Understanding XLSX File Features with Expert Insights From YL Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expanding-textual-arsenal-in-after-effects/"><u>[New] Expanding Textual Arsenal in After Effects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ranking-creative-photo-and-video-shows-on-iphones-xr-i/"><u>[New] Ranking Creative Photo & Video Shows on iPhones (XR-I)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-ultimate-guide-expanding-connectivity-adding-new-ports-to-macbook-and-ipad-pro/"><u>1. Ultimate Guide: Expanding Connectivity - Adding New Ports to MacBook & iPad Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-affordable-sturdy-backpacks-and-bags-for-gamers-on-the-move/"><u>2024 Approved Affordable, Sturdy Backpacks & Bags for Gamers on the Move</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-itel-p55-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Itel P55 5G PC | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/bitcoins-impressive-surge-of-26-in-october-insights-from-yl-computing-and-yl-software-analysis/"><u>Bitcoin's Impressive Surge of 26% in October - Insights From YL Computing & YL Software Analysis</u></a></li>
+<li><a href="https://fox-where.techidaily.com/diagnosing-high-temperature-issues-in-electronics-expert-advice-by-yl-software/"><u>Diagnosing High Temperature Issues in Electronics: Expert Advice by YL Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-courteous-should-you-be-with-smart-tech-alexa-siri/"><u>How Courteous Should You Be with Smart Tech? (Alexa, Siri)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-untrustworthy-is-chatgpt-for-secrets/"><u>How Untrustworthy Is ChatGPT for Secrets?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/premium-aston-martin-themed-wall-art-for-hd-screens-elevate-your-digital-space-with-yl-computings-exquisite-collection/"><u>Premium Aston Martin Themed Wall Art for HD Screens - Elevate Your Digital Space with YL Computing's Exquisite Collection</u></a></li>
+<li><a href="https://fox-where.techidaily.com/recognizing-windows-memory-malfunction-typical-signs-and-solutions-by-techguru/"><u>Recognizing Windows Memory Malfunction: Typical Signs and Solutions - By TechGuru</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spark-ar-visual-upgrades-the-role-of-downloadable-luts-in-development-for-2024/"><u>Spark AR Visual Upgrades The Role of Downloadable LUTs in Development for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/stimulating-motivational-graphics-and-screen-savers-brought-to-you-by-yl-software-solutions/"><u>Stimulating Motivational Graphics & Screen Savers - Brought to You by YL Software Solutions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-ultimate-guide-to-listening-to-mp3s-on-windows-recommended-programs-from-yl-software-expertise/"><u>The Ultimate Guide to Listening to MP3s on Windows: Recommended Programs From YL Software Expertise</u></a></li>
+<li><a href="https://fox-where.techidaily.com/web-scraping-made-easy-extract-and-download-pages-as-csv-txt-or-json-using-yl-web-scraper-yl-computing/"><u>Web Scraping Made Easy: Extract & Download Pages as CSV, TXT, or JSON Using YL Web Scraper - YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-computing-expert-guide-accelerate-your-computer-effortlessly/"><u>YL Computing Expert Guide: Accelerate Your Computer Effortlessly</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/yl-softwares-guide-ensuring-a-spotless-scanner-surface-without-damage/"><u>YL Software's Guide: Ensuring a Spotless Scanner Surface Without Damage</u></a></li>
 </ul></div>
 

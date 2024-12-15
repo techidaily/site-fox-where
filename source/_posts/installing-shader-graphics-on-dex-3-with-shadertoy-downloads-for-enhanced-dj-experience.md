@@ -1,7 +1,7 @@
 ---
 title: Installing Shader Graphics on DEX 3 with Shadertoy Downloads for Enhanced DJ Experience
-date: 2024-12-04T00:07:38.785Z
-updated: 2024-12-08T20:06:30.044Z
+date: 2024-12-12T21:04:23.819Z
+updated: 2024-12-14T17:47:19.158Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ Shaders are free to use and generate stunning on-screen visualizations that are 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where do you get Shaders?
 
 [Shadertoy.com](http://www.shadertoy.com) is a website platform that allows users to build and share Shaders with the world. Lucky for us, there are hundreds if not thousands of **free** Shaders to select from. Shaders come in a wide variety but they all display motion and are almost always beat-aware, with a few exceptions.
@@ -38,12 +34,16 @@ Shaders also vary greatly on how much resources they will use — from light to 
 
 Some Shaders are also marked ‘private’ and therefore can’t be added to DEX 3, while others may not convert properly and will display a generic ‘red’ background when applied in DEX 3.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding Shaders
 
 In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shader from your browser’s address bar and apply it to the ‘Add a new Shader’ input box that you access from the ‘Shader’ drop down menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here’s a step-by-step demonstration of how it’s done:**
@@ -51,7 +51,7 @@ In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shad
 [![Copy the URL at ShaderToy.com](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1 "Copy the URL at ShaderToy.com")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **1)** As pictured above, search and browse at Shadertoy.com and once you’ve found a Shader you wish to use in DEX 3, highlight the URL of the Shader in your browser’s address bar and copy it (right-click ‘copy’ or CTRL + C).
@@ -59,20 +59,20 @@ In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shad
 [![Click add Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1 "Click add Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** From the Shader drop down menu located at the top of the video skins (4-deck or 2-deck video tabs) select the option ‘Add a new Shader’.
 
 [![Right click past in Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1 "Right click past in Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click into the ‘Add new Shader’ input box and either right-click and select ‘Paste’ or CTRL + V to paste in the Shadertoy.com URL.
 
 [![Click OK to apply Shader to DEX 3](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1 "Click OK to apply Shader to DEX 3")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click OK to apply the Shader immediately. Unless the Shader isn’t supported or marked private, the Shader should instantly apply and display on screen.
 
@@ -114,22 +114,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-cutting-edge-techniques-for-captivate-content/"><u>[New] In 2024, Cutting-Edge Techniques for Captivate Content</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/astering-youtube-pace-control-top-tips-for-slower-views-48-chars-for-2024/"><u>[New] Mastering YouTube Pace Control Top Tips for Slower Views (48 Chars) for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-understanding-the-price-tag-on-youtube-promo/"><u>[Updated] Understanding the Price Tag on Youtube Promo</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-7-fps-gaming-list/"><u>2024 Approved The Ultimate 7 FPS Gaming List</u></a></li>
-<li><a href="https://fox-where.techidaily.com/file-sharing-across-various-applications-a-comprehensive-guide-by-yl-computing/"><u>File Sharing Across Various Applications: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-security-camera-software-reviews-top-10-options-for-2024/"><u>Free Security Camera Software Reviews Top 10 Options for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-de-coupe-mp4-en-windows-1011-pas-dencodage-requis-juste-des-edits-simples/"><u>Guide De Coupe MP4 en Windows 10/11 - Pas D'Encodage Requis, Juste Des Edits Simples !</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-13-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 13 Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/secrets-to-perfecting-snapchats-playback-speed-settings/"><u>Secrets to Perfecting Snapchat's Playback Speed Settings</u></a></li>
-<li><a href="https://fox-where.techidaily.com/securing-your-digital-property-comprehensive-guide-by-yl-computing/"><u>Securing Your Digital Property: Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-driving-forces-behind-the-chinese-communist-partys-cultural-revolution-era/"><u>The Driving Forces Behind the Chinese Communist Party's Cultural Revolution Era</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-ultimate-guide-to-picking-a-top-notch-crypto-exchange-by-yl-software-experts/"><u>The Ultimate Guide to Picking a Top-Notch Crypto Exchange by YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-graphic-card-troubleshooting-tools-a-comprehensive-guide-by-yl-computing/"><u>Top Graphic Card Troubleshooting Tools: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-reasons-for-frequent-system-halt-and-automatic-reboots-explained-by-yl-software-experts/"><u>Troubleshooting Reasons for Frequent System Halt & Automatic Reboots Explained by YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/unraveling-the-influence-of-sun-yat-sen-on-contemporary-china-insights-from-yl-computing-and-yl-software/"><u>Unraveling the Influence of Sun Yat-Sen on Contemporary China: Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-software-tutorial-easily-set-up-an-additional-user-on-your-machine/"><u>YL Software Tutorial: Easily Set Up an Additional User on Your Machine</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-morning-analysis-fresh-insights/"><u>[Updated] Next Morning Analysis Fresh Insights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-tap-into-thriving-youtube-threads/"><u>[Updated] Tap Into Thriving YouTube Threads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-vivid-visuals-brush-up-your-youtube-beauty-videos-for-2024/"><u>[Updated] Vivid Visuals Brush up Your YouTube Beauty Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-n/"><u>擁有Windows N次正版驗證：四大方式及自由更新路徑</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ambient-weather-ws-1002-wifi-thermometer-is-top-notch-accuracy-worth-the-price-tag/"><u>Ambient Weather WS-1002 WiFi Thermometer: Is Top-Notch Accuracy Worth the Price Tag?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-suspended-sign-ups-explained-causes-and-future-reopening-dates/"><u>ChatGPT's Suspended Sign-Ups Explained: Causes and Future Reopening Dates</u></a></li>
+<li><a href="https://fox-where.techidaily.com/defending-against-crypto-scams-expert-tips-from-yl-computings-blockchain-security-guide/"><u>Defending Against Crypto Scams: Expert Tips From YL Computing's Blockchain Security Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-fix-a-sluggish-pc-tips-on-dealing-with-lag-and-persistent-blue-screen-errors-expert-advice-from-yl-tech-support/"><u>How to Fix a Sluggish PC: Tips on Dealing with Lag and Persistent Blue Screen Errors - Expert Advice From YL Tech Support</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-itel-a70-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Itel A70</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-ai-interaction-design-a-sustainable-profession/"><u>Is AI Interaction Design a Sustainable Profession?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/is-it-possible-to-correct-your-cpu-errors-using-specialized-software-tools-innovations-from-yl-software/"><u>Is It Possible to Correct Your CPU Errors Using Specialized Software Tools? - Innovations From YL Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-setting-up-devices-like-speakers-printers-and-accessories-via-control-panel-tech-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Devices Like Speakers, Printers & Accessories via Control Panel - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ta-when-you-add-a-negative-number-to-a-positive-number-you-are-essentially-subtracting-the-absolute-value-of-the-negative-number-from-the-positive-number-in103/"><u>TA]: When You Add a Negative Number to a Positive Number, You Are Essentially Subtracting the Absolute Value of the Negative Number From the Positive Number. In This Case, You Have -3 (Negative Three) and +4 (Positive Four).</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-convergence-of-mobile-and-club-djing-insights-from-pcdj/"><u>The Convergence of Mobile and Club DJing: Insights From PCDJ</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-and-fixing-your-hard-drive-woes-expert-guide-by-yl-computing/"><u>Troubleshooting & Fixing Your Hard Drive Woes: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-high-wudfhostexe-cpu-consumption-on-windows-10-pcs/"><u>Troubleshooting and Fixing High wudfhost.exe CPU Consumption on Windows 10 PCs</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-windows-fixing-issues-with-non-responsive-mice-and-keyboards-tips-from-yl-computing/"><u>Troubleshooting Windows: Fixing Issues with Non-Responsive Mice and Keyboards - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-computings-high-definition-loopscreen-captivating-live-wallpapers-and-videos-yl-software-solutions/"><u>YL Computing's High Definition Loopscreen: Captivating Live Wallpapers & Videos - YL Software Solutions</u></a></li>
 </ul></div>
 

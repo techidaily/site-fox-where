@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your DJ Sets From PCDJ Dex 2 to Dex 3: A Comprehensive Step-by-Step Guide"
-date: 2024-12-03T03:21:21.396Z
-updated: 2024-12-09T00:49:25.973Z
+date: 2024-12-11T03:22:01.727Z
+updated: 2024-12-14T18:58:04.705Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,19 +44,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/hanneling-creativity-get-green-screen-tips-from-youtube/"><u>[New] Channeling Creativity Get Green Screen Tips From YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-essential-mac-apps-screen-recording-made-simple-for-2024/"><u>[New] Essential Mac Apps Screen Recording Made Simple for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-bandicam-key-takeaways-and-tips/"><u>[New] Mastering Bandicam - Key Takeaways and Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-leading-e-commerce-platforms-for-high-quality-tv-purchases/"><u>Discover the Leading E-Commerce Platforms for High-Quality TV Purchases</u></a></li>
-<li><a href="https://fox-where.techidaily.com/evaluating-the-accuracy-and-dependability-of-cryptocurrencys-blockchain-explorers-for-address-balance-verification-a-deep-dive-by-yl-computing/"><u>Evaluating the Accuracy and Dependability of Cryptocurrency's Blockchain Explorers for Address Balance Verification: A Deep Dive by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-to-fix-difficulty-with-devices-advanced-solutions-by-yl-software-professionals/"><u>Guide to Fix Difficulty with Devices: Advanced Solutions by YL Software Professionals</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-can-i-ensure-maximum-browser-security-tips-by-yl-computing-and-yl-software/"><u>How Can I Ensure Maximum Browser Security? - Tips by YL Computing & YL Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-harmonizing-hues-audio-fade-techniques-in-logic-pro/"><u>In 2024, Harmonizing Hues Audio Fade Techniques in Logic Pro</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-shadows-a-systematic-guide-to-hidden-youtube-content/"><u>In 2024, Unveiling the Shadows A Systematic Guide to Hidden YouTube Content</u></a></li>
-<li><a href="https://fox-where.techidaily.com/pioneer-dj-deckadrive-3-software-update-version-v317-free-download/"><u>Pioneer DJ Deckadrive 3 Software Update - Version v3.17 | Free Download</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/spring-to-the-future-innovations-in-screen-capture-tech/"><u>Spring to the Future Innovations in Screen Capture Tech</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-reasons-behind-sluggish-printer-performance-a-guide-by-yl-computing/"><u>Understanding the Reasons Behind Sluggish Printer Performance - A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-reasons-behind-your-pcs-unexpected-crashes-and-freezes-a-guide-by-yl-computing/"><u>Understanding the Reasons Behind Your PC's Unexpected Crashes & Freezes: A Guide by YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[Updated] From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-ultimate-tiktok-twitter-syncing-method/"><u>[Updated] In 2024, The Ultimate TikTok-Twitter Syncing Method</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transformative-srt-editing-techniques-for-apple-devices/"><u>[Updated] Transformative SRT Editing Techniques for Apple Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-mic-not-working-fixed/"><u>Astro A10 Mic Not Working [FIXED]</u></a></li>
+<li><a href="https://win-updates.techidaily.com/convert-your-quick-access-icons-into-full-blown-documents-with-these-5-easy-strategies/"><u>Convert Your Quick Access Icons Into Full-Blown Documents with These 5 Easy Strategies</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effective-solutions-for-unresponsive-printers-insights-from-yl-computings-expertise/"><u>Effective Solutions for Unresponsive Printers: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fix-your-pcs-memory-woes-with-simple-steps-tips-by-yl-software-experts/"><u>Fix Your PC's Memory Woes with Simple Steps - Tips by YL Software Experts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-bringing-history-alive-old-images-in-new-video-formats/"><u>In 2024, Bringing History Alive Old Images in New Video Formats</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-12-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 12</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-your-scanners-connectivity-woes-with-yl-software-expertise/"><u>Solving Your Scanner's Connectivity Woes with YL Software Expertise</u></a></li>
+<li><a href="https://fox-where.techidaily.com/start-your-journey-in-digital-asset-investment-with-essential-strategies-by-yl-computing-and-yl-software/"><u>Start Your Journey in Digital Asset Investment with Essential Strategies by YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-on-accessing-system-specifications-with-yl-software-solutions/"><u>Step-by-Step Tutorial on Accessing System Specifications with YL Software Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-samsung-galaxy-s20-fe-5g-why-its-a-top-choice-for-enthusiasts/"><u>Ultimate Guide to the Samsung Galaxy S20 FE 5G: Why It's a Top Choice for Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-ultimate-image-clarity-tweak-your-projection-devices-top-3-settings-like-a-pro/"><u>Unlock Ultimate Image Clarity: Tweak Your Projection Device's Top 3 Settings Like a Pro!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/why-doesnt-my-video-card-just-stop-working-when-it-gets-hot-a-yl-software-perspective/"><u>Why Doesn't My Video Card Just Stop Working When It Gets Hot? A YL Software Perspective</u></a></li>
 </ul></div>
 
