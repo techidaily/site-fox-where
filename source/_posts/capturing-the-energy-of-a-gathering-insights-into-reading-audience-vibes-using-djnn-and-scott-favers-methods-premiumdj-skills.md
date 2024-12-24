@@ -1,7 +1,7 @@
 ---
 title: "Capturing the Energy of a Gathering: Insights Into Reading Audience Vibes Using DJNN & Scott Faver's Methods | PremiumDJ Skills"
-date: 2024-12-12T23:03:53.906Z
-updated: 2024-12-14T19:30:03.979Z
+date: 2024-12-17T21:45:44.666Z
+updated: 2024-12-23T20:39:40.980Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ This week, we felt inclined to share a video recently shot and released by Disc 
 During this weeks segment DJNN hosts Scott Faver, known in the industry as the Game Master. He share’s his insights in reading the vibe from a group of people so he can play to his audiences tastes in music. DJing is all about being a great “selector” of music, to ensure a packed dance floor and memorable occasion (_and more referrals!_):  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,17 +42,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/readingthevibe.jpg?fit=530
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unlocking-the-power-of-facebook-slideshows-in-digital-marketing/"><u>[New] 2024 Approved Unlocking the Power of Facebook Slideshows in Digital Marketing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-survival-in-shambles-selecting-the-top-8-zombie-classics/"><u>[New] Survival in Shambles Selecting the Top 8 Zombie Classics</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-ultimate-guide-to-swift-youtube-discussion-management/"><u>[Updated] 2024 Approved The Ultimate Guide to Swift Youtube Discussion Management</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-portrait-to-panorama-a-guide-to-instagrams-rotation-revolution/"><u>[Updated] In 2024, From Portrait to Panorama A Guide to Instagram's Rotation Revolution</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/diagnosing-high-temperature-issues-in-electronics-expert-advice-by-yl-software/"><u>Diagnosing High Temperature Issues in Electronics: Expert Advice by YL Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-phone-without-google-account-by-drfone-android/"><u>How to Unlock Itel A70 Phone without Google Account?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nokia-105-classic-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/recognizing-windows-memory-malfunction-typical-signs-and-solutions-by-techguru/"><u>Recognizing Windows Memory Malfunction: Typical Signs and Solutions - By TechGuru</u></a></li>
-<li><a href="https://fox-where.techidaily.com/stimulating-motivational-graphics-and-screen-savers-brought-to-you-by-yl-software-solutions/"><u>Stimulating Motivational Graphics & Screen Savers - Brought to You by YL Software Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-ultimate-guide-to-listening-to-mp3s-on-windows-recommended-programs-from-yl-software-expertise/"><u>The Ultimate Guide to Listening to MP3s on Windows: Recommended Programs From YL Software Expertise</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-winx-mediatrans-top-app-for-seamless-ios-and-windows-phone-data-transfers/"><u>Ultimate Guide to WinX MediaTrans™: Top App for Seamless iOS & Windows Phone Data Transfers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-live-streamer-showdown-pick-your-champion-between-wirecast-and-obs/"><u>[Updated] Live Streamer Showdown Pick Your Champion Between Wirecast and OBS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-se-2022-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone SE (2022)</u></a></li>
+<li><a href="https://article-files.techidaily.com/exploring-whatsapps-sound-transfers-for-2024/"><u>Exploring WhatsApp's Sound Transfers for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-smart-8-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Smart 8 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://fox-where.techidaily.com/hd-desktop-graphics-and-wallsavers-premium-collection-by-yl-computing/"><u>HD Desktop Graphics & Wallsavers: Premium Collection by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-your-print-problems-how-to-fix-unpredictable-colors-using-yl-software-solutions/"><u>Solving Your Print Problems: How to Fix Unpredictable Colors Using YL Software Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-key-to-immersive-roleplay-zooming-into-roblox-worlds-for-2024/"><u>The Key to Immersive Roleplay Zooming Into Roblox Worlds for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-computing-air-jordan-inspired-chromebook-desktop-artwork-and-graphics-collection/"><u>YL Computing Air Jordan-Inspired Chromebook Desktop Artwork & Graphics Collection</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-softwares-blueprint-for-thriving-in-the-cryptomarket-as-a-skilled-trader/"><u>YL Software's Blueprint for Thriving in the Cryptomarket as a Skilled Trader</u></a></li>
 </ul></div>
 

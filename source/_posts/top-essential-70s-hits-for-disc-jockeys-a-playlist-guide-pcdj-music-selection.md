@@ -1,7 +1,7 @@
 ---
 title: "Top Essential '70S Hits for Disc Jockeys: A Playlist Guide - PCDJ Music Selection"
-date: 2024-12-11T16:12:46.421Z
-updated: 2024-12-14T16:47:50.330Z
+date: 2024-12-19T16:08:55.488Z
+updated: 2024-12-24T02:29:27.443Z
 tags:
   - product
 categories:
@@ -152,7 +152,7 @@ Here’s last nights video chat. John’s list of must play 70s songs for DJs is
 [CONTINUE READING AT DISCJOCKEYNEWS.COM](http://discjockeynews.com/the-must-play-songs-from-the-70s-with-brian-redd-and-john-young/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -174,14 +174,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/02/musthave70smusicfordjs-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-film-crafting-from-script-to-screen/"><u>[Updated] In 2024, Film Crafting From Script to Screen</u></a></li>
-<li><a href="https://fox-where.techidaily.com/can-windows-defender-cause-slower-speeds-on-your-laptop-or-desktop-insights-from-yl-software-experts/"><u>Can Windows Defender Cause Slower Speeds on Your Laptop or Desktop? - Insights From YL Software Experts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-and-easy-the-best-iphone-video-rotation-apps/"><u>Free and Easy The Best iPhone Video Rotation Apps</u></a></li>
-<li><a href="https://fox-where.techidaily.com/getting-started-with-mixing-in-pcdj-a-comprehensive-guide-to-arranging-dj-sets-beginner-edition-1/"><u>Getting Started with Mixing in PCDJ: A Comprehensive Guide to Arranging DJ Sets, Beginner Edition 1</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-successfully-address-a-non-functioning-aol-mail-application-in-iphone-discover-the-6-most-helpful-fixes/"><u>How to Successfully Address a Non-Functioning AOL Mail Application in iPhone: Discover the 6 Most Helpful Fixes</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-expanding-your-communication-horizons-top-10-android-apps-to-consider-in-place-of-facetime/"><u>New 2024 Approved Expanding Your Communication Horizons Top 10 Android Apps to Consider in Place of FaceTime</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-instructions-finding-and-using-windows-defender-in-windows-11-tips-from-yl-software-experts/"><u>Step-by-Step Instructions: Finding and Using Windows Defender in Windows 11 – Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-windows-graphics-and-display-issues-expert-tips-from-yl-computing/"><u>Troubleshooting Windows Graphics and Display Issues: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-game-on-essential-samsung-gear-vr-experiences/"><u>[New] 2024 Approved Game On Essential Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-footage-frenzy-pro-vs-platinum-with-gopro-hero5-and-hero4-for-2024/"><u>[New] Footage Frenzy Pro vs Platinum with GoPro Hero5 and Hero4 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-xbox-one-screen-recording-easy-steps-for-gamers/"><u>[Updated] Xbox One Screen Recording Easy Steps for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-iphone-showdown-comparing-the-iphone-16-and-iphone-15-for-your-next-upgrade-techradar/"><u>Apple iPhone Showdown: Comparing the iPhone 16 and iPhone 15 for Your Next Upgrade | TechRadar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-windows-mechanism-for-allocated-ram/"><u>Delving Into Windows' Mechanism for Allocated RAM</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-failed-syncs-a-guide-to-onedrive-operations-on-windows/"><u>Fixing Failed Syncs: A Guide to OneDrive Operations on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/is-it-necessary-to-have-antivirus-protection-on-your-pc-expert-insights-by-yl-computing/"><u>Is It Necessary to Have Antivirus Protection on Your PC? - Expert Insights by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-cryptocurrency-chart-patterns-a-comprehensive-guide-with-yl-software/"><u>Mastering Cryptocurrency Chart Patterns: A Comprehensive Guide with YL Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-your-laptops-heat-issues-expert-tips-and-tricks-yl-computing-solutions/"><u>Solving Your Laptop's Heat Issues: Expert Tips & Tricks - YL Computing Solutions</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-process-on-restoring-information-from-locked-out-hard-drives/"><u>Step-by-Step Process on Restoring Information From Locked Out Hard Drives</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-extent-of-neural-plasticity-can-be-influenced-by-the-type-and-severity-of-brain-injury/"><u>The Extent of Neural Plasticity Can Be Influenced by the Type and Severity of Brain Injury.</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-reasons-behind-memory-issues-on-windows-systems-insights-from-yl-computing/"><u>Understanding the Reasons Behind Memory Issues on Windows Systems - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-softwares-comprehensive-tutorial-on-fixing-printer-not-detected-problems/"><u>YL Software's Comprehensive Tutorial on Fixing 'Printer Not Detected' Problems</u></a></li>
 </ul></div>
 

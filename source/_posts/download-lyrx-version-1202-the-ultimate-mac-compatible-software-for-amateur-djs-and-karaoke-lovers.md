@@ -1,7 +1,7 @@
 ---
 title: Download LYRX Version 1.2.0.2 - The Ultimate MAC-Compatible Software for Amateur DJs and Karaoke Lovers!
-date: 2024-12-11T22:16:11.537Z
-updated: 2024-12-15T04:23:19.194Z
+date: 2024-12-17T17:49:59.587Z
+updated: 2024-12-24T05:37:42.489Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ You will want to update LYRX now to ensure a better karaoke hosting experience f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.2.0.2
@@ -40,7 +40,7 @@ You will want to update LYRX now to ensure a better karaoke hosting experience f
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -62,20 +62,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/LYRXv1202-cover-image-1.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-choosing-the-best-video-editor-gopro-hero-vs-polaroid-cube/"><u>[New] 2024 Approved Choosing the Best Video Editor GoPro Hero Vs. Polaroid Cube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/umpstart-success-with-top-30-youtube-intra-designers-insights/"><u>[New] Jumpstart Success with Top 30 YouTube Intra Designers' Insights</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-9-must-play-screen-free-apps-for-offline-android-enthusiasts/"><u>2024 Approved 9 Must-Play Screen-Free Apps for Offline Android Enthusiasts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-revisiting-your-secret-snap-archive/"><u>2024 Approved Revisiting Your Secret Snap Archive</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/diagnosing-high-temperature-issues-in-electronics-expert-advice-by-yl-software/"><u>Diagnosing High Temperature Issues in Electronics: Expert Advice by YL Software</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pursuing-your-vision-learn-professional-filmmaking-on-youtube/"><u>In 2024, Pursuing Your Vision Learn Professional Filmmaking on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-quick-guide-capturing-time-lapses-on-samsung-devices/"><u>In 2024, Quick Guide Capturing Time-Lapses on Samsung Devices</u></a></li>
-<li><a href="https://fox-where.techidaily.com/preventing-memory-issues-on-windows-how-upgrading-your-systems-ram-can-help-insights-by-yl-computing/"><u>Preventing Memory Issues on Windows: How Upgrading Your System's RAM Can Help - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/recognizing-windows-memory-malfunction-typical-signs-and-solutions-by-techguru/"><u>Recognizing Windows Memory Malfunction: Typical Signs and Solutions - By TechGuru</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/seek-immediate-medical-attention-for-all-significant-eye-injuries-to-prevent-complications-such-as-glaucoma-or-retinal-detachment/"><u>Seek Immediate Medical Attention for All Significant Eye Injuries to Prevent Complications Such as Glaucoma or Retinal Detachment</u></a></li>
-<li><a href="https://fox-where.techidaily.com/stimulating-motivational-graphics-and-screen-savers-brought-to-you-by-yl-software-solutions/"><u>Stimulating Motivational Graphics & Screen Savers - Brought to You by YL Software Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-ultimate-guide-to-listening-to-mp3s-on-windows-recommended-programs-from-yl-software-expertise/"><u>The Ultimate Guide to Listening to MP3s on Windows: Recommended Programs From YL Software Expertise</u></a></li>
-<li><a href="https://fox-where.techidaily.com/web-scraping-made-easy-extract-and-download-pages-as-csv-txt-or-json-using-yl-web-scraper-yl-computing/"><u>Web Scraping Made Easy: Extract & Download Pages as CSV, TXT, or JSON Using YL Web Scraper - YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-computing-expert-guide-accelerate-your-computer-effortlessly/"><u>YL Computing Expert Guide: Accelerate Your Computer Effortlessly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-centralized-video-control-mstream-edition/"><u>[New] 2024 Approved Centralized Video Control MStream Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-download-made-easy-master-the-art-of-using-ifunny-memes/"><u>[New] 2024 Approved Download Made Easy Master the Art of Using iFunny Memes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adobe-photostability-effective-or-fanciful/"><u>Adobe PhotoStability Effective or Fanciful?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/beatsource-guide-elevate-your-event-vibes-using-expertly-selected-tracks/"><u>BeatSource Guide: Elevate Your Event Vibes Using Expertly Selected Tracks</u></a></li>
+<li><a href="https://fox-where.techidaily.com/boost-your-computers-speed-fixing-slowdown-caused-by-memory-problems-with-yl-software-expertise/"><u>Boost Your Computer's Speed: Fixing Slowdown Caused by Memory Problems with YL Software Expertise</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/hero-vs-hero-upgraded-edition/"><u>Hero Vs Hero Upgraded Edition</u></a></li>
+<li><a href="https://fox-where.techidaily.com/high-quality-sally-carrera-wallpapers-and-backgrounds-from-yl-computing-explore-the-best-free-collection/"><u>High-Quality Sally Carrera Wallpapers & Backgrounds From YL Computing - Explore the Best Free Collection!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-official-method-to-unlock-your-iphone-15-pro-max-by-drfone-ios/"><u>How To Unlock iPhone 15 Pro Max Official Method to Unlock Your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-capturing-photos-from-moving-frames-on-windows-11/"><u>In 2024, Capturing Photos From Moving Frames on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-through-top-rated-livestreams-your-guide-to-watching-cricket-for-2024/"><u>Navigating Through Top-Rated Livestreams Your Guide to Watching Cricket for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209690814-9781916068971-otherworlds/"><u>Otherworlds | Free Book</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-the-issue-of-a-non-responsive-pc-expert-advice-from-yl-computings-tech-specialists/"><u>Solving the Issue of a Non-Responsive PC: Expert Advice From YL Computing's Tech Specialists</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-to-manage-programs-with-windows-control-panel-from-yl-software-experts/"><u>Step-by-Step Tutorial to Manage Programs with Windows Control Panel From YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-costs-a-comprehensive-guide-on-charges-for-monitoring-encryption-currency-wallet-balances-yl-computing/"><u>Understanding Costs: A Comprehensive Guide on Charges for Monitoring Encryption Currency Wallet Balances - YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Installing Shader Graphics on DEX 3 with Shadertoy Downloads for Enhanced DJ Experience
-date: 2024-12-12T21:04:23.819Z
-updated: 2024-12-14T17:47:19.158Z
+date: 2024-12-21T23:04:51.836Z
+updated: 2024-12-23T17:54:07.635Z
 tags:
   - product
 categories:
@@ -26,6 +26,10 @@ Shaders are free to use and generate stunning on-screen visualizations that are 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where do you get Shaders?
 
 [Shadertoy.com](http://www.shadertoy.com) is a website platform that allows users to build and share Shaders with the world. Lucky for us, there are hundreds if not thousands of **free** Shaders to select from. Shaders come in a wide variety but they all display motion and are almost always beat-aware, with a few exceptions.
@@ -35,7 +39,7 @@ Shaders also vary greatly on how much resources they will use — from light to 
 Some Shaders are also marked ‘private’ and therefore can’t be added to DEX 3, while others may not convert properly and will display a generic ‘red’ background when applied in DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding Shaders
@@ -43,36 +47,28 @@ Some Shaders are also marked ‘private’ and therefore can’t be added to DEX
 In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shader from your browser’s address bar and apply it to the ‘Add a new Shader’ input box that you access from the ‘Shader’ drop down menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here’s a step-by-step demonstration of how it’s done:**
 
 [![Copy the URL at ShaderToy.com](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1 "Copy the URL at ShaderToy.com")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **1)** As pictured above, search and browse at Shadertoy.com and once you’ve found a Shader you wish to use in DEX 3, highlight the URL of the Shader in your browser’s address bar and copy it (right-click ‘copy’ or CTRL + C).
 
 [![Click add Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1 "Click add Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** From the Shader drop down menu located at the top of the video skins (4-deck or 2-deck video tabs) select the option ‘Add a new Shader’.
 
 [![Right click past in Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1 "Right click past in Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click into the ‘Add new Shader’ input box and either right-click and select ‘Paste’ or CTRL + V to paste in the Shadertoy.com URL.
 
 [![Click OK to apply Shader to DEX 3](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1 "Click OK to apply Shader to DEX 3")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click OK to apply the Shader immediately. Unless the Shader isn’t supported or marked private, the Shader should instantly apply and display on screen.
 
@@ -95,6 +91,10 @@ Now you’re ready to mesmerize your audience with on-screen visualizations that
 
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2018-08-01 11:43:222018-10-02 12:56:06DEX 3 DJ Software | How to Install ‘Shaders’ for On-Screen Visualizations from Shadertoy.com}
@@ -114,24 +114,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-next-morning-analysis-fresh-insights/"><u>[Updated] Next Morning Analysis Fresh Insights</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-tap-into-thriving-youtube-threads/"><u>[Updated] Tap Into Thriving YouTube Threads</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-vivid-visuals-brush-up-your-youtube-beauty-videos-for-2024/"><u>[Updated] Vivid Visuals Brush up Your YouTube Beauty Videos for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windows-n/"><u>擁有Windows N次正版驗證：四大方式及自由更新路徑</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ambient-weather-ws-1002-wifi-thermometer-is-top-notch-accuracy-worth-the-price-tag/"><u>Ambient Weather WS-1002 WiFi Thermometer: Is Top-Notch Accuracy Worth the Price Tag?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-suspended-sign-ups-explained-causes-and-future-reopening-dates/"><u>ChatGPT's Suspended Sign-Ups Explained: Causes and Future Reopening Dates</u></a></li>
-<li><a href="https://fox-where.techidaily.com/defending-against-crypto-scams-expert-tips-from-yl-computings-blockchain-security-guide/"><u>Defending Against Crypto Scams: Expert Tips From YL Computing's Blockchain Security Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-fix-a-sluggish-pc-tips-on-dealing-with-lag-and-persistent-blue-screen-errors-expert-advice-from-yl-tech-support/"><u>How to Fix a Sluggish PC: Tips on Dealing with Lag and Persistent Blue Screen Errors - Expert Advice From YL Tech Support</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-itel-a70-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Itel A70</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-ai-interaction-design-a-sustainable-profession/"><u>Is AI Interaction Design a Sustainable Profession?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/is-it-possible-to-correct-your-cpu-errors-using-specialized-software-tools-innovations-from-yl-software/"><u>Is It Possible to Correct Your CPU Errors Using Specialized Software Tools? - Innovations From YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-guide-setting-up-devices-like-speakers-printers-and-accessories-via-control-panel-tech-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Devices Like Speakers, Printers & Accessories via Control Panel - Tech Tips From YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ta-when-you-add-a-negative-number-to-a-positive-number-you-are-essentially-subtracting-the-absolute-value-of-the-negative-number-from-the-positive-number-in103/"><u>TA]: When You Add a Negative Number to a Positive Number, You Are Essentially Subtracting the Absolute Value of the Negative Number From the Positive Number. In This Case, You Have -3 (Negative Three) and +4 (Positive Four).</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-convergence-of-mobile-and-club-djing-insights-from-pcdj/"><u>The Convergence of Mobile and Club DJing: Insights From PCDJ</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-and-fixing-your-hard-drive-woes-expert-guide-by-yl-computing/"><u>Troubleshooting & Fixing Your Hard Drive Woes: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-high-wudfhostexe-cpu-consumption-on-windows-10-pcs/"><u>Troubleshooting and Fixing High wudfhost.exe CPU Consumption on Windows 10 PCs</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-windows-fixing-issues-with-non-responsive-mice-and-keyboards-tips-from-yl-computing/"><u>Troubleshooting Windows: Fixing Issues with Non-Responsive Mice and Keyboards - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-computings-high-definition-loopscreen-captivating-live-wallpapers-and-videos-yl-software-solutions/"><u>YL Computing's High Definition Loopscreen: Captivating Live Wallpapers & Videos - YL Software Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-celestial-warriors-unite-release-date-for-2024/"><u>[New] Celestial Warriors Unite! Release Date for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-desktop-image-blending-techniques/"><u>[New] In 2024, Mastering Desktop Image Blending Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-videos-naturally-free-9-youtube-thumbnail-crafting-tips-for-2024/"><u>[Updated] Enhance Videos Naturally - Free 9 YouTube Thumbnail Crafting Tips for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-making-memorable-impressions-with-fb-slideshow-features/"><u>[Updated] Making Memorable Impressions with FB Slideshow Features</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-sing-your-heart-out-unlimited-tunes-with-karaoke-cloud-pros-guaranteed-delights/"><u>1. Sing Your Heart Out: Unlimited Tunes with Karaoke Cloud Pro's Guaranteed Delights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-edgeplus-2023-by-fonelab-android-recover-data/"><u>How to recover lost data from Edge+ (2023)?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-sideload-procedures-explained-unveiling-the-costs-and-review-system-set-by-apple-zdnet-insights/"><u>IPhone Sideload Procedures Explained: Unveiling the Costs and Review System Set by Apple | ZDNet Insights</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-driver-update-fixes-professional-tips-by-yl-software-experts/"><u>Mastering Driver Update Fixes: Professional Tips by YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/prevent-and-resolve-computer-overheating-essential-tips-by-yl-software-professionals/"><u>Prevent and Resolve Computer Overheating: Essential Tips by YL Software Professionals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-mic-problems-solved-a-step-by-step-guide/"><u>Razer Kraken Mic Problems Solved: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/resolving-system-freezes-identifying-issues-with-your-graphics-card-insights-from-yl-computing/"><u>Resolving System Freezes: Identifying Issues with Your Graphics Card - Insights From YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sky-high-selfies-and-beyond-an-insightful-analysis-of-dji-spark/"><u>Sky High Selfies and Beyond An Insightful Analysis of DJI Spark</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-finding-and-using-your-pcs-energy-settings-tips-from-yl-software/"><u>Step-by-Step Guide: Finding and Using Your PC's Energy Settings - Tips From YL Software</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-instructions-for-total-iphone-data-removal-permanently-via-stellar/"><u>Step-by-Step Instructions for Total iPhone Data Removal Permanently via Stellar</u></a></li>
 </ul></div>
 
