@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your DJ Sets From PCDJ Dex 2 to Dex 3: A Comprehensive Step-by-Step Guide"
-date: 2024-12-18T21:11:42.435Z
-updated: 2024-12-23T18:48:19.774Z
+date: 2024-12-26T20:10:38.942Z
+updated: 2024-12-29T18:21:41.174Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,18 +44,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-from-novice-to-pro-a-tactical-guide-to-snapchat-marketing-for-2024/"><u>[New] From Novice to Pro A Tactical Guide to Snapchat Marketing for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-cutting-edge-capturing-10-apps-that-lead-the-web-video-recording-race/"><u>[Updated] Cutting Edge Capturing #10 Apps That Lead the Web Video Recording Race</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-secrets-to-flawless-remote-audio-production/"><u>[Updated] Secrets to Flawless Remote Audio Production</u></a></li>
-<li><a href="https://win-blog.techidaily.com/convertissez-gratuitement-vos-fichiers-mef-en-images-jpeg-sur-internet-meovani/"><u>Convertissez Gratuitement Vos Fichiers MEF en Images JPEG Sur Internet - Meovani</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-installation-guide-for-canon-mg3022-drivers-updated-version-available-now/"><u>Download & Installation Guide for Canon MG3022 Drivers - Updated Version Available Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-to-correct-missing-d3dx940dll-errors-on-your-pc/"><u>Easy Solutions to Correct Missing d3dx9_40.dll Errors on Your PC</u></a></li>
-<li><a href="https://fox-where.techidaily.com/easy-steps-transferring-files-into-new-directories-with-yl-software-solutions/"><u>Easy Steps: Transferring Files Into New Directories with YL Software Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-edit-windows-registry-via-command-prompt-insights-from-yl-computing/"><u>How to Edit Windows Registry via Command Prompt - Insights From YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-13-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 13 Pro? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://fox-where.techidaily.com/new-music-alert-fresh-batch-of-25-songs-for-your-karaoke-subscription-pcdj-update-on-610/"><u>New Music Alert: Fresh Batch of 25 Songs for Your Karaoke Subscription – PCDJ Update on 6/10</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-recurring-paper-jam-messages-in-print-devices-expert-advice-by-yl-software/"><u>Understanding Recurring Paper Jam Messages in Print Devices - Expert Advice by YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/unleash-courageous-sincere-elegance-in-singers-using-pioneering-techniques-from-this-weeks-karaoke-cloud-pro-software-upgrade/"><u>Unleash Courageous, Sincere Elegance in Singers Using Pioneering Techniques From This Week's Karaoke Cloud Pro Software Upgrade</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1726028802248-top5/"><u>ベストの無料オーディオ編集ソフトウェアTOP5推薦</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-hacking-back-photo-viewing-in-windows-11-easily/"><u>[New] 2024 Approved Hacking Back Photo Viewing in Windows 11 Easily</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-explore-the-best-no-cost-video-meeting-apps-iosandroid/"><u>[New] In 2024, Explore the Best No-Cost Video Meeting Apps - iOS/Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-podcast-title-craft-the-essential-handbook/"><u>[New] Mastering Podcast Title Craft The Essential Handbook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-saving-pictures-from-videos-in-windows-10-photos/"><u>[Updated] In 2024, Saving Pictures From Videos in Windows 10 Photos</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-top-trending-dj-mixes-and-remixes-fresh-tracks-added-in-mays-video-collection/"><u>1. Top Trending DJ Mixes & Remixes - Fresh Tracks Added in May's Video Collection</u></a></li>
+<li><a href="https://fox-where.techidaily.com/3-week-journey-effortlessly-operating-windows-10-for-disc-jockeys-djs-with-simple-steps-and-tips/"><u>3-Week Journey: Effortlessly Operating Windows 10 for Disc Jockeys (DJs) with Simple Steps and Tips</u></a></li>
+<li><a href="https://fox-where.techidaily.com/evaluating-the-accuracy-and-dependability-of-cryptocurrencys-blockchain-explorers-for-address-balance-verification-a-deep-dive-by-yl-computing/"><u>Evaluating the Accuracy and Dependability of Cryptocurrency's Blockchain Explorers for Address Balance Verification: A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/going-completely-online-do-you-have-tips-for-a-smooth-transition-lets-connect-with-industry-pros-zdnet-strategies/"><u>Going Completely Online: Do You Have Tips for a Smooth Transition? Let's Connect with Industry Pros | ZDNet Strategies</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-can-i-ensure-maximum-browser-security-tips-by-yl-computing-and-yl-software/"><u>How Can I Ensure Maximum Browser Security? - Tips by YL Computing & YL Software</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-cutting-edge-tiktok-edits-for-windowspc-users/"><u>In 2024, Cutting Edge TikTok Edits for Windows/PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-xbox-subscription-failures-on-pcs/"><u>Navigating Through Xbox Subscription Failures on PCs</u></a></li>
+<li><a href="https://fox-where.techidaily.com/pioneer-dj-deckadrive-3-software-update-version-v317-free-download/"><u>Pioneer DJ Deckadrive 3 Software Update - Version v3.17 | Free Download</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-social-lift-transform-from-zero-to-millionth-follower-in-months/"><u>The Social Lift Transform From Zero to Millionth Follower in Months</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-reasons-behind-sluggish-printer-performance-a-guide-by-yl-computing/"><u>Understanding the Reasons Behind Sluggish Printer Performance - A Guide by YL Computing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-cloud-based-vertical-video-editing-software-top-picks-2023-for-2024/"><u>Updated Cloud-Based Vertical Video Editing Software Top Picks 2023 for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-software-unveils-simplified-insights-into-blockchain-tech-for-beginners/"><u>YL Software Unveils Simplified Insights Into Blockchain Tech for Beginners</u></a></li>
 </ul></div>
 

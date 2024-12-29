@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Concrete Technology – Self-Healing Concrete"
-date: 2024-12-21T00:23:34.606Z
-updated: 2024-12-23T19:35:16.910Z
+date: 2024-12-25T16:12:30.495Z
+updated: 2024-12-29T19:03:33.191Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,21 +50,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-ppt-presentation-in-google-meet-mobile-and-laptop/"><u>[Updated] Mastering PPT Presentation in Google Meet (Mobile & Laptop)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-directsnap-recorder-for-modern-oses/"><u>2024 Approved DirectSnap Recorder for Modern OSes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-fixes-for-your-new-world-server-connection-woes/"><u>Easy Fixes for Your New World Server Connection Woes</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effective-techniques-to-remove-dust-from-pc-hardware-a-guide-by-yl-computing/"><u>Effective Techniques to Remove Dust From PC Hardware - A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/identifying-typical-signs-of-memory-problems-on-your-pc-insights-from-yl-computings-experts/"><u>Identifying Typical Signs of Memory Problems on Your PC: Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-15-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 15 Pro - 4 Easy Ways</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-perfect-photo-safe-mix-zero-cost-cloud-with-elite-paid-options/"><u>In 2024, The Perfect Photo Safe Mix Zero-Cost Cloud with Elite Paid Options</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-adapter-missing-system-drive-incompatibility/"><u>Intel Adapter Missing: System Drive Incompatibility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ios-18-guide-tailoring-the-apple-control-center-on-your-iphone-expert-tips/"><u>IOS 18 Guide: Tailoring the Apple Control Center on Your iPhone - Expert Tips</u></a></li>
-<li><a href="https://fox-where.techidaily.com/overcoming-common-issues-how-to-fix-scanner-and-printer-problems-with-help-from-yl-software-experts/"><u>Overcoming Common Issues: How to Fix Scanner and Printer Problems with Help From YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/share-files-across-various-windows-editions-tips-and-tricks-by-yl-software-experts/"><u>Share Files Across Various Windows Editions - Tips & Tricks by YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-how-to-recover-past-file-versions-with-yl-software/"><u>Step-by-Step: How to Recover Past File Versions with YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-lengthy-setup-times-and-freezes-during-installation-insights-by-yl-software-experts/"><u>Troubleshooting Lengthy Setup Times & Freezes During Installation - Insights by YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-unrecognized-storage-devices-step-by-step-assistance-from-yl-software-experts/"><u>Troubleshooting Unrecognized Storage Devices: Step-by-Step Assistance From YL Software Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-i-now-question-my-rtx-4090-spending/"><u>Why I Now Question My RTX 4090 Spending</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-unveil-clear-photos-from-iphone-with-our-free-red-eye-corrector-guide/"><u>[New] 2024 Approved Unveil Clear Photos From iPhone with Our FREE Red-Eye Corrector Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eleting-youtube-comments/"><u>[New] Deleting YouTube Comments</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-set-up-asus-bios-and-chipset-drivers-for-windows-pcs/"><u>Download & Set Up ASUS BIOS & Chipset Drivers for Windows PCs</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expert-guide-how-to-repair-your-cracked-laptop-display-tips-from-yl-software/"><u>Expert Guide: How to Repair Your Cracked Laptop Display - Tips From YL Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmonizing-frame-rates-fixes-for-flaky-amd-freesync/"><u>Harmonizing Frame Rates: Fixes for Flaky AMD FreeSync</u></a></li>
+<li><a href="https://fox-where.techidaily.com/hd-desktop-graphics-and-wallsavers-premium-collection-by-yl-computing/"><u>HD Desktop Graphics & Wallsavers: Premium Collection by YL Computing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-immerse-slides-with-audio-harmony/"><u>In 2024, Immerse Slides with Audio Harmony</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-organization-to-do-and-ifttt-alliance/"><u>Master Organization: To-Do & IFTTT Alliance</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-your-print-problems-how-to-fix-unpredictable-colors-using-yl-software-solutions/"><u>Solving Your Print Problems: How to Fix Unpredictable Colors Using YL Software Solutions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/tackling-laptop-temperature-issues-a-detailed-analysis-by-yl-software-experts/"><u>Tackling Laptop Temperature Issues: A Detailed Analysis by YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-computing-air-jordan-inspired-chromebook-desktop-artwork-and-graphics-collection/"><u>YL Computing Air Jordan-Inspired Chromebook Desktop Artwork & Graphics Collection</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-softwares-blueprint-for-thriving-in-the-cryptomarket-as-a-skilled-trader/"><u>YL Software's Blueprint for Thriving in the Cryptomarket as a Skilled Trader</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/your-step-by-step-guide-to-previewing-your-off-facebook-life/"><u>Your Step by Step Guide to Previewing Your Off-Facebook Life</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoom-sound-glitch-restore-clarity-with-simple-steps/"><u>Zoom Sound Glitch? Restore Clarity with Simple Steps</u></a></li>
 </ul></div>
 

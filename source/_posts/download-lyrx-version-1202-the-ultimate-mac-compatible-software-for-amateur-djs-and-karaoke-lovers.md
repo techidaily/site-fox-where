@@ -1,7 +1,7 @@
 ---
 title: Download LYRX Version 1.2.0.2 - The Ultimate MAC-Compatible Software for Amateur DJs and Karaoke Lovers!
-date: 2024-12-17T17:49:59.587Z
-updated: 2024-12-24T05:37:42.489Z
+date: 2024-12-22T16:11:25.281Z
+updated: 2024-12-29T19:06:43.879Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ You will want to update LYRX now to ensure a better karaoke hosting experience f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.2.0.2
@@ -40,7 +40,7 @@ You will want to update LYRX now to ensure a better karaoke hosting experience f
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -62,20 +62,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/LYRXv1202-cover-image-1.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-centralized-video-control-mstream-edition/"><u>[New] 2024 Approved Centralized Video Control MStream Edition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-download-made-easy-master-the-art-of-using-ifunny-memes/"><u>[New] 2024 Approved Download Made Easy Master the Art of Using iFunny Memes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/adobe-photostability-effective-or-fanciful/"><u>Adobe PhotoStability Effective or Fanciful?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/beatsource-guide-elevate-your-event-vibes-using-expertly-selected-tracks/"><u>BeatSource Guide: Elevate Your Event Vibes Using Expertly Selected Tracks</u></a></li>
-<li><a href="https://fox-where.techidaily.com/boost-your-computers-speed-fixing-slowdown-caused-by-memory-problems-with-yl-software-expertise/"><u>Boost Your Computer's Speed: Fixing Slowdown Caused by Memory Problems with YL Software Expertise</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/hero-vs-hero-upgraded-edition/"><u>Hero Vs Hero Upgraded Edition</u></a></li>
-<li><a href="https://fox-where.techidaily.com/high-quality-sally-carrera-wallpapers-and-backgrounds-from-yl-computing-explore-the-best-free-collection/"><u>High-Quality Sally Carrera Wallpapers & Backgrounds From YL Computing - Explore the Best Free Collection!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-official-method-to-unlock-your-iphone-15-pro-max-by-drfone-ios/"><u>How To Unlock iPhone 15 Pro Max Official Method to Unlock Your iPhone 15 Pro Max</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-capturing-photos-from-moving-frames-on-windows-11/"><u>In 2024, Capturing Photos From Moving Frames on Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-through-top-rated-livestreams-your-guide-to-watching-cricket-for-2024/"><u>Navigating Through Top-Rated Livestreams Your Guide to Watching Cricket for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209690814-9781916068971-otherworlds/"><u>Otherworlds | Free Book</u></a></li>
-<li><a href="https://fox-where.techidaily.com/solving-the-issue-of-a-non-responsive-pc-expert-advice-from-yl-computings-tech-specialists/"><u>Solving the Issue of a Non-Responsive PC: Expert Advice From YL Computing's Tech Specialists</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-to-manage-programs-with-windows-control-panel-from-yl-software-experts/"><u>Step-by-Step Tutorial to Manage Programs with Windows Control Panel From YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-costs-a-comprehensive-guide-on-charges-for-monitoring-encryption-currency-wallet-balances-yl-computing/"><u>Understanding Costs: A Comprehensive Guide on Charges for Monitoring Encryption Currency Wallet Balances - YL Computing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-techniques-for-saving-roblox-playback-on-mac/"><u>[New] Essential Techniques for Saving Roblox Playback on Mac</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-get-creative-the-ultimate-list-of-free-mac-compatible-tiktok-editors/"><u>[Updated] 2024 Approved Get Creative The Ultimate List of Free, Mac-Compatible TikTok Editors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-pro-stream-setup-best-equipment-to-take-your-youtube-streams-to-the-next-level/"><u>[Updated] 2024 Approved Pro Stream Setup Best Equipment to Take Your Youtube Streams to the Next Level</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/re-the-action-crafting-best-in-class-sports-films-for-2024/"><u>Capture the Action Crafting Best-in-Class Sports Films for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/diagnosing-and-fixing-issues-with-your-computers-power-supply-unit-expert-tips-from-yl-computing/"><u>Diagnosing and Fixing Issues with Your Computer's Power Supply Unit - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/digital-dj-essentials-learn-how-to-use-songbookdb-for-seamless-remote-requests-and-dj-setups-step-by-step-guide-in-video-format/"><u>Digital DJ Essentials: Learn How to Use SongBookDB for Seamless Remote Requests and DJ Setups | Step-by-Step Guide in Video Format</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fix-your-non-responsive-computer-essential-tips-by-yl-software-experts/"><u>Fix Your Non-Responsive Computer: Essential Tips by YL Software Experts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-moto-g-stylus-2023-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Moto G Stylus (2023) Face Lock?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-does-a-secure-wallet-verify-encryption-based-coin-holdings-insights-from-yl-computings-latest-innovation/"><u>How Does a Secure Wallet Verify Encryption-Based Coin Holdings: Insights From YL Computing's Latest Innovation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-t2x-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo T2x 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pinnaclescreenpro-capturing-like-a-pro-on-w10-for-2024/"><u>PinnacleScreenPro Capturing Like a Pro on W10 for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-a59-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from A59 5G.</u></a></li>
+<li><a href="https://fox-where.techidaily.com/shogun-2-fall-of-the-samurai-enhance-your-gaming-setup-with-stunning-total-war-backdrops-and-wallpapers-yl-computing/"><u>Shogun 2 Fall of the Samurai: Enhance Your Gaming Setup with Stunning Total War Backdrops & Wallpapers - YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/syncing-your-itunes-library-with-dj-pro-software-a-step-by-step-guide/"><u>Syncing Your iTunes Library with DJ Pro Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/traditional-japan-inspired-desktop-wallpaper-collection-by-yl-software/"><u>Traditional Japan-Inspired Desktop Wallpaper Collection by YL Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-and-replacement-of-malfunctioning-expansion-cards-by-yl-software-experts/"><u>Troubleshooting and Replacement of Malfunctioning Expansion Cards by YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-softwares-expert-advice-on-adding-programs-to-your-pc-through-the-windows-control-panel/"><u>YL Software's Expert Advice on Adding Programs to Your PC Through the Windows Control Panel</u></a></li>
 </ul></div>
 

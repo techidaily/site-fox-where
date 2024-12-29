@@ -1,7 +1,7 @@
 ---
 title: "Top Essential '70S Hits for Disc Jockeys: A Playlist Guide - PCDJ Music Selection"
-date: 2024-12-19T16:08:55.488Z
-updated: 2024-12-24T02:29:27.443Z
+date: 2024-12-26T19:01:40.110Z
+updated: 2024-12-29T18:31:07.051Z
 tags:
   - product
 categories:
@@ -152,7 +152,7 @@ Here’s last nights video chat. John’s list of must play 70s songs for DJs is
 [CONTINUE READING AT DISCJOCKEYNEWS.COM](http://discjockeynews.com/the-must-play-songs-from-the-70s-with-brian-redd-and-john-young/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -174,19 +174,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/02/musthave70smusicfordjs-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-game-on-essential-samsung-gear-vr-experiences/"><u>[New] 2024 Approved Game On Essential Samsung Gear VR Experiences</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-footage-frenzy-pro-vs-platinum-with-gopro-hero5-and-hero4-for-2024/"><u>[New] Footage Frenzy Pro vs Platinum with GoPro Hero5 and Hero4 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-xbox-one-screen-recording-easy-steps-for-gamers/"><u>[Updated] Xbox One Screen Recording Easy Steps for Gamers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-iphone-showdown-comparing-the-iphone-16-and-iphone-15-for-your-next-upgrade-techradar/"><u>Apple iPhone Showdown: Comparing the iPhone 16 and iPhone 15 for Your Next Upgrade | TechRadar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delving-into-windows-mechanism-for-allocated-ram/"><u>Delving Into Windows' Mechanism for Allocated RAM</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-failed-syncs-a-guide-to-onedrive-operations-on-windows/"><u>Fixing Failed Syncs: A Guide to OneDrive Operations on Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/is-it-necessary-to-have-antivirus-protection-on-your-pc-expert-insights-by-yl-computing/"><u>Is It Necessary to Have Antivirus Protection on Your PC? - Expert Insights by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-cryptocurrency-chart-patterns-a-comprehensive-guide-with-yl-software/"><u>Mastering Cryptocurrency Chart Patterns: A Comprehensive Guide with YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/solving-your-laptops-heat-issues-expert-tips-and-tricks-yl-computing-solutions/"><u>Solving Your Laptop's Heat Issues: Expert Tips & Tricks - YL Computing Solutions</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-process-on-restoring-information-from-locked-out-hard-drives/"><u>Step-by-Step Process on Restoring Information From Locked Out Hard Drives</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-extent-of-neural-plasticity-can-be-influenced-by-the-type-and-severity-of-brain-injury/"><u>The Extent of Neural Plasticity Can Be Influenced by the Type and Severity of Brain Injury.</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-reasons-behind-memory-issues-on-windows-systems-insights-from-yl-computing/"><u>Understanding the Reasons Behind Memory Issues on Windows Systems - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-softwares-comprehensive-tutorial-on-fixing-printer-not-detected-problems/"><u>YL Software's Comprehensive Tutorial on Fixing 'Printer Not Detected' Problems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-world-of-youtubers-and-gaming-sessions/"><u>[New] Navigating the World of YouTubers and Gaming Sessions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-revolutionize-your-social-network-creating-captivating-facebook-slides-for-2024/"><u>[New] Revolutionize Your Social Network Creating Captivating Facebook Slides for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-jointly-experience-live-content-on-tiktok-platform/"><u>2024 Approved Jointly Experience Live Content on TikTok Platform</u></a></li>
+<li><a href="https://fox-where.techidaily.com/can-windows-defender-cause-slower-speeds-on-your-laptop-or-desktop-insights-from-yl-software-experts/"><u>Can Windows Defender Cause Slower Speeds on Your Laptop or Desktop? - Insights From YL Software Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-the-link-methods-for-windows-mc-lan-restoration/"><u>Finding the Link: Methods for Windows MC LAN Restoration</u></a></li>
+<li><a href="https://fox-where.techidaily.com/getting-started-with-mixing-in-pcdj-a-comprehensive-guide-to-arranging-dj-sets-beginner-edition-1/"><u>Getting Started with Mixing in PCDJ: A Comprehensive Guide to Arranging DJ Sets, Beginner Edition 1</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-does-windows-defender-detect-and-remove-malware-in-q4/"><u>How Does Windows Defender Detect and Remove Malware in Q4?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-access-full-range-of-groups-shared-media/"><u>How to Access Full Range of Group's Shared Media</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-fix-a-sudden-windows-crash-expert-advice-from-yl-computings-guide/"><u>How to Fix a Sudden Windows Crash: Expert Advice From YL Computing's Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-t2-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-instructions-finding-and-using-windows-defender-in-windows-11-tips-from-yl-software-experts/"><u>Step-by-Step Instructions: Finding and Using Windows Defender in Windows 11 – Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-non-detection-of-hardware-by-windows-expert-tips-from-yl-computing/"><u>Troubleshooting Non-Detection of Hardware by Windows: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-windows-graphics-and-display-issues-expert-tips-from-yl-computing/"><u>Troubleshooting Windows Graphics and Display Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-10-search-not-working-try-these-fixes/"><u>Windows 10 Search Not Working? Try These Fixes</u></a></li>
 </ul></div>
 

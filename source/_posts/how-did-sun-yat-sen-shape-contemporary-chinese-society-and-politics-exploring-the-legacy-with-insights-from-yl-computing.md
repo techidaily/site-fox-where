@@ -1,7 +1,7 @@
 ---
 title: How Did Sun Yat-Sen Shape Contemporary Chinese Society and Politics? Exploring the Legacy with Insights From YL Computing
-date: 2024-12-18T04:55:24.861Z
-updated: 2024-12-24T04:02:01.377Z
+date: 2024-12-27T20:07:10.425Z
+updated: 2024-12-29T16:53:06.131Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,15 +56,15 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-cut-screen-claims-is-splitcam-supreme-in-2024/"><u>[New] Cut Screen Claims Is SplitCam Supreme, In 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-next-gen-recording-nine-leading-webmicrone-recorders-23/"><u>[New] In 2024, Next-Gen Recording Nine Leading Webmicrone Recorders ('23)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-become-a-kinemaster-wizard-essentials-techniques-and-10-top-online-contenders/"><u>2024 Approved Become a KineMaster Wizard Essentials, Techniques & 10 Top Online Contenders</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-swapping-screen-order-in-os/"><u>Guide to Swapping Screen Order in OS</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-edit-windows-registry-via-command-prompt-insights-from-yl-computing/"><u>How to Edit Windows Registry via Command Prompt - Insights From YL Computing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-video-production-microsofts-movie-maker-for-windows-11/"><u>In 2024, Leveraging Video Production Microsoft's Movie Maker for Windows 11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-melodic-mosaic-sites-for-classic-phone-chimes/"><u>In 2024, Melodic Mosaic Sites for Classic Phone Chimes</u></a></li>
-<li><a href="https://fox-where.techidaily.com/new-music-alert-fresh-batch-of-25-songs-for-your-karaoke-subscription-pcdj-update-on-610/"><u>New Music Alert: Fresh Batch of 25 Songs for Your Karaoke Subscription – PCDJ Update on 6/10</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-recurring-paper-jam-messages-in-print-devices-expert-advice-by-yl-software/"><u>Understanding Recurring Paper Jam Messages in Print Devices - Expert Advice by YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/unleash-courageous-sincere-elegance-in-singers-using-pioneering-techniques-from-this-weeks-karaoke-cloud-pro-software-upgrade/"><u>Unleash Courageous, Sincere Elegance in Singers Using Pioneering Techniques From This Week's Karaoke Cloud Pro Software Upgrade</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unleashing-creative-potential-with-these-6-youtube-graphic-sources/"><u>[New] 2024 Approved Unleashing Creative Potential with These 6 YouTube Graphic Sources</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unveiling-tiktoks-pfp-conventions-and-meanings/"><u>[New] 2024 Approved Unveiling TikTok's PFP Conventions and Meanings</u></a></li>
+<li><a href="https://fox-where.techidaily.com/capture-the-essence-of-summer-with-premium-beach-wallpaper-hd-pictures-yl-digital-imagery-collection/"><u>Capture the Essence of Summer with Premium Beach Wallpaper HD Pictures | YL Digital Imagery Collection</u></a></li>
+<li><a href="https://fox-where.techidaily.com/decoding-history-the-impactful-aftermath-of-the-first-opium-war-expert-analysis-by-yl-computing-yl-software/"><u>Decoding History: The Impactful Aftermath of the First Opium War - Expert Analysis by YL Computing, YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-simple-ai-to-sophisticated-gpt-4/"><u>From Simple AI to Sophisticated GPT-4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-your-hdmi-connection-when-another-application-is-using-the-device/"><u>Guide to Fixing Your HDMI Connection When Another Application Is Using the Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-pro-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 Pro iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-troubleshoot-your-pcs-audio-issues-a-step-by-step-guide-from-yl-software/"><u>How to Troubleshoot Your PC's Audio Issues: A Step-by-Step Guide From YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-journey-queries-answered-by-ai-best-7-free-planning-tools/"><u>Quick Journey Queries Answered by AI: Best 7 Free Planning Tools</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-guide-what-to-do-when-your-graphics-card-fails-tips-from-yl-computing-and-yl-software/"><u>Troubleshooting Guide: What to Do When Your Graphics Card Fails - Tips From YL Computing and YL Software</u></a></li>
 </ul></div>
 
