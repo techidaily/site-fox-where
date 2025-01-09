@@ -1,7 +1,7 @@
 ---
 title: "Capturing the Energy of a Gathering: Insights Into Reading Audience Vibes Using DJNN & Scott Faver's Methods | PremiumDJ Skills"
-date: 2024-12-23T16:46:01.699Z
-updated: 2024-12-29T17:09:09.190Z
+date: 2025-01-03T21:05:07.333Z
+updated: 2025-01-08T22:21:11.566Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ This week, we felt inclined to share a video recently shot and released by Disc 
 During this weeks segment DJNN hosts Scott Faver, known in the industry as the Game Master. He share’s his insights in reading the vibe from a group of people so he can play to his audiences tastes in music. DJing is all about being a great “selector” of music, to ensure a packed dance floor and memorable occasion (_and more referrals!_):  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,18 +42,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/readingthevibe.jpg?fit=530
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/illy-screens-top-youtube-humorists-worth-your-time/"><u>[New] Silly Screens Top YouTube Humorists Worth Your Time</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-elevating-engagement-the-complete-guide-to-youtubing-and-fb-posting-for-2024/"><u>[Updated] Elevating Engagement The Complete Guide to YouTubing and FB Posting for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-journey-through-powerdirector-2024-complete-review-and-walkthrough/"><u>[Updated] Journey Through PowerDirector 2024 Complete Review & Walkthrough</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitter-videos-at-full-hd-your-watchful-pathway-for-2024/"><u>[Updated] Twitter Videos at Full HD - Your Watchful Pathway for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728487843204-win1011/"><u>轻松护理Win10/11丢失硬盘分区：全新修复方法</u></a></li>
-<li><a href="https://fox-where.techidaily.com/digital-dj-essentials-learn-how-to-use-songbookdb-for-seamless-remote-requests-and-dj-setups-step-by-step-guide-in-video-format/"><u>Digital DJ Essentials: Learn How to Use SongBookDB for Seamless Remote Requests and DJ Setups | Step-by-Step Guide in Video Format</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/express-yourself-but-better-the-advantages-of-final-cut-pro-for-2024/"><u>Express Yourself, But Better The Advantages of Final Cut Pro for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/fix-your-non-responsive-computer-essential-tips-by-yl-software-experts/"><u>Fix Your Non-Responsive Computer: Essential Tips by YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-turn-off-microsofts-antivirus-windows-defender-settings-guide-for-windows-10-insights-by-yl-computing/"><u>How To Turn Off Microsoft's Antivirus: Windows Defender Settings Guide for Windows 10 - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/shogun-2-fall-of-the-samurai-enhance-your-gaming-setup-with-stunning-total-war-backdrops-and-wallpapers-yl-computing/"><u>Shogun 2 Fall of the Samurai: Enhance Your Gaming Setup with Stunning Total War Backdrops & Wallpapers - YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/syncing-your-itunes-library-with-dj-pro-software-a-step-by-step-guide/"><u>Syncing Your iTunes Library with DJ Pro Software: A Step-by-Step Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-ranking-the-best-top-5-video-editing-apps-for-iphone-users/"><u>Updated Ranking the Best Top 5 Video Editing Apps for iPhone Users</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-softwares-expert-advice-on-adding-programs-to-your-pc-through-the-windows-control-panel/"><u>YL Software's Expert Advice on Adding Programs to Your PC Through the Windows Control Panel</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/levate-meta-descriptions-top-template-strategies/"><u>[New] Elevate Meta Descriptions Top Template Strategies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-social-media-comparing-igtv-and-youtube-features/"><u>[New] In 2024, Navigating Social Media Comparing IGTV and YouTube Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-craft-the-perfect-thumbnail-top-9-budget-friendly-tools/"><u>[Updated] 2024 Approved Craft the Perfect Thumbnail Top 9 Budget-Friendly Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-is-any-antivirus-worth-your-time-on-an-iphone-the-surprising-answer/"><u>1. Is Any Antivirus Worth Your Time on an iPhone? The Surprising Answer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-rotation-revelations-guide-crafting-captivating-images-on-social-media/"><u>2024 Approved The Rotation Revelations Guide Crafting Captivating Images on Social Media</u></a></li>
+<li><a href="https://fox-where.techidaily.com/classic-tunes-revived-enhanced-editions-ready-on-karaoke-cloud-pro-by-pcdj/"><u>Classic Tunes Revived - Enhanced Editions Ready on Karaoke Cloud Pro by PCDJ!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/discovering-compatible-hard-drive-ports-for-your-system-with-yl-computing-expertise/"><u>Discovering Compatible Hard Drive Ports for Your System with YL Computing Expertise</u></a></li>
+<li><a href="https://fox-where.techidaily.com/diy-laptop-battery-replacement-process-explained-by-yl-computing-experts/"><u>DIY Laptop Battery Replacement Process Explained by YL Computing Experts</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-benefits-of-the-linksys-wrt3200acm-router-the-ultimate-choice-for-savvy-users-seeking-quality-and-freedom/"><u>Exploring the Benefits of the Linksys WRT3200ACM Router – The Ultimate Choice for Savvy Users Seeking Quality and Freedom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-download-of-samsung-c460-printer-drivers-get-installed-now/"><u>Fast and Simple Download of Samsung C460 Printer Drivers - Get Installed Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-your-first-step-to-a-profitable-youtube-experience/"><u>In 2024, Your First Step to a Profitable Youtube Experience</u></a></li>
+<li><a href="https://fox-where.techidaily.com/installing-shader-graphics-on-dex-3-with-shadertoy-downloads-for-enhanced-dj-experience/"><u>Installing Shader Graphics on DEX 3 with Shadertoy Downloads for Enhanced DJ Experience</u></a></li>
+<li><a href="https://fox-where.techidaily.com/securing-your-digital-property-comprehensive-guide-by-yl-computing/"><u>Securing Your Digital Property: Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-strategies-for-efficient-music-library-import-and-management-in-deckadaskiz-beats-dex-3-vs-deckadash-skills-2/"><u>Top Strategies for Efficient Music Library Import & Management in DeckaDaSkiz Beats: Dex 3 vs Deckadash Skills 2</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-incompatibility-issues-with-scanners-tips-from-yl-computing/"><u>Understanding Incompatibility Issues with Scanners - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unraveling-the-influence-of-sun-yat-sen-on-contemporary-china-insights-from-yl-computing-and-yl-software/"><u>Unraveling the Influence of Sun Yat-Sen on Contemporary China: Insights From YL Computing and YL Software</u></a></li>
 </ul></div>
 

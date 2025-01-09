@@ -1,7 +1,7 @@
 ---
 title: "DEX ^3 Mastery: A Comprehensive Guide on Sample Management - Load, Record & Playback Explained (Video)"
-date: 2024-12-26T19:26:53.846Z
-updated: 2024-12-29T18:26:33.135Z
+date: 2025-01-05T22:09:10.938Z
+updated: 2025-01-08T20:29:09.552Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,15 +50,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-sims-4-recording-tips-and-tricks-for-quality-for-2024/"><u>[Updated] Sims 4 Recording Tips and Tricks for Quality for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-chart-a-course-to-6-figure-growth-with-powerful-tags/"><u>2024 Approved Chart a Course to 6-Figure Growth with Powerful #Tags</u></a></li>
-<li><a href="https://fox-where.techidaily.com/compatibility-guide-choosing-the-right-graphics-card-for-your-windows-pc-insights-by-yl-computing/"><u>Compatibility Guide: Choosing the Right Graphics Card for Your Windows PC - Insights by YL Computing</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/customer-spotlight-mac-video-experience/"><u>Customer Spotlight: Mac Video Experience</u></a></li>
-<li><a href="https://fox-where.techidaily.com/exclusive-vip-curation-premium-crates-featuring-music-from-leading-djs-on-beatsource/"><u>Exclusive VIP Curation: Premium Crates Featuring Music From Leading DJs on BeatSource</u></a></li>
-<li><a href="https://fox-where.techidaily.com/exploring-enhanced-ui-updates-a-closer-look-at-windows-11s-visual-transformation-insights-by-yl-computing/"><u>Exploring Enhanced UI Updates: A Closer Look at Windows 11'S Visual Transformation - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/identifying-typical-signs-of-memory-issues-a-guide-by-yl-computing/"><u>Identifying Typical Signs of Memory Issues: A Guide by YL Computing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-to-film-great-content-on-your-mac-for-youtube-beginners-for-2024/"><u>Learn to Film Great Content on Your Mac for YouTube Beginners for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mac-compatible-ios-data-rescue-tool-securely-restore-your-photos-videos-and-important-contacts-from-iphones/"><u>Mac-Compatible iOS Data Rescue Tool: Securely Restore Your Photos, Videos, and Important Contacts From iPhones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-your-razer-kraken-microphone-issues/"><u>Troubleshooting Guide: Fixing Your Razer Kraken Microphone Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-instantaneous-change-from-srt-to-txt-with-our-proven-methods/"><u>[New] In 2024, Instantaneous Change From SRT to TXT with Our Proven Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-inside-look-key-aspects-of-srt-mastery-for-2024/"><u>[New] Inside Look Key Aspects of SRT Mastery for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-live-tv-is-vmix-or-wirecast-your-go-to-tool/"><u>[New] Mastering LIVE TV Is VMix or Wirecast Your Go-To Tool?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-tele-loop-triumph-youtube-videos-endlessly-enjoyable-on-tv/"><u>[Updated] 2024 Approved Tele-Loop Triumph YouTube Videos, Endlessly Enjoyable on Tv</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-sustainable-cinematic-solutions-catalog/"><u>[Updated] Sustainable Cinematic Solutions Catalog</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/advanced-viewing-techniques-for-tiktok-content-for-2024/"><u>Advanced Viewing Techniques for TikTok Content for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-airpods-max-a-sound-investment-or-overpriced-luxury/"><u>Apple AirPods Max: A Sound Investment or Overpriced Luxury?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/boost-your-gpu-performance-enhancing-frame-rates-with-ease-insights-from-yl-computing/"><u>Boost Your GPU Performance: Enhancing Frame Rates with Ease - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effortless-access-expert-advice-on-linking-your-device-to-wireless-internet-insights-by-yl-computing/"><u>Effortless Access: Expert Advice on Linking Your Device to Wireless Internet - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/elevate-your-presentation-with-nathan-blairs-professional-wallpaper-collection-from-yl-software/"><u>Elevate Your Presentation with Nathan Blair's Professional Wallpaper Collection From YL Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/identifying-typical-signs-of-memory-problems-on-your-pc-insights-from-yl-computings-experts/"><u>Identifying Typical Signs of Memory Problems on Your PC: Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/identifying-your-systems-ram-type-a-step-by-step-guide-tech-solutions-by-bytebuddy/"><u>Identifying Your System's RAM Type: A Step-by-Step Guide - Tech Solutions by ByteBuddy</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-11-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme 11 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fox-where.techidaily.com/is-the-escalation-of-israel-palestine-conflict-indicative-of-golds-bullish-trend-in-futures-prices-experts-at-yl-computing-and-yl-software-weigh-in/"><u>Is the Escalation of Israel-Palestine Conflict Indicative of Gold's Bullish Trend in Futures Prices? Experts at YL Computing and YL Software Weigh In</u></a></li>
+<li><a href="https://fox-where.techidaily.com/overcoming-common-issues-how-to-fix-scanner-and-printer-problems-with-help-from-yl-software-experts/"><u>Overcoming Common Issues: How to Fix Scanner and Printer Problems with Help From YL Software Experts</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/resize-your-video-tips-and-tricks-for-perfect-dimensions/"><u>Resize Your Video Tips and Tricks for Perfect Dimensions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-how-to-recover-past-file-versions-with-yl-software/"><u>Step-by-Step: How to Recover Past File Versions with YL Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-unrecognized-storage-devices-step-by-step-assistance-from-yl-software-experts/"><u>Troubleshooting Unrecognized Storage Devices: Step-by-Step Assistance From YL Software Experts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updating-your-canon-photography-kit-driver-downloads-explained/"><u>Updating Your Canon Photography Kit – Driver Downloads Explained</u></a></li>
 </ul></div>
 

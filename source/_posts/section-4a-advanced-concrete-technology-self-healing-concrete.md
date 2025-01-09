@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Concrete Technology – Self-Healing Concrete"
-date: 2024-12-25T16:12:30.495Z
-updated: 2024-12-29T19:03:33.191Z
+date: 2025-01-05T19:24:25.192Z
+updated: 2025-01-08T18:14:07.436Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,19 +50,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-unveil-clear-photos-from-iphone-with-our-free-red-eye-corrector-guide/"><u>[New] 2024 Approved Unveil Clear Photos From iPhone with Our FREE Red-Eye Corrector Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/eleting-youtube-comments/"><u>[New] Deleting YouTube Comments</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-set-up-asus-bios-and-chipset-drivers-for-windows-pcs/"><u>Download & Set Up ASUS BIOS & Chipset Drivers for Windows PCs</u></a></li>
-<li><a href="https://fox-where.techidaily.com/expert-guide-how-to-repair-your-cracked-laptop-display-tips-from-yl-software/"><u>Expert Guide: How to Repair Your Cracked Laptop Display - Tips From YL Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/harmonizing-frame-rates-fixes-for-flaky-amd-freesync/"><u>Harmonizing Frame Rates: Fixes for Flaky AMD FreeSync</u></a></li>
-<li><a href="https://fox-where.techidaily.com/hd-desktop-graphics-and-wallsavers-premium-collection-by-yl-computing/"><u>HD Desktop Graphics & Wallsavers: Premium Collection by YL Computing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-immerse-slides-with-audio-harmony/"><u>In 2024, Immerse Slides with Audio Harmony</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-organization-to-do-and-ifttt-alliance/"><u>Master Organization: To-Do & IFTTT Alliance</u></a></li>
-<li><a href="https://fox-where.techidaily.com/solving-your-print-problems-how-to-fix-unpredictable-colors-using-yl-software-solutions/"><u>Solving Your Print Problems: How to Fix Unpredictable Colors Using YL Software Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/tackling-laptop-temperature-issues-a-detailed-analysis-by-yl-software-experts/"><u>Tackling Laptop Temperature Issues: A Detailed Analysis by YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-computing-air-jordan-inspired-chromebook-desktop-artwork-and-graphics-collection/"><u>YL Computing Air Jordan-Inspired Chromebook Desktop Artwork & Graphics Collection</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-softwares-blueprint-for-thriving-in-the-cryptomarket-as-a-skilled-trader/"><u>YL Software's Blueprint for Thriving in the Cryptomarket as a Skilled Trader</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/your-step-by-step-guide-to-previewing-your-off-facebook-life/"><u>Your Step by Step Guide to Previewing Your Off-Facebook Life</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/zoom-sound-glitch-restore-clarity-with-simple-steps/"><u>Zoom Sound Glitch? Restore Clarity with Simple Steps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-free-video-recorders-for-every-android-user/"><u>[New] 2024 Approved Free Video Recorders for Every Android User</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-parallel-audio-stream-mapping/"><u>[Updated] 2024 Approved Parallel Audio Stream Mapping</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unveiling-360-vs-vr-film-explained/"><u>[Updated] 2024 Approved Unveiling 360° Vs. VR Film Explained</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-history-in-action-top-7-engaging-civilization-wars-for-2024/"><u>[Updated] History in Action Top 7 Engaging Civilization Wars for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-loom-essentials-perfecting-the-art-of-screen-recording-for-2024/"><u>[Updated] Loom Essentials Perfecting the Art of Screen Recording for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-auto-captioned-content-in-social-media-visuals-for-2024/"><u>[Updated] Navigating Auto-Captioned Content in Social Media Visuals for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-instagrams-inconsistent-video-timings/"><u>2024 Approved Navigating Instagram's Inconsistent Video Timings</u></a></li>
+<li><a href="https://fox-where.techidaily.com/cant-hook-up-your-scanner-heres-how-to-establish-a-successful-link-expert-advice-from-yl-software-experts/"><u>Can't Hook Up Your Scanner? Here's How to Establish a Successful Link – Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/detecting-clashing-system-programs-in-windows-a-guide-by-yl-computing/"><u>Detecting Clashing System Programs in Windows - A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/excessive-gpu-temperatures-solutions-and-maintenance-tips-yl-tech-support/"><u>Excessive GPU Temperatures: Solutions & Maintenance Tips - YL Tech Support</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tapping-income-through-thoughtful-product-examinations/"><u>In 2024, Tapping Income Through Thoughtful Product Examinations</u></a></li>
+<li><a href="https://fox-where.techidaily.com/maximizing-your-network-enabling-multi-device-connection-on-a-lone-router-with-yl-software-advice/"><u>Maximizing Your Network: Enabling Multi-Device Connection on a Lone Router with YL Software Advice</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/signal-id-video-overview-width-x-height-encoding-minutes-for-2024/"><u>Signal ID Video Overview Width X Height, Encoding, Minutes for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/steps-for-recovering-your-gpu-settings-a-guide-to-troubleshooting-video-issues-yl-computing-expertise/"><u>Steps for Recovering Your GPU Settings: A Guide to Troubleshooting Video Issues – YL Computing Expertise</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/transform-your-recordings-expert-tips-for-zoom-changer/"><u>Transform Your Recordings Expert Tips for Zoom Changer</u></a></li>
+<li><a href="https://fox-where.techidaily.com/transforming-melodies-exploring-the-evolution-of-the-karaoke-landscape-at-the-karaoke-summit/"><u>Transforming Melodies: Exploring the Evolution of the Karaoke Landscape at the Karaoke Summit</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unraveling-blockchain-for-beginners-with-insights-from-yl-software-solutions/"><u>Unraveling Blockchain for Beginners with Insights From YL Software Solutions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-computing-guide-easy-steps-to-remove-files-from-your-pc/"><u>YL Computing Guide: Easy Steps to Remove Files From Your PC</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-software-explains-how-to-establish-a-protected-cryptocurrency-wallet-for-beginners/"><u>YL Software Explains How To Establish a Protected Cryptocurrency Wallet for Beginners</u></a></li>
 </ul></div>
 

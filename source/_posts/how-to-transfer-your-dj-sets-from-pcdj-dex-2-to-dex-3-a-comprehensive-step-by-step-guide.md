@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your DJ Sets From PCDJ Dex 2 to Dex 3: A Comprehensive Step-by-Step Guide"
-date: 2024-12-26T20:10:38.942Z
-updated: 2024-12-29T18:21:41.174Z
+date: 2025-01-02T19:47:41.688Z
+updated: 2025-01-09T03:30:44.421Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,21 +44,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-hacking-back-photo-viewing-in-windows-11-easily/"><u>[New] 2024 Approved Hacking Back Photo Viewing in Windows 11 Easily</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-explore-the-best-no-cost-video-meeting-apps-iosandroid/"><u>[New] In 2024, Explore the Best No-Cost Video Meeting Apps - iOS/Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-podcast-title-craft-the-essential-handbook/"><u>[New] Mastering Podcast Title Craft The Essential Handbook</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-saving-pictures-from-videos-in-windows-10-photos/"><u>[Updated] In 2024, Saving Pictures From Videos in Windows 10 Photos</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-top-trending-dj-mixes-and-remixes-fresh-tracks-added-in-mays-video-collection/"><u>1. Top Trending DJ Mixes & Remixes - Fresh Tracks Added in May's Video Collection</u></a></li>
-<li><a href="https://fox-where.techidaily.com/3-week-journey-effortlessly-operating-windows-10-for-disc-jockeys-djs-with-simple-steps-and-tips/"><u>3-Week Journey: Effortlessly Operating Windows 10 for Disc Jockeys (DJs) with Simple Steps and Tips</u></a></li>
-<li><a href="https://fox-where.techidaily.com/evaluating-the-accuracy-and-dependability-of-cryptocurrencys-blockchain-explorers-for-address-balance-verification-a-deep-dive-by-yl-computing/"><u>Evaluating the Accuracy and Dependability of Cryptocurrency's Blockchain Explorers for Address Balance Verification: A Deep Dive by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/going-completely-online-do-you-have-tips-for-a-smooth-transition-lets-connect-with-industry-pros-zdnet-strategies/"><u>Going Completely Online: Do You Have Tips for a Smooth Transition? Let's Connect with Industry Pros | ZDNet Strategies</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-can-i-ensure-maximum-browser-security-tips-by-yl-computing-and-yl-software/"><u>How Can I Ensure Maximum Browser Security? - Tips by YL Computing & YL Software</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-cutting-edge-tiktok-edits-for-windowspc-users/"><u>In 2024, Cutting Edge TikTok Edits for Windows/PC Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-xbox-subscription-failures-on-pcs/"><u>Navigating Through Xbox Subscription Failures on PCs</u></a></li>
-<li><a href="https://fox-where.techidaily.com/pioneer-dj-deckadrive-3-software-update-version-v317-free-download/"><u>Pioneer DJ Deckadrive 3 Software Update - Version v3.17 | Free Download</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-social-lift-transform-from-zero-to-millionth-follower-in-months/"><u>The Social Lift Transform From Zero to Millionth Follower in Months</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-reasons-behind-sluggish-printer-performance-a-guide-by-yl-computing/"><u>Understanding the Reasons Behind Sluggish Printer Performance - A Guide by YL Computing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-cloud-based-vertical-video-editing-software-top-picks-2023-for-2024/"><u>Updated Cloud-Based Vertical Video Editing Software Top Picks 2023 for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-software-unveils-simplified-insights-into-blockchain-tech-for-beginners/"><u>YL Software Unveils Simplified Insights Into Blockchain Tech for Beginners</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-canva-creative-editor-exploration/"><u>[Updated] In 2024, Canva Creative Editor Exploration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-canvas-of-success-unveiling-10-essential-design-tricks/"><u>[Updated] The Canvas of Success Unveiling 10 Essential Design Tricks</u></a></li>
+<li><a href="https://fox-where.techidaily.com/diagnosing-and-fixing-issues-with-your-computers-power-supply-unit-expert-tips-from-yl-computing/"><u>Diagnosing and Fixing Issues with Your Computer's Power Supply Unit - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/digital-dj-essentials-learn-how-to-use-songbookdb-for-seamless-remote-requests-and-dj-setups-step-by-step-guide-in-video-format/"><u>Digital DJ Essentials: Learn How to Use SongBookDB for Seamless Remote Requests and DJ Setups | Step-by-Step Guide in Video Format</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-tips-inside-a-must-read-for-any-nintendo-switch-owner-thinking-of-selling/"><u>Exclusive Tips Inside: A Must-Read for Any Nintendo Switch Owner Thinking of Selling!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-deleting-temporary-files-in-windows-10-systems/"><u>Expert Tips for Deleting Temporary Files in Windows 10 Systems</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-does-a-secure-wallet-verify-encryption-based-coin-holdings-insights-from-yl-computings-latest-innovation/"><u>How Does a Secure Wallet Verify Encryption-Based Coin Holdings: Insights From YL Computing's Latest Innovation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-get-creative-streamline-your-movies-with-one-clicks-on-windows-10/"><u>In 2024, Get Creative Streamline Your Movies with One Clicks on Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/perfecting-ephemeral-fades-in-digital-recording-software-audacity-for-2024/"><u>Perfecting Ephemeral Fades in Digital Recording Software Audacity for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/shogun-2-fall-of-the-samurai-enhance-your-gaming-setup-with-stunning-total-war-backdrops-and-wallpapers-yl-computing/"><u>Shogun 2 Fall of the Samurai: Enhance Your Gaming Setup with Stunning Total War Backdrops & Wallpapers - YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/syncing-your-itunes-library-with-dj-pro-software-a-step-by-step-guide/"><u>Syncing Your iTunes Library with DJ Pro Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y02t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y02T to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-and-replacement-of-malfunctioning-expansion-cards-by-yl-software-experts/"><u>Troubleshooting and Replacement of Malfunctioning Expansion Cards by YL Software Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleashing-fitness-potential-how-the-apple-airpods-pro-3s-innovative-heart-rate-sensors-can-coach-you-to-success/"><u>Unleashing Fitness Potential: How the Apple AirPods Pro 3'S Innovative Heart Rate Sensors Can Coach You to Success</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-softwares-expert-advice-on-adding-programs-to-your-pc-through-the-windows-control-panel/"><u>YL Software's Expert Advice on Adding Programs to Your PC Through the Windows Control Panel</u></a></li>
 </ul></div>
 

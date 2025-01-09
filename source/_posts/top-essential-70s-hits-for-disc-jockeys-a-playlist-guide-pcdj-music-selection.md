@@ -1,7 +1,7 @@
 ---
 title: "Top Essential '70S Hits for Disc Jockeys: A Playlist Guide - PCDJ Music Selection"
-date: 2024-12-26T19:01:40.110Z
-updated: 2024-12-29T18:31:07.051Z
+date: 2025-01-01T22:22:00.483Z
+updated: 2025-01-08T23:52:52.099Z
 tags:
   - product
 categories:
@@ -152,7 +152,7 @@ Here’s last nights video chat. John’s list of must play 70s songs for DJs is
 [CONTINUE READING AT DISCJOCKEYNEWS.COM](http://discjockeynews.com/the-must-play-songs-from-the-70s-with-brian-redd-and-john-young/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -174,20 +174,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/02/musthave70smusicfordjs-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-the-world-of-youtubers-and-gaming-sessions/"><u>[New] Navigating the World of YouTubers and Gaming Sessions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-revolutionize-your-social-network-creating-captivating-facebook-slides-for-2024/"><u>[New] Revolutionize Your Social Network Creating Captivating Facebook Slides for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-jointly-experience-live-content-on-tiktok-platform/"><u>2024 Approved Jointly Experience Live Content on TikTok Platform</u></a></li>
-<li><a href="https://fox-where.techidaily.com/can-windows-defender-cause-slower-speeds-on-your-laptop-or-desktop-insights-from-yl-software-experts/"><u>Can Windows Defender Cause Slower Speeds on Your Laptop or Desktop? - Insights From YL Software Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/finding-the-link-methods-for-windows-mc-lan-restoration/"><u>Finding the Link: Methods for Windows MC LAN Restoration</u></a></li>
-<li><a href="https://fox-where.techidaily.com/getting-started-with-mixing-in-pcdj-a-comprehensive-guide-to-arranging-dj-sets-beginner-edition-1/"><u>Getting Started with Mixing in PCDJ: A Comprehensive Guide to Arranging DJ Sets, Beginner Edition 1</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-does-windows-defender-detect-and-remove-malware-in-q4/"><u>How Does Windows Defender Detect and Remove Malware in Q4?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-access-full-range-of-groups-shared-media/"><u>How to Access Full Range of Group's Shared Media</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-fix-a-sudden-windows-crash-expert-advice-from-yl-computings-guide/"><u>How to Fix a Sudden Windows Crash: Expert Advice From YL Computing's Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-t2-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo T2 Pro 5G?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-instructions-finding-and-using-windows-defender-in-windows-11-tips-from-yl-software-experts/"><u>Step-by-Step Instructions: Finding and Using Windows Defender in Windows 11 – Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-non-detection-of-hardware-by-windows-expert-tips-from-yl-computing/"><u>Troubleshooting Non-Detection of Hardware by Windows: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-windows-graphics-and-display-issues-expert-tips-from-yl-computing/"><u>Troubleshooting Windows Graphics and Display Issues: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-10-search-not-working-try-these-fixes/"><u>Windows 10 Search Not Working? Try These Fixes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-premiere-toolkit-for-app-introduction-edits/"><u>[New] 2024 Approved Premiere Toolkit for App Introduction Edits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-art-of-fbx-filming-preserving-your-playthroughs/"><u>[New] 2024 Approved The Art of FBX Filming Preserving Your Playthroughs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live-for-2024/"><u>[New] Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-strategy-for-professional-gopro-filming/"><u>[Updated] The Ultimate Strategy for Professional Gopro Filming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/3-techniques-libres-pour-transformer-des-fichiers-mts-en-format-mp4/"><u>3 Techniques Libres Pour Transformer Des Fichiers MTS en Format MP4</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728474883510-windows-pc/"><u>从Windows PC复制文件至网络附加存储设备的易行指南</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-live-participation-in-tiktok-a-step-by-step-guide-for-2024/"><u>Mastering Live Participation in TikTok A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/toshiba-c50-laptop-enhancement-with-solid-state-drive-a-step-by-step-installation-manual/"><u>Toshiba C50 Laptop Enhancement with Solid State Drive: A Step-by-Step Installation Manual</u></a></li>
+<li><a href="https://fox-where.techidaily.com/winloadefi-4/"><u>Winload.efi 重建：克隆後錯誤修正、4 則解決方案及一個小提示</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728497215678-iphonepc/"><u>ケーブル不要！iPhoneからPCに移動するための大容量ビデオ上げ方</u></a></li>
 </ul></div>
 

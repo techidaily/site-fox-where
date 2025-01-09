@@ -1,7 +1,7 @@
 ---
 title: Installing Shader Graphics on DEX 3 with Shadertoy Downloads for Enhanced DJ Experience
-date: 2024-12-27T18:04:58.467Z
-updated: 2024-12-29T16:44:35.907Z
+date: 2025-01-06T22:15:57.479Z
+updated: 2025-01-09T01:26:29.565Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ Shaders are free to use and generate stunning on-screen visualizations that are 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where do you get Shaders?
 
 [Shadertoy.com](http://www.shadertoy.com) is a website platform that allows users to build and share Shaders with the world. Lucky for us, there are hundreds if not thousands of **free** Shaders to select from. Shaders come in a wide variety but they all display motion and are almost always beat-aware, with a few exceptions.
@@ -38,28 +34,36 @@ Shaders also vary greatly on how much resources they will use — from light to 
 
 Some Shaders are also marked ‘private’ and therefore can’t be added to DEX 3, while others may not convert properly and will display a generic ‘red’ background when applied in DEX 3.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding Shaders
 
 In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shader from your browser’s address bar and apply it to the ‘Add a new Shader’ input box that you access from the ‘Shader’ drop down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Here’s a step-by-step demonstration of how it’s done:**
 
 [![Copy the URL at ShaderToy.com](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1 "Copy the URL at ShaderToy.com")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/highlighturl-copy-1.jpg?fit=600%2C600&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **1)** As pictured above, search and browse at Shadertoy.com and once you’ve found a Shader you wish to use in DEX 3, highlight the URL of the Shader in your browser’s address bar and copy it (right-click ‘copy’ or CTRL + C).
 
 [![Click add Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1 "Click add Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** From the Shader drop down menu located at the top of the video skins (4-deck or 2-deck video tabs) select the option ‘Add a new Shader’.
 
 [![Right click past in Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1 "Right click past in Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click into the ‘Add new Shader’ input box and either right-click and select ‘Paste’ or CTRL + V to paste in the Shadertoy.com URL.
@@ -67,7 +71,7 @@ In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shad
 [![Click OK to apply Shader to DEX 3](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1 "Click OK to apply Shader to DEX 3")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click OK to apply the Shader immediately. Unless the Shader isn’t supported or marked private, the Shader should instantly apply and display on screen.
@@ -91,10 +95,6 @@ Now you’re ready to mesmerize your audience with on-screen visualizations that
 
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2018-08-01 11:43:222018-10-02 12:56:06DEX 3 DJ Software | How to Install ‘Shaders’ for On-Screen Visualizations from Shadertoy.com}
@@ -114,18 +114,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-perfecting-the-live-broadcast-4-tips-for-fb-enthusiasts/"><u>[New] 2024 Approved Perfecting the Live Broadcast 4 Tips for FB Enthusiasts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-navigating-the-world-of-hashtags-youtubes-best-practices/"><u>[Updated] In 2024, Navigating the World of Hashtags YouTube's Best Practices</u></a></li>
-<li><a href="https://fox-where.techidaily.com/connect-your-scanner-to-a-pc-without-cables-easy-instructions-using-yls-wireless-solutions/"><u>Connect Your Scanner to a PC without Cables: Easy Instructions Using YL's Wireless Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/discovering-compatible-hard-drive-ports-for-your-system-with-yl-computing-expertise/"><u>Discovering Compatible Hard Drive Ports for Your System with YL Computing Expertise</u></a></li>
-<li><a href="https://fox-where.techidaily.com/diy-laptop-battery-replacement-process-explained-by-yl-computing-experts/"><u>DIY Laptop Battery Replacement Process Explained by YL Computing Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-nord-ce-3-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus Nord CE 3 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-meizu-21-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Meizu 21 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-upload-your-music-to-youtube-for-2024/"><u>How to Upload Your Music to YouTube for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-guide-reinstalling-your-gpu-drivers-on-windows-11-tips-from-yl-software-experts/"><u>Step-by-Step Guide: Reinstalling Your GPU Drivers on Windows 11 - Tips From YL Software Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-facts-and-figures-with-chatgpt-driven-analysis/"><u>The Future of Facts and Figures with ChatGPT-Driven Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-fixing-the-causes-behind-frequent-rust-application-closures/"><u>Understanding and Fixing the Causes Behind Frequent Rust Application Closures</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-incompatibility-issues-with-scanners-tips-from-yl-computing/"><u>Understanding Incompatibility Issues with Scanners - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-key-hazards-navigating-cryptocurrency-investments-safely-insights-by-yl-computing-and-yl-software/"><u>Understanding Key Hazards: Navigating Cryptocurrency Investments Safely - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-apps-for-perfecting-picture-framing/"><u>[New] In 2024, Best Apps for Perfecting Picture Framing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-resolving-issues-with-your-external-hdd-expert-diagnosis-and-repair-guide-yl-tech-solutions/"><u>1. Resolving Issues with Your External HDD: Expert Diagnosis & Repair Guide - YL Tech Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/balance-aesthetics-and-functionality-on-instagram-for-2024/"><u>Balance Aesthetics and Functionality on Instagram for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effective-strategies-for-resolving-device-driver-issues-insights-from-yl-computing/"><u>Effective Strategies for Resolving Device Driver Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/enhancing-your-pcs-efficiency-expert-tips-from-yl-computing/"><u>Enhancing Your PC's Efficiency: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-list-top-16-best-free-video-viewers-for-2024/"><u>Essential List Top 16 Best Free Video Viewers for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/get-your-hands-on-updated-dj-software-pcdj-compatible-dex-3-professional-and-lightweight-editions-v3801-now-available/"><u>Get Your Hands on Updated DJ Software: PCDJ-Compatible DEX 3 Professional and Lightweight Editions v3.8.0.1 Now Available</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-6-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-ultimate-guide-to-color-theory-and-practical-application-techniques/"><u>In 2024, The Ultimate Guide to Color Theory and Practical Application Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/refining-your-online-visual-experience-with-zooms-for-2024/"><u>Refining Your Online Visual Experience with Zooms for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smoothly-reactivate-your-bluetooth-with-this-guide-win1111/"><u>Smoothly Reactivate Your Bluetooth with This Guide, Win11/11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-ultimate-guide-to-finding-your-printer-drivers-with-help-from-yl-software-experts/"><u>The Ultimate Guide to Finding Your Printer Drivers with Help From YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unveiling-the-onset-of-the-opium-wars-with-expertise-from-yl-software-solutions/"><u>Unveiling the Onset of the Opium Wars with Expertise From YL Software Solutions</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated 2024 Approved Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
 </ul></div>
 
