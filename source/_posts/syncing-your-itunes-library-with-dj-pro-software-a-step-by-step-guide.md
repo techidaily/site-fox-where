@@ -1,7 +1,7 @@
 ---
 title: "Syncing Your iTunes Library with DJ Pro Software: A Step-by-Step Guide"
-date: 2025-01-01T17:57:06.944Z
-updated: 2025-01-09T00:41:53.247Z
+date: 2025-01-13T19:46:08.806Z
+updated: 2025-01-14T20:21:29.182Z
 tags:
   - product
 categories:
@@ -24,12 +24,16 @@ iTunes has always been a hugely popular among DJs for media management and playl
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **DJ mixing applications** such as [DEX 3](https://tools.techidaily.com/pcdj/products/) have robust media-management tools baked in.
 
 The are clear merits to creating your lists and managing you media from within the PCDJ browser instead of iTunes, especially when iTunes releases updates, often resulting in broken third party integration. There are also a fair number of DJs reporting iTunes 12 automatically applying [DRM](https://en.wikipedia.org/wiki/Digital%5Frights%5Fmanagement) and/or messing up their playlist management — but old habits die hard, and DJs will still rely heavily on iTunes as their media manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Where did the Library.xml file go after updating to iTunes 12.2?
@@ -45,7 +49,7 @@ Open iTunes. Then, click on the **Menu** button > **Preferences**:
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunesmenu-1.jpg?fit=359%2C429&ssl=1 "itunesmenu-1")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunesmenu-1.jpg?fit=359%2C429&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on Advanced options and put a tick in the **Share iTunes Library XML with other applications** box:
@@ -53,7 +57,7 @@ Click on Advanced options and put a tick in the **Share iTunes Library XML with 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1 "shareitunes")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on **OK** to apply. The **Library.xml** will be create in: **Users/username/Music/iTunes** _(NOTE: The default location is where you need to store your iTunes library.xml file for PCDJ to grab it)_
@@ -63,11 +67,7 @@ Click on **OK** to apply. The **Library.xml** will be create in: **Users/usernam
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1 "itunestab")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,21 +89,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunes12support-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-advanced-audio-editing-apps-ranked-by-users/"><u>[New] 2024 Approved Advanced Audio Editing Apps Ranked by Users</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-embark-on-your-video-vision-start-your-youtube-channel-for-2024/"><u>[New] Embark on Your Video Vision Start Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-essentials-of-youtubes-latest-payment-policy/"><u>[New] The Essentials of YouTube's Latest Payment Policy</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-of-the-best-android-calls-with-more-than-just-two/"><u>2024 Approved Best of the Best Android Calls with More Than Just Two</u></a></li>
-<li><a href="https://fox-where.techidaily.com/easy-steps-transferring-files-into-new-directories-with-yl-software-solutions/"><u>Easy Steps: Transferring Files Into New Directories with YL Software Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722877411666-enhance-your-samsung-tv-with-the-latest-updates-easy-tutorial-included/"><u>Enhance Your Samsung TV with the Latest Updates - Easy Tutorial Included</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-edit-windows-registry-via-command-prompt-insights-from-yl-computing/"><u>How to Edit Windows Registry via Command Prompt - Insights From YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/is-gpu-overclocking-a-secure-option-for-boosting-graphics-power-expert-advice-by-yl-software/"><u>Is GPU Overclocking a Secure Option for Boosting Graphics Power? Expert Advice by YL Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/june-2-groovy-gadget-deals-at-best-buy-you-cant-miss-exclusive-discounts-revealed-on-zdnet/"><u>June 2 Groovy Gadget Deals at Best Buy You Can't Miss! Exclusive Discounts Revealed on ZDNET</u></a></li>
-<li><a href="https://fox-where.techidaily.com/new-music-alert-fresh-batch-of-25-songs-for-your-karaoke-subscription-pcdj-update-on-610/"><u>New Music Alert: Fresh Batch of 25 Songs for Your Karaoke Subscription – PCDJ Update on 6/10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-find-n3-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Oppo Find N3</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-guide-updating-your-scanners-drivers-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Scanner's Drivers on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-chatgpt-triggers-to-combat-online-interruptions-effectively/"><u>Top 8 ChatGPT Triggers to Combat Online Interruptions Effectively</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-recurring-paper-jam-messages-in-print-devices-expert-advice-by-yl-software/"><u>Understanding Recurring Paper Jam Messages in Print Devices - Expert Advice by YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/unleash-courageous-sincere-elegance-in-singers-using-pioneering-techniques-from-this-weeks-karaoke-cloud-pro-software-upgrade/"><u>Unleash Courageous, Sincere Elegance in Singers Using Pioneering Techniques From This Week's Karaoke Cloud Pro Software Upgrade</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-the-full-potential-of-obs-on-mac-for-2024/"><u>[New] Unlocking the Full Potential of OBS on Mac for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-ten-entrepreneurial-youtube-outlets-and-tips/"><u>[Updated] 2024 Approved Top Ten Entrepreneurial YouTube Outlets & Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-8-plusipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 8 Plus/iPad/iPod</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effortless-photo-scaling-the-three-best-web-applications-to-enlarge-your-pictures/"><u>Effortless Photo Scaling: The Three Best Web Applications to Enlarge Your Pictures</u></a></li>
+<li><a href="https://fox-where.techidaily.com/free-techniques-for-applying-a-watermark-to-your-videos/"><u>Free Techniques for Applying a Watermark to Your Videos</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-completely-remove-twitter-from-your-iphone-a-step-by-step-guide/"><u>How to Completely Remove Twitter From Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-insights-on-the-roav-dash-cam-c1-by-anker/"><u>In-Depth Analysis and Insights on The Roav Dash Cam C1 by Anker</u></a></li>
+<li><a href="https://fox-where.techidaily.com/in-depth-apowermanager-instructional-handbook-your-definitive-how-to-guide/"><u>In-Depth APowerManager Instructional Handbook - Your Definitive How-To Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-imsibuild-a-complete-guide-to-efficient-construction-management/"><u>Mastering IMsiBuild: A Complete Guide to Efficient Construction Management</u></a></li>
+<li><a href="https://fox-where.techidaily.com/personalized-feature-specifications/"><u>Personalized Feature Specifications</u></a></li>
+<li><a href="https://fox-where.techidaily.com/safe-surfing-in-chrome-the-ultimate-list-of-top-security-plugins-including-malwarefox/"><u>Safe Surfing in Chrome: The Ultimate List of Top Security Plugins, Including MalwareFox</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-evaluation-of-samsungs-image-editing-software/"><u>The Ultimate Evaluation of Samsung's Image Editing Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-parts-unveiling-secrets-from-toms-world/"><u>The Ultimate Guide to PC Parts: Unveiling Secrets From Tom's World</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-rated-photo-layering-applications-enhance-your-images/"><u>Top-Rated Photo Layering Applications: Enhance Your Images</u></a></li>
 </ul></div>
 

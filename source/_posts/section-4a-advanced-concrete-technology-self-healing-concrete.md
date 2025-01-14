@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Concrete Technology – Self-Healing Concrete"
-date: 2025-01-05T19:24:25.192Z
-updated: 2025-01-08T18:14:07.436Z
+date: 2025-01-07T16:39:20.725Z
+updated: 2025-01-14T22:23:26.468Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-free-video-recorders-for-every-android-user/"><u>[New] 2024 Approved Free Video Recorders for Every Android User</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-parallel-audio-stream-mapping/"><u>[Updated] 2024 Approved Parallel Audio Stream Mapping</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unveiling-360-vs-vr-film-explained/"><u>[Updated] 2024 Approved Unveiling 360° Vs. VR Film Explained</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-history-in-action-top-7-engaging-civilization-wars-for-2024/"><u>[Updated] History in Action Top 7 Engaging Civilization Wars for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-loom-essentials-perfecting-the-art-of-screen-recording-for-2024/"><u>[Updated] Loom Essentials Perfecting the Art of Screen Recording for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-auto-captioned-content-in-social-media-visuals-for-2024/"><u>[Updated] Navigating Auto-Captioned Content in Social Media Visuals for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-instagrams-inconsistent-video-timings/"><u>2024 Approved Navigating Instagram's Inconsistent Video Timings</u></a></li>
-<li><a href="https://fox-where.techidaily.com/cant-hook-up-your-scanner-heres-how-to-establish-a-successful-link-expert-advice-from-yl-software-experts/"><u>Can't Hook Up Your Scanner? Here's How to Establish a Successful Link – Expert Advice From YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/detecting-clashing-system-programs-in-windows-a-guide-by-yl-computing/"><u>Detecting Clashing System Programs in Windows - A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/excessive-gpu-temperatures-solutions-and-maintenance-tips-yl-tech-support/"><u>Excessive GPU Temperatures: Solutions & Maintenance Tips - YL Tech Support</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tapping-income-through-thoughtful-product-examinations/"><u>In 2024, Tapping Income Through Thoughtful Product Examinations</u></a></li>
-<li><a href="https://fox-where.techidaily.com/maximizing-your-network-enabling-multi-device-connection-on-a-lone-router-with-yl-software-advice/"><u>Maximizing Your Network: Enabling Multi-Device Connection on a Lone Router with YL Software Advice</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/signal-id-video-overview-width-x-height-encoding-minutes-for-2024/"><u>Signal ID Video Overview Width X Height, Encoding, Minutes for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/steps-for-recovering-your-gpu-settings-a-guide-to-troubleshooting-video-issues-yl-computing-expertise/"><u>Steps for Recovering Your GPU Settings: A Guide to Troubleshooting Video Issues – YL Computing Expertise</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/transform-your-recordings-expert-tips-for-zoom-changer/"><u>Transform Your Recordings Expert Tips for Zoom Changer</u></a></li>
-<li><a href="https://fox-where.techidaily.com/transforming-melodies-exploring-the-evolution-of-the-karaoke-landscape-at-the-karaoke-summit/"><u>Transforming Melodies: Exploring the Evolution of the Karaoke Landscape at the Karaoke Summit</u></a></li>
-<li><a href="https://fox-where.techidaily.com/unraveling-blockchain-for-beginners-with-insights-from-yl-software-solutions/"><u>Unraveling Blockchain for Beginners with Insights From YL Software Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-computing-guide-easy-steps-to-remove-files-from-your-pc/"><u>YL Computing Guide: Easy Steps to Remove Files From Your PC</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-software-explains-how-to-establish-a-protected-cryptocurrency-wallet-for-beginners/"><u>YL Software Explains How To Establish a Protected Cryptocurrency Wallet for Beginners</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>[Updated] Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-game-console-deals-under-100/"><u>2024 Approved Ultimate Game Console Deals Under 100$</u></a></li>
+<li><a href="https://fox-where.techidaily.com/enhancing-corporate-presence-in-digital-presentations-how-to-insert-your-logo-into-the-flipbook-toolbar/"><u>Enhancing Corporate Presence in Digital Presentations: How to Insert Your Logo Into the Flipbook Toolbar</u></a></li>
+<li><a href="https://fox-where.techidaily.com/enhancing-image-luminance-a-guide-with-flipbuilder-tools/"><u>Enhancing Image Luminance: A Guide with FlipBuilder Tools</u></a></li>
+<li><a href="https://fox-where.techidaily.com/evaluating-flipbuilders-license-period-for-flippdf-pro-what-you-need-to-know/"><u>Evaluating FlipBuilder's License Period for FlipPDF Pro – What You Need to Know</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expand-your-reach-build-a-german-language-website-with-ease-using-flipbuilder/"><u>Expand Your Reach - Build a German Language Website with Ease Using FlipBuilder!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/explore-the-full-range-of-services-at-flipprintercom-your-ultimate-resource-for-professional-printing/"><u>Explore the Full Range of Services at FlipPrinter.com – Your Ultimate Resource for Professional Printing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/getting-the-most-recent-update-for-your-flipbuilder-easy-tutorial-inside/"><u>Getting the Most Recent Update for Your FlipBuilder - Easy Tutorial Inside!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/hide-the-saving-feature-while-preserving-your-flipbooks-a-complete-guide-with-flipbuilder/"><u>Hide the Saving Feature While Preserving Your FlipBooks - A Complete Guide with FlipBuilder</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-can-you-insert-clickable-links-into-content-made-with-flipbuilder-tools/"><u>How Can You Insert Clickable Links Into Content Made With FlipBuilder Tools?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-apply-watermarks-to-your-photos-using-the-powerful-features-of-flip-image-pro-software/"><u>How to Apply Watermarks to Your Photos Using the Powerful Features of Flip Image Pro Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-c50-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco C50? Try These Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-v27e-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo V27e Phone Hassle-Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-assessment-lightroom-app-android-edition/"><u>In-Depth Assessment Lightroom App, Android Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-newest-intel-wireless-ax200-drivers-compatible-with-windows-11-and-windows-10-systems/"><u>Install Newest Intel Wireless AX200 Drivers Compatible with Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-x100-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo X100 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-x6-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco X6 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/unlocking-full-usb-performance-fixing-connection-faults-on-your-260ci-wia-drive/"><u>Unlocking Full USB Performance: Fixing Connection Faults on Your 260CI WiA Drive</u></a></li>
 </ul></div>
 
