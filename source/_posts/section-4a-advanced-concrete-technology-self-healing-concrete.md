@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Concrete Technology – Self-Healing Concrete"
-date: 2025-01-07T16:39:20.725Z
-updated: 2025-01-14T22:23:26.468Z
+date: 2025-01-16T18:54:09.466Z
+updated: 2025-01-20T16:09:12.586Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>[Updated] Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-game-console-deals-under-100/"><u>2024 Approved Ultimate Game Console Deals Under 100$</u></a></li>
-<li><a href="https://fox-where.techidaily.com/enhancing-corporate-presence-in-digital-presentations-how-to-insert-your-logo-into-the-flipbook-toolbar/"><u>Enhancing Corporate Presence in Digital Presentations: How to Insert Your Logo Into the Flipbook Toolbar</u></a></li>
-<li><a href="https://fox-where.techidaily.com/enhancing-image-luminance-a-guide-with-flipbuilder-tools/"><u>Enhancing Image Luminance: A Guide with FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-where.techidaily.com/evaluating-flipbuilders-license-period-for-flippdf-pro-what-you-need-to-know/"><u>Evaluating FlipBuilder's License Period for FlipPDF Pro – What You Need to Know</u></a></li>
-<li><a href="https://fox-where.techidaily.com/expand-your-reach-build-a-german-language-website-with-ease-using-flipbuilder/"><u>Expand Your Reach - Build a German Language Website with Ease Using FlipBuilder!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/explore-the-full-range-of-services-at-flipprintercom-your-ultimate-resource-for-professional-printing/"><u>Explore the Full Range of Services at FlipPrinter.com – Your Ultimate Resource for Professional Printing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/getting-the-most-recent-update-for-your-flipbuilder-easy-tutorial-inside/"><u>Getting the Most Recent Update for Your FlipBuilder - Easy Tutorial Inside!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/hide-the-saving-feature-while-preserving-your-flipbooks-a-complete-guide-with-flipbuilder/"><u>Hide the Saving Feature While Preserving Your FlipBooks - A Complete Guide with FlipBuilder</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bedtime-videos-breakdown-stories-and-reviews/"><u>Bedtime Videos Breakdown Stories and Reviews</u></a></li>
 <li><a href="https://fox-where.techidaily.com/how-can-you-insert-clickable-links-into-content-made-with-flipbuilder-tools/"><u>How Can You Insert Clickable Links Into Content Made With FlipBuilder Tools?</u></a></li>
 <li><a href="https://fox-where.techidaily.com/how-to-apply-watermarks-to-your-photos-using-the-powerful-features-of-flip-image-pro-software/"><u>How to Apply Watermarks to Your Photos Using the Powerful Features of Flip Image Pro Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-c50-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco C50? Try These Fixes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-v27e-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo V27e Phone Hassle-Free</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-depth-assessment-lightroom-app-android-edition/"><u>In-Depth Assessment Lightroom App, Android Edition</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-newest-intel-wireless-ax200-drivers-compatible-with-windows-11-and-windows-10-systems/"><u>Install Newest Intel Wireless AX200 Drivers Compatible with Windows 11 and Windows 10 Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-x100-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo X100 Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-x6-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco X6 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/unlocking-full-usb-performance-fixing-connection-faults-on-your-260ci-wia-drive/"><u>Unlocking Full USB Performance: Fixing Connection Faults on Your 260CI WiA Drive</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-craft-custom-protective-sleeves-for-your-flipbook-creations-with-flipbuilder-tutorial/"><u>How To Craft Custom Protective Sleeves For Your FlipBook Creations With FlipBuilder Tutorial</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-enhance-your-photos-mastering-contrast-adjustment-in-flipimage-pro/"><u>How to Enhance Your Photos: Mastering Contrast Adjustment in FlipImage Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-2022s-pinnacle-moments-in-snowboarding-x/"><u>In 2024, 2022'S Pinnacle Moments in Snowboarding X</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stay-connected-the-ultimate-guide-to-messaging-loved-ones-via-your-apple-watch-tips-and-tricks/"><u>Stay Connected: The Ultimate Guide to Messaging Loved Ones via Your Apple Watch - Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-and-tips-to-find-missing-game-hub/"><u>Strategies and Tips to Find Missing Game Hub</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-truth-about-knack-innovative-lead-lost-in-a-derivative-quest/"><u>Unveiling the Truth About Knack - Innovative Lead Lost in a Derivative Quest</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728509132625-windows-11pc/"><u>Windows 11が利用可能にならないPC対策ガイド</u></a></li>
 </ul></div>
 

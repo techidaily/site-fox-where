@@ -1,7 +1,7 @@
 ---
 title: "Syncing Your iTunes Library with DJ Pro Software: A Step-by-Step Guide"
-date: 2025-01-13T19:46:08.806Z
-updated: 2025-01-14T20:21:29.182Z
+date: 2025-01-13T20:50:23.226Z
+updated: 2025-01-21T01:46:31.794Z
 tags:
   - product
 categories:
@@ -25,22 +25,22 @@ iTunes has always been a hugely popular among DJs for media management and playl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **DJ mixing applications** such as [DEX 3](https://tools.techidaily.com/pcdj/products/) have robust media-management tools baked in.
 
 The are clear merits to creating your lists and managing you media from within the PCDJ browser instead of iTunes, especially when iTunes releases updates, often resulting in broken third party integration. There are also a fair number of DJs reporting iTunes 12 automatically applying [DRM](https://en.wikipedia.org/wiki/Digital%5Frights%5Fmanagement) and/or messing up their playlist management — but old habits die hard, and DJs will still rely heavily on iTunes as their media manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Where did the Library.xml file go after updating to iTunes 12.2?
 
 The iTunes library is essentially two files: The **Library.itl** which is the native iTunes library file and contains all your playlist and song data. The **Library.xml** file is what iTunes (can) generates for third party application support, and provides all the information about your iTunes library (_playlists and tracks_).
 
 The iTunes 12.2 update (_and up_) no longer creates the Library.xml file by default, therefore when DEX 3 or RED Mobile 3 are launched the iTunes tab and subsequent playlists are not displayed. Thankfully, there is a setting in iTunes 12.2 that will generate the Library.xml file so our DJ software can dynamically pick it up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to get the Library.xml file back in iTunes 12.2
 
@@ -49,7 +49,7 @@ Open iTunes. Then, click on the **Menu** button > **Preferences**:
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunesmenu-1.jpg?fit=359%2C429&ssl=1 "itunesmenu-1")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunesmenu-1.jpg?fit=359%2C429&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on Advanced options and put a tick in the **Share iTunes Library XML with other applications** box:
@@ -57,7 +57,7 @@ Click on Advanced options and put a tick in the **Share iTunes Library XML with 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1 "shareitunes")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on **OK** to apply. The **Library.xml** will be create in: **Users/username/Music/iTunes** _(NOTE: The default location is where you need to store your iTunes library.xml file for PCDJ to grab it)_
@@ -67,7 +67,7 @@ Click on **OK** to apply. The **Library.xml** will be create in: **Users/usernam
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1 "itunestab")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,22 +89,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunes12support-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-unlocking-the-full-potential-of-obs-on-mac-for-2024/"><u>[New] Unlocking the Full Potential of OBS on Mac for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-ten-entrepreneurial-youtube-outlets-and-tips/"><u>[Updated] 2024 Approved Top Ten Entrepreneurial YouTube Outlets & Tips</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-8-plusipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 8 Plus/iPad/iPod</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effortless-photo-scaling-the-three-best-web-applications-to-enlarge-your-pictures/"><u>Effortless Photo Scaling: The Three Best Web Applications to Enlarge Your Pictures</u></a></li>
-<li><a href="https://fox-where.techidaily.com/free-techniques-for-applying-a-watermark-to-your-videos/"><u>Free Techniques for Applying a Watermark to Your Videos</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-completely-remove-twitter-from-your-iphone-a-step-by-step-guide/"><u>How to Completely Remove Twitter From Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-insights-on-the-roav-dash-cam-c1-by-anker/"><u>In-Depth Analysis and Insights on The Roav Dash Cam C1 by Anker</u></a></li>
-<li><a href="https://fox-where.techidaily.com/in-depth-apowermanager-instructional-handbook-your-definitive-how-to-guide/"><u>In-Depth APowerManager Instructional Handbook - Your Definitive How-To Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-transform-your-on-screen-identity-into-a-brand-on-youtube/"><u>[New] In 2024, Transform Your On-Screen Identity Into a Brand on YouTube</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comprehensive-guide-to-multipurpose-internet-mail-extensions-mime-essential-file-type-identifiers-on-the-web/"><u>Comprehensive Guide to Multipurpose Internet Mail Extensions (MIME) - Essential File Type Identifiers on the Web</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Asus ROG Phone 7 Phone without Any Data Loss</u></a></li>
 <li><a href="https://fox-where.techidaily.com/mastering-imsibuild-a-complete-guide-to-efficient-construction-management/"><u>Mastering IMsiBuild: A Complete Guide to Efficient Construction Management</u></a></li>
+<li><a href="https://fox-where.techidaily.com/optimizing-system-performance-custom-execution-parameters-interface/"><u>Optimizing System Performance: Custom Execution Parameters Interface</u></a></li>
 <li><a href="https://fox-where.techidaily.com/personalized-feature-specifications/"><u>Personalized Feature Specifications</u></a></li>
-<li><a href="https://fox-where.techidaily.com/safe-surfing-in-chrome-the-ultimate-list-of-top-security-plugins-including-malwarefox/"><u>Safe Surfing in Chrome: The Ultimate List of Top Security Plugins, Including MalwareFox</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-ultimate-evaluation-of-samsungs-image-editing-software/"><u>The Ultimate Evaluation of Samsung's Image Editing Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-parts-unveiling-secrets-from-toms-world/"><u>The Ultimate Guide to PC Parts: Unveiling Secrets From Tom's World</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-rated-photo-layering-applications-enhance-your-images/"><u>Top-Rated Photo Layering Applications: Enhance Your Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/projector-shopping-heres-what-you-need-to-know/"><u>Projector Shopping? Here's What You Need To Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/publicizing-personalized-gpt-dialogues-securely/"><u>Publicizing Personalized GPT Dialogues Securely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-tackle-malwarebytes-runtime-error-missed-calls/"><u>Strategies to Tackle Malwarebytes Runtime Error: Missed Calls</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Capturing the Energy of a Gathering: Insights Into Reading Audience Vibes Using DJNN & Scott Faver's Methods | PremiumDJ Skills"
-date: 2025-01-12T20:05:30.759Z
-updated: 2025-01-14T21:31:27.189Z
+date: 2025-01-13T16:12:50.028Z
+updated: 2025-01-21T01:29:25.412Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ This week, we felt inclined to share a video recently shot and released by Disc 
 During this weeks segment DJNN hosts Scott Faver, known in the industry as the Game Master. He share’s his insights in reading the vibe from a group of people so he can play to his audiences tastes in music. DJing is all about being a great “selector” of music, to ensure a packed dance floor and memorable occasion (_and more referrals!_):  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,24 +42,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/readingthevibe.jpg?fit=530
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-complete-guide-to-captivating-your-audience-on-snapchat-for-2024/"><u>[New] The Complete Guide to Captivating Your Audience on Snapchat for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-capture-showdown-is-obs-superior-to-twitch-studio-in-2024/"><u>[Updated] Screen Capture Showdown Is OBS Superior to Twitch Studio, In 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-resolving-the-erase-all-content-and-settings-disabled-issue-on-iphoneipad/"><u>1. Resolving the 'Erase All Content & Settings' Disabled Issue on iPhone/iPad</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-picks-streaming-tunes-directly-from-youtuberingtones/"><u>2024 Approved Top Picks Streaming Tunes Directly From YoutubeRingtones</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-dallas-data-restoration-tutorial-expert-strategies-and-techniques/"><u>Complete Dallas Data Restoration Tutorial: Expert Strategies and Techniques</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-guide-what-does-an-icloud-backup-include/"><u>Comprehensive Guide: What Does an iCloud Backup Include?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/discovering-your-latest-files-a-guide-to-locating-newly-created-documents/"><u>Discovering Your Latest Files: A Guide to Locating Newly Created Documents</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-mouse-pad-software-compatible-with-windows/"><u>Download the Latest ASUS Mouse Pad Software Compatible with Windows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebook-story-viewer-view-facebook-stories-anonymously-for-2024/"><u>Facebook Story Viewer View Facebook Stories Anonymously for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/gratis-und-zentrales-backup-fur-server-and-arbeitsplatze-mit-aomei-cyber-backup/"><u>Gratis Und Zentrales Backup Für Server & Arbeitsplätze Mit AOMEI Cyber Backup</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guida-passo-passo-per-lutilizzo-della-riga-di-comando-wbadmin-in-windows-7-per-backup-ai-dati/"><u>Guida Passo-Passo per L'utilizzo Della Riga Di Comando Wbadmin in Windows 7 per Backup AI Dati</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-essential-tactics-from-visual-to-audio-media/"><u>In 2024, Essential Tactics From Visual to Audio Media</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-expert-analysis-top-5-high-end-recording-apps/"><u>In 2024, Expert Analysis Top 5 High-End Recording Apps</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/multi-computer-os-setup-a-step-by-step-guide-to-concurrent-operating-system-installations/"><u>Multi-Computer OS Setup: A Step-by-Step Guide to Concurrent Operating System Installations</u></a></li>
-<li><a href="https://fox-where.techidaily.com/restaurar-unidad-seagate-externa-accidentalmente-formateada-como-solucionarlo/"><u>Restaurar: Unidad Seagate Externa Accidentalmente Formateada, Cómo Solucionarlo?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-spark-go-2023-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Spark Go (2023) Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-next-gen-of-visual-perfection-a-review-of-eizos-cg318-4k/"><u>The Next Gen of Visual Perfection A Review of EIZO's CG318-4K</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ultimate-step-by-step-tutorial-how-to-boot-your-pc-using-an-external-hard-drive-on-windows-1011/"><u>Ultimate Step-by-Step Tutorial: How to Boot Your PC Using an External Hard Drive on Windows 10/11</u></a></li>
-<li><a href="https://fox-where.techidaily.com/verschwundene-fallout/"><u>Verschwundene Fallout</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-erasing-the-spotlight-hide-visuals-in-shared-media/"><u>[New] 2024 Approved Erasing the Spotlight Hide Visuals in Shared Media</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebook-story-viewer-view-facebook-stories-anonymously/"><u>[New] In 2024, Facebook Story Viewer View Facebook Stories Anonymously</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-youtube-inversion-creative-tactics-to-watch-videos-backwards/"><u>[Updated] In 2024, The Youtube Inversion Creative Tactics to Watch Videos Backwards</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unlocking-asmrs-health-perks-a-guide-for-2024/"><u>[Updated] Unlocking ASMR's Health Perks A Guide for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-come-aprire-le-cartelle-bloccate-sul-tuo-desktop-guida-rapida/"><u>1. Come Aprire Le Cartelle Bloccate Sul Tuo Desktop: Guida Rapida</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/como-solucionar-problemas-y-restaurar-una-unidad-con-formato-raw-en-diferentes-versiones-de-windows-incluyendo-la-ultima-edicion-de-windows-11/"><u>Cómo Solucionar Problemas Y Restaurar Una Unidad Con Formato RAW en Diferentes Versiones De Windows, Incluyendo La Última Edición De Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-nubia-red-magic-8s-proplus-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Nubia Red Magic 8S Pro+.</u></a></li>
+<li><a href="https://fox-where.techidaily.com/error-404-webpage-unavailable-why-pages-go-missing/"><u>Error 404: Webpage Unavailable – Why Pages Go Missing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/explore-the-best-ever-ios-platforms-for-ps2-games/"><u>Explore the Best-Ever IOS Platforms for PS2 Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-perks-of-academia-your-guide-to-getting-affordable-dell-tech-as-a-student/"><u>Navigating the Perks of Academia: Your Guide to Getting Affordable Dell Tech as a Student</u></a></li>
+<li><a href="https://fox-where.techidaily.com/schritt-fur-schritt-anleitung-zum-ubertragen-von-windows-auf-einen-solid-state-laufwerk-ssd/"><u>Schritt-Für-Schritt-Anleitung Zum Übertragen Von Windows Auf Einen Solid-State-Laufwerk (SSD)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-manual-salvaging-your-buffalo-disks-lost-files/"><u>Step-by-Step Manual: Salvaging Your Buffalo Disk's Lost Files</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-sony-sd-card-data-restoration-manual-a-complete-step-by-step-tutorial/"><u>Ultimate Sony SD Card Data Restoration Manual: A Complete Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-location-unavailable-error-on-windows-10-and-iphone/"><u>Understanding the 'Location Unavailable' Error on Windows 10 and iPhone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/windows-7-and-8/"><u>ネットワークドライブをWindows 7 & 8で分配する方法：詳細ガイド</u></a></li>
 </ul></div>
 

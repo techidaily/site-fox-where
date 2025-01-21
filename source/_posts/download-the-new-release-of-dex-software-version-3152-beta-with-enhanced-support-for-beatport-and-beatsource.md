@@ -1,7 +1,7 @@
 ---
 title: Download the New Release of DEX Software Version 3.15.2 (BETA) with Enhanced Support for Beatport and Beatsource
-date: 2025-01-10T20:52:10.373Z
-updated: 2025-01-14T22:31:28.653Z
+date: 2025-01-17T01:05:39.375Z
+updated: 2025-01-20T16:12:03.521Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
@@ -57,7 +57,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,17 +79,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-strategies-for-sustaining-viewer-interest-in-online-events/"><u>[New] Strategies for Sustaining Viewer Interest in Online Events</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-excellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>[Updated] Excellent Video & Picture Capture for iPhones & Androids Here</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dslr-vs-mirrorless-optimal-choice-for-video-production/"><u>[Updated] In 2024, DSLR vs Mirrorless Optimal Choice for Video Production</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-companion-for-a-seamless-instagram-video-journey-for-2024/"><u>[Updated] The Ultimate Companion for a Seamless Instagram Video Journey for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-choice-leading-video-editors-reviewed-and-compared/"><u>Best Choice : Leading Video Editors Reviewed and Compared</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comment-transferer-en-fait-facile-des-videos-volumineuses-de-votre-appareil-ios-a-votre-pc-methodes-rapides-et-pratiques/"><u>Comment Transférer en Fait Facile Des Vidéos Volumineuses De Votre Appareil iOS À Votre PC : Méthodes Rapides Et Pratiques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-into-premium-chatgpt-features/"><u>Delving Into Premium ChatGPT Features</u></a></li>
-<li><a href="https://fox-where.techidaily.com/impostazioni-espertissime-strategie-seo-avanzate-per-il-tuo-sito-web/"><u>Impostazioni Espertissime: Strategie SEO Avanzate Per Il Tuo Sito Web</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-oppo-find-n3-flip-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo Find N3 Flip Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fox-where.techidaily.com/resolving-error-28-in-esxi-insufficient-storage-solutions/"><u>Resolving Error 28 in ESXi: Insufficient Storage Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/revitalize-your-business-by-industry/"><u>Revitalize Your Business by Industry</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1728469518265-text/"><u>TEXT</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-crafting-connections-the-art-and-science-of-personalized-facebook-profiles/"><u>[Updated] Crafting Connections The Art and Science of Personalized Facebook Profiles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-master-chromes-pip-for-enhanced-productivity/"><u>[Updated] How to Master Chrome’s PIP for Enhanced Productivity</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-2024windows-1011/"><u>1. 2024年最新解決方法：Windows 10和11上簡單逆向修復資料</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-insights-into-instagram-follower-exits/"><u>2024 Approved Insights Into Instagram Follower Exits</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-sharper-images-richer-minescapes-zoom-techniques-revealed/"><u>2024 Approved Sharper Images, Richer Minescapes Zoom Techniques Revealed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>2024 Approved Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>2024 Approved Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comment-exclure-un-dossier-de-la-synchronisation-sur-onedrive-guide-detaille/"><u>Comment Exclure Un Dossier De La Synchronisation Sur OneDrive - Guide Détaillé</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cpu-versus-gpu-encoding-speeds-the-ultimate-showdown-for-performance-efficiency/"><u>CPU Versus GPU Encoding Speeds: The Ultimate Showdown for Performance Efficiency</u></a></li>
+<li><a href="https://fox-where.techidaily.com/erleichterung-beim-datentransfer-funf-effektive-schritte-um-dateien-von-ihrem-altmodischen-pc-zu-einem-neuartigen-gerat-zu-bewegen/"><u>Erleichterung Beim Datentransfer: Fünf Effektive Schritte, Um Dateien Von Ihrem Altmodischen PC Zu Einem Neuartigen Gerät Zu Bewegen</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expert-guide-choosing-and-setting-up-the-ideal-motherboard-in-labs-2-5/"><u>Expert Guide: Choosing & Setting Up the Ideal Motherboard in Labs 2-5</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigate-through-iphone-screen-saving-fast/"><u>In 2024, Navigate Through iPhone Screen Saving Fast</u></a></li>
+<li><a href="https://fox-where.techidaily.com/linux-bootfahige-aomei-backupper-disk-images-kostenlos-herunterladen/"><u>Linux Bootfähige AOMEI Backupper Disk-Images Kostenlos Herunterladen</u></a></li>
+<li><a href="https://fox-where.techidaily.com/schritt-fur-schritt-guide-zum-kopieren-von-linux-startfestplatten/"><u>Schritt-Für-Schritt-Guide Zum Kopieren Von Linux Startfestplatten</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-organizers-einfach-und-schnell-zwei-ordnere-in-windows-10-synchronisieren/"><u>Top Organizers: Einfach Und Schnell Zwei Ordnere in Windows 10 Synchronisieren</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-guide-mastering-the-password-free-restoration-of-lenovo-thinkpads-with-windows-11/"><u>Ultimate Guide: Mastering the Password-Free Restoration of Lenovo ThinkPads with Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/using-windows-system-restore-feature-efficiently/"><u>Using Windows' System Restore Feature Efficiently</u></a></li>
 </ul></div>
 
