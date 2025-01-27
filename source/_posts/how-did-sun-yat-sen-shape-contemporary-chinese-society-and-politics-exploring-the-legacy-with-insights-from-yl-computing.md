@@ -1,7 +1,7 @@
 ---
 title: How Did Sun Yat-Sen Shape Contemporary Chinese Society and Politics? Exploring the Legacy with Insights From YL Computing
-date: 2025-01-18T20:06:11.760Z
-updated: 2025-01-21T00:01:35.132Z
+date: 2025-01-19T21:35:54.888Z
+updated: 2025-01-26T23:40:03.600Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,18 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-superior-web-destinations-alarm-ringtone-downloads-guide-for-2024/"><u>[New] Superior Web Destinations Alarm Ringtone Downloads Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-integrating-youtube-into-your-social-media-strategy-facebook/"><u>[Updated] 2024 Approved Integrating YouTube Into Your Social Media Strategy - Facebook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-strategies-to-rectify-freeze-in-obs-fullscreen-functionality/"><u>[Updated] 2024 Approved Strategies to Rectify Freeze in OBS Fullscreen Functionality</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-eyepoint-expertise-essay-for-2024/"><u>[Updated] Eyepoint Expertise Essay for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-fpv-drones-picking-perfect-propellers/"><u>2024 Approved Mastering FPV Drones Picking Perfect Propellers</u></a></li>
-<li><a href="https://fox-where.techidaily.com/diy-laptop-battery-replacement-process-explained-by-yl-computing-experts/"><u>DIY Laptop Battery Replacement Process Explained by YL Computing Experts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-10-best-zoom-alternatives/"><u>In 2024, 10 Best Zoom Alternatives</u></a></li>
-<li><a href="https://fox-where.techidaily.com/installing-shader-graphics-on-dex-3-with-shadertoy-downloads-for-enhanced-dj-experience/"><u>Installing Shader Graphics on DEX 3 with Shadertoy Downloads for Enhanced DJ Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/joke-juggernauts-20-memes-dominating-the-web/"><u>Joke Juggernauts 20 Memes Dominating the Web</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-your-revoapps-manager-and-reactivating-with-ease/"><u>Step-by-Step Guide: Setting Up Your RevoApps Manager & Reactivating with Ease</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-strategies-for-efficient-music-library-import-and-management-in-deckadaskiz-beats-dex-3-vs-deckadash-skills-2/"><u>Top Strategies for Efficient Music Library Import & Management in DeckaDaSkiz Beats: Dex 3 vs Deckadash Skills 2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-access-issues-why-cant-you-find-facebook-marketplace/"><u>Troubleshooting Access Issues: Why Can't You Find Facebook Marketplace?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-incompatibility-issues-with-scanners-tips-from-yl-computing/"><u>Understanding Incompatibility Issues with Scanners - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-a-commercial-channel-youtubes-premium-pathway-guide/"><u>[New] 2024 Approved Crafting a Commercial Channel YouTube's Premium Pathway Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/advanced-strategies-for-windows-11-defense-masterful-use-of-firewalls-and-network-shielding-techniques/"><u>Advanced Strategies for Windows 11 Defense: Masterful Use of Firewalls and Network Shielding Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-analysis-how-the-iphone-14-meets-its-mark-in-performance-and-features/"><u>Comprehensive Analysis : How the iPhone 14 Meets Its Mark in Performance and Features</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-windows-instability-with-everscape-2-a-comprehensive-guide/"><u>Diagnosing and Repairing Windows Instability with Everscape 2 - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effektieve-backup-oplossingen-voor-techproblemen-met-windows-10/"><u>Effektieve Backup-Oplossingen Voor Techproblemen Met Windows 10</u></a></li>
+<li><a href="https://fox-where.techidaily.com/gopro/"><u>GoProから消したビデオ・写真を手っ取り早く、費用ゼロで再生成！方法３種類</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/in-depth-analysis-of-iskysoft-data-recovery-software-assessing-its-advantages-drawbacks-and-pricing-details/"><u>In-Depth Analysis of iSkysoft Data Recovery Software – Assessing Its Advantages, Drawbacks, & Pricing Details</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-lgs-65-oled-c9-4k-television-ideal-choice-for-audiophiles-and-movie-buffs/"><u>In-Depth Analysis of LG's 65 OLED C9 4K Television – Ideal Choice for Audiophiles and Movie Buffs</u></a></li>
+<li><a href="https://fox-where.techidaily.com/is-it-possible-to-clone-a-complete-windows-installation-onto-an-sdd/"><u>Is It Possible to Clone a Complete Windows Installation Onto an SDD?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mindful-mental-aid-responsible-ai-in-counseling/"><u>Mindful Mental Aid: Responsible AI in Counseling</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-network-setup-issues-in-dragon-ball-fighterz-for-seamless-play/"><u>Overcoming Network Setup Issues in Dragon Ball FighterZ for Seamless Play</u></a></li>
+<li><a href="https://fox-where.techidaily.com/page-unavailable-error-the-requested-content-cannot-be-found/"><u>Page Unavailable Error – The Requested Content Cannot Be Found</u></a></li>
+<li><a href="https://fox-where.techidaily.com/perfekt-laden-von-bildert-auf-das-ios-gerat/"><u>Perfekt Laden Von Bildert Auf Das iOS-Gerät</u></a></li>
+<li><a href="https://fox-where.techidaily.com/telechargement-gratuit-et-creation-dune-cle-usb-bootable-avec-rufus-pour-windows-11/"><u>Téléchargement Gratuit Et Création D’une Clé USB Bootable Avec Rufus Pour Windows 11</u></a></li>
+<li><a href="https://solve-help.techidaily.com/telechargez-le-logiciel-avance-de-rip-audio-dvd-extraction-non-perte-quality/"><u>Téléchargez Le Logiciel Avancé De Rip Audio DVD - Extraction Non-Perte Quality</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
 </ul></div>
 

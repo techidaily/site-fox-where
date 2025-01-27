@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Concrete Technology – Self-Healing Concrete"
-date: 2025-01-16T18:54:09.466Z
-updated: 2025-01-20T16:09:12.586Z
+date: 2025-01-23T16:11:08.118Z
+updated: 2025-01-26T20:18:01.495Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,15 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/bedtime-videos-breakdown-stories-and-reviews/"><u>Bedtime Videos Breakdown Stories and Reviews</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-can-you-insert-clickable-links-into-content-made-with-flipbuilder-tools/"><u>How Can You Insert Clickable Links Into Content Made With FlipBuilder Tools?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-apply-watermarks-to-your-photos-using-the-powerful-features-of-flip-image-pro-software/"><u>How to Apply Watermarks to Your Photos Using the Powerful Features of Flip Image Pro Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-craft-custom-protective-sleeves-for-your-flipbook-creations-with-flipbuilder-tutorial/"><u>How To Craft Custom Protective Sleeves For Your FlipBook Creations With FlipBuilder Tutorial</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-enhance-your-photos-mastering-contrast-adjustment-in-flipimage-pro/"><u>How to Enhance Your Photos: Mastering Contrast Adjustment in FlipImage Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-2022s-pinnacle-moments-in-snowboarding-x/"><u>In 2024, 2022'S Pinnacle Moments in Snowboarding X</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stay-connected-the-ultimate-guide-to-messaging-loved-ones-via-your-apple-watch-tips-and-tricks/"><u>Stay Connected: The Ultimate Guide to Messaging Loved Ones via Your Apple Watch - Tips & Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-and-tips-to-find-missing-game-hub/"><u>Strategies and Tips to Find Missing Game Hub</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-truth-about-knack-innovative-lead-lost-in-a-derivative-quest/"><u>Unveiling the Truth About Knack - Innovative Lead Lost in a Derivative Quest</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1728509132625-windows-11pc/"><u>Windows 11が利用可能にならないPC対策ガイド</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-guide-advanced-techniques-for-skype-screenshots-via-obs/"><u>[Updated] 2024 Approved How-To Guide Advanced Techniques for Skype Screenshots via OBS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-tips-for-zoom-screen-sharing-for-2024/"><u>[Updated] Essential Tips for Zoom Screen Sharing for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-2024windows-1011/"><u>1. 2024年最新解決方法：Windows 10和11上簡單逆向修復資料</u></a></li>
+<li><a href="https://fox-where.techidaily.com/aomei-backuppers-guide-to-image-segmentation-for-enhanced-data-management/"><u>AOMEI Backupper's Guide to Image Segmentation for Enhanced Data Management</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/combat-the-disappearing-cursor-problem-on-your-windows-11-touchpad-today/"><u>Combat the Disappearing Cursor Problem on Your Windows 11 Touchpad Today</u></a></li>
+<li><a href="https://fox-where.techidaily.com/erleichterung-beim-datentransfer-funf-effektive-schritte-um-dateien-von-ihrem-altmodischen-pc-zu-einem-neuartigen-gerat-zu-bewegen/"><u>Erleichterung Beim Datentransfer: Fünf Effektive Schritte, Um Dateien Von Ihrem Altmodischen PC Zu Einem Neuartigen Gerät Zu Bewegen</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expert-guide-choosing-and-setting-up-the-ideal-motherboard-in-labs-2-5/"><u>Expert Guide: Choosing & Setting Up the Ideal Motherboard in Labs 2-5</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/find-the-perfect-companion-the-ideal-clicker-device-for-your-ipad/"><u>Find the Perfect Companion: The Ideal Clicker Device for Your iPad</u></a></li>
+<li><a href="https://win-best.techidaily.com/hdd-windows-1111/"><u>HDDアップグレード手順: Windows 11/11で古いディスクを新しいコンピューターへ導入する簡単な方法</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-video-and-photo-quality-with-the-newest-lenovo-camera-drivers-in-windows-7-environment/"><u>Improve Video and Photo Quality with the Newest Lenovo Camera Drivers in Windows 7 Environment</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kann-man-mit-handbrake-av1-videos-kodieren/"><u>Kann Man Mit HandBrake AV1-Videos Kodieren?</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-era-for-trump-and-social-media-giant/"><u>New Era for Trump and Social Media Giant</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-iphone-icloud-backup-failures-a-comprehensive-guide-for-all-models/"><u>Solving iPhone iCloud Backup Failures: A Comprehensive Guide for All Models</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ssdusb/"><u>SSDからUSBメモリへ素早くセットアップできる完全なデータコピー方法：詳細チュートリアル</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-organizers-einfach-und-schnell-zwei-ordnere-in-windows-10-synchronisieren/"><u>Top Organizers: Einfach Und Schnell Zwei Ordnere in Windows 10 Synchronisieren</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-guide-mastering-the-password-free-restoration-of-lenovo-thinkpads-with-windows-11/"><u>Ultimate Guide: Mastering the Password-Free Restoration of Lenovo ThinkPads with Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies for Efficient Music Library Import & Management in DeckaDaSkiz Beats: Dex 3 vs Deckadash Skills 2"
-date: 2025-01-19T20:46:55.060Z
-updated: 2025-01-20T18:49:12.733Z
+date: 2025-01-20T00:09:36.693Z
+updated: 2025-01-26T20:03:08.898Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ If you’re new to our DJ mixing software or just want to know the preferred met
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How-To Import Tracks And Update The DEX 3 or DEX 3 RE Database With New Music
@@ -41,26 +41,26 @@ Tracks added to the database (list) and/or user lists (playlists) are also autom
 With an understanding of these two general [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) import methods, we’ll now provide our staff suggested method for both importing your library initially, and updating it moving forward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Making sure your entire existing track library is in DEX 3’s or DEX 3 RE’s internal database and search cache:
 
 ![Expand Explorer Tab in DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/07/explorer-expand.jpg?fit=500%2C500&ssl=1 "Expand Explorer Tab in DEX 3")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Do a bulk import of all your tracks into the master database list.** Expand the ‘**Explorer**‘ tab in the navigation pane (bottom left) by clicking on the name ‘Explorer’. Scroll down and you’ll find your internal hard drive listed and any external hard drives that are connected to the machine. Navigate to and right-click on the parent folder (or hard drive letter itself) where all your existing tracks reside and from the drop down menu select “**add to database**”’
 
 ![Add to database DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/07/add-to-database.jpg?fit=500%2C500&ssl=1 "Add to database DEX 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Clicking “**add to database**” will start importing all your tracks to create a master list in the database list (no matter how many folders/levels deep), therefore also adding the tracks to the internal database and search cache. \[_**IMPORTANT NOTE:**_ When you add the folder, and DEX 3/DEX 3 RE displays the message “this folder has been added” – click OK. Now scroll up to and click on the database name (list) at the very top left side of the navigation pane in the file browser. Then, **SCROLL TO THE BOTTOM** of the list as you will see songs rapidly pilling into the list from the bottom as the tag data is being read in and added. You will want to make sure this process is done (so you do not see any more songs pilling in from the bottom of the list) before adding any more music or continuing to the next suggested step.\]
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For browsing your track collection and updating DEX 3 or DEX 3’s database when new tracks are added to your system:
 
@@ -70,15 +70,15 @@ Clicking “**add to database**” will start importing all your tracks to creat
 
 ![Updating the DEX 3 database](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/07/updating-library-clicking-favorite-folder.jpg?fit=500%2C500&ssl=1 "Updating the DEX 3 database")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **How-to update DEX 3/DEX 3 RE’s internal database and search cache with tracks you’ve added to your hard drive (or external).** After nesting your main music folders under “Favorites”, you can more easily make sure our DJ mixing software sees new tracks when they are added to folders on your hard drive. After you add new tracks to one of the folders on your hard drive, just open up DEX 3/DEX 3 RE and click on the corresponding folder that new songs were added to. As soon as you ‘see’ the songs display in the middle section of the DEX 3/DEX 3 RE browser they are added to the internal database and search cache. You’re done — no need to also add them to the physical database list as this point, they are in and they are searchable.
 
 Using this PCDJ Staffer method, by importing all songs into the DJ mixing software’s database list initially and then accessing folders under favorites for updating your library, you can swiftly make sure all your existing tracks are accessible and searchable — and update the database and search cache with freshly added songs easily.
 
 _Have questions about **importing music into DEX 3**, our **DJ mixing software** or how to **update the database**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -99,19 +99,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/tracklibrary-staff.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-telegram-the-ultimate-step-by-step-guide/"><u>[New] In 2024, Mastering Telegram The Ultimate Step-By-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-podcast-hooks-compelling-beginnings/"><u>[New] The Art of Podcast Hooks Compelling Beginnings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outube-artistry-designing-channels-visual-assets-bannersicons/"><u>[New] YouTube Artistry Designing Channels' Visual Assets (Banners/Icons)</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-apples-finest-free-apps-to-perfect-your-selfies/"><u>[Updated] In 2024, Apple's Finest FREE Apps to Perfect Your Selfies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-quick-route-to-true-profile-ages-on-tiktok/"><u>[Updated] The Quick Route to True Profile Ages on TikTok</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-guide-what-does-an-icloud-backup-include/"><u>Comprehensive Guide: What Does an iCloud Backup Include?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/gratis-und-zentrales-backup-fur-server-and-arbeitsplatze-mit-aomei-cyber-backup/"><u>Gratis Und Zentrales Backup Für Server & Arbeitsplätze Mit AOMEI Cyber Backup</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-complet-pour-retrouver-ses-favoris-perdus-dans-edge-browser/"><u>Guide Complet Pour Retrouver Ses Favoris Perdus Dans Edge Browser</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-f04-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy F04 FRP Without Computer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-lightweight-travel-bags-with-camera-integration/"><u>In 2024, Lightweight Travel Bags with Camera Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/stream-assist-how-intel-elevates-online-gaming-quality/"><u>Stream Assist: How Intel Elevates Online Gaming Quality</u></a></li>
-<li><a href="https://fox-where.techidaily.com/techniques-efficaces-pour-recuperation-de-photos-sur-une-carte-sd-compromise-augmenter-les-chances-de-reussite/"><u>Techniques Efficaces Pour Récupération De Photos Sur Une Carte SD Compromise – Augmenter Les Chances De Réussite</u></a></li>
-<li><a href="https://fox-where.techidaily.com/verschwundene-fallout/"><u>Verschwundene Fallout</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1728465954792-ssd/"><u>セキュリティ機能付き、簡単に操作! デルSSDバックアップソフトウェア</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-crafting-engaging-haul-vids-a-step-by-step-guide/"><u>[New] 2024 Approved Crafting Engaging Haul Vids A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>[New] In 2024, Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-visualcapturew11-windows-11-simple-recording-app/"><u>[Updated] VisualCaptureW11 Windows 11 Simple Recording App</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/url404/"><u>該当するURLが見つからずに「404ページ・不在」エラー表示。何をしたべきですか？</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728462905083-windows-11/"><u>确保数据安全：在Windows 11上有效删除多余存储空间的三个选项</u></a></li>
+<li><a href="https://fox-where.techidaily.com/diagnosing-common-issues-why-does-your-scanner-halt-operation/"><u>Diagnosing Common Issues: Why Does Your Scanner Halt Operation?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/explore-the-top-8-designed-chakra-ui-templates-in-react-by-creative-tim/"><u>Explore the Top 8 Designed Chakra UI Templates in React by Creative Tim</u></a></li>
+<li><a href="https://fox-where.techidaily.com/marvel-universe-inspired-graphics-shockwave-comic-scenes-high-quality-wallpapers-by-yl-computing/"><u>Marvel Universe Inspired Graphics: Shockwave Comic Scenes - High-Quality Wallpapers by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/maximizing-pc-efficiency-key-strategies-by-yl-software-experts/"><u>Maximizing PC Efficiency: Key Strategies by YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-cddvd-drive-issues-insights-and-solutions-by-yl-technology-specialists/"><u>Solving CD/DVD Drive Issues: Insights and Solutions by YL Technology Specialists</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-ultimate-guide-to-finding-your-printer-drivers-with-help-from-yl-software-experts/"><u>The Ultimate Guide to Finding Your Printer Drivers with Help From YL Software Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-4-must-have-tools-for-following-and-participating-in-twitter-hashtag-chats/"><u>The Ultimate Guide: 4 Must-Have Tools for Following and Participating in Twitter Hashtag Chats</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-list-10-best-free-online-video-repeaters/"><u>Updated In 2024, The Ultimate List 10 Best Free Online Video Repeaters</u></a></li>
 </ul></div>
 

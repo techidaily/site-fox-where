@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your DJ Sets From PCDJ Dex 2 to Dex 3: A Comprehensive Step-by-Step Guide"
-date: 2025-01-14T22:31:25.796Z
-updated: 2025-01-20T17:25:37.728Z
+date: 2025-01-20T18:09:35.503Z
+updated: 2025-01-26T23:15:41.582Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,19 +44,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-trending-beats-navigating-the-world-of-viral-tiktok-raps/"><u>[New] 2024 Approved Trending Beats Navigating the World of Viral TikTok Raps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-step-by-step-acquiring-top-notch-clip-art-without-a-price-tag/"><u>[New] Step-by-Step Acquiring Top-Notch Clip Art Without a Price Tag</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-change-screenshot-file-formats-on-a-mac/"><u>[Updated] 2024 Approved How to Change Screenshot File Formats on a Mac</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-behind-the-scenes-samsungs-s8-and-4k-technology-for-2024/"><u>[Updated] Behind the Scenes Samsung's S8 and 4K Technology for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/gopro/"><u>GoProから消したビデオ・写真を手っ取り早く、費用ゼロで再生成！方法３種類</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-pixel-personality-through-tunes-and-sounds/"><u>In 2024, Pixel Personality Through Tunes and Sounds</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-secrets-unveiled-perfect-your-360-youtube-live-experience/"><u>In 2024, Secrets Unveiled Perfect Your 360° YouTube Live Experience</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1728478122941-iphone/"><u>IPhone 記憶錄意外消失？三種最有效的回收手段！</u></a></li>
-<li><a href="https://fox-where.techidaily.com/is-it-possible-to-clone-a-complete-windows-installation-onto-an-sdd/"><u>Is It Possible to Clone a Complete Windows Installation Onto an SDD?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/perfekt-laden-von-bildert-auf-das-ios-gerat/"><u>Perfekt Laden Von Bildert Auf Das iOS-Gerät</u></a></li>
-<li><a href="https://windows11.techidaily.com/powertoys-lockmaster-a-compreayers-guide-to-files/"><u>PowerToys Lockmaster: A Compreayer's Guide to Files</u></a></li>
-<li><a href="https://fox-where.techidaily.com/telechargement-gratuit-et-creation-dune-cle-usb-bootable-avec-rufus-pour-windows-11/"><u>Téléchargement Gratuit Et Création D’une Clé USB Bootable Avec Rufus Pour Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-advantages-that-make-the-smaller-iphone-16-pro-my-pick-over-the-max-for-this-year-zdnet/"><u>The Advantages That Make the Smaller iPhone 16 Pro My Pick Over the Max for This Year | ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rom-concept-to-completion-crafting-youtube-shorts-templates-masterfully-for-2024/"><u>[New] From Concept to Completion Crafting YouTube Shorts Templates Masterfully for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-youtube-success-subscriber-boosts-at-a-bargain/"><u>[New] Unlock YouTube Success - Subscriber Boosts at a Bargain</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-capture-spectacular-video-on-youtube-top-webcam-picks/"><u>[Updated] In 2024, Capture Spectacular Video on YouTube Top Webcam Picks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-exploring-virtual-landscapes-with-android-vr360/"><u>[Updated] In 2024, Exploring Virtual Landscapes with Android (VR/360)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-cyberpower-cp685avrg-a-fundamental-ups-for-reliable-performance/"><u>Comprehensive Review of the Cyberpower CP685AVRG - A Fundamental UPS for Reliable Performance</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fix-your-non-responsive-computer-essential-tips-by-yl-software-experts/"><u>Fix Your Non-Responsive Computer: Essential Tips by YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-turn-off-microsofts-antivirus-windows-defender-settings-guide-for-windows-10-insights-by-yl-computing/"><u>How To Turn Off Microsoft's Antivirus: Windows Defender Settings Guide for Windows 10 - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-windows-hdr-streamlining-video-processing/"><u>In 2024, Windows HDR Streamlining Video Processing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/shogun-2-fall-of-the-samurai-enhance-your-gaming-setup-with-stunning-total-war-backdrops-and-wallpapers-yl-computing/"><u>Shogun 2 Fall of the Samurai: Enhance Your Gaming Setup with Stunning Total War Backdrops & Wallpapers - YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/syncing-your-itunes-library-with-dj-pro-software-a-step-by-step-guide/"><u>Syncing Your iTunes Library with DJ Pro Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-13-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi 13 Ultra? Here is How | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-softwares-expert-advice-on-adding-programs-to-your-pc-through-the-windows-control-panel/"><u>YL Software's Expert Advice on Adding Programs to Your PC Through the Windows Control Panel</u></a></li>
 </ul></div>
 

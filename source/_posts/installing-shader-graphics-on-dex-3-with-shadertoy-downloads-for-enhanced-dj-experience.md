@@ -1,7 +1,7 @@
 ---
 title: Installing Shader Graphics on DEX 3 with Shadertoy Downloads for Enhanced DJ Experience
-date: 2025-01-14T22:09:36.050Z
-updated: 2025-01-20T20:26:52.272Z
+date: 2025-01-20T19:08:54.105Z
+updated: 2025-01-26T18:43:33.791Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Shaders are free to use and generate stunning on-screen visualizations that are 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where do you get Shaders?
@@ -38,12 +38,16 @@ Shaders also vary greatly on how much resources they will use — from light to 
 
 Some Shaders are also marked ‘private’ and therefore can’t be added to DEX 3, while others may not convert properly and will display a generic ‘red’ background when applied in DEX 3.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding Shaders
 
 In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shader from your browser’s address bar and apply it to the ‘Add a new Shader’ input box that you access from the ‘Shader’ drop down menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here’s a step-by-step demonstration of how it’s done:**
@@ -54,10 +58,6 @@ In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shad
 
 [![Click add Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1 "Click add Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** From the Shader drop down menu located at the top of the video skins (4-deck or 2-deck video tabs) select the option ‘Add a new Shader’.
 
 [![Right click past in Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1 "Right click past in Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1)
@@ -67,7 +67,7 @@ In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shad
 [![Click OK to apply Shader to DEX 3](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1 "Click OK to apply Shader to DEX 3")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click OK to apply the Shader immediately. Unless the Shader isn’t supported or marked private, the Shader should instantly apply and display on screen.
@@ -92,7 +92,7 @@ Now you’re ready to mesmerize your audience with on-screen visualizations that
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -114,18 +114,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-whats-winning-in-the-world-of-2023-tweets/"><u>[New] 2024 Approved What's Winning in the World of 2023 Tweets</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-dallas-data-restoration-tutorial-expert-strategies-and-techniques/"><u>Complete Dallas Data Restoration Tutorial: Expert Strategies and Techniques</u></a></li>
-<li><a href="https://fox-where.techidaily.com/discovering-your-latest-files-a-guide-to-locating-newly-created-documents/"><u>Discovering Your Latest Files: A Guide to Locating Newly Created Documents</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-fixes-for-stability-problems-in-the-world-of-tribes-of-midgard/"><u>Effective Fixes for Stability Problems in the World of 'Tribes of Midgard'</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guida-passo-passo-per-lutilizzo-della-riga-di-comando-wbadmin-in-windows-7-per-backup-ai-dati/"><u>Guida Passo-Passo per L'utilizzo Della Riga Di Comando Wbadmin in Windows 7 per Backup AI Dati</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-x100-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo X100</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-s17t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo S17t without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-motorola-moto-g14-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Motorola Moto G14 on Windows</u></a></li>
-<li><a href="https://fox-where.techidaily.com/restaurar-unidad-seagate-externa-accidentalmente-formateada-como-solucionarlo/"><u>Restaurar: Unidad Seagate Externa Accidentalmente Formateada, Cómo Solucionarlo?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ultimate-step-by-step-tutorial-how-to-boot-your-pc-using-an-external-hard-drive-on-windows-1011/"><u>Ultimate Step-by-Step Tutorial: How to Boot Your PC Using an External Hard Drive on Windows 10/11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-the-joy-of-9-premium-complete-christmas-movies-for-free-for-2024/"><u>Unbox the Joy of 9 Premium, Complete Christmas Movies for Free for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-resolving-issues-with-your-external-hdd-expert-diagnosis-and-repair-guide-yl-tech-solutions/"><u>1. Resolving Issues with Your External HDD: Expert Diagnosis & Repair Guide - YL Tech Solutions</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/boost-your-computer-speed-with-proven-techniques-by-yl-software-experts/"><u>Boost Your Computer Speed with Proven Techniques by YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effective-strategies-for-resolving-device-driver-issues-insights-from-yl-computing/"><u>Effective Strategies for Resolving Device Driver Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/enhancing-your-pcs-efficiency-expert-tips-from-yl-computing/"><u>Enhancing Your PC's Efficiency: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/get-your-hands-on-updated-dj-software-pcdj-compatible-dex-3-professional-and-lightweight-editions-v3801-now-available/"><u>Get Your Hands on Updated DJ Software: PCDJ-Compatible DEX 3 Professional and Lightweight Editions v3.8.0.1 Now Available</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-convert-instagram-video-to-mp4-2-proven-ways-for-2024/"><u>How to Convert Instagram Video to MP4 [ 2 Proven Ways] for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-voice-chat-on-phasmophobia-game-server/"><u>How to Resolve Non-Functional Voice Chat on Phasmophobia Game Server</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-pinnacle-windows-instant-image-viewer/"><u>In 2024, Pinnacle Window's Instant Image Viewer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/practices-like-crop-rotation-intercropping-organic-amendments-and-biological-pest-control-decrease-reliance-on-chemical-fertilizers-and-pesticides-while-pro391/"><u>Practices Like Crop Rotation, Intercropping, Organic Amendments, and Biological Pest Control Decrease Reliance on Chemical Fertilizers and Pesticides While Promoting Natural Soil Fertility and Plant Health.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pros-playbook-elevate-your-tiktok-video-game-for-2024/"><u>Pro's Playbook Elevate Your TikTok Video Game for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/protect-your-gpu-expert-strategies-for-preventing-graphics-card-issues-with-yl-software/"><u>Protect Your GPU: Expert Strategies for Preventing Graphics Card Issues with YL Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-winter-preparation-selecting-your-perfect-snowblower-an-experts-purchase-guide/"><u>Ultimate Winter Preparation: Selecting Your Perfect Snowblower - An Expert's Purchase Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unveiling-the-onset-of-the-opium-wars-with-expertise-from-yl-software-solutions/"><u>Unveiling the Onset of the Opium Wars with Expertise From YL Software Solutions</u></a></li>
 </ul></div>
 
