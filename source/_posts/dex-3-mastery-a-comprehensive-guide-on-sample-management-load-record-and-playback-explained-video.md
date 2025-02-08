@@ -1,7 +1,7 @@
 ---
 title: "DEX ^3 Mastery: A Comprehensive Guide on Sample Management - Load, Record & Playback Explained (Video)"
-date: 2025-01-25T19:24:40.257Z
-updated: 2025-01-26T17:13:27.228Z
+date: 2025-02-04T21:50:15.952Z
+updated: 2025-02-08T21:47:33.924Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,21 +50,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/econstructing-the-revenue-stream-of-tseries-in-youtube-economy/"><u>[New] Deconstructing the Revenue Stream of TSeries in YouTube Economy</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-powerpoint-presentations-merging-text-with-tuneable-tracks/"><u>[New] PowerPoint Presentations Merging Text with Tuneable Tracks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-efficiently-configuring-zoom-for-flawless-calls-for-2024/"><u>[Updated] Efficiently Configuring Zoom for Flawless Calls for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-end-your-videos-professionally-with-these-free-tools-top-6-for-2024/"><u>[Updated] End Your Videos Professionally with These Free Tools (Top 6) for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-la-herramienta-ideal-para-hacer-copias-de-seguridad-del-correo-en-windows-live-mail/"><u>1. 'La Herramienta Ideal Para Hacer Copias De Seguridad Del Correo en Windows Live Mail'</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-invalid-directory-name-errors-in-windows-7-effective-solutions-you-need/"><u>1. Invalid Directory Name Errors in Windows 7: Effective Solutions You Need</u></a></li>
-<li><a href="https://fox-where.techidaily.com/nvme-ssdwindows-11/"><u>轻松安装NVMe SSD到Windows 지원 11 ——初始化无烦恼指南</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1726227290375-vob5/"><u>人気VOB再生ソフトリスト：【推薦ランキング】5番目におすすめのツールはどんな機能を備えていますか？</u></a></li>
-<li><a href="https://fox-where.techidaily.com/entschlussele-das-ratsel-der-verschwundenen-outlook-ordner-effiziente-methoden-zur-suche-und-reparatur/"><u>Entschlüssele Das Rätsel Der Verschwundenen Outlook-Ordner – Effiziente Methoden Zur Suche Und Reparatur</u></a></li>
-<li><a href="https://fox-where.techidaily.com/entschlusselt-fehlerbehebung-bei-windows-11-der-nicht-gestartet-wird/"><u>Entschlüsselt: Fehlerbehebung Bei Windows 11, Der Nicht Gestartet Wird</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-for-persona-4-golden-software-glitches/"><u>Fixes & Solutions for Persona 4 Golden Software Glitches</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-to-prevent-and-mend-streaming-hiccups-in-fb-livestran-for-2024/"><u>How to Prevent and Mend Streaming Hiccups in FB Livestran for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/lost-administrator-password-restart-and-recover-in-windows-11-easily/"><u>Lost Administrator Password? Restart & Recover in Windows 11 Easily</u></a></li>
-<li><a href="https://fox-where.techidaily.com/solving-the-dilemma-resolving-iphone-software-upgrade-delays-and-unsticking-frozen-ios-installations/"><u>Solving the Dilemma: Resolving iPhone Software Upgrade Delays and Unsticking Frozen iOS Installations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-distinguishing-between-youtube-policies-and-cc-clauses/"><u>[New] In 2024, Distinguishing Between YouTube Policies and CC Clauses</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-master-playlist-transfers-across-music-hubs/"><u>[New] Master Playlist Transfers Across Music Hubs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-vhs-chronicles-revisiting-the-comical-tale-for-2024/"><u>[New] VHS Chronicles Revisiting 'The Comical Tale' For 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-c67-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme C67 4G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-movies-to-watch-instead-7-best-list/"><u>In 2024, Movies to Watch Instead - #7 Best List</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-iphone-voice-message-migration-a-step-by-step-guide-using-the-fonebackup-app/"><u>Mastering iPhone Voice Message Migration: A Step-by-Step Guide Using the FoneBackup App</u></a></li>
+<li><a href="https://fox-where.techidaily.com/soluciones-efectivas-para-restaurar-contactos-borrados-del-iphone-1314-guia-paso-a-paso/"><u>Soluciones Efectivas Para Restaurar Contactos Borrados Del iPhone 13/14 – Guía Paso a Paso</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-restoring-lost-footage-from-your-camcorder/"><u>Step-by-Step Guide: Restoring Lost Footage From Your Camcorder</u></a></li>
+<li><a href="https://fox-where.techidaily.com/upgrade-auf-ein-neues-iphone-ersatz-ihres-alten-gerats-mitohne-fruheres-backup-nutzen/"><u>Upgrade Auf Ein Neues iPhone – Ersatz Ihres Alten Geräts Mit/Ohne Früheres Backup Nutzen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-and-macisomov/"><u>Windows & MacでのISO画像からMOVファイルへの変換手順</u></a></li>
+<li><a href="https://fox-where.techidaily.com/oshibka-acronis-true-image-pri-klonirovanii-dannyh-reshenie-problemy/"><u>Ошибка Acronis True Image При Клонировании Данных: Решение Проблемы</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Essential '70S Hits for Disc Jockeys: A Playlist Guide - PCDJ Music Selection"
-date: 2025-01-16T18:23:09.004Z
-updated: 2025-01-20T22:42:02.434Z
+date: 2025-02-05T16:19:24.238Z
+updated: 2025-02-08T21:20:49.237Z
 tags:
   - product
 categories:
@@ -152,7 +152,7 @@ Here’s last nights video chat. John’s list of must play 70s songs for DJs is
 [CONTINUE READING AT DISCJOCKEYNEWS.COM](http://discjockeynews.com/the-must-play-songs-from-the-70s-with-brian-redd-and-john-young/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -174,19 +174,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/02/musthave70smusicfordjs-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-innovative-20-no-rights-pubg-visual-arrays/"><u>[New] 2024 Approved Innovative 20 No-Rights PUBG Visual Arrays</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-insert-youtube-playlists-seamlessly-into-a-website/"><u>[Updated] How to Insert YouTube Playlists Seamlessly Into a Website</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-lead-content-curator-enhancing-digital-narratives/"><u>1. Lead Content Curator: Enhancing Digital Narratives</u></a></li>
-<li><a href="https://driver-error.techidaily.com/amd-radeon-hd-7770-drivers-download-easily/"><u>AMD Radeon HD 7770 Drivers Download Easily</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/discover-the-most-popular-screen-recorders-free-version/"><u>Discover the Most Popular Screen Recorders - Free Version</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-effortlessly-broadcast-your-ipad-screen-to-a-tv-set/"><u>How to Effortlessly Broadcast Your iPad Screen to a TV Set</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-and-prevent-your-ark-software-from-crashing-effectively/"><u>How to Fix and Prevent Your Ark Software From Crashing Effectively</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-lenovo-legion-go-next-gen-gaming-experience/"><u>IFA 2023: Lenovo Legion Go - Next-Gen Gaming Experience</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-spectral-showcase-curating-the-best-4k-displays-on-screen/"><u>In 2024, Spectral Showcase Curating the Best 4K Displays on Screen</u></a></li>
-<li><a href="https://fox-where.techidaily.com/revamp-and-improve-essential-update-for-your-go-to-app/"><u>Revamp and Improve: Essential Update for Your Go-To App</u></a></li>
-<li><a href="https://fox-where.techidaily.com/simple-steps-effortless-methods-to-stream-your-instagram-feed-directly-to-your-television/"><u>Simple Steps: Effortless Methods to Stream Your Instagram Feed Directly to Your Television</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-9-ocr-solutions-for-windows-10-free-and-premium-options-explored/"><u>Top 9 OCR Solutions for Windows 10: Free and Premium Options Explored</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-video-to-image-how-to-convert-videos-to-photos-for-2024/"><u>Updated Video to Image How to Convert Videos to Photos for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728502908909-outlook3/"><u>「Outlookからメールが消えた！送信済み領域の失われたメッセージを取り戻す3つのテクニック」</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-resolving-pemecahan-masalah-drive-continuously-disappears-fixes-and-solutions/"><u>1. Resolving [Pemecahan Masalah]: Drive Continuously Disappears - Fixes & Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhance-your-shorts-appeal-with-personalized-thumbnails/"><u>2024 Approved Enhance Your Shorts' Appeal with Personalized Thumbnails</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ar-5-glasses-evaluation-top-quality-augmented-reality-experience-for-less/"><u>AR-5 Glasses Evaluation - Top-Quality Augmented Reality Experience for Less!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/bitcoin-wallets-sichern-best-practices-fur-nutzer-von-windows-11-8-und-7/"><u>Bitcoin Wallets Sichern – Best Practices Für Nutzer Von Windows 11, 8 Und 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cooking-made-easy-leverage-chatgpts-expertise-using-7-unique-strategies/"><u>Cooking Made Easy: Leverage ChatGPT's Expertise Using 7 Unique Strategies</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guia-para-comprender-y-utilizar-la-funcion-de-copia-de-carbon-en-windows-10-efectivamente/"><u>Guía Para Comprender Y Utilizar La Función De Copia De Carbón en Windows 10 Efectivamente</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guida-completa-per-risolvere-il-problema-dei-punti-di-ripristino-mancanti-in-windows-7/"><u>Guida Completa per Risolvere Il Problema Dei Punti Di Ripristino Mancanti in Windows 7</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-activate-and-customize-zooms-virtual-screen-mode/"><u>How to Activate and Customize Zoom's Virtual Screen Mode</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-upgrading-to-high-def-facebook-broadcasts/"><u>In 2024, Upgrading to High-Def Facebook Broadcasts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/innovative-data-protection-stellars-simplified-backup-solution/"><u>Innovative Data Protection: Stellar's Simplified Backup Solution</u></a></li>
+<li><a href="https://fox-where.techidaily.com/risoluzione-guidata-soluzioni-rapide-per-il-problemi-di-pianificazione-su-windows-server/"><u>Risoluzione Guidata - Soluzioni Rapide per Il Problemi Di Pianificazione Su Windows Server</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/tutoriel-de-sauvegarde-et-restauration-des-donnees-avec-wbadmin-dans-linterface-ligne-de-commande-sous-windows-7/"><u>Tutoriel De Sauvegarde Et Restauration Des Données Avec Wbadmin Dans L'interface Ligne De Commande Sous Windows 7</u></a></li>
 </ul></div>
 

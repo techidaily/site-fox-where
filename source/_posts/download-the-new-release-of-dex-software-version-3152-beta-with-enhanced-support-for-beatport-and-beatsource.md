@@ -1,7 +1,7 @@
 ---
 title: Download the New Release of DEX Software Version 3.15.2 (BETA) with Enhanced Support for Beatport and Beatsource
-date: 2025-01-21T19:40:34.937Z
-updated: 2025-01-26T17:57:30.367Z
+date: 2025-02-07T17:48:53.281Z
+updated: 2025-02-08T20:09:20.713Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
@@ -57,7 +57,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,16 +79,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-a-guide-to-crafting-a-captivating-fb-memory-reel/"><u>[New] A Guide to Crafting a Captivating FB Memory Reel</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-hit-the-floor-with-optimal-posting-hours/"><u>[Updated] 2024 Approved Hit the Floor with Optimal Posting Hours</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-gopro-karma-quest-for-altitude-dominance/"><u>2024 Approved The GoPro Karma Quest for Altitude Dominance</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effective-solutions-for-unresponsive-printers-insights-from-yl-computings-expertise/"><u>Effective Solutions for Unresponsive Printers: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://fox-where.techidaily.com/fix-your-pcs-memory-woes-with-simple-steps-tips-by-yl-software-experts/"><u>Fix Your PC's Memory Woes with Simple Steps - Tips by YL Software Experts</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/proven-steps-for-effortless-creation-of-youtube-shorts-credits/"><u>Proven Steps for Effortless Creation of YouTube Shorts Credits</u></a></li>
-<li><a href="https://fox-where.techidaily.com/solving-your-scanners-connectivity-woes-with-yl-software-expertise/"><u>Solving Your Scanner's Connectivity Woes with YL Software Expertise</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-on-accessing-system-specifications-with-yl-software-solutions/"><u>Step-by-Step Tutorial on Accessing System Specifications with YL Software Solutions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-techniques-in-documenting-real-time-sporting-broadcasts-for-2024/"><u>Top Techniques in Documenting Real-Time Sporting Broadcasts for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-tips-for-non-responsive-s-pen-in-your-galaxy-note-series/"><u>Ultimate Troubleshooting Tips for Non-Responsive S Pen in Your Galaxy Note Series</u></a></li>
-<li><a href="https://fox-where.techidaily.com/why-doesnt-my-video-card-just-stop-working-when-it-gets-hot-a-yl-software-perspective/"><u>Why Doesn't My Video Card Just Stop Working When It Gets Hot? A YL Software Perspective</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-converting-fb-videos-to-tv-friendly-formats-for-2024/"><u>[New] Converting FB Videos to TV-Friendly Formats for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-from-novice-to-pro-elevating-your-ps4-gameplay-screenshot-skills/"><u>[New] From Novice to Pro Elevating Your PS4 Gameplay Screenshot Skills</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-accelerated-8-screencap-solutions/"><u>[Updated] 2024 Approved Accelerated 8 Screencap Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweet-trailblazers-the-trending-threads-showdown/"><u>[Updated] 2024 Approved Tweet Trailblazers The Trending Threads Showdown</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-no-more-costs-discover-best-free-camera-screen-recorder-apps/"><u>[Updated] In 2024, No More Costs? Discover Best FREE Camera Screen Recorder Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-taste-titans-top-culinary-bloggers-and-youtubers/"><u>[Updated] In 2024, Taste Titans Top Culinary Bloggers & YouTubers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-scouring-the-internet-for-superior-pixel-ringtone-sources/"><u>2024 Approved Scouring the Internet for Superior Pixel Ringtone Sources</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728485892807-3/"><u>如何修复磁碟区问题：3种简单方法挽救数据安全</u></a></li>
+<li><a href="https://fox-where.techidaily.com/complete-tutorial-on-setting-up-auto-download-of-attachments-with-outlook/"><u>Complete Tutorial on Setting Up Auto-Download of Attachments with Outlook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-securely-copy-files-from-computer-to-external-drive-using-two-techniques-step-by-step-guide/"><u>How To Securely Copy Files From Computer to External Drive Using Two Techniques (Step-by-Step Guide)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-exposing-concealed-viewers-feedback-on-videos/"><u>In 2024, Exposing Concealed Viewers' Feedback on Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tart-your-professional-filmmaking-exclusive-cost-free-green-screen-training-from-top-youtube-educators-for-2024/"><u>Jumpstart Your Professional Filmmaking Exclusive, Cost-Free Green Screen Training From Top YouTube Educators for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/resetting-your-samsung-pcs-mindset-mastering-the-windows-11-fresh-start-techniques-in-just-four-moves/"><u>Resetting Your Samsung PC's Mindset: Mastering the Windows 11 Fresh Start Techniques in Just Four Moves</u></a></li>
+<li><a href="https://fox-where.techidaily.com/secure-your-windows-11-folders-with-password-protection-two-proven-strategies/"><u>Secure Your Windows 11 Folders with Password Protection - Two Proven Strategies</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solutions-rapides-pour-reparer-un-demarrage-dysfonctionnel-sous-windows/"><u>Solutions Rapides Pour Réparer Un Démarrage Dysfonctionnel Sous Windows</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-complete-walkthrough-of-managing-acer-recoveries-in-windows-11-environments/"><u>The Complete Walkthrough of Managing Acer Recoveries in Windows 11 Environments</u></a></li>
+<li><a href="https://fox-where.techidaily.com/transferieren-sie-ihr-system-mit-mbr-einfache-ubertragung-vom-festplattenlaufwerk-zu-ssdusb-zur-wiederherstellung-des-bootvorgangs/"><u>Transferieren Sie Ihr System Mit MBR: Einfache Übertragung Vom Festplattenlaufwerk Zu SSD/USB Zur Wiederherstellung Des Bootvorgangs.</u></a></li>
+<li><a href="https://fox-where.techidaily.com/wie-sie-daten-von-einer-defekten-sd-karte-wiederherstellen-konnen/"><u>Wie Sie Daten Von Einer Defekten SD-Karte Wiederherstellen Können</u></a></li>
 </ul></div>
 

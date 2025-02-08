@@ -1,7 +1,7 @@
 ---
 title: "Capturing the Energy of a Gathering: Insights Into Reading Audience Vibes Using DJNN & Scott Faver's Methods | PremiumDJ Skills"
-date: 2025-01-23T20:40:20.847Z
-updated: 2025-01-26T17:40:27.340Z
+date: 2025-02-01T20:21:28.120Z
+updated: 2025-02-08T21:06:20.477Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ This week, we felt inclined to share a video recently shot and released by Disc 
 During this weeks segment DJNN hosts Scott Faver, known in the industry as the Game Master. He share’s his insights in reading the vibe from a group of people so he can play to his audiences tastes in music. DJing is all about being a great “selector” of music, to ensure a packed dance floor and memorable occasion (_and more referrals!_):  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,22 +42,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/readingthevibe.jpg?fit=530
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-step-by-step-windows-10-audio-capture/"><u>[New] In 2024, Step-by-Step Windows 10 Audio Capture</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-understanding-and-proficiently-implementing-cc-copyrights/"><u>[Updated] 2024 Approved Understanding and Proficiently Implementing CC Copyrights</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-elevate-your-pics-advanced-techniques-for-editing-photo-text/"><u>[Updated] Elevate Your Pics Advanced Techniques for Editing Photo Text</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfected-techniques-for-high-quality-webp-to-jpg-conversion/"><u>[Updated] Perfected Techniques for High-Quality WebP to JPG Conversion</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-resolving-issues-with-your-external-hdd-expert-diagnosis-and-repair-guide-yl-tech-solutions/"><u>1. Resolving Issues with Your External HDD: Expert Diagnosis & Repair Guide - YL Tech Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/diagnosing-common-issues-why-does-your-scanner-halt-operation/"><u>Diagnosing Common Issues: Why Does Your Scanner Halt Operation?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-constant-windows-11-reboots-expert-guide/"><u>Easy Fixes for Constant Windows 11 Reboots: Expert Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effective-strategies-for-resolving-device-driver-issues-insights-from-yl-computing/"><u>Effective Strategies for Resolving Device Driver Issues - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/high-resolution-eagle-theme-wallpaper-collection-ultimate-visuals-by-yl-computing/"><u>High-Resolution Eagle Theme Wallpaper Collection - Ultimate Visuals by YL Computing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-nubia-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Nubia</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-s23-fe-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy S23 FE to New Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/marvel-universe-inspired-graphics-shockwave-comic-scenes-high-quality-wallpapers-by-yl-computing/"><u>Marvel Universe Inspired Graphics: Shockwave Comic Scenes - High-Quality Wallpapers by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/maximizing-pc-efficiency-key-strategies-by-yl-software-experts/"><u>Maximizing PC Efficiency: Key Strategies by YL Software Experts</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/solving-cddvd-drive-issues-insights-and-solutions-by-yl-technology-specialists/"><u>Solving CD/DVD Drive Issues: Insights and Solutions by YL Technology Specialists</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-ultimate-guide-to-finding-your-printer-drivers-with-help-from-yl-software-experts/"><u>The Ultimate Guide to Finding Your Printer Drivers with Help From YL Software Experts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-leaders-in-education-top-15-sci-yt-innovators/"><u>[New] 2024 Approved Leaders in Education Top 15 Sci-YT Innovators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-your-office-work-with-voice-to-text-in-ms-word/"><u>2024 Approved Streamline Your Office Work with Voice-to-Text in MS Word</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/lol/"><u>馬上獲得！LOL影片存放位址找出方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-purchasing-your-next-smartwatch-5-critical-aspects-to-review/"><u>Before Purchasing Your Next Smartwatch: 5 Critical Aspects to Review</u></a></li>
+<li><a href="https://fox-where.techidaily.com/creating-a-safe-bitcoin-wallet-step-by-step-guide-with-yl-computing-solutions/"><u>Creating a Safe Bitcoin Wallet: Step-by-Step Guide with YL Computing Solutions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/eerie-halloween-wallpapers-screen-savers-and-imagery-collection-quality-themes-by-yl-computing/"><u>Eerie Halloween Wallpapers, Screen Savers & Imagery Collection - Quality Themes by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expand-your-playlist-with-new-tracks-discover-the-latest-additions-to-our-premium-karaoke-selection-for-march-2nd-2017/"><u>Expand Your Playlist with New Tracks: Discover the Latest Additions to Our Premium Karaoke Selection for March 2Nd, 2017!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/hercules-dj-control-pro-compatible-with-djay-serato-and-mixxx-advanced-pcdj-supported-controller/"><u>Hercules DJ Control Pro: Compatible with Djay, Serato & Mixxx – Advanced PCDJ-Supported Controller</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-logitech-mx-master-software/"><u>How to Get Logitech MX Master Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/improve-pc-performance-is-upgrading-memory-the-answer-insights-by-yl-computing-expertise/"><u>Improve PC Performance: Is Upgrading Memory the Answer? Insights by YL Computing Expertise</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gigglegenius-customize-memes-faster-than-you-think/"><u>In 2024, GiggleGenius Customize Memes Faster Than You Think</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-top-techniques-for-professional-looking-ig-video-content/"><u>In 2024, Top Techniques for Professional-Looking IG Video Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/investment-requirements-for-video-promotion-for-2024/"><u>Investment Requirements for Video Promotion for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-unrecognized-sound-cards-in-windows-tips-and-solutions-from-yl-computing/"><u>Troubleshooting Unrecognized Sound Cards in Windows - Tips and Solutions From YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-14-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi 14 Pro Users</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unveiling-the-distinctions-how-digital-assets-contrast-with-conventional-money-a-deep-dive-by-yl-computing/"><u>Unveiling the Distinctions: How Digital Assets Contrast with Conventional Money - A Deep-Dive by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-downsides-safer-options-than-imitating-chatgpt-in-the-app-store-for-mac-users/"><u>Unveiling the Downsides: Safer Options Than Imitating ChatGPT in the App Store for Mac Users</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-software-solutions-easily-saving-and-recovering-your-systems-registry-files/"><u>YL Software Solutions: Easily Saving & Recovering Your System's Registry Files</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-softwares-guide-to-achieving-peak-performance-in-your-pc-essential-optimization-tips/"><u>YL Software's Guide to Achieving Peak Performance in Your PC – Essential Optimization Tips</u></a></li>
 </ul></div>
 
