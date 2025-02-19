@@ -1,7 +1,7 @@
 ---
 title: Download LYRX Version 1.2.0.2 - The Ultimate MAC-Compatible Software for Amateur DJs and Karaoke Lovers!
-date: 2025-02-04T21:40:10.368Z
-updated: 2025-02-08T17:04:44.063Z
+date: 2025-02-13T23:34:36.808Z
+updated: 2025-02-18T21:44:38.693Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ You will want to update LYRX now to ensure a better karaoke hosting experience f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.2.0.2
@@ -40,7 +40,7 @@ You will want to update LYRX now to ensure a better karaoke hosting experience f
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -62,24 +62,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/LYRXv1202-cover-image-1.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-simplifying-display-images-with-screencapture-techniques/"><u>[New] Simplifying Display Images with ScreenCapture Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-a-comprehensive-guide-to-bringing-vividness-to-your-videos-sdr-hdr-conversion/"><u>[Updated] A Comprehensive Guide to Bringing Vividness to Your Videos SDR-HDR Conversion</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1732517370146-uyl/"><u>原创文章：从‘u'家百万美元之行’中获得洞见—YL计算机与软件</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/acer-chromebook-r-11-review/"><u>Acer Chromebook R 11 Review</u></a></li>
-<li><a href="https://fox-where.techidaily.com/capture-the-essence-of-summer-with-premium-beach-wallpaper-hd-pictures-yl-digital-imagery-collection/"><u>Capture the Essence of Summer with Premium Beach Wallpaper HD Pictures | YL Digital Imagery Collection</u></a></li>
-<li><a href="https://fox-where.techidaily.com/decoding-history-the-impactful-aftermath-of-the-first-opium-war-expert-analysis-by-yl-computing-yl-software/"><u>Decoding History: The Impactful Aftermath of the First Opium War - Expert Analysis by YL Computing, YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/detecting-malware-and-viruses-a-comprehensive-guide-tech-insights-by-yl/"><u>Detecting Malware and Viruses: A Comprehensive Guide - Tech Insights by YL</u></a></li>
-<li><a href="https://fox-where.techidaily.com/easy-steps-to-install-your-sound-card-a-guide-by-yl-computing/"><u>Easy Steps to Install Your Sound Card: A Guide by YL Computing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-scansnap-master-the-art-of-drivers-upgrade/"><u>Enhance ScanSnap: Master the Art of Drivers Upgrade</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-unparalleled-support-with-the-x4-chair-by-x-chair-a-comprehensive-assessment/"><u>Experience Unparalleled Support with the X4 Chair by X-Chair: A Comprehensive Assessment</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-troubleshoot-your-pcs-audio-issues-a-step-by-step-guide-from-yl-software/"><u>How to Troubleshoot Your PC's Audio Issues: A Step-by-Step Guide From YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-guide-to-overcoming-the-obstacle-of-error-0x887a0006/"><u>Quick-Fix Guide to Overcoming the Obstacle of Error 0X887A0006</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/setting-up-your-vlog-fb-preferred-dimensions-for-2024/"><u>Setting Up Your Vlog FB Preferred Dimensions for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/slow-gaming-performance-understanding-the-issue-despite-high-end-gpu-insights-by-yl-computing/"><u>Slow Gaming Performance: Understanding the Issue Despite High-End GPU - Insights by YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-note-30-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Note 30 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-guide-what-to-do-when-your-graphics-card-fails-tips-from-yl-computing-and-yl-software/"><u>Troubleshooting Guide: What to Do When Your Graphics Card Fails - Tips From YL Computing and YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-success-how-to-regain-access-to-your-steam-profile/"><u>Troubleshooting Success: How to Regain Access to Your Steam Profile</u></a></li>
-<li><a href="https://fox-where.techidaily.com/vibrant-hd-picture-backdrops-and-image-collections-high-quality-visuals-by-yl-computing/"><u>Vibrant HD Picture Backdrops & Image Collections - High-Quality Visuals by YL Computing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-10-nintendo-switch-fighting-games/"><u>[New] In 2024, Top 10 Nintendo Switch Fighting Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capturing-chats-on-fb-messenger-instructions-and-tips-for-2024/"><u>Capturing Chats on FB Messenger Instructions and Tips for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/diagnosing-boot-issues-on-laptops-and-desktops-by-yl-technology-experts/"><u>Diagnosing Boot Issues on Laptops and Desktops by YL Technology Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/elevate-your-privacy-management-with-windows-11-insights-by-yl-computing/"><u>Elevate Your Privacy Management with Windows 11 - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/evaluating-multiple-cryptos-effectively-with-insights-from-yl-software-experts/"><u>Evaluating Multiple Cryptos Effectively with Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-bits.techidaily.com/guide-to-converting-ray-wenderlich-tutorials-into-mp4mov-formats-for-pc-and-mac/"><u>Guide to Converting Ray Wenderlich Tutorials Into MP4/MOV Formats for PC & Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-transitions-on-inshot-app-for-2024/"><u>How to Add Transitions on Inshot App for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/navigating-troublesome-window-hardware-hurdles-insights-from-the-experts-at-yl-computing-software-services/"><u>Navigating Troublesome Window-Hardware Hurdles: Insights From the Experts at YL Computing Software Services</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcame-system-graphics-failure/"><u>Overcame System Graphics Failure</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-step-by-step-guide-to-creating-a-cryptocurrency-exchange-profile-yl-software-insights/"><u>The Step-by-Step Guide to Creating a Cryptocurrency Exchange Profile – YL Software Insights</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-tools-for-detecting-memory-issues-on-your-windows-pc-recommendations-by-yl-computing/"><u>Top Tools for Detecting Memory Issues on Your Windows PC - Recommendations by YL Computing</u></a></li>
+<li><a href="https://solve-news.techidaily.com/ultimate-guide-to-using-winx-mediatrans-the-top-choice-app-for-seamless-ios-device-and-computer-syncing/"><u>Ultimate Guide to Using WinX MediaTrans™ - The Top Choice App for Seamless iOS Device & Computer Syncing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/why-does-your-pcs-graphics-hardware-keep-freezing-in-windows-unraveling-the-mysteries-with-yl-software-expertise/"><u>Why Does Your PC's Graphics Hardware Keep Freezing in Windows? Unraveling the Mysteries with YL Software Expertise</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On ZTE Axon 40 Lite | Dr.fone</u></a></li>
 </ul></div>
 

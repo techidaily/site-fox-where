@@ -1,7 +1,7 @@
 ---
 title: How Did Sun Yat-Sen Shape Contemporary Chinese Society and Politics? Exploring the Legacy with Insights From YL Computing
-date: 2025-02-02T20:44:25.951Z
-updated: 2025-02-08T20:18:19.504Z
+date: 2025-02-15T22:03:16.204Z
+updated: 2025-02-18T23:28:57.835Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,18 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-close-up-web-views-on-screen/"><u>[New] 2024 Approved Mastering Close-Up Web Views on Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troublesome-unsupported-graphics-cards-by-winoses/"><u>[TROUBLESOME] Unsupported Graphics Cards by WinOSes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-five-protocols-to-record-your-youtube-live-video/"><u>[Updated] Top Five Protocols to Record Your YouTube LIVE Video</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/can-vonage-retain-its-status-as-the-leading-voip-provider-amidst-growing-alternatives/"><u>Can Vonage Retain Its Status as the Leading VoIP Provider Amidst Growing Alternatives?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/easy-conversion-tricks-changing-your-music-from-mp3-to-uncompressed-wav-audio/"><u>Easy Conversion Tricks: Changing Your Music From MP3 to Uncompressed WAV Audio</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-tuning-into-the-pubg-world-championships-live-telecast/"><u>Guide: Tuning Into the PUBG World Championships Live Telecast</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a14-4g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A14 4G to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-uninstall-audiobook-files-on-your-iphone-three-simple-strategies/"><u>How To Uninstall Audiobook Files on Your iPhone: Three Simple Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hybrid-workers-get-ready-to-upgrade-exclusive-deal-alert-prime-days-1k-off-on-the-best-lenovo-laptop-picked/"><u>Hybrid Workers, Get Ready to Upgrade! Exclusive Deal Alert: Prime Day's $1K Off on the Best Lenovo Laptop Picked .</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-application-virtualization-with-microsoft-system-center-app-v-version-5-tab-solutions-insights/"><u>Mastering Application Virtualization with Microsoft System Center App-V Version 5: Tab Solutions Insights</u></a></li>
-<li><a href="https://fox-where.techidaily.com/personalized-file-operations-tailored-action-techniques/"><u>Personalized File Operations: Tailored Action Techniques</u></a></li>
-<li><a href="https://fox-where.techidaily.com/refine-your-photos-top-5-tools-for-sharpening-blurry-pictures/"><u>Refine Your Photos: Top 5 Tools for Sharpening Blurry Pictures</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-superior-live-media-transmission-tools/"><u>[Updated] 2024 Approved Superior Live Media Transmission Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elite-hd-video-recorder-macpc-fullscreen/"><u>[Updated] In 2024, Elite HD Video Recorder MacPC Fullscreen</u></a></li>
+<li><a href="https://fox-where.techidaily.com/apowersoft-launches-new-feature-packed-screen-capture-pro-version-10/"><u>Apowersoft Launches New Feature-Packed Screen Capture Pro Version 1.0!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/configuring-xml-structure-understanding-the-elements-configuration-pane/"><u>Configuring XML Structure: Understanding the Elements Configuration Pane</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-future-of-airflow-thermaltakes-new-120mm-and-140mm-flippable-coolers-with-superior-magnetic-force-and-a-minimalist-aesthetic-no-rgb/"><u>Discover the Future of Airflow: Thermaltake's New 120Mm & 140Mm Flippable Coolers with Superior Magnetic Force and a Minimalist Aesthetic (No RGB)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effortless-mp3-ringtone-creation-process-for-apple-devices-a-comprehensive-guide/"><u>Effortless MP3 Ringtone Creation Process for Apple Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/essential-information-every-startup-needs-about-acquiring-a-new-business-license/"><u>Essential Information Every Startup Needs About Acquiring a New Business License</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fundamental-characteristics-influencing-component-positioning/"><u>Fundamental Characteristics Influencing Component Positioning</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-11-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 11 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://fox-where.techidaily.com/seamless-sync-tutorial-displaying-your-samsung-galaxy-s9-on-a-flat-screen-tv/"><u>Seamless Sync Tutorial: Displaying Your Samsung Galaxy S9 on a Flat-Screen TV</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-tutorial-incorporating-watermarked-text-and-graphics-into-your-pdf-documents-latest-update/"><u>Ultimate Tutorial: Incorporating Watermarked Text and Graphics Into Your PDF Documents, Latest Update</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unique-product-identification-code-deciphering-the-iproductcode/"><u>Unique Product Identification Code - Deciphering the IProductCode</u></a></li>
+<li><a href="https://windows11.techidaily.com/validate-your-gpus-mettle-using-these-6-tools-on-pc/"><u>Validate Your GPU's Mettle Using These 6 Tools on PC</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728494509710-windows-7hdd/"><u>Windows 7向けに確実なHDDバックアップ手順</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211372451-9781921295867-you-are-inspired/"><u>You Are Inspired | Free Book</u></a></li>
 </ul></div>
 

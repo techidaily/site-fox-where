@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Concrete Technology – Self-Healing Concrete"
-date: 2025-02-02T20:36:15.940Z
-updated: 2025-02-08T21:14:15.141Z
+date: 2025-02-13T01:20:53.046Z
+updated: 2025-02-18T23:56:50.645Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/bts-dvd/"><u>「BTS DVD完全移植：究極ガイド！高速で、超クオリティな手順」</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-wie-man-den-cachespeicher-in-der-ios-versionen-von-iphone-14-13-12-11-und-alteren-modellen-effektiv-leert/"><u>1. Wie Man Den Cachespeicher in Der iOS-Versionen Von iPhone 14, 13, 12, 11 Und Älteren Modellen Effektiv Leert</u></a></li>
-<li><a href="https://fox-where.techidaily.com/54sh5paz44gu44k544kx44k444ol44o844op44oq44od44kv44ki44od44ox44oe44o844or/"><u>無料のスケジューラバックアップツール</u></a></li>
-<li><a href="https://fox-where.techidaily.com/clone-drive-effortlessly-with-a-virtual-machine-no-boot-issues/"><u>Clone Drive Effortlessly with a Virtual Machine - No Boot Issues</u></a></li>
-<li><a href="https://fox-where.techidaily.com/discover-our-story-the-journey-of-aomei-data-recovery-solutions/"><u>Discover Our Story: The Journey of AOMEI Data Recovery Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-seamless-printing-with-the-newly-released-canon-mx922-drivers-for-windows-users-installation-instructions-inside/"><u>Ensure Seamless Printing with the Newly Released Canon MX922 Drivers for Windows Users - Installation Instructions Inside</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/grundlegende-tipps-zum-klonen-und-kopieren-von-vmdk-dateien-in-vmware-eine-umfassende-anleitung-fur-den-exportvorgang/"><u>Grundlegende Tipps Zum Klonen Und Kopieren Von VMDK-Dateien in VMware: Eine Umfassende Anleitung Für Den Exportvorgang</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guida-passo-passo-sincronizzare-un-pc-e-un-laptop-con-windows-11-versione-11/"><u>Guida Passo-Passo: Sincronizzare Un PC E Un Laptop Con Windows 11 Versione 11</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/how-to-efficiently-backup-data-on-an-exterior-hdd-with-yl-software-tips/"><u>How To Efficiently Backup Data on An Exterior HDD With YL Software Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-realme-12plus-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Realme 12+ 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ering-8-must-have-mirrorless-cams-for-video-creators-for-2024/"><u>Uncovering 8 Must-Have Mirrorless Cams for Video Creators for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/wie-sie-ihre-dokumente-und-anpassungen-unter-windows-11-effizient-sichern-konnen-schritt-fur-schritt-anleitung/"><u>Wie Sie Ihre Dokumente Und Anpassungen Unter Windows 11 Effizient Sichern Können - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-fastest-time-lapse-capturing-system-5-for-2024/"><u>[New] Fastest Time-Lapse Capturing System #5 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-anonymous-instagram-story-browsing-on-pc-tablet-and-phones/"><u>[New] In 2024, Master Anonymous Instagram Story Browsing on PC, Tablet & Phones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-achieving-youtube-financial-goals-via-viewer-statistics-for-2024/"><u>[Updated] Achieving Youtube Financial Goals via Viewer Statistics for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/aomei-windowsiphone/"><u>免费获取的 AOMEI 数据备份和恢复工具适用于Windows和iPhone - 立即下载</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347210677-access-display-settings-right-click-on-the-desktop-and-select-display-settings/"><u>Access Display Settings: Right-Click on the Desktop and Select Display Settings.</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/best-5-sd-card-handlers-for-your-android-device/"><u>Best 5 SD Card Handlers for Your Android Device</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guida-passo-passo-come-avviare-da-un-disco-esterno-in-windows-10-e-11/"><u>Guida Passo-Passo: Come Avviare Da Un Disco Esterno in Windows 10 E 11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-properly-enabledisable-offline-files-feature-on-windows-11/"><u>How to Properly Enable/Disable Offline Files Feature on Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-efficient-routines-for-video-game-screening/"><u>In 2024, Efficient Routines for Video Game Screening</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-depth-look-at-gaming-screen-capture-tools-for-2024/"><u>In-Depth Look at Gaming Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-restoration-in-active-directory-environments-optimal-solutions-unveiled/"><u>Mastering Restoration in Active Directory Environments: Optimal Solutions Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/next-level-mp4-experience-integrating-advanced-srt-audio/"><u>Next-Level MP4 Experience Integrating Advanced SRT Audio</u></a></li>
+<li><a href="https://fox-where.techidaily.com/resolving-docker-desktops-hypervisor-detection-problem/"><u>Resolving Docker Desktop's Hypervisor Detection Problem</u></a></li>
+<li><a href="https://fox-where.techidaily.com/scopri-lssd-ad-alta-velocita-ssd-sata-iii-per-la-migrazione-intensiva-del-tuo-computer/"><u>Scopri L'SSD Ad Alta Velocità SSD SATA III Per La Migrazione Intensiva Del Tuo Computer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tips-to-smoothly-add-photo-capabilities-into-your-virtual-gatherings-for-2024/"><u>Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/usb-security-unlocked-how-to-safely-encrypt-your-portable-storage-files/"><u>USB Security Unlocked: How to Safely Encrypt Your Portable Storage Files</u></a></li>
 </ul></div>
 
