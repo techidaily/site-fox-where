@@ -1,7 +1,7 @@
 ---
 title: Nahtlos Migrate Windows Server 201Cu Auf Neues Gerät - Zwei Einfache Methoden
-date: 2024-12-03T23:45:23.493Z
-updated: 2024-12-08T22:51:26.645Z
+date: 2025-03-03T19:15:00.684Z
+updated: 2025-03-06T17:18:24.243Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd721a0ce14cdc43e33e2f2d6de.jpg
@@ -38,10 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -51,14 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -90,19 +78,11 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -122,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -138,17 +114,9 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -203,10 +171,6 @@ Was the provided information useful? Your vote is important to us!
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Recover Files from Hard Drive Using CMD? Easy & Free!](https://tools.techidaily.com/ubackup/products/)
@@ -235,10 +199,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -256,19 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-comparing-sns-hdrs-capabilities-with-competitor-software/"><u>[Updated] Comparing SNS HDR's Capabilities with Competitor Software</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfect-presentations-with-a-personal-touch-adding-audio/"><u>[Updated] Perfect Presentations with a Personal Touch Adding Audio</u></a></li>
-<li><a href="https://fox-where.techidaily.com/download-premium-bugatti-veyron-super-sport-wallpaper-images-high-quality-graphics-by-yl-computing/"><u>Download Premium Bugatti Veyron Super Sport Wallpaper Images - High-Quality Graphics by YL Computing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortlessly-update-to-the-latest-free-windows-8-amd-radeon-graphic-card-drivers-today/"><u>Effortlessly Update to the Latest Free Windows 8 AMD Radeon Graphic Card Drivers Today!</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/enhance-your-website-with-cookiebots-advanced-tracking-solutions/"><u>Enhance Your Website with Cookiebot's Advanced Tracking Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/high-resolution-13-reasons-why-s03-wallsavers-stunning-hd-designs-for-your-device-yl-computing/"><u>High-Resolution 13 Reasons Why S03 Wallsavers: Stunning HD Designs for Your Device - YL Computing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-7-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/iconography-of-elegance-sex-and-the-city-themes-by-yl-computing-professional-icon-packs/"><u>Iconography of Elegance: Sex and the City Themes by YL Computing - Professional Icon Packs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://fox-where.techidaily.com/preventing-memory-issues-on-windows-how-upgrading-your-systems-ram-can-help-insights-by-yl-computing/"><u>Preventing Memory Issues on Windows: How Upgrading Your System's RAM Can Help - Insights by YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-techniques-to-combat-high-ping-and-lag-in-chivalry-ii-enhance-your-gaming-performance-now-2024-insights/"><u>Top Techniques to Combat High Ping & Lag in Chivalry II - Enhance Your Gaming Performance Now (2024 Insights)</u></a></li>
-<li><a href="https://fox-where.techidaily.com/web-scraping-made-easy-extract-and-download-pages-as-csv-txt-or-json-using-yl-web-scraper-yl-computing/"><u>Web Scraping Made Easy: Extract & Download Pages as CSV, TXT, or JSON Using YL Web Scraper - YL Computing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-update-support-for-new-m2-devices/"><u>Windows Update: Support for New M.2 Devices</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-computing-expert-guide-accelerate-your-computer-effortlessly/"><u>YL Computing Expert Guide: Accelerate Your Computer Effortlessly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ace-in-the-halls-boosting-youtube-traffic-for-2024/"><u>[New] Ace in the Halls Boosting YouTube Traffic for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ultimate-cartoony-transformation-tools-for-pcs-and-macs/"><u>[New] In 2024, Ultimate Cartoony Transformation Tools for PCs & Macs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-maximize-ios-podcast-features/"><u>[Updated] How to Maximize iOS Podcast Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-ultimate-guide-to-choosing-a-camera-gimbal-for-drone-photographers/"><u>[Updated] In 2024, The Ultimate Guide To Choosing A Camera Gimbal For Drone Photographers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-mac-display-utilizing-picture-in-picture-multimedia-features/"><u>[Updated] Transform Your Mac Display Utilizing Picture in Picture Multimedia Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-reactivating-the-silenced-obs-video-feed/"><u>2024 Approved Reactivating the Silenced OBS Video Feed</u></a></li>
+<li><a href="https://fox-where.techidaily.com/a-guide-to-selecting-dependable-exchange-platforms-by-yl-software-experts/"><u>A Guide to Selecting Dependable Exchange Platforms by YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/achieve-peak-system-efficiency-with-yl-computings-essential-strategies-for-top-operations/"><u>Achieve Peak System Efficiency with YL Computing’s Essential Strategies for Top Operations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-advises-alternative-methods-over-rice-soak-what-to-do-when-your-iphone-gets-wet/"><u>Apple Advises Alternative Methods Over Rice Soak: What to Do When Your iPhone Gets Wet</u></a></li>
+<li><a href="https://fox-where.techidaily.com/boost-your-computers-efficiency-expert-tips-from-yl-computing-on-enhancing-pc-performance/"><u>Boost Your Computer's Efficiency: Expert Tips From YL Computing on Enhancing PC Performance</u></a></li>
+<li><a href="https://fox-where.techidaily.com/can-you-rely-on-windows-defender-for-identity-theft-prevention-insights-from-yl-computings-expertise/"><u>Can You Rely on Windows Defender for Identity Theft Prevention? Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-where.techidaily.com/decoding-the-link-between-blockchain-technology-and-cryptocurrency-insights-from-yl-software-experts/"><u>Decoding the Link Between Blockchain Technology and Cryptocurrency - Insights From YL Software Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-remotely-operate-google-home-smart-gadgets-on-windows-and-mac-computers/"><u>How To Remotely Operate Google Home Smart Gadgets on Windows and Mac Computers</u></a></li>
+<li><a href="https://fox-where.techidaily.com/identifying-why-your-pc-stalls-at-startup-insight-from-yl-computing-and-software-solutions/"><u>Identifying Why Your PC Stalls at Startup: Insight From YL Computing and Software Solutions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/improve-your-printer-output-with-troubleshooting-techniques-by-yl-software/"><u>Improve Your Printer Output with Troubleshooting Techniques by YL Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/resolving-audio-driver-issues-a-step-by-step-guide-yl-computing/"><u>Resolving Audio Driver Issues: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tips-to-fix-problematic-game-sounds-in-halo-infinite/"><u>Step-by-Step Tips to Fix Problematic Game Sounds in Halo Infinite</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-boot-issues-discover-why-your-pc-wont-start-with-yl-computing-solutions/"><u>Troubleshooting Boot Issues: Discover Why Your PC Won't Start with YL Computing Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-eliminating-lag-issues-in-rainbow-six-siege-gaming/"><u>Troubleshooting Guide: Eliminating Lag Issues in Rainbow Six Siege Gaming</u></a></li>
 </ul></div>
 

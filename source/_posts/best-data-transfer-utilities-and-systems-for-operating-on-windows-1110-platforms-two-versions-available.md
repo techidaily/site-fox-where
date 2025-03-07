@@ -1,7 +1,7 @@
 ---
 title: Best Data Transfer Utilities and Systems for Operating on Windows 11/10 Platforms - Two Versions Available
-date: 2025-02-11T16:45:49.716Z
-updated: 2025-02-18T16:46:06.367Z
+date: 2025-02-28T04:33:22.820Z
+updated: 2025-03-06T19:32:18.370Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568fc448e5639b2a4a582d5f7dd.jpg
@@ -42,10 +42,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -89,25 +85,13 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,21 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-copycatting-charisma-making-ingenious-parodies/"><u>[New] 2024 Approved Copycatting Charisma Making Ingenious Parodies</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>[New] IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-total-environmental-immersion-in-media-creation/"><u>[New] Total Environmental Immersion in Media Creation</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options/"><u>[Updated] Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-watch-ultra-vs-apple-watch-series-8-showdown-determining-your-ideal-fit-zdnet/"><u>Apple Watch Ultra Vs. Apple Watch Series 8 Showdown: Determining Your Ideal Fit | ZDNET</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-fortnites-endless-loading-screen-a-troubleshooting-guide/"><u>Bypassing Fortnite's Endless Loading Screen – A Troubleshooting Guide</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-honor-play-7t-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor Play 7T Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/high-resolution-dragon-desktop-wallpaper-1920x1080-vibrant-backgrounds-high-quality-pixels-by-yl-computing/"><u>High-Resolution Dragon Desktop Wallpaper (1920X1080) - Vibrant Backgrounds, High-Quality Pixels by YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/is-it-essential-to-connect-a-dj-controller-to-your-dex-3-setup/"><u>Is It Essential to Connect a DJ Controller to Your DEX 3 Setup?</u></a></li>
-<li><a href="https://windows11.techidaily.com/linux-desktops-analyzing-wsl-role/"><u>Linux Desktops: Analyzing WSL Role?</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-cryptocurrency-chart-patterns-a-comprehensive-guide-with-yl-software/"><u>Mastering Cryptocurrency Chart Patterns: A Comprehensive Guide with YL Software</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-11-pro-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 11 Pro Max</u></a></li>
-<li><a href="https://fox-where.techidaily.com/solving-your-laptops-heat-issues-expert-tips-and-tricks-yl-computing-solutions/"><u>Solving Your Laptop's Heat Issues: Expert Tips & Tricks - YL Computing Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/the-extent-of-neural-plasticity-can-be-influenced-by-the-type-and-severity-of-brain-injury/"><u>The Extent of Neural Plasticity Can Be Influenced by the Type and Severity of Brain Injury.</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-softwares-comprehensive-tutorial-on-fixing-printer-not-detected-problems/"><u>YL Software's Comprehensive Tutorial on Fixing 'Printer Not Detected' Problems</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-tech-tips-simplified-method-for-removing-apps-on-your-device/"><u>YL Tech Tips: Simplified Method for Removing Apps on Your Device!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-reveal-hidden-gems-top-12-steps-to-make-your-fb-videos-show-up/"><u>[New] Reveal Hidden Gems Top 12 Steps to Make Your FB Videos Show Up</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-basic-framework-of-tech-driven-narratives/"><u>[Updated] In 2024, Basic Framework of Tech-Driven Narratives</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-step-by-step-breakdown-creating-your-best-yt-shorts-for-2024/"><u>A Step-by-Step Breakdown Creating Your Best YT Shorts for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/avoid-these-critical-android-permissions-top-9-list/"><u>Avoid These Critical Android Permissions: Top 9 List</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-policy-labyrinth-of-modern-windows/"><u>Decoding the Policy Labyrinth of Modern Windows</u></a></li>
+<li><a href="https://fox-where.techidaily.com/eco-friendly-strategies-transforming-businesses-and-lifestyles/"><u>Eco-Friendly Strategies: Transforming Businesses and Lifestyles</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nokia-g42-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nokia G42 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-11-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 11 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/inimanager-pro-simplify-and-customize-your-ini-files-efficiently/"><u>INIManager Pro: Simplify and Customize Your .ini Files Efficiently</u></a></li>
+<li><a href="https://fox-where.techidaily.com/pc-gaming-mastery-the-ultimate-techniques-for-conquering-turbo-stars/"><u>PC Gaming Mastery: The Ultimate Techniques for Conquering Turbo Stars</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-a60s-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel A60s Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/stepwise-introduction-to-adding-texts-on-tiktok-for-2024/"><u>Stepwise Introduction to Adding Texts on TikTok for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-power-of-icommand-key-combinations-for-streamlined-user-interfaces/"><u>The Power of ICommand Key Combinations for Streamlined User Interfaces</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-techniques-for-successfully-transforming-iso-into-high-quality-mp4-videos/"><u>Top Techniques for Successfully Transforming ISO Into High-Quality MP4 Videos</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-and-managing-your-computers-hardware-keys/"><u>Understanding and Managing Your Computer's Hardware Keys</u></a></li>
 </ul></div>
 

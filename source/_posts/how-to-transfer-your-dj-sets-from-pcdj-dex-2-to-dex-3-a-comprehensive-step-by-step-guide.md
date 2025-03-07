@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your DJ Sets From PCDJ Dex 2 to Dex 3: A Comprehensive Step-by-Step Guide"
-date: 2025-02-12T20:40:47.902Z
-updated: 2025-02-18T16:42:00.280Z
+date: 2025-03-01T09:54:04.853Z
+updated: 2025-03-07T08:55:11.321Z
 tags:
   - product
 categories:
@@ -20,10 +20,6 @@ One question we’re hearing a lot right now while DEX 2 users make the transiti
 This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobile 2 playlists (_RED Mobile 2 users can upgrade to DEX 3 for only $149_) and any M3U playlist created by other audio applications. For instance, you can create a M3U playlist in Windows Media Player and import into DEX 3 using this same method demonstrated in the tutorial video below.
 
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -44,19 +40,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-lightning-leap-fame-mastering-instagram-with-these-15-essential-easy-tips-for-overnight-success/"><u>[New] In 2024, Lightning Leap Fame Mastering Instagram with These 15 Essential, Easy Tips for Overnight Success</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Pro Max Without a Passcode</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1728472664807-windows-11/"><u>為Windows 11量身打造的免費系統克隆工具:前五大選擇</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-iphone-16-variants-to-feature-spatial-recording-and-slender-edges-says-zdnet/"><u>All iPhone 16 Variants to Feature Spatial Recording & Slender Edges, Says ZDNet</u></a></li>
-<li><a href="https://fox-where.techidaily.com/connect-to-ddocslivenet/"><u>Connect to d.docs.live.net</u></a></li>
-<li><a href="https://fox-where.techidaily.com/free-download-aomei-backupper-disk-image-creator-for-linux-start-using-now/"><u>Free Download: AOMEI Backupper Disk Image Creator for Linux - Start Using Now</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-converting-spotify-playlist-content-for-youtube-music-compatibility/"><u>In 2024, Converting Spotify Playlist Content for YouTube Music Compatibility</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y77t-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y77t Face Lock?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-raspberry-pi-artificial-intelligence-starter-set-brainiac-edition/"><u>In-Depth Analysis of the Raspberry Pi Artificial Intelligence Starter Set - 'Brainiac' Edition</u></a></li>
-<li><a href="https://fox-where.techidaily.com/prioritization-is-key-when-clients-have-multiple-issues-focus-on-urgency-and-impact/"><u>Prioritization Is Key when Clients Have Multiple Issues; Focus on Urgency and Impact.</u></a></li>
-<li><a href="https://fox-where.techidaily.com/problembehandlung-bei-iphone-backup-fehlgeschlagen-effiziente-methoden-zum-wiederherstellen-ihres-gerats/"><u>Problembehandlung Bei 'iPhone-Backup Fehlgeschlagen' - Effiziente Methoden Zum Wiederherstellen Ihres Geräts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/schritt-fur-schritt-anleitung-zum-herunterladen-und-sichern-ihrer-festplatte-ohne-dass-windows-gestartet-werden-muss/"><u>Schritt-Für-Schritt-Anleitung Zum Herunterladen Und Sichern Ihrer Festplatte, Ohne Dass Windows Gestartet Werden Muss</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/chieving-profit-through-youtube-sourav-joshis-guide/"><u>[New] Achieving Profit Through YouTube Sourav Joshi’s Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ultra-30-review-the-virb-action-cam-for-adventurers-for-2024/"><u>[New] Ultra 30 Review – The VIRB Action Cam for Adventurers for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-7-video-recording-devices-for-professional-streaming-artists/"><u>[Updated] 2024 Approved Top 7 Video Recording Devices for Professional Streaming Artists</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-becoming-a-social-media-mogul-the-tiktok-fundamentals-for-earning/"><u>[Updated] In 2024, Becoming a Social Media Mogul The TikTok Fundamentals for Earning</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-ultimate-guide-to-fetching-your-favorites-effortless-dramafever-movie-and-series-downloads/"><u>1. Ultimate Guide to Fetching Your Favorites: Effortless DramaFever Movie and Series Downloads</u></a></li>
+<li><a href="https://fox-where.techidaily.com/access-downloads-for-the-onion-in-different-video-codecs-flv-wmv-mkv-mp4/"><u>Access Downloads for The Onion in Different Video Codecs (FLV, WMV, MKV, MP4)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/access-kelbyone-educational-videos-for-free-direct-downloads-from-the-official-site/"><u>Access KelbyOne Educational Videos for Free - Direct Downloads From the Official Site</u></a></li>
+<li><a href="https://fox-where.techidaily.com/browse-and-save-television-critiques-on-fernsehkritiktv-with-our-seo-best-practices-title-generator/"><u>Browse and Save Television Critiques on fernsehkritik.tv with Our SEO Best Practices Title Generator</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero5-black-meets-hero5-session-a-visual-verdict/"><u>In 2024, Hero5 Black Meets Hero5 Session – A Visual Verdict</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-ultimate-guide-to-fine-tuning-audio-volume-for-optimal-listening-experience/"><u>New In 2024, The Ultimate Guide to Fine-Tuning Audio Volume for Optimal Listening Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/premier-webinar-creation-kit-for-2024/"><u>Premier Webinar Creation Kit for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/streaming-spotify-on-amazon-tech-two-easy-ways-with-alexa-compatibility/"><u>Streaming Spotify on Amazon Tech: Two Easy Ways with Alexa Compatibility</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/understanding-scareware-a-comprehensive-guide-on-its-risks-to-your-digital-security/"><u>Understanding Scareware: A Comprehensive Guide on Its Risks to Your Digital Security</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/viking-odyssey-in-assassins-creed-valhalla-a-comprehensive-gameplay-analysis/"><u>Viking Odyssey in Assassin's Creed: Valhalla - A Comprehensive Gameplay Analysis</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Installing Shader Graphics on DEX 3 with Shadertoy Downloads for Enhanced DJ Experience
-date: 2025-02-15T17:09:26.699Z
-updated: 2025-02-18T16:05:15.717Z
+date: 2025-02-28T16:56:18.189Z
+updated: 2025-03-06T18:25:15.432Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ Shaders are free to use and generate stunning on-screen visualizations that are 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where do you get Shaders?
 
 [Shadertoy.com](http://www.shadertoy.com) is a website platform that allows users to build and share Shaders with the world. Lucky for us, there are hundreds if not thousands of **free** Shaders to select from. Shaders come in a wide variety but they all display motion and are almost always beat-aware, with a few exceptions.
@@ -37,10 +33,6 @@ Shaders are free to use and generate stunning on-screen visualizations that are 
 Shaders also vary greatly on how much resources they will use — from light to heavy workload on your GPU. Since your GPU (graphics card) is doing the heavy lifting when using Shaders they are best used with machine that have a dedicated (discrete) graphics card. If you notice any on-screen lag or any other performance issues running DEX 3 you should not use the Shader in question.
 
 Some Shaders are also marked ‘private’ and therefore can’t be added to DEX 3, while others may not convert properly and will display a generic ‘red’ background when applied in DEX 3.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Adding Shaders
 
@@ -54,25 +46,13 @@ In order to add a Shader to DEX 3 all you need to do is copy the URL of the Shad
 
 [![Click add Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1 "Click add Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/click-addnewshader-2.jpg?fit=600%2C600&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** From the Shader drop down menu located at the top of the video skins (4-deck or 2-deck video tabs) select the option ‘Add a new Shader’.
 
 [![Right click past in Shader in DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1 "Right click past in Shader in DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/right-click-pasteinurl-3.jpg?fit=600%2C600&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click into the ‘Add new Shader’ input box and either right-click and select ‘Paste’ or CTRL + V to paste in the Shadertoy.com URL.
 
 [![Click OK to apply Shader to DEX 3](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1 "Click OK to apply Shader to DEX 3")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/08/pastein-url-andclickok-4.jpg?fit=600%2C600&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click OK to apply the Shader immediately. Unless the Shader isn’t supported or marked private, the Shader should instantly apply and display on screen.
 
@@ -114,21 +94,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/ADDINGSHADERS-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-videos-understanding-time-constraints/"><u>2024 Approved Mastering Instagram Videos Understanding Time Constraints</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-the-gap-onedrive-and-microsoft-id-for-pc-users/"><u>Bridging the Gap: OneDrive & Microsoft ID for PC Users</u></a></li>
-<li><a href="https://fox-where.techidaily.com/capture-the-essence-of-summer-with-premium-beach-wallpaper-hd-pictures-yl-digital-imagery-collection/"><u>Capture the Essence of Summer with Premium Beach Wallpaper HD Pictures | YL Digital Imagery Collection</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effective-strategies-to-avoid-windows-hardware-problems-tips-from-yl-computings-expertise/"><u>Effective Strategies to Avoid Windows Hardware Problems - Tips From YL Computing's Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-advanced-vs-code-features-with-chatgpt/"><u>Exploring Advanced VS Code Features with ChatGPT</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-troubleshoot-your-pcs-audio-issues-a-step-by-step-guide-from-yl-software/"><u>How to Troubleshoot Your PC's Audio Issues: A Step-by-Step Guide From YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/identifying-signs-of-overheating-in-your-pc-tips-from-yl-computing/"><u>Identifying Signs of Overheating in Your PC: Tips From YL Computing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-win10-screen-snapshot-maker-pro/"><u>In 2024, Win10 Screen Snapshot Maker Pro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamlessly-upgrade-to-wireless-with-techkeys-official-bluetooth-adapters-compatible-drivers-for-win-1078-download-now/"><u>Seamlessly Upgrade to Wireless with Techkey's Official Bluetooth Adapters - Compatible Drivers for Win 10/7/8 Download Now</u></a></li>
-<li><a href="https://fox-where.techidaily.com/securing-your-system-top-tips-to-defend-against-viruses-and-spyware-with-expert-advice-from-yl-software/"><u>Securing Your System: Top Tips to Defend Against Viruses and Spyware with Expert Advice From YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/shytoshi-kusama/"><u>Shytoshi Kusama</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oneplus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For OnePlus Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-13-gratis-dvd-player-unterstutzt-windows-11-ihre-losung-finden/"><u>Top 13 Gratis DVD-Player Unterstützt Windows 11: Ihre Lösung Finden!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ultimative-tipps-zum-sicherheitsklonen-einer-wd-grunen-solid-state-festplatte-mit-software/"><u>Ultimative Tipps Zum Sicherheitsklonen Einer WD-Grünen Solid-State-Festplatte Mit Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-advanced-ai-with-anthropics-claude-3-a-step-by-step-guide-to-their-new-prompt-platform/"><u>Unlocking Advanced AI with Anthropic's Claude 3: A Step-by-Step Guide to Their New Prompt Platform</u></a></li>
-<li><a href="https://fox-where.techidaily.com/windows-security-essentials-is-it-complimentary-and-pre-installed-on-pcs-expert-insights-by-yl-computing/"><u>Windows Security Essentials: Is It Complimentary & Pre-Installed on PCs? - Expert Insights by YL Computing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-integrating-podcast-into-your-instagram-content-strategy/"><u>[New] Integrating Podcast Into Your Instagram Content Strategy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-entry-level-manual-for-effective-channel-creation/"><u>[Updated] Youtube's Entry-Level Manual for Effective Channel Creation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-discover-8-trusted-platforms-for-online-video-advancement/"><u>2024 Approved Discover 8 Trusted Platforms for Online Video Advancement</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728501349279-google/"><u>焦るユーザ、消えてしまったGoogleドキュメントを取り戻す究極のガイド！</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728477019638-windows/"><u>如何在Windows系统中完成有效的电脑数据备份和还原技巧</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/breaking-through-on-tiktok-personal-branding-and-differentiation/"><u>Breaking Through on TikTok Personal Branding and Differentiation</u></a></li>
+<li><a href="https://win-studio.techidaily.com/customization-secrets-for-your-windows-11-interface-unveiled-by-yl-software-professionals/"><u>Customization Secrets for Your Windows 11 Interface Unveiled by YL Software Professionals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-for-solving-call-of-duty-vanguard-freeze-glitches-no-costs-involved/"><u>Expert Advice for Solving 'Call of Duty: Vanguard' Freeze Glitches - No Costs Involved!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/in-depth-strategies-for-mastering-seagates-diskwizard-software-saving-and-retrieving-data-with-ease/"><u>In-Depth Strategies for Mastering Seagate's Diskwizard Software - Saving & Retrieving Data with Ease</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-iphone-voice-message-migration-a-step-by-step-guide-using-the-fonebackup-app/"><u>Mastering iPhone Voice Message Migration: A Step-by-Step Guide Using the FoneBackup App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-alter-your-cursors-look-in-windows-10/"><u>Quick Fix: Alter Your Cursor's Look in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-drive-issues-efficiently-with-the-check-disk-feature-on-windows/"><u>Resolving Drive Issues Efficiently with the Check Disk Feature on Windows</u></a></li>
+<li><a href="https://fox-where.techidaily.com/soluciones-efectivas-para-restaurar-contactos-borrados-del-iphone-1314-guia-paso-a-paso/"><u>Soluciones Efectivas Para Restaurar Contactos Borrados Del iPhone 13/14 – Guía Paso a Paso</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-restoring-lost-footage-from-your-camcorder/"><u>Step-by-Step Guide: Restoring Lost Footage From Your Camcorder</u></a></li>
+<li><a href="https://fox-where.techidaily.com/strategie-per-la-creazione-di-una-sicura-riproduzione-metallica-utilizzando-il-programma-wbadmin-iscriviti/"><u>Strategie per La Creazione Di Una Sicura Riproduzione Metallica Utilizzando Il Programma WBAdmin - Iscriviti!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creativity-top-9-strategies-using-chatgpt-for-your-next-literary-masterpiece/"><u>Unlocking Creativity: Top 9 Strategies Using ChatGPT for Your Next Literary Masterpiece</u></a></li>
+<li><a href="https://fox-where.techidaily.com/upgrade-auf-ein-neues-iphone-ersatz-ihres-alten-gerats-mitohne-fruheres-backup-nutzen/"><u>Upgrade Auf Ein Neues iPhone – Ersatz Ihres Alten Geräts Mit/Ohne Früheres Backup Nutzen</u></a></li>
+<li><a href="https://fox-where.techidaily.com/oshibka-acronis-true-image-pri-klonirovanii-dannyh-reshenie-problemy/"><u>Ошибка Acronis True Image При Клонировании Данных: Решение Проблемы</u></a></li>
 </ul></div>
 

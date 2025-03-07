@@ -1,7 +1,7 @@
 ---
 title: "Get Your Hands on Updated DJ Software: PCDJ-Compatible DEX 3 Professional and Lightweight Editions v3.8.0.1 Now Available"
-date: 2025-02-15T22:10:44.219Z
-updated: 2025-02-18T20:07:56.388Z
+date: 2025-03-02T19:14:27.678Z
+updated: 2025-03-06T20:42:31.549Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ Download your free update if you’re an existing owner or try out a no-commitme
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What’s New, Changed, Or Updated In Version 3.8.0.1
 
 * 3 new DJ controllers supported: [American Audio VMS5](https://tools.techidaily.com/pcdj/products/), [Numark Mixtrack Platinum](https://tools.techidaily.com/pcdj/products/), [Numark PartyMix](https://tools.techidaily.com/pcdj/products/)(_**NOTE**: DEX 3 LE \[free version\] only works with controllers in 10 minute intervals_)
@@ -54,10 +50,6 @@ _**NOTE:** Simply install the update with your existing DEX 3 version closed for
 
 _Have questions about our **DJ mixing software**, **free DJ software**, supported **DJ controllers**, or how to update? Feel free to leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2017/07/dex3801re-cover.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2017-07-11 10:17:062018-10-02 12:58:13DJ Mixing Software | DEX 3 RE And DEX 3 LE Version 3.8.0.1 Is Now Available For Download}
@@ -77,14 +69,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/07/dex3801re-cover.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-where.techidaily.com/1728506125216-acronis-true-image/"><u>Acronis True Imageでバックアップを終了した後、クローニング不可</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-tutorial-how-to-deactivate-hyper-v-on-windows-systems-and-servers/"><u>Comprehensive Tutorial: How to Deactivate Hyper-V on Windows Systems and Servers</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guia-paso-a-paso-preparando-una-memoria-usb-como-windows-1111-de-arranque/"><u>Guía Paso a Paso: Preparando Una Memoria USB Como Windows 11/11 De Arranque</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-instrument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>In 2024, Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/master-anonymous-instagram-story-browsing-on-pc-tablet-and-phones/"><u>Master Anonymous Instagram Story Browsing on PC, Tablet & Phones</u></a></li>
-<li><a href="https://fox-where.techidaily.com/recover-free-lost-files-from-your-iphone-top-2-secure-techniques-for-windows-and-macos/"><u>Recover Free Lost Files From Your iPhone: Top 2 Secure Techniques for Windows and macOS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/ultimate-youtube-branding-guide-top-names-for-successful-video-blogging-keep-it-to-or-under-156-characters-for-2024/"><u>Ultimate YouTube Branding Guide Top Names for Successful Video Blogging (Keep It to or Under 156 Characters) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-converting-ordinary-to-exceptional-lightroom-hdr-tutorial/"><u>[New] 2024 Approved Converting Ordinary to Exceptional Lightroom HDR Tutorial</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-empowerment-in-entertainment-top-10-inspirational-women/"><u>[New] In 2024, Empowerment in Entertainment Top 10 Inspirational Women</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-sonys-x1000v-detailed-recording-experience-review-for-2024/"><u>[New] Sony's X1000V Detailed Recording Experience Review for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-elevate-your-content-premier-youtube-rank-tracker-apps/"><u>[Updated] In 2024, Elevate Your Content Premier YouTube Rank Tracker Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-leading-mp4-to-facebook-video-processor/"><u>2024 Approved Leading MP4-to-Facebook Video Processor</u></a></li>
+<li><a href="https://fox-where.techidaily.com/boost-your-gpu-performance-enhancing-frame-rates-with-ease-insights-from-yl-computing/"><u>Boost Your GPU Performance: Enhancing Frame Rates with Ease - Insights From YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/captivating-imagery-assemblies-your-lifelong-collection/"><u>Captivating Imagery Assemblies Your Lifelong Collection</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effective-techniques-to-remove-dust-from-pc-hardware-a-guide-by-yl-computing/"><u>Effective Techniques to Remove Dust From PC Hardware - A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effortless-access-expert-advice-on-linking-your-device-to-wireless-internet-insights-by-yl-computing/"><u>Effortless Access: Expert Advice on Linking Your Device to Wireless Internet - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/elevate-your-presentation-with-nathan-blairs-professional-wallpaper-collection-from-yl-software/"><u>Elevate Your Presentation with Nathan Blair's Professional Wallpaper Collection From YL Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-city-building-simulator-skyline-issues-on-your-windows-computer/"><u>How to Resolve City Building Simulator Skyline Issues on Your Windows Computer</u></a></li>
+<li><a href="https://fox-where.techidaily.com/identifying-typical-signs-of-memory-problems-on-your-pc-insights-from-yl-computings-experts/"><u>Identifying Typical Signs of Memory Problems on Your PC: Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oneplus-12-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from OnePlus 12 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/is-the-escalation-of-israel-palestine-conflict-indicative-of-golds-bullish-trend-in-futures-prices-experts-at-yl-computing-and-yl-software-weigh-in/"><u>Is the Escalation of Israel-Palestine Conflict Indicative of Gold's Bullish Trend in Futures Prices? Experts at YL Computing and YL Software Weigh In</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gaming-performance-eliminating-lag-and-jitter-on-cutting-edge-titles/"><u>Optimizing Gaming Performance: Eliminating Lag and Jitter on Cutting-Edge Titles</u></a></li>
+<li><a href="https://fox-where.techidaily.com/overcoming-common-issues-how-to-fix-scanner-and-printer-problems-with-help-from-yl-software-experts/"><u>Overcoming Common Issues: How to Fix Scanner and Printer Problems with Help From YL Software Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-how-to-recover-past-file-versions-with-yl-software/"><u>Step-by-Step: How to Recover Past File Versions with YL Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-narzo-60-pro-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-unrecognized-storage-devices-step-by-step-assistance-from-yl-software-experts/"><u>Troubleshooting Unrecognized Storage Devices: Step-by-Step Assistance From YL Software Experts</u></a></li>
 </ul></div>
 

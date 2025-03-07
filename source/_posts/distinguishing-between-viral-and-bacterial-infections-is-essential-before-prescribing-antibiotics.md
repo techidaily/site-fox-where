@@ -1,7 +1,7 @@
 ---
 title: Distinguishing Between Viral and Bacterial Infections Is Essential Before Prescribing Antibiotics.
-date: 2025-01-04T17:05:32.071Z
-updated: 2025-01-08T23:26:47.761Z
+date: 2025-03-01T19:03:45.269Z
+updated: 2025-03-07T02:36:18.130Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c9ed51bdab027cc3c0e36d8f.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -77,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -93,10 +85,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -104,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -141,10 +125,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,18 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-affordable-high-frame-rate-recordings/"><u>[New] Affordable High Frame Rate Recordings</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-11-step-by-step-pathways-to-perfect-grading/"><u>2024 Approved 11 Step by Step Pathways to Perfect Grading</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719362383486-enhance-full-screen-screenshot-success-in-windows-snip-and-sketch-tool/"><u>Enhance Full-Screen Screenshot Success in Windows' Snip & Sketch Tool.</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/expert-guide-downloading-and-converting-vimeo-video-mp4-for-2024/"><u>Expert Guide Downloading and Converting Vimeo Video (MP4) for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-tuning-into-the-pubg-world-championships-live-telecast/"><u>Guide: Tuning Into the PUBG World Championships Live Telecast</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-uninstall-audiobook-files-on-your-iphone-three-simple-strategies/"><u>How To Uninstall Audiobook Files on Your iPhone: Three Simple Strategies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/immerse-in-enhanced-ui-and-capabilities-stellars-new-mac-version/"><u>Immerse in Enhanced UI & Capabilities - Stellar's New Mac Version</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a15-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A15 5G Phone FRP Lock</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-vivid-verdant-sets-unlock-your-film-potential-with-free-templates/"><u>In 2024, Vivid Verdant Sets Unlock Your Film Potential with Free Templates</u></a></li>
-<li><a href="https://fox-where.techidaily.com/latest-update-release-notes-whats-new-and-improved/"><u>Latest Update Release Notes: What's New and Improved</u></a></li>
-<li><a href="https://fox-where.techidaily.com/refine-your-photos-top-5-tools-for-sharpening-blurry-pictures/"><u>Refine Your Photos: Top 5 Tools for Sharpening Blurry Pictures</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-strategies-to-spot-and-eradicate-bogus-av-protection-programs/"><u>Step-by-Step Strategies to Spot and Eradicate Bogus AV Protection Programs</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-vivo-t2-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo T2 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-most-innovative-and-easy-to-use-mobile-photo-layers-top-10/"><u>[Updated] The Most Innovative & Easy-to-Use Mobile Photo Layers (Top 10)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-triple-caption-magic-for-compelling-ig-videographies/"><u>2024 Approved Triple Caption Magic for Compelling IG Videographies</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fujifilm-instax-mini-99-assessment-exploring-the-charm-of-an-immediate-photography-device/"><u>Fujifilm Instax Mini 99 Assessment - Exploring the Charm of an Immediate Photography Device</u></a></li>
+<li><a href="https://fox-where.techidaily.com/high-resolution-dragon-desktop-wallpaper-1920x1080-vibrant-backgrounds-high-quality-pixels-by-yl-computing/"><u>High-Resolution Dragon Desktop Wallpaper (1920X1080) - Vibrant Backgrounds, High-Quality Pixels by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-turn-off-microsofts-antivirus-windows-defender-settings-guide-for-windows-10-insights-by-yl-computing/"><u>How To Turn Off Microsoft's Antivirus: Windows Defender Settings Guide for Windows 10 - Insights by YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-12-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi 12 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-complete-overview-harnessing-the-power-of-googles-text-conversion/"><u>In 2024, Complete Overview Harnessing the Power of Google's Text Conversion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-intensified-interaction-through-advanced-zoom-settings/"><u>In 2024, Intensified Interaction Through Advanced ZOOM Settings</u></a></li>
+<li><a href="https://fox-where.techidaily.com/is-it-essential-to-connect-a-dj-controller-to-your-dex-3-setup/"><u>Is It Essential to Connect a DJ Controller to Your DEX 3 Setup?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-face-swap-frenzy-the-top-rated-apps-for-iphone-and-android-this-year-for-2024/"><u>New Face Swap Frenzy The Top-Rated Apps for iPhone and Android This Year for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/optimizing-your-visual-experience-a-comprehensive-walkthrough-for-controlling-display-preferences-in-the-system-settings-learn-with-yl-software/"><u>Optimizing Your Visual Experience: A Comprehensive Walkthrough for Controlling Display Preferences in the System Settings - Learn with YL Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-and-resolving-corrupt-drivers-in-windows-pcs-solutions-by-yl-computing-experts/"><u>Troubleshooting and Resolving Corrupt Drivers in Windows PCs - Solutions by YL Computing Experts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-your-hard-drive-issues-expert-advice-and-solutions-by-yl-tech-gurus/"><u>Troubleshooting Your Hard Drive Issues: Expert Advice and Solutions by YL Tech Gurus</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-tech-tips-simplified-method-for-removing-apps-on-your-device/"><u>YL Tech Tips: Simplified Method for Removing Apps on Your Device!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/guide-to-youtube-stardom-6-effortless-steps-for-exposure-for-2024/"><u>Your Guide to YouTube Stardom 6 Effortless Steps for Exposure for 2024</u></a></li>
 </ul></div>
 

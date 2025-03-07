@@ -1,7 +1,7 @@
 ---
 title: "Capturing the Energy of a Gathering: Insights Into Reading Audience Vibes Using DJNN & Scott Faver's Methods | PremiumDJ Skills"
-date: 2025-02-17T21:56:34.565Z
-updated: 2025-02-18T16:46:58.983Z
+date: 2025-03-01T10:34:25.808Z
+updated: 2025-03-07T08:10:02.698Z
 tags:
   - product
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
 This week, we felt inclined to share a video recently shot and released by Disc Jockey News via their (_great_) [YouTube Channel](https://www.youtube.com/channel/UCBAIx9PcDMIgM-GstG0o6pQ). It’s their “**_Mobile Music Thursday_**” segment with Jason Jones, which features DJ’s from around the country who are playing weddings, schools, Mitzvahs and bars to find out what are the new hook songs, what songs still work and which ones are fading faster than LeBron’s hairline.
 
 During this weeks segment DJNN hosts Scott Faver, known in the industry as the Game Master. He share’s his insights in reading the vibe from a group of people so he can play to his audiences tastes in music. DJing is all about being a great “selector” of music, to ensure a packed dance floor and memorable occasion (_and more referrals!_):  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -42,17 +38,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/readingthevibe.jpg?fit=530
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/outubes-golden-rule-for-profit-partnership/"><u>[New] YouTube's Golden Rule for Profit Partnership</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-melody-rights-on-instagram-a-full-breakdown-for-2024/"><u>[Updated] Navigating Melody Rights on Instagram A Full Breakdown for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-vsg-screen-snapshots-review-thorough-examination-for-2024/"><u>[Updated] VSG Screen Snapshots Review Thorough Examination for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-efficient-meeting-management-with-slack-and-filmora-tools/"><u>2024 Approved Efficient Meeting Management with Slack & Filmora Tools</u></a></li>
-<li><a href="https://fox-where.techidaily.com/effective-strategies-to-avoid-windows-hardware-problems-tips-from-yl-computings-expertise/"><u>Effective Strategies to Avoid Windows Hardware Problems - Tips From YL Computing's Expertise</u></a></li>
-<li><a href="https://extra-information.techidaily.com/game-console-sound-amplification-and-modifications-for-ps4ps5/"><u>Game Console Sound Amplification and Modifications for PS4/PS5</u></a></li>
-<li><a href="https://fox-where.techidaily.com/identifying-signs-of-overheating-in-your-pc-tips-from-yl-computing/"><u>Identifying Signs of Overheating in Your PC: Tips From YL Computing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/lightweight-or-heavy-duty-choose-between-m1-laptops-for-2024/"><u>Lightweight or Heavy-Duty Choose Between M1 Laptops for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/securing-your-system-top-tips-to-defend-against-viruses-and-spyware-with-expert-advice-from-yl-software/"><u>Securing Your System: Top Tips to Defend Against Viruses and Spyware with Expert Advice From YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-guide-fix-common-issues-when-your-computer-mouse-fails-tips-from-yl-computing/"><u>Troubleshooting Guide: Fix Common Issues When Your Computer Mouse Fails - Tips From YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-google-pixel-fold-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Google Pixel Fold Phones</u></a></li>
-<li><a href="https://fox-where.techidaily.com/windows-security-essentials-is-it-complimentary-and-pre-installed-on-pcs-expert-insights-by-yl-computing/"><u>Windows Security Essentials: Is It Complimentary & Pre-Installed on PCs? - Expert Insights by YL Computing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-strategies-to-have-your-video-embrace-by-vimeo-experts/"><u>[New] 2024 Approved Strategies to Have Your Video Embrace by Vimeo Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unrestricted-media-playback-free-on-windows-and-macos/"><u>[New] Unrestricted Media Playback FREE on Windows & MacOS</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728506125216-acronis-true-image/"><u>Acronis True Imageでバックアップを終了した後、クローニング不可</u></a></li>
+<li><a href="https://fox-where.techidaily.com/como-recuperar-archivos-borrados-en-el-contenedor-de-reciclaje-un-guia-rapida-y-facil/"><u>Cómo Recuperar Archivos Borrados en El Contenedor De Reciclaje: Un Guía Rápida Y Fácil</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comprehensive-tutorial-how-to-deactivate-hyper-v-on-windows-systems-and-servers/"><u>Comprehensive Tutorial: How to Deactivate Hyper-V on Windows Systems and Servers</u></a></li>
+<li><a href="https://facebook.techidaily.com/expert-tactics-for-private-profile-analysis/"><u>Expert Tactics for Private Profile Analysis</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guia-paso-a-paso-preparando-una-memoria-usb-como-windows-1111-de-arranque/"><u>Guía Paso a Paso: Preparando Una Memoria USB Como Windows 11/11 De Arranque</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-6-free-video-converters-para-windows-10-explicado-su-eficiencia-demostrada/"><u>Top 6 Free Video Converters Para Windows 10 Explicado - Su Eficiencia Demostrada</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-mac-video-editors-similar-to-vsdc-for-2024/"><u>Updated Top Mac Video Editors Similar to VSDC for 2024</u></a></li>
 </ul></div>
 

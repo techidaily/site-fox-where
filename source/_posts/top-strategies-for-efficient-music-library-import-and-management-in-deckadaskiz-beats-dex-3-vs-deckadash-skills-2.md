@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies for Efficient Music Library Import & Management in DeckaDaSkiz Beats: Dex 3 vs Deckadash Skills 2"
-date: 2025-02-16T21:27:21.537Z
-updated: 2025-02-18T21:12:15.638Z
+date: 2025-03-05T19:19:26.774Z
+updated: 2025-03-07T11:11:07.512Z
 tags:
   - product
 categories:
@@ -40,17 +40,9 @@ With an understanding of these two general [DEX 3](https://tools.techidaily.com/
 
 ![Expand Explorer Tab in DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/07/explorer-expand.jpg?fit=500%2C500&ssl=1 "Expand Explorer Tab in DEX 3")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Do a bulk import of all your tracks into the master database list.** Expand the ‘**Explorer**‘ tab in the navigation pane (bottom left) by clicking on the name ‘Explorer’. Scroll down and you’ll find your internal hard drive listed and any external hard drives that are connected to the machine. Navigate to and right-click on the parent folder (or hard drive letter itself) where all your existing tracks reside and from the drop down menu select “**add to database**”’
 
 ![Add to database DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/07/add-to-database.jpg?fit=500%2C500&ssl=1 "Add to database DEX 3")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Clicking “**add to database**” will start importing all your tracks to create a master list in the database list (no matter how many folders/levels deep), therefore also adding the tracks to the internal database and search cache. \[_**IMPORTANT NOTE:**_ When you add the folder, and DEX 3/DEX 3 RE displays the message “this folder has been added” – click OK. Now scroll up to and click on the database name (list) at the very top left side of the navigation pane in the file browser. Then, **SCROLL TO THE BOTTOM** of the list as you will see songs rapidly pilling into the list from the bottom as the tag data is being read in and added. You will want to make sure this process is done (so you do not see any more songs pilling in from the bottom of the list) before adding any more music or continuing to the next suggested step.\]
 
@@ -58,27 +50,15 @@ Clicking “**add to database**” will start importing all your tracks to creat
 
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/add-to-favorites.jpg?fit=500%2C500&ssl=1 "Add to Favorites DEX 3")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Now nest all your music (and/or music video or karaoke) folders as favorites.** Under explorer tab in DEX 3/DEX 3 RE navigate to and access a parent (main) folder your tracks are in and right click on the folder – select “**add to favorites**“. This will nest the selected folder under “**Favorites**” (heart icon on the browser pane) for direct access and browsing — so it’s there and ready to view every time you launch [DEX 3](https://tools.techidaily.com/pcdj/products/) or [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) in the future. Repeat this process for all of your main music/music video and/or karaoke folders. Add your folders as favorites is ideal for when you just want to dig for music manually, and for updating the internal database and search cache when new tracks are added to your hard drive.
 
 ![Updating the DEX 3 database](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/07/updating-library-clicking-favorite-folder.jpg?fit=500%2C500&ssl=1 "Updating the DEX 3 database")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **How-to update DEX 3/DEX 3 RE’s internal database and search cache with tracks you’ve added to your hard drive (or external).** After nesting your main music folders under “Favorites”, you can more easily make sure our DJ mixing software sees new tracks when they are added to folders on your hard drive. After you add new tracks to one of the folders on your hard drive, just open up DEX 3/DEX 3 RE and click on the corresponding folder that new songs were added to. As soon as you ‘see’ the songs display in the middle section of the DEX 3/DEX 3 RE browser they are added to the internal database and search cache. You’re done — no need to also add them to the physical database list as this point, they are in and they are searchable.
 
 Using this PCDJ Staffer method, by importing all songs into the DJ mixing software’s database list initially and then accessing folders under favorites for updating your library, you can swiftly make sure all your existing tracks are accessible and searchable — and update the database and search cache with freshly added songs easily.
 
 _Have questions about **importing music into DEX 3**, our **DJ mixing software** or how to **update the database**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -99,21 +79,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/tracklibrary-staff.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-for-smartphone-cinematography-enhancements-for-2024/"><u>[Updated] The Ultimate Guide for Smartphone Cinematography Enhancements for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-to-show-or-not-to-display-off-facebook-activities-for-2024/"><u>[Updated] To Show or Not to Display Off-Facebook Activities for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1732517370146-uyl/"><u>原创文章：从‘u'家百万美元之行’中获得洞见—YL计算机与软件</u></a></li>
-<li><a href="https://fox-where.techidaily.com/decoding-history-the-impactful-aftermath-of-the-first-opium-war-expert-analysis-by-yl-computing-yl-software/"><u>Decoding History: The Impactful Aftermath of the First Opium War - Expert Analysis by YL Computing, YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/detecting-malware-and-viruses-a-comprehensive-guide-tech-insights-by-yl/"><u>Detecting Malware and Viruses: A Comprehensive Guide - Tech Insights by YL</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-nokia-c210-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Nokia C210 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/easy-steps-to-install-your-sound-card-a-guide-by-yl-computing/"><u>Easy Steps to Install Your Sound Card: A Guide by YL Computing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-record-powerpoint-presentation-with-webcam-for-2024/"><u>How to Record PowerPoint Presentation with Webcam for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f34-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F34 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/prestige-pcs-and-laptops-technologys-elite/"><u>Prestige PCs & Laptops - Technology's Elite</u></a></li>
-<li><a href="https://fox-where.techidaily.com/slow-gaming-performance-understanding-the-issue-despite-high-end-gpu-insights-by-yl-computing/"><u>Slow Gaming Performance: Understanding the Issue Despite High-End GPU - Insights by YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-setting-up-airplay-technology-for-hdtv-viewing-experience/"><u>Step-by-Step Tutorial: Setting Up AirPlay Technology for HDTV Viewing Experience</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-guide-what-to-do-when-your-graphics-card-fails-tips-from-yl-computing-and-yl-software/"><u>Troubleshooting Guide: What to Do When Your Graphics Card Fails - Tips From YL Computing and YL Software</u></a></li>
-<li><a href="https://facebook.techidaily.com/unseen-endorsements-keeping-likes-private-on-fbig/"><u>Unseen Endorsements: Keeping Likes Private on FB/IG</u></a></li>
-<li><a href="https://fox-where.techidaily.com/vibrant-hd-picture-backdrops-and-image-collections-high-quality-visuals-by-yl-computing/"><u>Vibrant HD Picture Backdrops & Image Collections - High-Quality Visuals by YL Computing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-galaxy-s8s-ultra-hd-experience-unveiled/"><u>[New] 2024 Approved Galaxy S8's Ultra HD Experience Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uploading-subtitles-a-compreenas-guide-for-all-social-media-users/"><u>2024 Approved Uploading Subtitles A Compreenas Guide for All Social Media Users</u></a></li>
+<li><a href="https://fox-where.techidaily.com/backup-manager-suite-soluciones-integrales-para-gestion-y-sincronizacion-centralizada-en-tus-archivos-con-aomei/"><u>Backup Manager Suite: Soluciones Integrales Para Gestión Y Sincronización Centralizada en Tus Archivos Con AOMEI</u></a></li>
+<li><a href="https://fox-where.techidaily.com/bypassing-windows-11-setup-hurdles-on-your-solid-state-drive-ssd/"><u>Bypassing Windows 11 Setup Hurdles on Your Solid State Drive (SSD)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-top-11-kid-videography-gear-for-initial-use/"><u>Discover the Top 11 Kid Videography Gear for Initial Use</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-the-latest-in-tech-insights-from-toms-hardware-experts/"><u>Discovering the Latest in Tech - Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-guide-intel-hduhd-graphics-drivers-on-windows-11/"><u>Download & Update Guide: Intel HD/UHD Graphics Drivers on Windows 11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effortless-backup-moving-files-from-your-pc-to-an-exfat-formatted-drive-in-windows-versions-1187/"><u>Effortless Backup: Moving Files From Your PC to an ExFAT-Formatted Drive in Windows Versions (11/8/7)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortlessly-update-your-snapchat-secrets-a-quick-guide/"><u>Effortlessly Update Your Snapchat Secrets: A Quick Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/hoewel-de-gelukkige-wolkensteen-6-schutmaat-voor-het-herstellen-van-ongelopen-overschreven-of-gecodeerde-excel-tabellen/"><u>Hoewel De Gelukkige Wolkensteen: 6 Schutmaat Voor Het Herstellen Van Ongelopen, Overschreven Of Gecodeerde Excel Tabellen</u></a></li>
+<li><a href="https://fox-where.techidaily.com/i-migliori-metodi-gratuiti-per-abbinare-le-cartelle-sul-tuo-mac-una-guida-completa/"><u>I Migliori Metodi Gratuiti per Abbinare Le Cartelle Sul Tuo Mac – Una Guida Completa</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-gaming-on-windows-10-downloading-amd-radeon-r9-360-drivers/"><u>Improve Gaming on Windows 10: Downloading AMD Radeon R9 360 Drivers</u></a></li>
+<li><a href="https://fox-where.techidaily.com/migration-de-donnees-vers-un-ssd-western-digital-en-guidant-sans-reinstallation/"><u>Migration De Données Vers Un SSD Western Digital En Guidant Sans Reinstallation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/pinnacle-photo-narrative-assembly-platform-for-2024/"><u>Pinnacle Photo Narrative Assembly Platform for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/schritt-fur-schritt-anleitung-zum-einrichten-von-icloud-fur-iphone-nachrichtensynchronisation/"><u>Schritt-Für-Schritt-Anleitung Zum Einrichten Von iCloud Für iPhone-Nachrichtensynchronisation</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-disabling-message-sync-with-icloud-on-your-iphone/"><u>Step-by-Step Guide: Disabling Message Sync with iCloud on Your iPhone</u></a></li>
 </ul></div>
 

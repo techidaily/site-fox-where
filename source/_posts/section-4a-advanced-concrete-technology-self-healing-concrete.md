@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Concrete Technology – Self-Healing Concrete"
-date: 2025-02-13T01:20:53.046Z
-updated: 2025-02-18T23:56:50.645Z
+date: 2025-03-05T18:36:49.942Z
+updated: 2025-03-07T09:22:20.315Z
 tags:
   - product
 categories:
@@ -27,10 +27,6 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2015-02-12 12:54:112023-04-10 17:04:28Download The RED Mobile 3 Skin For DEX 3}
@@ -50,21 +46,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-fastest-time-lapse-capturing-system-5-for-2024/"><u>[New] Fastest Time-Lapse Capturing System #5 for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-anonymous-instagram-story-browsing-on-pc-tablet-and-phones/"><u>[New] In 2024, Master Anonymous Instagram Story Browsing on PC, Tablet & Phones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-achieving-youtube-financial-goals-via-viewer-statistics-for-2024/"><u>[Updated] Achieving Youtube Financial Goals via Viewer Statistics for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/aomei-windowsiphone/"><u>免费获取的 AOMEI 数据备份和恢复工具适用于Windows和iPhone - 立即下载</u></a></li>
-<li><a href="https://win11.techidaily.com/1719347210677-access-display-settings-right-click-on-the-desktop-and-select-display-settings/"><u>Access Display Settings: Right-Click on the Desktop and Select Display Settings.</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-5-sd-card-handlers-for-your-android-device/"><u>Best 5 SD Card Handlers for Your Android Device</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guida-passo-passo-come-avviare-da-un-disco-esterno-in-windows-10-e-11/"><u>Guida Passo-Passo: Come Avviare Da Un Disco Esterno in Windows 10 E 11</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-properly-enabledisable-offline-files-feature-on-windows-11/"><u>How to Properly Enable/Disable Offline Files Feature on Windows 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-efficient-routines-for-video-game-screening/"><u>In 2024, Efficient Routines for Video Game Screening</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-depth-look-at-gaming-screen-capture-tools-for-2024/"><u>In-Depth Look at Gaming Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-restoration-in-active-directory-environments-optimal-solutions-unveiled/"><u>Mastering Restoration in Active Directory Environments: Optimal Solutions Unveiled</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/next-level-mp4-experience-integrating-advanced-srt-audio/"><u>Next-Level MP4 Experience Integrating Advanced SRT Audio</u></a></li>
-<li><a href="https://fox-where.techidaily.com/resolving-docker-desktops-hypervisor-detection-problem/"><u>Resolving Docker Desktop's Hypervisor Detection Problem</u></a></li>
-<li><a href="https://fox-where.techidaily.com/scopri-lssd-ad-alta-velocita-ssd-sata-iii-per-la-migrazione-intensiva-del-tuo-computer/"><u>Scopri L'SSD Ad Alta Velocità SSD SATA III Per La Migrazione Intensiva Del Tuo Computer</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/tips-to-smoothly-add-photo-capabilities-into-your-virtual-gatherings-for-2024/"><u>Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/usb-security-unlocked-how-to-safely-encrypt-your-portable-storage-files/"><u>USB Security Unlocked: How to Safely Encrypt Your Portable Storage Files</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-capture-clarity-top-10-photo-lens-selections/"><u>[New] Capture Clarity Top 10 Photo Lens Selections</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-impact-of-testimonial-videos-today-for-2024/"><u>[Updated] The Impact of Testimonial Videos Today for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-black-ops-cold-war-pc-crashes-resolved/"><u>Call of Duty: Black Ops Cold War PC Crashes Resolved</u></a></li>
+<li><a href="https://fox-where.techidaily.com/dj-crate-geniuses-uncovering-flawless-track-transitions-and-beat-matching-techniques-for-seamless-playlists/"><u>DJ Crate Geniuses: Uncovering Flawless Track Transitions & Beat Matching Techniques for Seamless Playlists</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-geforce-gtx-460-drivers-on-windows-fast-and-simple-guide/"><u>Download GeForce GTX 460 Drivers on Windows: Fast & Simple Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y27-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y27 4G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40plus-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Itel P40+ Bootloader Easily</u></a></li>
+<li><a href="https://fox-where.techidaily.com/preventing-gpu-heat-issues-in-windows-with-proven-strategies-by-yl-computing/"><u>Preventing GPU Heat Issues in Windows with Proven Strategies by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/restoring-your-pc-to-defaults-a-guide-on-reverting-windows-configurations-powered-by-yl-computing/"><u>Restoring Your PC to Defaults: A Guide on Reverting Windows Configurations - Powered by YL Computing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-earning-digital-coins-best-cryptocurrency-investments-revealed-by-yl-computings-expert-analysis/"><u>Top Earning Digital Coins: Best Cryptocurrency Investments Revealed by YL Computing's Expert Analysis</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-causes-of-spontaneous-pc-shutdowns-insights-from-yl-computing/"><u>Understanding the Causes of Spontaneous PC Shutdowns: Insights From YL Computing</u></a></li>
 </ul></div>
 

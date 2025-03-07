@@ -1,7 +1,7 @@
 ---
 title: "Guía Integral: Habilitando Y Usando El Respaldo Por Sombras De Volumen en Windows 10"
-date: 2025-02-13T20:37:48.412Z
-updated: 2025-02-19T01:00:41.295Z
+date: 2025-02-28T16:23:24.251Z
+updated: 2025-03-06T18:04:15.512Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5f531a542c9f720844c66d4d.jpg
@@ -24,10 +24,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -47,15 +43,7 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -101,10 +89,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -121,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -177,10 +153,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,16 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-best-free-platforms-for-unique-and-striking-text-appeal/"><u>[New] 2024 Approved The Best Free Platforms for Unique and Striking Text Appeal</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-friends-evaporation-identify-now/"><u>[Updated] 2024 Approved Instagram Friends Evaporation Identify Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725286554129-foobar2000/"><u>基本から上達まで：foobar2000音楽編集ソフトの最適利用方法を解明する入門ガイド</u></a></li>
-<li><a href="https://fox-where.techidaily.com/beat-the-heat-with-expertly-curated-playlists-for-premier-karaoke-nights-this-summer/"><u>Beat the Heat with Expertly Curated Playlists for Premier Karaoke Nights This Summer</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/global-presence-via-instagram-100-inspiring-self-captions/"><u>Global Presence via Instagram 100 Inspiring Self-Captions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/is-it-necessary-to-have-antivirus-protection-on-your-pc-expert-insights-by-yl-computing/"><u>Is It Necessary to Have Antivirus Protection on Your PC? - Expert Insights by YL Computing</u></a></li>
-<li><a href="https://discover-data.techidaily.com/quick-fixes-effective-techniques-to-restart-your-lacie-exterior-hard-disk-drive/"><u>Quick Fixes: Effective Techniques to Restart Your LaCie Exterior Hard Disk Drive</u></a></li>
-<li><a href="https://fox-where.techidaily.com/section-4a-advanced-concrete-technology-self-healing-concrete/"><u>Section 4A: Advanced Concrete Technology – Self-Healing Concrete</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-graphic-issues-on-your-screen-insights-from-yl-computings-expertise/"><u>Troubleshooting Graphic Issues on Your Screen: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-reasons-behind-memory-issues-on-windows-systems-insights-from-yl-computing/"><u>Understanding the Reasons Behind Memory Issues on Windows Systems - Insights From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-and-navigate-your-android-smartphone-using-advanced-facial-gestures/"><u>Unlock and Navigate Your Android Smartphone Using Advanced Facial Gestures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-battery-choices-for-exceptional-drone-performance/"><u>[New] Tailoring Battery Choices for Exceptional Drone Performance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-swift-restoration-of-photos-viewer-performance-in-windows-10-for-2024/"><u>[Updated] Swift Restoration of Photos Viewer Performance in Windows 10 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/configuring-xml-structure-understanding-the-elements-configuration-pane/"><u>Configuring XML Structure: Understanding the Elements Configuration Pane</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dispatching-dreadful-green-screen-distortion-on-mac-editing-sessions-for-2024/"><u>Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/easy-tutorial-on-how-to-install-the-phone-manager-app-on-android-devices-via-apk/"><u>Easy Tutorial on How to Install the Phone Manager App on Android Devices via APK</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-maintaining-confidentiality-with-chatgpt-in-professional-settings/"><u>Effective Strategies for Maintaining Confidentiality with ChatGPT in Professional Settings</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effortless-mp3-ringtone-creation-process-for-apple-devices-a-comprehensive-guide/"><u>Effortless MP3 Ringtone Creation Process for Apple Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fundamental-characteristics-influencing-component-positioning/"><u>Fundamental Characteristics Influencing Component Positioning</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-z-fold-5-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy Z Fold 5? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/innovative-ilibrary-component-tools-and-techniques/"><u>Innovative ILibrary Component Tools & Techniques</u></a></li>
+<li><a href="https://fox-where.techidaily.com/project-configuration-installation-settings-dashboard/"><u>Project Configuration – Installation Settings Dashboard</u></a></li>
+<li><a href="https://fox-where.techidaily.com/seamless-sync-tutorial-displaying-your-samsung-galaxy-s9-on-a-flat-screen-tv/"><u>Seamless Sync Tutorial: Displaying Your Samsung Galaxy S9 on a Flat-Screen TV</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-your-hp-elitebook-x360-model-1030-g2-essential-system-driver-download-links/"><u>Secure Your HP EliteBook X36^0 (Model 1030 G2) - Essential System Driver Download Links</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/shop-bitraser-the-definitive-solution-to-quick-and-safe-drive-cleaning/"><u>Shop BitRaser: The Definitive Solution to Quick and Safe Drive Cleaning</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-reset-failed-there-was-an-error-message-on-windows/"><u>Solving the Reset Failed: There Was an Error Message on Windows</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unique-product-identification-code-deciphering-the-iproductcode/"><u>Unique Product Identification Code - Deciphering the IProductCode</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unzipping-for-srt-methods-and-tips-for-2024/"><u>Unzipping for SRT Methods and Tips for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/watermark-elimination-tools-on-smartphones-for-streaming-content/"><u>Watermark Elimination Tools on Smartphones for Streaming Content</u></a></li>
 </ul></div>
 

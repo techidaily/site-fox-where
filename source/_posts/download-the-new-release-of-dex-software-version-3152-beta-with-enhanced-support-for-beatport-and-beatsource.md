@@ -1,7 +1,7 @@
 ---
 title: Download the New Release of DEX Software Version 3.15.2 (BETA) with Enhanced Support for Beatport and Beatsource
-date: 2025-02-17T23:42:40.501Z
-updated: 2025-02-18T19:32:19.353Z
+date: 2025-03-03T10:17:47.918Z
+updated: 2025-03-06T16:49:17.079Z
 tags:
   - product
 categories:
@@ -34,10 +34,6 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
 
 * Beatport LINK and Beatsource LINK (beta) support
@@ -55,10 +51,6 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.2\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -79,15 +71,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-artist-within-using-auditions-gradual-volume-increase/"><u>[New] Unveiling the Artist Within Using Audition's Gradual Volume Increase</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-azure-speech-to-text-a-quick-overview-for-developers-for-2024/"><u>[Updated] Azure Speech-to-Text A Quick Overview for Developers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-virtual-pantheon-of-streaming-achievements/"><u>2024 Approved Virtual Pantheon of Streaming Achievements</u></a></li>
-<li><a href="https://fox-where.techidaily.com/digital-dj-essentials-learn-how-to-use-songbookdb-for-seamless-remote-requests-and-dj-setups-step-by-step-guide-in-video-format/"><u>Digital DJ Essentials: Learn How to Use SongBookDB for Seamless Remote Requests and DJ Setups | Step-by-Step Guide in Video Format</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-in-a-new-era-of-ai-control-openais-vision/"><u>Leading in a New Era of AI Control: OpenAI's Vision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719276634403-microsoft-to-do-not-sync-here-are-easy-solutions/"><u>Microsoft To-Do Not Sync? Here Are Easy Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/shogun-2-fall-of-the-samurai-enhance-your-gaming-setup-with-stunning-total-war-backdrops-and-wallpapers-yl-computing/"><u>Shogun 2 Fall of the Samurai: Enhance Your Gaming Setup with Stunning Total War Backdrops & Wallpapers - YL Computing</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-and-replacement-of-malfunctioning-expansion-cards-by-yl-software-experts/"><u>Troubleshooting and Replacement of Malfunctioning Expansion Cards by YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-softwares-expert-advice-on-adding-programs-to-your-pc-through-the-windows-control-panel/"><u>YL Software's Expert Advice on Adding Programs to Your PC Through the Windows Control Panel</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ballot-box-bonanza-prime-politic-strategy-games-for-2024/"><u>[New] Ballot Box Bonanza Prime Politic Strategy Games for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-costs-without-compromising-on-youtube-intros-quality-for-2024/"><u>[New] Cutting Costs without Compromising on YouTube Intros Quality for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swiftly-convert-creepy-slow-videos-with-best-apps/"><u>[Updated] Swiftly Convert Creepy-Slow Videos with Best Apps</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-user-configuration-panel-customize-your-apps-interface/"><u>1. User Configuration Panel: Customize Your App's Interface</u></a></li>
+<li><a href="https://fox-where.techidaily.com/creating-the-ultimate-facebook-birthday-celebration-video-top-3-strategies-that-work/"><u>Creating the Ultimate Facebook Birthday Celebration Video: Top 3 Strategies That Work!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unleashing-the-power-of-youtube-finding-and-creating-partnerships/"><u>In 2024, Unleashing the Power of YouTube Finding and Creating Partnerships</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/preserve-excellent-picture-and-sound-transferring-dvds-with-fidelity-onto-a-windows-11-pc/"><u>Preserve Excellent Picture and Sound: Transferring DVDs with Fidelity Onto a Windows 11 PC</u></a></li>
+<li><a href="https://fox-where.techidaily.com/quick-tips-for-making-calls-directly-from-your-desktop-to-any-phone/"><u>Quick Tips for Making Calls Directly From Your Desktop to Any Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-battlefield-4-how-to-restore-your-game-audio/"><u>Silent Battlefield 4: How to Restore Your Game Audio</u></a></li>
+<li><a href="https://fox-where.techidaily.com/speedy-google-play-music-extractor-the-quick-guide-for-efficient-music-download/"><u>Speedy Google Play Music Extractor: The Quick Guide for Efficient Music Download</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-7-audio-capturers-2023-edition-for-2024/"><u>Top 7 Audio Capturers 2023 Edition for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-free-decision-making-tools-of-2020-in-depth-reviews/"><u>Top Free Decision-Making Tools of 2020: In-Depth Reviews</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unleash-imagination-shaping-words-in-media-magic/"><u>Unleash Imagination Shaping Words in Media Magic</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-windows-10s-hidden-tool-a-guide-to-identifying-your-systems-powershell-version/"><u>Unveiling Windows 10'S Hidden Tool: A Guide to Identifying Your System's PowerShell Version</u></a></li>
 </ul></div>
 

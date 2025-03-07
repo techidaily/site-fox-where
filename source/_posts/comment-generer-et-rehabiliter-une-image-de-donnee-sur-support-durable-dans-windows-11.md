@@ -1,7 +1,7 @@
 ---
 title: Comment Générer Et Réhabiliter Une Image De Donnée Sur Support Durable Dans Windows 11
-date: 2025-02-16T17:28:07.939Z
-updated: 2025-02-18T22:52:09.903Z
+date: 2025-02-27T18:18:11.519Z
+updated: 2025-03-06T20:50:32.666Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d7c9ccbb9c64362d08280264ff7d355707ef411d6604c3ecde256dc426b6860a.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/d7c9ccbb9c64362d08280264ff7d355707ef411d6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -76,10 +68,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -88,10 +76,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
 4\. Finally, click **OK** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -104,10 +88,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 2\. Whichever you choose, you can type the file name you need in the box under **Find files to recover** and click **Search** to find it.
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. After the scanning, select the file you need and click **Recover Files...**
 
@@ -148,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -170,18 +146,10 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:**
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -214,10 +182,6 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -269,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -298,22 +258,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-daylight-deployment-for-increased-indoor-comfort-for-2024/"><u>[New] Daylight Deployment for Increased Indoor Comfort for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-guffaw-on-your-phone-hysterical-site-listings/"><u>[New] Guffaw on Your Phone Hysterical Site Listings</u></a></li>
-<li><a href="https://fox-where.techidaily.com/a-guide-to-selecting-dependable-exchange-platforms-by-yl-software-experts/"><u>A Guide to Selecting Dependable Exchange Platforms by YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/boost-your-computers-efficiency-expert-tips-from-yl-computing-on-enhancing-pc-performance/"><u>Boost Your Computer's Efficiency: Expert Tips From YL Computing on Enhancing PC Performance</u></a></li>
-<li><a href="https://fox-where.techidaily.com/can-you-rely-on-windows-defender-for-identity-theft-prevention-insights-from-yl-computings-expertise/"><u>Can You Rely on Windows Defender for Identity Theft Prevention? Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://fox-where.techidaily.com/decoding-the-link-between-blockchain-technology-and-cryptocurrency-insights-from-yl-software-experts/"><u>Decoding the Link Between Blockchain Technology and Cryptocurrency - Insights From YL Software Experts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/identifying-why-your-pc-stalls-at-startup-insight-from-yl-computing-and-software-solutions/"><u>Identifying Why Your PC Stalls at Startup: Insight From YL Computing and Software Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/improve-your-printer-output-with-troubleshooting-techniques-by-yl-software/"><u>Improve Your Printer Output with Troubleshooting Techniques by YL Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/key-techniques-for-smooth-screen-sharing-on-mobiledesktop/"><u>Key Techniques for Smooth Screen Sharing on Mobile/Desktop</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-landscape-of-firefox-picture-in-picture/"><u>Navigating the Landscape of Firefox Picture-in-Picture</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-marvel-disney-multiverse-how-your-role-shapes-the-story-zdnet-insights/"><u>Navigating the Marvel-Disney Multiverse: How Your Role Shapes the Story | ZDNet Insights</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-add-text-animation-to-a-video-online/"><u>New 2024 Approved Add Text Animation to A Video Online</u></a></li>
-<li><a href="https://fox-where.techidaily.com/resolving-audio-driver-issues-a-step-by-step-guide-yl-computing/"><u>Resolving Audio Driver Issues: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210083188-9781646631353-resonate/"><u>Resonate | Free Book</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-boot-issues-discover-why-your-pc-wont-start-with-yl-computing-solutions/"><u>Troubleshooting Boot Issues: Discover Why Your PC Won't Start with YL Computing Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-correct-steam-fatal-error-failed-to-load-steamuidll/"><u>Troubleshooting Steps to Correct 'Steam Fatal Error: Failed to Load steamui.dll'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007560545-half-life-alyx-pc-version-latency-and-stutter-no-more/"><u>'Half-Life: Alyx PC Version - Latency and Stutter No More</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-craft-compelling-snapchats-on-ios-and-android-top-6-apps/"><u>[New] In 2024, Craft Compelling Snapchats on iOS & Android - Top 6 Apps</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-enhance-video-popularity-with-strategic-timestamps/"><u>[Updated] Enhance Video Popularity with Strategic Timestamps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-recommendations-top-5-windows-screen-cutting-apps/"><u>[Updated] Expert Recommendations Top 5 Windows Screen Cutting Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-termination-immersive-reality/"><u>[Updated] Ideal Termination Immersive Reality</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-top-5-methods-for-transferring-your-iphones-entire-photo-collection-to-a-windows-or-mac-computer/"><u>1. Top 5 Methods for Transferring Your iPhone's Entire Photo Collection to a Windows or Mac Computer</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-regain-access-fixing-lockout-of-admin-on-windows-11-restoration-guide/"><u>How to Regain Access: Fixing Lockout of Admin on Windows 11 - Restoration Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-7-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 7 to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-leading-six-innovative-full-frame-cinematographers/"><u>In 2024, Leading Six Innovative Full Frame Cinematographers</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ntbackup-explicado-tecnicas-facil-de-aprender-para-implementarlo-en-windows-1087/"><u>NTBackup Explicado: Técnicas Fácil De Aprender Para Implementarlo en Windows 10/8/7</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728507286672-ntfs/"><u>NTFSハードディスクの無料コピー手順：日本語でご検討</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-moto-g84-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Moto G84 5G</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-performing-a-system-recovery-on-windows-11-via-the-command-prompt/"><u>Step-by-Step Guide: Performing a System Recovery on Windows 11 via the Command Prompt</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unraveling-the-mystery-behind-auto-deletion-of-files-upon-opening/"><u>Unraveling the Mystery Behind Auto-Deletion of Files upon Opening</u></a></li>
+<li><a href="https://fox-where.techidaily.com/wireless-methods-for-uploading-your-iphone-pictures-directly-to-pc-or-mac/"><u>Wireless Methods for Uploading Your iPhone Pictures Directly to PC or Mac</u></a></li>
 </ul></div>
 
